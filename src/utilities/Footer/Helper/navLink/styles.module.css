@@ -26,6 +26,9 @@
   .menuItem:not(:last-child) {
     margin-bottom: 5px;
   }
+  .menuItem:last-child{
+    margin-top: 20px;
+  }
   
   @media (min-width: 768px) {
     .nav {

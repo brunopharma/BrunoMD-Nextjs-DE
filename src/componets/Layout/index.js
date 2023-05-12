@@ -51,6 +51,18 @@ export default function Layout({ children }) {
                         { name: 'Termini e condizioni di vendita', url: '/termini-e-condizioni' },
                         { name: 'Termini e condizioni di privacy', url: '/politica-sullariservatezza' }
                     ]
+                },
+                {
+                    url: '', title: 'Contattaci', name: 'Company', navMenuLinks: [
+                        { name: 'Pharma Lab S.r.l.', url: '#' },
+                        { name: 'Via dell’Artianato, 83', url: '#' },
+                        { name: '30023', url: '#' },
+                        { name: 'Concordia', url: '#' },
+                        { name: 'Sagittaria', url: '#' },
+                        { name: 'VE', url: '#' },
+                        { name: '', url: '#' },
+                        { name: 'Codice Fiscale e P.Iva : 11462711000', url: '#' }
+                    ]
                 }
             ]
         },
