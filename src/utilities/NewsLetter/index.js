@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import styles from './styles.module.css'
-import Image from 'next/image';
 export const NewsLetter = ({ content }) => {
     useEffect(() => {
         if (content) {
@@ -28,7 +27,7 @@ export const NewsLetter = ({ content }) => {
     return (
         <section className={styles.newsletterSection} id="NewLetterFrom">
             <div className={styles.container}>
-                <Image className={styles.imgHolder} src="/utility/home-news-desk.png" alt="..." />
+                <img className={styles.imgHolder} src="/utility/home-news-desk.png" alt="..." />
 
                 <div className={styles.formContainer}>
                     <div className={styles.form}>

@@ -25,7 +25,7 @@ const MainNav = ({ navMenuLinks }) => {
       <div className={styles.logoWrapper}>
         {!isMobileNavOpen &&<Link href={'/'} className={styles.logo}><Image
           alt="Bruno logo"
-          src="/logo/Bruno-White.png"
+          src={"/logo/Bruno-White.png"}
           width={180}
           height={30}
         />

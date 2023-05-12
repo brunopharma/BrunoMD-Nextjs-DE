@@ -3,7 +3,6 @@ import styles from './styles.module.css'
 import Link from 'next/link'
 import { gsap } from 'gsap'
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
-import Image from 'next/image';
 
 export const CollectionList = ({ content }) => {
     gsap.registerPlugin(ScrollTrigger);
@@ -29,7 +28,7 @@ export const CollectionList = ({ content }) => {
                 <Link href={e.link+ e?.SLUG} key={i}>
                 <div className={styles.collectionCard}>
                     <div className={styles.imageWrapper}>
-                        <Image
+                        <img
                             src={e.logo.src}
                             alt={e.logo.alt}
                             className={styles.productImage}

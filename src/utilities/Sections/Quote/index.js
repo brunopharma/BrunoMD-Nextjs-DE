@@ -1,6 +1,5 @@
 import React from "react";
 import styles from '../styles.module.css'
-import Image from 'next/image';
 const Quote = ({ data }) => {
     console.log({data});
     return(
@@ -13,7 +12,7 @@ const Quote = ({ data }) => {
     </svg>
               <strong className={styles.strong}>&nbsp;&nbsp;{data.content}</strong>
             </p>
-            <p className={styles.quoted}>{data.author &&<Image width={50} src={data.author.img.src} alt={data.author.img.alt}/>}{' '}{data.author.name}</p>
+            <p className={styles.quoted}>{data.author &&<img width={50} src={data.author.img.src} alt={data.author.img.alt}/>}{' '}{data.author.name}</p>
           </div>
         </div>
       </section>

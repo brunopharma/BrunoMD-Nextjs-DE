@@ -1,5 +1,4 @@
 import React from 'react'
-import Image from 'next/image';
 import styles from './styles.module.css'
 
 const MarkqueCarousel = ({ image }) => {
@@ -15,7 +14,7 @@ const MarkqueCarousel = ({ image }) => {
           {
             Sliderimage.map((element4,i) => {
               return (
-                <Image src={element4.src} alt={element4.alt} width height key={i}/>
+                <img src={element4.src} alt={element4.alt} key={i}/>
               )
             })
           }

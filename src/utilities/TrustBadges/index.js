@@ -1,5 +1,4 @@
 import styles from './styles.module.css'
-import Image from 'next/image';
 const TrustBadge = ({ contents }) => {
     const {badges, title, theme} = contents
     if(!badges.length || !title) return null
@@ -11,7 +10,7 @@ const TrustBadge = ({ contents }) => {
         {badges && badges.map((e,i)=>{
           return(
             <>
-            {true ? <Image className={styles.p5} src={e.src} alt={e.alt} width height key={i}/> : <Image className={styles.p5} src={e.src} alt={e.alt} height={'125px'} key={i}/>}
+            {true ? <img className={styles.p5} src={e.src} alt={e.alt} key={i}/> : <img className={styles.p5} src={e.src} alt={e.alt} height={'125px'} key={i}/>}
             </>
           )
         })}

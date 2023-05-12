@@ -1,6 +1,5 @@
 import styles from './styles.module.css'
 import NavLink from './Helper/navLink'
-import Image from 'next/image';
 export default function Home({ data }) {
     console.log({ data });
     return (
@@ -8,7 +7,7 @@ export default function Home({ data }) {
             <div className={styles.container}>
                 <div className={styles.wrapper}>
                     <div>
-                        <Image className={styles.logo} src='/logo/Bruno-White.png' alt='...' />
+                        <img className={styles.logo}  src='/logo/Bruno-White.png' alt='...' />
                     </div>
                     <div className={styles.socialLinkHolder}>
                         <a href="https://www.instagram.com/brunomdofficial/?hl=en" target="_blank" rel="noreferrer" data-testid="external-link">
@@ -23,10 +22,10 @@ export default function Home({ data }) {
                     <div className={styles.legalCol}>
                         <div className={styles.dFlex}>
                             <div>
-                                <Image className={styles.m10px} src='https://f.shgcdn.com/b1fc70c1-7b3d-4c07-a4af-a334b92a74fd/' alt='...' />
+                                <img className={styles.m10px} src='https://f.shgcdn.com/b1fc70c1-7b3d-4c07-a4af-a334b92a74fd/' alt='...'/>
                             </div>
                             <div>
-                                <Image className={styles.m10px} src='https://f.shgcdn.com/dfb6c1f5-6fd2-4aff-9fc3-d75983476d5c/' alt='...' height={20} />
+                                <img className={styles.m10px} src='https://f.shgcdn.com/dfb6c1f5-6fd2-4aff-9fc3-d75983476d5c/' alt='...' height={20} />
                             </div>
                         </div>
                         <div className={styles.textContainer}>
