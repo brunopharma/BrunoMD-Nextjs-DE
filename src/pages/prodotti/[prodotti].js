@@ -33,7 +33,7 @@ const Product = () => {
     const productInfo ={images,declaimer,priceDescription:{EXTERNALID,STOREFRONTID,SLUG}}
     console.log({productInfo});
     return (
-        <section>
+        <section style={{margin:'2rem auto'}}>
             {productInfo &&<ProductCard data={productInfo}/>}
             {/* {benefits && <BenefitCards data={benefits}/>}
             <Tabs data={details} isTab={false} productColorTheme={'white'}/>
