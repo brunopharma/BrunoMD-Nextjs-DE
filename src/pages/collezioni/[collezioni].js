@@ -3,26 +3,17 @@ import collection from "../../../json/collection.json";
 import { CollectionList } from '@/utilities/CollectionCard'
 import MasterHeadImg from '@/utilities/MasterHeadImg';
 import { WistiaHero } from '@/utilities/WistiaHero';
+import { useRouter } from 'next/router'
 import styles from './styles.module.css'
-import Client from 'shopify-buy';
-
 const Collection = () => {
+    const router = useRouter()
+    // const { collezioni } = router.query
     const collezioni = null
     const [category, setCategory] = useState({
         name: undefined,
         DataisLoaded: false
     });
     useEffect(() => {
-        const client = Client.buildClient({
-            domain: 'bruno-md-europe.myshopify.com',
-            storefrontAccessToken: 'a51b71098dff9f7cfd68456c464991bb'
-          });
-    
-          client.collection.fetchAllWithProducts().then((collections) => {
-            // Do something with the collections
-            console.log({collections});
-            console.log(collections[0].products);
-          });
         if (!collezioni) {
             let url = window.location.href;
             let splitUrl = url.split('/collezioni/');
@@ -40,7 +31,7 @@ const Collection = () => {
                 DataisLoaded: true
             })
         }
-    }, [])
+    }, [category])
     const { DataisLoaded, name } = category;
     const { masterHead, item, title } = collection[name] || {}
     const { img, wistia } = masterHead || {};
