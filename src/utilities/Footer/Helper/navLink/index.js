@@ -18,7 +18,7 @@ const navLink = ({ menuGroup }) => {
                 </li>)
                 }else {
                return( <li className={styles.menuItem} key={`menu-item-${index}`}>
-                  <Link href={link?.url}>{link?.name}</Link>
+                  {link?.url != '#' ?<Link href={link?.url}>{link?.name}</Link>:<p>{link?.name}</p>}
                 </li>)}
               })}
             </ul>

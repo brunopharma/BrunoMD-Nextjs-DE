@@ -7,7 +7,7 @@ export default function Home({ data }) {
             <div className={styles.container}>
                 <div className={styles.wrapper}>
                     <div>
-                        <img className={styles.logo}  src='/logo/Bruno-White.png' alt='...' />
+                        <img className={styles.logo} src='/logo/Bruno-White.png' alt='...' />
                     </div>
                     <div className={styles.socialLinkHolder}>
                         <a href="https://www.instagram.com/brunomdofficial/?hl=en" target="_blank" rel="noreferrer" data-testid="external-link">
@@ -22,13 +22,13 @@ export default function Home({ data }) {
                     <div className={styles.legalCol}>
                         <div className={styles.dFlex}>
                             <div>
-                                <img className={styles.m10px} src='https://f.shgcdn.com/b1fc70c1-7b3d-4c07-a4af-a334b92a74fd/' alt='...'/>
+                                <img className={styles.m10px} src='https://f.shgcdn.com/b1fc70c1-7b3d-4c07-a4af-a334b92a74fd/' alt='...' />
                             </div>
                             <div>
                                 <img className={styles.m10px} src='https://f.shgcdn.com/dfb6c1f5-6fd2-4aff-9fc3-d75983476d5c/' alt='...' height={20} />
                             </div>
                         </div>
-                        <div className={styles.textContainer}>
+                        {/* <div className={styles.textContainer}>
                             <p>Esclusione di responsabilità.</p>
                             <p>                                Per quanto gli autori si sforzino di fornire informazioni corrette e attendibili, le stesse non hanno lo scopo di fornire consigli medici individuali e in nessun caso possono costituire la prescrizione di un trattamento, la visita specialistica o il rapporto diretto con il proprio medico curante.</p>
                             <p>                                Si invitano e consigliano gli utenti a chiedere il parere di un medico o di altro specialista prima di prendere qualsiasi iniziativa. Si invitano e consigliano gli utenti a chiedere il parere di un medico o di altro specialista prima di prendere qualsiasi iniziativa.</p>
@@ -41,7 +41,8 @@ export default function Home({ data }) {
                             <p>
 
                                 © 2022 brunomd.com. Diritti riservati</p>
-                        </div>
+                        </div> */}
+                        <div className={styles.textContainer}><p>Esclusione di responsabilità.</p><p>Per quanto gli autori si sforzino di fornire informazioni corrette e attendibili, le stesse non hanno lo scopo di fornire consigli medici individuali e in nessun caso possono costituire la prescrizione di un trattamento, la visita specialistica o il rapporto diretto con il proprio medico curante.</p><p>Si invitano e consigliano gli utenti a chiedere il parere di un medico o di altro specialista prima di prendere qualsiasi iniziativa. Si invitano e consigliano gli utenti a chiedere il parere di un medico o di altro specialista prima di prendere qualsiasi iniziativa. </p><p>Tutte le informazioni fornite: </p><ul><li>non devono essere interpretate come alternative alla consultazione, valutazione o trattamento di un medico ovvero di altro specialista.                                                         </li></ul><ul><li>non sono pensate per fornire specifica consulenza in materia di salute fisica, o qualsiasi altra sorta di consulenza. Pertanto tutto il materiale, le informazioni e i piani alimentari sono elaborati soltanto a scopo informativo.</li></ul><p>© 2023 brunomd.com. Diritti riservati</p></div>
                     </div>
                 </div>
             </div>
