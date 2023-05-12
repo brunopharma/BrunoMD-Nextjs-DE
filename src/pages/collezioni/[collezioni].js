@@ -19,10 +19,17 @@ const Collection = () => {
             let splitUrl = url.split('/collezioni/');
             if (splitUrl.length == 2) {
                 console.log({ url: splitUrl[1] });
-                setCategory({
-                    name: collection[splitUrl[1]]?.title ? splitUrl[1] : false,
-                    DataisLoaded: true
-                })
+                if(splitUrl[1] == 'salute-della-pelle'){
+                    setCategory({
+                        name: collection[splitUrl[1]]?.title ? splitUrl[1] : false,
+                        DataisLoaded: true
+                    })
+                }else{
+                    setCategory({
+                        name: false,
+                        DataisLoaded: true
+                    })
+                }
             } else {
             }
         } else {
