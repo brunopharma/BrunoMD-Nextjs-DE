@@ -124,7 +124,25 @@
         "btnText": "Shop",
         "logo": {
             "src": "https://f.shgcdn.com/ec616737-8a46-496b-b430-ecac1e4a4ddf/"
-        }
+        },
+        "declaimer":{
+            "title":"<h1>CRONOS</h1>",
+            "subTitle":"<strong>30 COMPRESSE DA 850MG</strong>",
+            "content":"<p>CRONOS è un integratore alimentare a base di Polidatina, Estrattidi Mirtillo e Vitamine.La Polidatina è una molecola naturale polifenolica con spiccate proprietà antiossidanti, attiva contro la formazione dei radicali liberi,che sono alla base dei processi di invecchiamento cellulare e di reverse-aging. La Polidatina, anche detta trans-resveratrolo, è il glucoside naturale nonché precursore,del resveratrolo e ne costituisce una forma più attiva e d' efficace. Pterostilbene è anch’esso un composto della famiglia del resveratrolo, ma con più alta biodisponibilità. Questa sostanza è biologicamente classificata nel gruppo delle fitoalessine,s ostanze che fanno parte del sistema difensivo delle piante. Le Antocianine e le Vitamine, contenute in CRONOS, aggiungono protezione antiossidante di membrana e contribuiscono al regolare funzionamento del Sistema nervosa.</p>"
+        },
+        "images":[
+            {
+                "src":"https://f.shgcdn.com/93d40e17-884f-4dd6-ad38-06b2b91f0cf1/",
+                "alt":""
+            },{
+                "src":"https://f.shgcdn.com/453c659d-7daa-4e3d-ab3a-bd11caa43a29/",
+                "alt":""
+            },
+            {
+                "src":"https://f.shgcdn.com/3cfe9ba0-48ca-43c8-995b-d890353e9da0/",
+                "alt":""
+            }
+        ]
     },
     "citrak-3g-30-bustine": {
         "EXTERNALID": "8097634582843",

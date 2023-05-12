@@ -34,12 +34,12 @@ const Product = () => {
     console.log({productInfo});
     return (
         <section>
-            {/* {productInfo &&<ProductCard data={productInfo}/>} */}
-            {/* {benefits && <BenefitCards data={benefits}/>} */}
-            {/* <Tabs data={details} isTab={false} productColorTheme={'white'}/> */}
-            {/* <TrustBadge contents={TrustBadgeData} /> */}
-            {/* <MarkqueCarousel image={PatnerData} /> */}
-            {/* <NewsLetter content={newsletter} /> */}
+            {productInfo &&<ProductCard data={productInfo}/>}
+            {/* {benefits && <BenefitCards data={benefits}/>}
+            <Tabs data={details} isTab={false} productColorTheme={'white'}/>
+            <TrustBadge contents={TrustBadgeData} />
+            <MarkqueCarousel image={PatnerData} />
+            <NewsLetter content={newsletter} /> */}
         </section>
     )
 }

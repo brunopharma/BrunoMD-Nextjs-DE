@@ -7,16 +7,16 @@ const ProductCard = ({data})=>{
     if(!data) return null;
     return(
         <div className={styles.productCard}>
-            <div><Slider items={images}/>5</div>
+            <div><Slider items={images}/></div>
             <div>
                 <div
-                dangerouslySetInnerHTML={{__html:declaimer.title}}
+                dangerouslySetInnerHTML={{__html:declaimer?.title}}
                 ></div>
                  <div
-                dangerouslySetInnerHTML={{__html:declaimer.subTitle}}
+                dangerouslySetInnerHTML={{__html:declaimer?.subTitle}}
                 ></div>
                  <div
-                dangerouslySetInnerHTML={{__html:declaimer.content}}
+                dangerouslySetInnerHTML={{__html:declaimer?.content}}
                 ></div>
             </div>
             <div>55</div>
