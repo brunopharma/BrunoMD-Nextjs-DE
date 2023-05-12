@@ -1,4 +1,4 @@
-:root {
+/* :root {
   --max-width: 1100px;
   --border-radius: 12px;
   --font-mono: ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono',
@@ -38,6 +38,61 @@
   --callout-border-rgb: 172, 175, 176;
   --card-rgb: 180, 185, 188;
   --card-border-rgb: 131, 134, 135;
+} */
+
+:root {
+  --foreground-rgb: 255, 255, 255;
+  --background-start-rgb: 0, 0, 0;
+  --background-end-rgb: 0, 0, 0;
+
+  --primary-glow: radial-gradient(rgba(1, 65, 255, 0.4), rgba(1, 65, 255, 0));
+  --secondary-glow: linear-gradient(to bottom right,
+      rgba(1, 65, 255, 0),
+      rgba(1, 65, 255, 0),
+      rgba(1, 65, 255, 0.3));
+
+  --tile-start-rgb: 2, 13, 46;
+  --tile-end-rgb: 2, 5, 19;
+  --tile-border: conic-gradient(#ffffff80,
+      #ffffff40,
+      #ffffff30,
+      #ffffff20,
+      #ffffff10,
+      #ffffff10,
+      #ffffff80);
+
+  --callout-rgb: 20, 20, 20;
+  --callout-border-rgb: 108, 108, 108;
+  --card-rgb: 100, 100, 100;
+  --card-border-rgb: 200, 200, 200;
+
+  --bmd-32px: 2rem;
+  --bmd-52px: 3.25rem;
+  --bmd-72px: 4.55rem;
+  --bmd-32px: 2rem;
+
+  --bmd-20px: 1.25rem;
+  --bmd-18px: 1.125rem;
+  --bmd-24px: 1.5rem;
+  --bmd-16px: 1rem;
+  --bmd-14px: 0.875rem;
+  --bmd-12px: 0.75rem;
+
+  --bmd-font-Primary: 'ivypresto-display', 'Times New Roman', Times, serif;
+  --bmd-font-Secondary: 'Gotham', 'Arial', serif;
+
+  --bmd-IvyPresto-regular: 400;
+  --bmd-Gotham-book: 400;
+  --bmd-Gotham-bold: 700;
+
+  --bmd-deep-purple: #37246b;
+  --bmd-royal-purple: #56008c;
+  --bmd-dark-gray: #8e8e8e;
+  --bmd-mid-gray: #d8d8d8;
+  --bmd-light-gray: #eeeeee;
+  --bmd-black: #000000;
+  --bmd-white: #ffffff;
+  --bmd-error: #b9554d;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -47,24 +102,20 @@
     --background-end-rgb: 0, 0, 0;
 
     --primary-glow: radial-gradient(rgba(1, 65, 255, 0.4), rgba(1, 65, 255, 0));
-    --secondary-glow: linear-gradient(
-      to bottom right,
-      rgba(1, 65, 255, 0),
-      rgba(1, 65, 255, 0),
-      rgba(1, 65, 255, 0.3)
-    );
+    --secondary-glow: linear-gradient(to bottom right,
+        rgba(1, 65, 255, 0),
+        rgba(1, 65, 255, 0),
+        rgba(1, 65, 255, 0.3));
 
     --tile-start-rgb: 2, 13, 46;
     --tile-end-rgb: 2, 5, 19;
-    --tile-border: conic-gradient(
-      #ffffff80,
-      #ffffff40,
-      #ffffff30,
-      #ffffff20,
-      #ffffff10,
-      #ffffff10,
-      #ffffff80
-    );
+    --tile-border: conic-gradient(#ffffff80,
+        #ffffff40,
+        #ffffff30,
+        #ffffff20,
+        #ffffff10,
+        #ffffff10,
+        #ffffff80);
 
     --callout-rgb: 20, 20, 20;
     --callout-border-rgb: 108, 108, 108;
@@ -121,12 +172,12 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb)); */
-    font-family: var(--bmd-font-Primary);
-    font-weight: 400;
-    font-size: 16px;
-    color: var(--bmd-black);
-    letter-spacing: 0;
-    line-height: 1.5;
+  font-family: var(--bmd-font-Primary);
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--bmd-black);
+  letter-spacing: 0;
+  line-height: 1.5;
 }
 
 a {
@@ -261,14 +312,17 @@ https://flickity.metafizzy.co
 .flickity-prev-next-button.previous {
   left: 10px;
 }
+
 .flickity-prev-next-button.next {
   right: 10px;
 }
+
 /* right to left */
 .flickity-rtl .flickity-prev-next-button.previous {
   left: auto;
   right: 10px;
 }
+
 .flickity-rtl .flickity-prev-next-button.next {
   right: auto;
   left: 10px;
@@ -314,20 +368,20 @@ https://flickity.metafizzy.co
   opacity: 1;
 }
 
-.swell-tab{
-  display:none!important;
+.swell-tab {
+  display: none !important;
 }
 
 
 /* mine */
 /* loader css belongs here */
 .center-body {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	width: 100%;
-	height: 100vh;
-	/****** center box
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  /****** center box
 	width: 300px;
 	height: 300px;
 	border: solid 1px #aaa;
@@ -335,66 +389,75 @@ https://flickity.metafizzy.co
 }
 
 .loader-circle-2 {
-	position: relative;
-	width: 70px;
-	height: 70px;
-	display: inline-block;
+  position: relative;
+  width: 70px;
+  height: 70px;
+  display: inline-block;
 }
+
 .loader-circle-2:before,
 .loader-circle-2:after {
-	content: "";
-	display: block;
-	position: absolute;
-	border-width: 5px;
-	border-style: solid;
-	border-radius: 50%;
+  content: "";
+  display: block;
+  position: absolute;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 50%;
 }
+
 .loader-circle-2:before {
-	width: 70px;
-	height: 70px;
-	border-bottom-color: #56008c;
-	border-right-color: #56008c;
-	border-top-color: transparent;
-	border-left-color: transparent;
-	animation: loader-circle-2-animation-2 1s linear infinite;
+  width: 70px;
+  height: 70px;
+  border-bottom-color: #56008c;
+  border-right-color: #56008c;
+  border-top-color: transparent;
+  border-left-color: transparent;
+  animation: loader-circle-2-animation-2 1s linear infinite;
 }
+
 .loader-circle-2:after {
-	width: 40px;
-	height: 40px;
-	border-bottom-color: #000;
-	border-right-color: #000;
-	border-top-color: transparent;
-	border-left-color: transparent;
-	top: 22%;
-	left: 22%;
-	animation: loader-circle-2-animation 0.85s linear  infinite;
+  width: 40px;
+  height: 40px;
+  border-bottom-color: #000;
+  border-right-color: #000;
+  border-top-color: transparent;
+  border-left-color: transparent;
+  top: 22%;
+  left: 22%;
+  animation: loader-circle-2-animation 0.85s linear infinite;
 }
+
 @keyframes loader-circle-2-animation {
-	0% {
-		transform: rotate(0deg);
-	}
-	100% {
-		transform: rotate(-360deg);
-	}
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(-360deg);
+  }
 }
+
 @keyframes loader-circle-2-animation-2 {
-	0% {
-		transform: rotate(0deg);
-	}
-	100% {
-		transform: rotate(360deg);
-	}
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
 }
-#hubspotForm img{
-  display: none!important;
+
+#hubspotForm img {
+  display: none !important;
 }
 
 /* NewLetterFrom */
 @media screen and (max-width: 800px) {
   #NewLetterFrom .field {
-    margin: 0!important;
+    margin: 0 !important;
   }
-  #NewLetterFrom .actions{
+
+  #NewLetterFrom .actions {
     margin-top: 10px;
     display: flex;
     justify-content: center;
