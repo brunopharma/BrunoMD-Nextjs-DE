@@ -1,0 +1,62 @@
+.newsletterSection {
+    width: 100%;
+}
+#hubspotForm label{
+    font-family: var(--bmd-font-Secondary)!important;
+    font-size: 13px!important;
+    font-weight: 600!important;
+    text-align: start!important;
+    color: #37246b;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1380px;
+    width: 100%;
+    position: relative;
+}
+.imgHolder{
+    width: 100%;
+    min-height: 325px;
+}
+.formContainer{
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: grid;
+    place-content: center;
+    height: 100%;
+}
+.form{
+    background-color: #ffffffa1;
+    padding: 2rem;
+}
+.headingContainer{
+    font-size: 50px;
+    line-height: 54px;
+    padding: 1rem 0;
+}
+
+@media screen and (max-width: 900px) {
+    .headingContainer {
+        font-size: 28px;
+        font-weight: 400;
+        line-height: 1.1;
+        padding-bottom: 1rem;
+    }
+    .form{
+        padding: 1rem 1.5rem;
+    }
+  }
+  @media screen and (max-width: 800px) {
+    .headingContainer {
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 0.2;
+        padding-bottom: 1rem;
+    }
+    .form{
+        padding: 0.5;
+    }
+  }

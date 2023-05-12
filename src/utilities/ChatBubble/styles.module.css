@@ -1,0 +1,8 @@
+.chatContainer {
+    display: none;
+  }
+  #hubspot-messages-iframe-container {
+    right: 0 !important;
+    left: 50% !important;
+  }
+  

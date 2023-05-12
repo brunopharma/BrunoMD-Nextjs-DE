@@ -1,0 +1,306 @@
+{
+    "tutti": {
+        "title": "tutti",
+        "item": [
+            {
+                "EXTERNALID": "8097694581051",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2OTQ1ODEwNTE=",
+                "SLUG": "cronos-30-compresse-da-850mg",
+                "link": "/prodotti/",
+                "title": "CRONOS",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/b8a1074b-3ec4-4bf5-bae3-b5e1fd6d9c32/"
+                }
+            },
+            {
+                "EXTERNALID": "8097707229499",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc3MDcyMjk0OTk=",
+                "SLUG": "citrak-forte-4g-con-edulcoranti-30-bustine",
+                "link": "/prodotti/",
+                "title": "CITRAK FORTE 4g.",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/853de85b-e2d1-4417-b850-f60587c1dc01/"
+                }
+            },
+            {
+                "EXTERNALID": "8098256224571",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTgyNTYyMjQ1NzE=",
+                "SLUG": "silverphage-crema-gel-50-ml",
+                "link": "/prodotti/",
+                "title": "SILVERPHAGE Crema",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/ec616737-8a46-496b-b430-ecac1e4a4ddf/"
+                }
+            },
+            {
+                "EXTERNALID": "8097634582843",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2MzQ1ODI4NDM=",
+                "SLUG": "citrak-3g-30-bustine",
+                "link": "/prodotti/",
+                "title": "CITRAK 3g.",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/d3b36d9f-1992-401a-a0f8-3ad7db87fdab/"
+                }
+            },
+            {
+                "EXTERNALID": "8097677934907",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2Nzc5MzQ5MDc=",
+                "SLUG": "drop-therapeutic-gocce-oculari-lubrificanti-10ml",
+                "link": "/prodotti/",
+                "title": "DROP THERAPEUTIC",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/6f3eb7b1-e334-4580-bf95-5a86d245e8be/"
+                }
+            },
+            {
+                "EXTERNALID": "8097664631099",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2NjQ2MzEwOTk=",
+                "SLUG": "citrak-mg-citrato-di-potassio-1-5g-citrato-di-magnesio-1-g-20-bustine",
+                "link": "/prodotti/",
+                "title": "CITRAK Mg.",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/79b6c726-99c8-4aea-9288-9eecc5ed09b9/"
+                }
+            },
+            {
+                "EXTERNALID": "8127313936699",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgxMjczMTM5MzY2OTk=",
+                "SLUG": "silverphage-14-individual-wipes",
+                "link": "/prodotti/",
+                "title": "SILVERPHAGE GARZE MONOUSO",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/2289226e-14ac-4a34-a768-41633b067fe5/"
+                }
+            },
+            {
+                "EXTERNALID": "8097688420667",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2ODg0MjA2Njc=",
+                "SLUG": "nubit-30-compresse-da-850mg",
+                "link": "/prodotti/",
+                "title": "NUBIT",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/75ccb267-62ad-4c16-a0db-1987c65ff749/"
+                }
+            },
+            {
+                "EXTERNALID": "8097683702075",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2ODM3MDIwNzU=",
+                "SLUG": "neulenic-600-confezione-da-15-compresse-rivestite-da-1-g-peso-netto-15-0-g",
+                "link": "/prodotti/",
+                "title": "NEULENIC",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/587468bb-8134-4726-bb5e-72b9fc77e96f/"
+                }
+            }
+        ]
+    },
+    "salute-della-pelle": {
+        "title": "Pelle",
+        "masterHead":{
+            "img":{
+                "src":"https://f.shgcdn.com/a4b4a0c1-2f76-47c8-9286-ac4505e9f2f9/",
+                "alt":"",
+                "title": "Pelle"
+            },
+            "wistia":{
+                "id":null
+            }
+        },
+        "item": [
+            {
+                "EXTERNALID": "8098256224571",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTgyNTYyMjQ1NzE=",
+                "SLUG": "silverphage-crema-gel-50-ml",
+                "link": "/prodotti/",
+                "title": "SILVERPHAGE Crema",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/ec616737-8a46-496b-b430-ecac1e4a4ddf/"
+                }
+            }
+        ]
+    },
+    "occhi": {
+        "title": "OCCHI",
+        "masterHead":{
+            "img":{
+                "src":"https://f.shgcdn.com/68945933-052b-4f18-898e-06a5ee1cd20b/",
+                "alt":"",
+                "title": "OCCHI"
+            },
+            "wistia":{
+                "id":null
+            }
+        },
+        "item": [
+            {
+                "EXTERNALID": "8127313936699",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgxMjczMTM5MzY2OTk=",
+                "SLUG": "csilverphage-14-individual-wipes",
+                "link": "/prodotti/",
+                "title": "SILVERPHAGE GARZE MONOUSO",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/2289226e-14ac-4a34-a768-41633b067fe5/"
+                }
+            },
+            {
+                "EXTERNALID": "8097677934907",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2Nzc5MzQ5MDc=",
+                "SLUG": "drop-therapeutic-gocce-oculari-lubrificanti-10ml",
+                "link": "/prodotti/",
+                "title": "DROP THERAPEUTIC",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/6f3eb7b1-e334-4580-bf95-5a86d245e8be/"
+                }
+            }
+        ]
+    },
+    "reverse-aging": {
+        "title": "Reverse-aging",
+        "masterHead":{
+            "img":{
+                "src":"https://f.shgcdn.com/34a143fb-507e-499a-964d-4e56fe389ff9/",
+                "alt":"",
+                "title": "Reverse-aging"
+            },
+            "wistia":{
+                "id":null
+            }
+        },
+        "item": [
+            {
+                "EXTERNALID": "8097694581051",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2OTQ1ODEwNTE=",
+                "SLUG": "cronos-30-compresse-da-850mg",
+                "link": "/prodotti/",
+                "title": "CRONOS",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/b8a1074b-3ec4-4bf5-bae3-b5e1fd6d9c32/"
+                }
+            }
+        ]
+    },
+    "dolore": {
+        "title": "Dolore",
+        "masterHead":{
+            "img":{
+                "src":"https://f.shgcdn.com/f316a0c5-17f0-4110-bbf5-b8291d503438/",
+                "alt":"",
+                "title": "Dolore"
+            },
+            "wistia":{
+                "id":null
+            }
+        },
+        "item": [
+            {
+                "EXTERNALID": "8097688420667",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2ODg0MjA2Njc=",
+                "SLUG": "nubit-30-compresse-da-850mg",
+                "link": "/prodotti/",
+                "title": "NUBIT",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/75ccb267-62ad-4c16-a0db-1987c65ff749/"
+                }
+            },
+            {
+                "EXTERNALID": "8097683702075",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2ODM3MDIwNzU=",
+                "SLUG": "neulenic-600-confezione-da-15-compresse-rivestite-da-1-g-peso-netto-15-0-g",
+                "link": "/prodotti/",
+                "title": "NEULENIC",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/587468bb-8134-4726-bb5e-72b9fc77e96f/"
+                }
+            }
+        ]
+    },
+    "pre-diabete": {
+        "title": "Pre-diabete",
+        "masterHead":{
+            "img":{
+                "src":"https://f.shgcdn.com/ddfca662-154f-40f8-aa5a-2e5f9d555606/",
+                "alt":"",
+                "title": "Pre-diabete"
+            },
+            "wistia":{
+                "id":null
+            }
+        },
+        "item": [
+            {
+                "EXTERNALID": "8097694581051",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2OTQ1ODEwNTE=",
+                "SLUG": "cronos-30-compresse-da-850mg",
+                "link": "/prodotti/",
+                "title": "CRONOS",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/b8a1074b-3ec4-4bf5-bae3-b5e1fd6d9c32/"
+                }
+            }
+        ]
+    },
+    "sali-minerali": {
+        "title": "Sali Minerali",
+        "masterHead":{
+            "img":{
+                "src":"https://f.shgcdn.com/20d43807-7f40-4873-8bd4-73c210e41f6f/",
+                "alt":"",
+                "title": "Sali Minerali"
+            },
+            "wistia":{
+                "id":null
+            }
+        },
+        "item": [
+            {
+                "EXTERNALID": "8097707229499",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc3MDcyMjk0OTk=",
+                "SLUG": "citrak-forte-4g-con-edulcoranti-30-bustine",
+                "link": "/prodotti/",
+                "title": "CITRAK FORTE 4g.",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/853de85b-e2d1-4417-b850-f60587c1dc01/"
+                }
+            },
+            {
+                "EXTERNALID": "8097664631099",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2NjQ2MzEwOTk=",
+                "SLUG": "citrak-mg-citrato-di-potassio-1-5g-citrato-di-magnesio-1-g-20-bustine",
+                "link": "/prodotti/",
+                "title": "CITRAK Mg.",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/79b6c726-99c8-4aea-9288-9eecc5ed09b9/"
+                }
+            },
+            {
+                "EXTERNALID": "8097634582843",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2MzQ1ODI4NDM=",
+                "SLUG": "citrak-3g-30-bustine",
+                "link": "/prodotti/",
+                "title": "CITRAK 3g.",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/d3b36d9f-1992-401a-a0f8-3ad7db87fdab/"
+                }
+            }
+        ]
+    }
+}

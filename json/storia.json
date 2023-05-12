@@ -1,0 +1,122 @@
+{
+    "masterHead": {
+        "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_1920/https://f.shgcdn.com/52c409e0-14d5-4ebc-944e-a0832e11a496/",
+        "alt": null,
+        "title": "La Nostra Storia"
+    },
+    "timeline": [
+        {
+            "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_2048/https://f.shgcdn.com/2263b3e1-4819-4b2a-93dc-5a199dc5927c/",
+            "alt": "",
+            "title": "1996",
+            "subTitle": "Gennaio 1996",
+            "Desc": "La Bruno Farmaceutici e' stata fondata dal Dottor Antonio Bruno, e dal figlio Vincenzo."
+        },
+        {
+            "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_2048/https://f.shgcdn.com/42ee3583-66c8-4a29-83e4-8c697cdfb04d/",
+            "alt": "",
+            "title": "1996",
+            "subTitle": "Luglio 1996",
+            "Desc": "La Bruno Farmaceutici ha acquisito un portafoglio di farmaci della Hoechst Marion Roussel (Germania) e comincia le sue operazioni commerciali in Italia."
+        },
+        {
+            "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_2048/https://f.shgcdn.com/189feda8-f146-4b54-9f5c-2d25aa5c6fd5/",
+            "alt": "",
+            "title": "1997",
+            "subTitle": "1997 - 2001",
+            "Desc": "La Bruno Farmaceutici allarga il suo portafoglio acquisendo piu' farmaci dalle multinazionali compagnie farmaceutiche."
+        },
+        {
+            "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_2048/https://f.shgcdn.com/2575e812-10e5-40ec-bf88-80514ae92ce0/",
+            "alt": "",
+            "title": "2001",
+            "Desc": "La figlia del Dottor Bruno Mariolina entra a far parte della societa'."
+        },
+        {
+            "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_2048/https://f.shgcdn.com/4805bf2f-156c-42c3-98cf-f28f452eb597/",
+            "alt": "",
+            "title": "2011",
+            "subTitle": "2001 - 2011",
+            "Desc": "La Bruno Farmaceutici si sviluppa in Italia come azienda specializzata in osteoporosi, gestione del dolore e cardiovascolare"
+        },
+        {
+            "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_2048/https://f.shgcdn.com/40a6e7d1-9a57-4c45-9997-d4910f1cc5fd/",
+            "alt": "",
+            "title": "2012",
+            "Desc": "La Bruno Farmaceutici acquista un portafoglio di prodotti antidiabetici dalla Merck."
+        },
+        {
+            "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_2048/https://f.shgcdn.com/62999fcb-d43f-4941-a2e1-f9bff5a19e01/",
+            "alt": "",
+            "title": "2012",
+            "Desc": "La Bruno Farmaceutici lancia in Italy la prima bevanda liquida Alendronate."
+        },
+        {
+            "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_2048/https://f.shgcdn.com/131258e5-1c76-4fdb-9847-2be6593c43d0/",
+            "alt": "",
+            "title": "2015",
+            "Desc": "La Bruno Farmaceutici lancia in Italia il primo Flecainide a rilascio controllato."
+        },
+        {
+            "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_2048/https://f.shgcdn.com/86aa13e5-50a8-48a5-8e3b-5ac2473a60cb/",
+            "alt": "",
+            "title": "2017",
+            "Desc": "La Bruno Farmaceutici inizia le sue operazioni commerciali negli Stati Uniti D'America, fondando Bruno MD"
+        },
+        {
+            "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_2048/https://f.shgcdn.com/8e733c6f-f694-4d3b-8a56-e90b90d4dc9c/",
+            "alt": "",
+            "title": "2019",
+            "Desc": "La Bruno Farmaceutici sviluppa la prima capsula soft-gel contenente Calcidiolo (Vitamina D)"
+        },
+        {
+            "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_2048/https://f.shgcdn.com/c0937123-7055-4119-a491-e0ea7d530437/",
+            "alt": "",
+            "title": "2021",
+            "Desc": "La Bruno Farmaceutici raggiunge una presenza commerciale globale internazionale."
+        },
+        {
+            "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_2048/https://f.shgcdn.com/cdd40e77-3947-4f22-b2f1-463d54a11865/",
+            "alt": "",
+            "title": "2021",
+            "Desc": "La Bruno Farmaceutici celebra l'anniversario dei suoi 25 anni."
+        }
+    ],
+    "section": [
+        {
+            "title": "La nostra compagnia",
+            "sectionImg": {
+                "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_1920/https://f.shgcdn.com/65d4181f-8df4-4f52-b904-0d8ce99c952e/",
+                "alt": "",
+                "imgPostion": "left"
+            },
+            "sectionContent": [
+                "BRUNO MD nasce in Italia sotto la direzione di Bruno Farmaceutici S.p.A., una dinamica azienda farmaceutica la cui missione è il miglioramento della salute delle persone attraverso lo sviluppo, la produzione e la distribuzione di soluzioni sanitarie su prescrizione medica formulate con i più alti standard di qualità, sicurezza ed efficacia. Oggi seguiamo gli stessi standard per i nostri integratori, che sono allo stesso livello dei farmaci da prescrizione.",
+                " Siamo immensamente orgogliosi del nostro contributo alla salute umana e incarniamo i principi di duro lavoro e dedizione che ci si può aspettare da un'azienda di seconda generazione. Ma ci stringiamo attorno alla nostra famiglia professionale di scienziati, medici e ricercatori come se fosse la nostra, in quanto condividono la stessa passione per il miglioramento della salute umana.",
+                " Il dott. Antonio Bruno, fondatore della Bruno Farmaceutici, è cresciuto in una piccola città della provincia di Avellino, una regione agricola ricca di montagne, pianure ondulate e fiumi cristallini.",
+                " Dopo essersi laureato con lode in Chimica all'Università di Napoli, il dottor Bruno lavorò per molti anni presso l'azienda farmaceutica milanese Lepetit S.p.A., specializzata in corticosteroidi, fino all'acquisizione da parte di una multinazionale."
+            ]
+        },
+        {
+            "title": null,
+            "sectionImg": {
+                "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_1920/https://f.shgcdn.com/477bc940-0458-4862-8499-6ef2e0d1649c/",
+                "alt": "",
+                "imgPostion": "right"
+            },
+            "sectionContent": [
+                "Il dott. Bruno si rivolse quindi all'azienda e fece un'offerta per un ramo d'azienda che comprendeva dodici farmaci da prescrizione. L'azienda accettò la proposta e nel luglio 1996 nacque Bruno Farmaceutici.",
+                "Poco dopo entrarono in azienda anche il figlio Vincenzo e la figlia Mariolina.",
+                "Nel decennio successivo, il dott. Bruno concluse preziose acquisizioni che contribuirono ad alimentare la capacità di crescita dell'azienda.",
+                "Nel 2012 Bruno acquisì Safilens, un'azienda leader nel settore oftalmico con prodotti dal design rivoluzionario e un'elevata soddisfazione dei clienti, e ottenne una linea cardiometabolica da Merck per stabilire saldamente la sua leadership nel trattamento del diabete. Oggi, Bruno Farmaceutici è la terza azienda farmaceutica leader in Italia.",
+                "Bruno MD è più di un marchio di Bruno Farmaceutici S.p.A. È parte del nostro patrimonio familiare! I nostri ingredienti sono i migliori, sempre supportati da studi clinici e da informazioni affidabili e concrete.",
+                "La nostra missione è celebrare la vostra buona salute e la gioia di fornire ai clienti gli strumenti necessari per vivere una vita straordinariamente sana."
+            ]
+        }
+    ],
+    "newsletter": {
+        "title": "Iscriviti alla newsletter",
+        "portalId": "19647191",
+        "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2"
+    }
+} 

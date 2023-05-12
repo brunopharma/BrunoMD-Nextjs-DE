@@ -1,0 +1,9 @@
+.itemContainer{
+    border-bottom: 1px solid;
+}
+.accordion{
+    font-family: var(--bmd-font-Secondary);
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+}

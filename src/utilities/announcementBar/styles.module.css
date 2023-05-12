@@ -1,0 +1,11 @@
+.announcementBar {
+    background-color: #3a3a3a;
+    color: #FFFFFF;
+    font-family: var(--bmd-font-Secondary);
+    font-size: var(--bmd-14px);
+    margin: 0;
+    padding: 8px;
+    text-align: center;
+    font-weight: var(--bmd-Gotham-book);
+  }
+  

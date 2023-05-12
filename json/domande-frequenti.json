@@ -1,0 +1,26 @@
+{
+    "masterHead": {
+        "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_2048/https://f.shgcdn.com/5b67f2ab-e92f-4422-b4bd-2ae08c277248/",
+        "alt": null,
+        "title": "Frequently Asked Questions"
+    },
+    "section":[
+        {
+           "title": "Section 1",
+           "content": "This is the content of section 1"
+        },
+        {
+           "title": "Section 2",
+           "content": "This is the content of section 2"
+        },
+        {
+           "title": "Section 3",
+           "content": "This is the content of section 3"
+        }
+     ],
+    "newsletter": {
+        "title": "Iscriviti alla newsletter",
+        "portalId": "19647191",
+        "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2"
+    }
+}
