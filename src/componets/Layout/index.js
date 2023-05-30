@@ -31,12 +31,12 @@ export default function Layout({ children }) {
                 {
                     url: '/collections/all-products', title: 'Prodotti', name: 'Products', navMenuLinks: [
                         { name: 'Collezione Citrak', url: '/collezioni/sali-minerali' },
-                        { name: 'Neulenic', url: '/products/neulenic-600-confezione-da-15-compresse-rivestite-da-1-g-peso-netto-15-0-g' },
-                        { name: 'Nubit', url: '/products/nubit-30-compresse-da-850mg' },
-                        { name: 'Cronos', url: '/products/cronos-30-compresse-da-850mg' },
-                        { name: 'Drop Therapeutic', url: '/products/drop-therapeutic-gocce-oculari-lubrificanti-10ml' },
-                        { name: 'Silverphage Crema Gel', url: '/products/silverphage-crema-gel-50-ml' },
-                        { name: 'Silverphage Garze Monouso', url: '/products/silverphage-14-individual-wipes' }
+                        { name: 'Neulenic', url: '/prodotti/neulenic-600-confezione-da-15-compresse-rivestite-da-1-g-peso-netto-15-0-g' },
+                        { name: 'Nubit', url: '/prodotti/nubit-30-compresse-da-850mg' },
+                        { name: 'Cronos', url: '/prodotti/cronos-30-compresse-da-850mg' },
+                        { name: 'Drop Therapeutic', url: '/prodotti/drop-therapeutic-gocce-oculari-lubrificanti-10ml' },
+                        { name: 'Silverphage Crema Gel', url: '/prodotti/silverphage-crema-gel-50-ml' },
+                        { name: 'Silverphage Garze Monouso', url: '/prodotti/silverphage-14-individual-wipes' }
                     ]
                 },
                 {
@@ -73,7 +73,7 @@ export default function Layout({ children }) {
         ],
         bottomBar: {
             textColor: '#fff', backgroundColor: '#3a3a3a', content: [
-                'Politica Sulla Riservatezza', 'Cookie Policy', 'Dichiarazione dei Cookie', 'Disclaimer', 'Site Map'
+                '<a href="/politica-sullariservatezza">Politica Sulla Riservatezza</a>', '<a href="/gestione-dei-cookie">Dichiarazione dei Cookie</a>', '<a href="/disclaimer">Disclaimer</a>', '<a href="/site-map">Site Map</a>'
             ]
         }
     }

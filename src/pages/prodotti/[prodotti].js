@@ -18,6 +18,10 @@ const Product = () => {
     const [load, setLoad] = useState(true)
     const [product, setProduct] = useState();
     const [shopifyP, setSProduct] = useState();
+    const [current, setCurrent] = useState({
+        name: undefined,
+        DataisLoaded: false
+    });
     const client = Client.buildClient({
         domain: 'bruno-md-europe.myshopify.com',
         storefrontAccessToken: 'a51b71098dff9f7cfd68456c464991bb'
@@ -28,9 +32,12 @@ const Product = () => {
         let splitUrl = url.split('/prodotti/');
         if (splitUrl.length == 2) {
             let product = ProductsData[splitUrl[1]];
+            setCurrent({
+                name: product?.EXTERNALID,
+                DataisLoaded: true
+            })
             if (product?.EXTERNALID) {
                 const productId = `gid://shopify/Product/${product.EXTERNALID}`;
-
                 client.product.fetch(productId).then((product) => {
                     if (product) {
                         setSProduct(product)
@@ -47,6 +54,7 @@ const Product = () => {
     }, [])
     const {title, details, newsletter, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price,discount,qtyUnitMultiplierLabel } = product || {}
     const productInfo = { images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, product ,priceBox } }
+    const { DataisLoaded, name } = current;
     if(load) return( <Loader2 />)
     return (
         <section style={{ margin: '2rem auto' }}>

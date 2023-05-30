@@ -11,7 +11,7 @@ const BottomBar = ({contents}) => {
       return(
         <>
         <span  className={(index % 2 == 0 ? styles.borderRB : styles.borderB)}>
-        <p>{element}</p>
+        <div dangerouslySetInnerHTML={{ __html: element }}></div>
         </span>
         {(content.length-1) != index && <span className={styles.hyphen}>&nbsp; - &nbsp;</span>}
         </>

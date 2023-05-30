@@ -3,11 +3,8 @@ import collection from "../../../json/collection.json";
 import { CollectionList } from '@/utilities/CollectionCard'
 import MasterHeadImg from '@/utilities/MasterHeadImg';
 import { WistiaHero } from '@/utilities/WistiaHero';
-import { useRouter } from 'next/router'
 import styles from './styles.module.css'
 const Collection = () => {
-    const router = useRouter()
-    // const { collezioni } = router.query
     const collezioni = null
     const [category, setCategory] = useState({
         name: undefined,

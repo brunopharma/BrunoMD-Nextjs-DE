@@ -45,7 +45,7 @@ const Slider = ({ data }) => {
             data.map((e,i) => {
               return (
                 <div
-                  onMouseMove={(event) => handleMouseMove(e.src, event)}
+                  // onMouseMove={(event) => handleMouseMove(e.src, event)}
                   key={i}
                 >
                   <img src={e.src} />
