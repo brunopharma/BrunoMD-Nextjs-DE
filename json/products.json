@@ -278,85 +278,85 @@
             "mobileImage": "https://f.shgcdn.com/668c206c-2dcc-4ddb-bfbf-9b2a0f6f9041/"
         }
     },
-    "silverphage-crema-gel-50-ml": {
-        "EXTERNALID": "8098256224571",
-        "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTgyNTYyMjQ1NzE=",
-        "SLUG": "silverphage-crema-gel-50-ml",
+    "drop-therapeutic-gocce-oculari-lubrificanti-10ml": {
+        "EXTERNALID": "8097677934907",
+        "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2Nzc5MzQ5MDc=",
+        "SLUG": "drop-therapeutic-gocce-oculari-lubrificanti-10ml",
         "link": "/prodotti/",
-        "theme": "#0033A1",
-        "title": "SILVERPHAGE Crema",
+        "theme": "#00A7E1",
+        "title": "DROP THERAPEUTIC",
         "btnText": "Shop",
-        "price": 18.00,
+        "price":18.00,
         "logo": {
-            "src": "https://f.shgcdn.com/ec616737-8a46-496b-b430-ecac1e4a4ddf/"
-        },
-        "declaimer": {
-            "title": "<h1>SILVERPHAGE</h1>",
-            "subTitle": "<strong>SILVERPHAGE CREMA GEL 50 ML</strong>",
-            "content": "<p>Silverphage crema e' un dispositivo medico coadiuvante per la protezione di lesioni cutanee ed abrasioni.</p>"
+            "src": "https://f.shgcdn.com/6f3eb7b1-e334-4580-bf95-5a86d245e8be/"
         },
         "images": [
             {
-                "src": "https://f.shgcdn.com/85b5600e-f0b8-409c-a948-38a08f13c158/",
+                "src": "https://f.shgcdn.com/beffa520-31c4-4ba3-938b-ae31b80c5a4d/",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/b394eace-9754-4cbd-8545-67eb31fa86d1/",
+                "src": "https://f.shgcdn.com/1b795a38-74df-4680-973b-11a452b7bdf0/",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/b2834c95-39b6-4af9-9aaa-038f70806c86/",
+                "src": "https://f.shgcdn.com/0ae138b4-190e-4209-a182-ec4795a1f7a9/",
                 "alt": ""
             }
         ],
+        "declaimer": {
+            "title": "<h1>DROP THERAPEUTIC</h1>",
+            "subTitle": "<strong>GOCCE OCULARI LUBRIFICANTI 10ML</strong>",
+            "content": "<p>Ristabilisce l’attività metabolica oculare e il turnover del film lacrimale. Soluzione oftalmica lubrificante con formulazione brevettata a base di Vitamina B2, Vitamina E TPGS, sodio ialuronato ed amminoacidi. Contribuisce alla stabilità della superficie oculare, regolandone pH e osmolarità. Protegge gli epiteli sottoposti a stress di varia natura.</p>"
+        },
         "priceBox": {
             "qtyUnitMultiplierLabel": "Unita'",
             "discount": 15,
             "maxQty": 10,
             "defaultQtyMultiplayer": 1,
-            "qtyMultiplierShowOnExtraDesc": true,
-            "qtyExtraDesc": "tubo crema gel 50 ml",
+            "qtyMultiplierShowOnExtraDesc": false,
+            "qtyExtraDesc": "Flacone 10ml",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
         },
         "benefits": {
             "title": "Scheda Prodotto",
-            "productColorTheme": "rgb(0, 51, 161)",
+            "productColorTheme": "rgb(0, 175, 240)",
             "items": [
                 {
-                    "title": "Barriera per lesioni cutanee",
+                    "title": "Idrata e rigenera",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/ac3ec240-2aec-4453-94ab-11ac5b51c589/",
+                        "src": "https://f.shgcdn.com/c87703c3-9203-4b08-9f2d-4846f40f7772/",
                         "alt": ""
                     },
-                    "description": "Costruisce una barriera non tradizionale (bende o cerotti) per le lesioni cutanee (trattamento delle ferite, del punto di inserzione del catetere venoso centrale o periferico, e arterioso, delle lesioni da decubito, delle irritazioni, e degli arrossamenti da pannoloni negli anziani etc,)"
+                    "description": "Migliora l'idratazione e la rigenerazione dei tessuti e il rispristino del naturale equilibrio del film lacrimale"
                 },
                 {
-                    "title": "Protezione",
+                    "title": "Stabilizza",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/5d4bf5e5-23a8-46be-9f06-c01699e88871/",
+                        "src": "https://f.shgcdn.com/d95534ba-4f58-460d-bd02-cc45bc445a41/",
                         "alt": ""
                     },
-                    "description": "Isola e protegge la cute da fattori irritanti esterni e favorire una normale guarigione"
+                    "description": "Contribuisce alla stabilita' della superficie oculare e regola il pH e l'osmolarità e protegge l'epitelio corneale"
                 },
                 {
-                    "title": "Effetto barriera",
+                    "title": "Protegge",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/2d8439ad-46d8-484d-ba21-a763f8fbea6b/",
+                        "src": "https://f.shgcdn.com/6debfc41-dc39-4569-b7d3-6ba5f90c4204/",
                         "alt": ""
                     },
-                    "description": "Conferisce significativo apporto all’azione filmogena del dispositivo svolgendo, a supporto, un effetto barriera."
+                    "description": "Migliora l'azione protettiva sull'epitelio corneale accellerando il naturale processo di riparazione nel Dry Eye."
                 },
                 {
-                    "title": "Duplice azione",
+                    "title": "Promuove",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/66150f58-02a4-4b22-8b56-e60c11094f89/",
+                        "src": "https://f.shgcdn.com/35789c4d-5548-4c9f-8019-a1fd417fc069/",
                         "alt": ""
                     },
-                    "description": "Agisce con una duplice azione: isola il punto di applicazione dalle aggressioni microbiche esterne; limita la colonizzazione microbica nel punto di applicazione creando le condizioni migliori condizioni per la rigenerazione del tessuto cutaneo."
+                    "description": "Promuove la bagnabilità della superficie oculare e fornisce nutrienti essenziali per il post-operatorio della superficie oculare"
                 }
             ]
         },
@@ -364,13 +364,13 @@
             {
                 "title": "Dettagli",
                 "details": [
-                    "<p> Il dispositivo medico “Silverphage”, della famiglia Bactercline, è costituito da una crema-gel il cui elemento principale è dato da un complesso a base di biossido di titanio funzionalizzato con argento monovalente covalentemente legato (TIAB), la cui azione fondamentale è quella di costituire una barriera non tradizionale (bende o cerotti) delle lesioni cutanee (trattamento delle ferite, del punto di inserzione del catetere venoso centrale o periferico, e arterioso, delle lesioni da decubito, delle irritazioni, e degli arrossamenti da pannoloni negli anziani etc,) allo scopo di isolare e proteggere la cute da fattori irritanti</p><p>esterni e favorire una normale guarigione.</p><p>La presenza del dimethicone come sostanza protettrice della pelle, comunemente riconosciuta come materiale in grado di creare bendaggi capaci di assistere le ferite durante la guarigione, conferisce significativo apporto all’azione filmogena del dispositivo svolgendo, a supporto, un effetto barriera.</p><p>Silverphage, agisce con una duplice azione:</p><ul style='list-style: inside disc;'><li>isola il punto di applicazione dalle aggressioni microbiche esterne;</li><li>limita la colonizzazione microbica nel punto di applicazione creando le condizioni migliori condizioni per la rigenerazione del tessuto cutaneo.</li></ul><p><strong>Modalita' d'uso</strong></p><ol style='list-style: inside decimal;'><li>prima dell’utilizzo pulire la cute con soluzione fisiologica ed asciugarla accuratamente</li><li>applicare un sottile strato di crema-gel nella zona interessata</li><li>non massaggiare</li><li>lasciare asciugare naturalmente dopo il trattamento</li><li>ripetere l’operazione due volte al giorno</li></ol><p><strong>Condroindicazioni</strong></p><p>Non sono noti fenomeni di sovradosaggio.</p><p>Ipersensibilità accertata verso i componenti.</p><p>Non sono note interazioni con farmaci e sostanze medicinali.</p><p><strong>Avvertenze  </strong>                                                                                                                                                                                                                                                                                                                                                      </p><ul style='list-style: inside disc;'><li>Non destinare il prodotto ad applicazioni differenti da quelle indicate nel foglietto illustrativo.</li><li>Prima di effettuare qualsiasi medicazione occorre lavarsi bene le mani</li><li>dopo l’applicazione non massaggiare la zona interessata e far asciugare naturalmente, la crema-gel deve formare uno strato filmogeno protettivo,</li><li>evitare il contatto con gli occhi. In caso di contatto lavare immediatamente e accuratamente con acqua,</li><li>non utilizzare il dispositivo dopo la data di scadenza riportata sulla confezione,</li><li>conservare a temperatura ambiente e lontano da fonti di calore,</li><li>non congelare,</li><li>tenere fuori dalla portata dei bambini,</li><li>uso esterno – non ingerire,</li><li>non utilizzare se la confezione risulta aperta o danneggiata,</li><li>non sterilizzare,</li><li>richiudere accuratamente il tubo dopo l’uso,</li><li>non utilizzare in caso di ipersensibilità nota verso i componenti,</li><li>sospendere il trattamento in presenza di anomale reazioni cutanee,</li><li>in caso di uso prolungato consultare il medico.                                          </li></ul><p><strong>Effetti indesiderati </strong></p><p>Nessuno noto</p><p><strong>Confezione e conservazione</strong></p><p>Conservare al riparo dall’umidità e da fonti di calore.</p><p>Il prodotto esposto ai raggi solari potrebbe assumere una leggera colorazione giallastra,</p><p>ciò non inficia sulle sue caratteristiche di funzionalità e durata.</p>"
+                    "<p>DROP therapeutic è una soluzione oftalmica a base di VIT B2, VIT E, sodio ialuronato ed amminoacidi. La VIT B2 e la VIT E TPGS contenute nella soluzione oftalmica interagiscono con lo strato lipidico esterno del film lacrimale e formano un film protettivo che ostacola la ipervaporazione della componente acquosa. Il sodio ialuronato interagisce meccanicamente con lo strato mucinico del film lacrimale trattenendo acqua e contribuendo a mantenere la superficie oculare stabile per un lungo periodo. L'azione sinergica degli amminoacidi ha una funzione nutritiva della superficie oculare, oltre che funzione di regolazione del ph e dell’osmolarità lacrimale e contribuisce al miglioramento della protezione degli epiteli sottoposti a stress di varia natura. La Vit E TPGS favorisce inoltre la bagnabilità della superfice oculare. La soluzione oftalmica apporta in maniera bilanciata tutti i vari nutrienti necessari a garantire la conservazione delle condizioni ottimali della superficie oculare dopo insulti di tipo chirurgico. Inoltre DROP therapeutic può essere utilizzato dopo l'irraggiamento con UV-A nel cross-linking corneale e durante l'esposizione al sole per mantenere la cornea idratata. Antiossidante naturale contro i danni da raggi UV e luce visibile ad alta energia (HEV light), promuove i naturali processi riparativi. É indicato per il Cheratocono e altre ectasie corneali, trattamenti di cross linking corneale ed i portatori di LAC. DROP therapeutic può essere utilizzato con lenti a contatto indossate. DROP therapeutic è indicato:</p><ul style='list-style: inside disc;'><li>nei pazienti sottoposti ad interventi di cross-linking cornealenei pazienti affetti da cheratocono</li><li>nella secchezza oculare</li><li>nell’alterazione della continuità della superficie oculare</li><li>nelle iperemie dopo chirurgia refrattiva</li><li>nei traumi da corpo estraneo</li><li>in seguito ad interventi chirurgici</li><li>nelle alterazioni della superficie oculare legate a patologie metaboliche</li><li>nello stress ambientale (smog, microclimi alterati, fumo, aria condizionata</li></ul><p>Modalita' d'uso</p><ol style='list-style: inside decimal;'><li>Aprire il flacone e rimuovere il tappo di protezione.</li><li>Premere delicatamente il flacone e instillare 1/2 gocce in ciascun occhio; ripetere l’operazione in base alle esigenze.</li></ol><p>Dopo l’uso chiudere il flacone: il contenuto rimasto può esser riutilizzato fino a 2 mesi dopo la prima</p><p>apertura.</p><p><strong>Condroindicazioni </strong></p><p>Nessuna nota</p><p><strong>Avvertenze</strong></p><p>il prodotto è solo per uso oftalmico esterno.</p><ul style='list-style: inside disc;'><li>conservare a temperatura non superiore a 25°C</li><li>non utilizzare nei casi di riconosciuta intolleranza o ipersensibilità ai suoi componenti.</li><li>non utilizzare il prodotto se il confezionamento risultasse, al momento della prima apertura,danneggiato o non perfettamente chiuso.</li><li>non usare il prodotto dopo la data di scadenza indicata sulla confezione.</li><li>la data di scadenza si riferisce al prodotto integro e correttamente conservato.</li><li>prima dell’uso leggere attentamente le istruzioni riportate nel foglio illustrativo.</li><li>tenere fuori dalla portata dei bambini.</li><li>non disperdere il contenitore nell’ambiente dopo l’uso   </li></ul><p></p><p><strong>Effetti indesiderati</strong></p><p>Nessuno noto</p><p><strong>Confezione e conservazione</strong></p><p>Chiudere il flacono dopo l'uso.</p><p>Il contenuto può essere</p><p>utilizzato fino a 2 mesi dopo</p><p>la prima apertura. Conservare a temperatura non superiore a 25°C. </p><p>A confezionamento integro non superare la data di scadenza indicata sull’astuccio e sul flacone.</p><p>Non separare il contenuto dalla confezione esterna e dal foglio illustrativo, allo scopo di avere tutte</p><p>le informazioni necessarie al corretto utilizzo del prodotto</p>"
                 ]
             },
             {
                 "title": "Informazioni Aggiuntive",
                 "details": [
-                    "<p>Senza Glutine, Senza Lattosio</p>"
+                    "<p>Dispenser multidose senza conservanti. Utilizzabile con lenti a contatto</p>"
                 ]
             },
             {
@@ -382,7 +382,7 @@
             {
                 "title": "Ingredienti",
                 "details": [
-                    "<p>Mineral oil, Propylene glycol, PEG-30, dipolyhydroxystearate, Isopropyl palmitate, PPG-15 Stearyl ether, Isononyl isononato,TIAB (cristalli di biossido di titanio con ioni argento monovalente covalentemente legati) , Benzalkonium chloride, Cera Alba, Tocopheryl acetate, Dimethicone, Magnesium sulphate, Acqua.</p>"
+                    "<p>Riboflavina, Vitamina E TPGS, Acido Ialuronico, Amminoacidi. Sodio fosfato, Sodio Cloruro, L-glicina, L-prolina, L-lisina, L-leucina, acqua depurata. Senza conservanti.</p>"
                 ]
             },
             {
@@ -393,14 +393,9 @@
                         "title": "INGREDIENTI E BENEFICI",
                         "blogs": [
                             {
-                                "thumb": "https://f.shgcdn.com/050d5f85-e4ac-42c7-823a-fde40a023497/",
-                                "title": "L’uso del dimeticone per proteggere la pelle",
-                                "link": "https://blog.brunomd.eu/luso-del-dimeticone-per-proteggere-la-pelle/"
-                            },
-                            {
-                                "thumb": "https://f.shgcdn.com/6b7dde29-7227-4d05-b225-b55584460f69/",
-                                "title": "Com’è fatta la nostra pelle: la struttura cutanea",
-                                "link": "https://blog.brunomd.eu/come-fatta-la-nostra-pelle-la-struttura-cutanea/"
+                                "thumb": "https://f.shgcdn.com/0fee628f-55e3-44b1-a6f9-d18ef8005f6b/",
+                                "title": "Vitamine: piccole quantità indispensabili per la vita!",
+                                "link": "https://blog.brunomd.eu/vitamine-piccole-quantita-indispensabili-per-la-vita/"
                             }
                         ]
                     },
@@ -408,9 +403,24 @@
                         "title": "PROBLEMI E SINTOMI",
                         "blogs": [
                             {
-                                "thumb": "https://f.shgcdn.com/ef0e0cd1-3266-4e7e-9d97-7c36b3eff5e7/",
-                                "title": "Le funzioni della nostra pelle",
-                                "link": "https://blog.brunomd.eu/le-funzioni-della-nostra-pelle/"
+                                "thumb": "https://f.shgcdn.com/f05372df-0d9b-4e41-af6a-6536482b8d15/",
+                                "title": "Cheratocono: cause e sintomi",
+                                "link": "https://blog.brunomd.eu/cheratocono-cause-e-sintomi/"
+                            },
+                            {
+                                "thumb": "https://f.shgcdn.com/a58ffd0c-0c92-4f83-b3bb-c90c5d43a696/",
+                                "title": "Le lacrime di cosa sono fatte e che funzione hanno?",
+                                "link": "https://blog.brunomd.eu/le-lacrime-di-cosa-sono-fatte-e-che-funzione-hanno/"
+                            },
+                            {
+                                "thumb": "https://f.shgcdn.com/460b154e-5e94-4359-b683-c498a663f3ce/",
+                                "title": "Occhio: com’è fatto, come funziona?",
+                                "link": "https://blog.brunomd.eu/occhio-come-fatto-come-funziona/"
+                            },
+                            {
+                                "thumb": "https://f.shgcdn.com/d0815a9a-8971-4b98-908f-84e3fa73c900/",
+                                "title": "Occhio secco: le principali cause della disidratazione",
+                                "link": "https://blog.brunomd.eu/occhio-secco-le-principali-cause-della-disidratazione/"
                             }
                         ]
                     },
@@ -418,9 +428,14 @@
                         "title": "Stile di Vita",
                         "blogs": [
                             {
-                                "thumb": "https://f.shgcdn.com/fac06554-fc2d-42fb-aaa4-95cadcf75427/",
-                                "title": "Piedi e diabete: consigli per l’igiene quotidiana",
-                                "link": "https://blog.brunomd.eu/piedi-e-diabete-consigli-per-ligiene-quotidiana/"
+                                "thumb": "https://f.shgcdn.com/f662b46e-3f0d-4dcf-987b-3ea3fd5ed1cd/",
+                                "title": "Occhio secco: 10 consigli per chi utilizza spesso computer, tablet e cellulari",
+                                "link": "https://blog.brunomd.eu/occhio-secco-10-consigli-per-chi-utilizza-spesso-computer-tablet-e-cellulari/"
+                            },
+                            {
+                                "thumb": "https://f.shgcdn.com/35b638ad-30cc-4a63-b3e7-151b9661a27d/",
+                                "title": "Occhio secco: benessere a sapersi",
+                                "link": "https://blog.brunomd.eu/occhio-secco-benessere-a-sapersi/"
                             }
                         ]
                     }
@@ -430,9 +445,9 @@
         "newsletter": {
             "title": "Iscriviti alla newsletter",
             "portalId": "19647191",
-            "formId": "c775500b-31a6-49af-9eed-7bc4c60b5395",
-            "desktopImage": "https://f.shgcdn.com/1f24ce69-725d-4db5-8b6a-c4f7ccf3d88b/",
-            "mobileImage": "https://f.shgcdn.com/9e9c86cb-4911-4138-9602-d4e4c0cd4dae/"
+            "formId": "4b865a98-e0fc-432c-8a5a-d8a3ddad8989",
+            "desktopImage": "https://f.shgcdn.com/bdd20bbd-7824-499b-b691-a1681a5b16cf/",
+            "mobileImage": "https://f.shgcdn.com/10d806fb-fd51-4711-ab59-407971078e3e/"
         }
     },
     "citrak-3g-30-bustine": {
@@ -749,310 +764,6 @@
             "mobileImage": "https://f.shgcdn.com/668c206c-2dcc-4ddb-bfbf-9b2a0f6f9041/"
         }
     },
-    "drop-therapeutic-gocce-oculari-lubrificanti-10ml": {
-        "EXTERNALID": "8097677934907",
-        "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2Nzc5MzQ5MDc=",
-        "SLUG": "drop-therapeutic-gocce-oculari-lubrificanti-10ml",
-        "link": "/prodotti/",
-        "theme": "#00A7E1",
-        "title": "DROP THERAPEUTIC",
-        "btnText": "Shop",
-        "price":18.00,
-        "logo": {
-            "src": "https://f.shgcdn.com/6f3eb7b1-e334-4580-bf95-5a86d245e8be/"
-        },
-        "images": [
-            {
-                "src": "https://f.shgcdn.com/beffa520-31c4-4ba3-938b-ae31b80c5a4d/",
-                "alt": ""
-            },
-            {
-                "src": "https://f.shgcdn.com/1b795a38-74df-4680-973b-11a452b7bdf0/",
-                "alt": ""
-            },
-            {
-                "src": "https://f.shgcdn.com/0ae138b4-190e-4209-a182-ec4795a1f7a9/",
-                "alt": ""
-            }
-        ],
-        "declaimer": {
-            "title": "<h1>DROP THERAPEUTIC</h1>",
-            "subTitle": "<strong>GOCCE OCULARI LUBRIFICANTI 10ML</strong>",
-            "content": "<p>Ristabilisce l’attività metabolica oculare e il turnover del film lacrimale. Soluzione oftalmica lubrificante con formulazione brevettata a base di Vitamina B2, Vitamina E TPGS, sodio ialuronato ed amminoacidi. Contribuisce alla stabilità della superficie oculare, regolandone pH e osmolarità. Protegge gli epiteli sottoposti a stress di varia natura.</p>"
-        },
-        "priceBox": {
-            "qtyUnitMultiplierLabel": "Unita'",
-            "discount": 15,
-            "maxQty": 10,
-            "defaultQtyMultiplayer": 1,
-            "qtyMultiplierShowOnExtraDesc": false,
-            "qtyExtraDesc": "Flacone 10ml",
-            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
-        },
-        "benefits": {
-            "title": "Scheda Prodotto",
-            "productColorTheme": "rgb(0, 175, 240)",
-            "items": [
-                {
-                    "title": "Idrata e rigenera",
-                    "icon": "",
-                    "img": {
-                        "src": "https://f.shgcdn.com/c87703c3-9203-4b08-9f2d-4846f40f7772/",
-                        "alt": ""
-                    },
-                    "description": "Migliora l'idratazione e la rigenerazione dei tessuti e il rispristino del naturale equilibrio del film lacrimale"
-                },
-                {
-                    "title": "Stabilizza",
-                    "icon": "",
-                    "img": {
-                        "src": "https://f.shgcdn.com/d95534ba-4f58-460d-bd02-cc45bc445a41/",
-                        "alt": ""
-                    },
-                    "description": "Contribuisce alla stabilita' della superficie oculare e regola il pH e l'osmolarità e protegge l'epitelio corneale"
-                },
-                {
-                    "title": "Protegge",
-                    "icon": "",
-                    "img": {
-                        "src": "https://f.shgcdn.com/6debfc41-dc39-4569-b7d3-6ba5f90c4204/",
-                        "alt": ""
-                    },
-                    "description": "Migliora l'azione protettiva sull'epitelio corneale accellerando il naturale processo di riparazione nel Dry Eye."
-                },
-                {
-                    "title": "Promuove",
-                    "icon": "",
-                    "img": {
-                        "src": "https://f.shgcdn.com/35789c4d-5548-4c9f-8019-a1fd417fc069/",
-                        "alt": ""
-                    },
-                    "description": "Promuove la bagnabilità della superficie oculare e fornisce nutrienti essenziali per il post-operatorio della superficie oculare"
-                }
-            ]
-        },
-        "details": [
-            {
-                "title": "Dettagli",
-                "details": [
-                    "<p>DROP therapeutic è una soluzione oftalmica a base di VIT B2, VIT E, sodio ialuronato ed amminoacidi. La VIT B2 e la VIT E TPGS contenute nella soluzione oftalmica interagiscono con lo strato lipidico esterno del film lacrimale e formano un film protettivo che ostacola la ipervaporazione della componente acquosa. Il sodio ialuronato interagisce meccanicamente con lo strato mucinico del film lacrimale trattenendo acqua e contribuendo a mantenere la superficie oculare stabile per un lungo periodo. L'azione sinergica degli amminoacidi ha una funzione nutritiva della superficie oculare, oltre che funzione di regolazione del ph e dell’osmolarità lacrimale e contribuisce al miglioramento della protezione degli epiteli sottoposti a stress di varia natura. La Vit E TPGS favorisce inoltre la bagnabilità della superfice oculare. La soluzione oftalmica apporta in maniera bilanciata tutti i vari nutrienti necessari a garantire la conservazione delle condizioni ottimali della superficie oculare dopo insulti di tipo chirurgico. Inoltre DROP therapeutic può essere utilizzato dopo l'irraggiamento con UV-A nel cross-linking corneale e durante l'esposizione al sole per mantenere la cornea idratata. Antiossidante naturale contro i danni da raggi UV e luce visibile ad alta energia (HEV light), promuove i naturali processi riparativi. É indicato per il Cheratocono e altre ectasie corneali, trattamenti di cross linking corneale ed i portatori di LAC. DROP therapeutic può essere utilizzato con lenti a contatto indossate. DROP therapeutic è indicato:</p><ul style='list-style: inside disc;'><li>nei pazienti sottoposti ad interventi di cross-linking cornealenei pazienti affetti da cheratocono</li><li>nella secchezza oculare</li><li>nell’alterazione della continuità della superficie oculare</li><li>nelle iperemie dopo chirurgia refrattiva</li><li>nei traumi da corpo estraneo</li><li>in seguito ad interventi chirurgici</li><li>nelle alterazioni della superficie oculare legate a patologie metaboliche</li><li>nello stress ambientale (smog, microclimi alterati, fumo, aria condizionata</li></ul><p>Modalita' d'uso</p><ol style='list-style: inside decimal;'><li>Aprire il flacone e rimuovere il tappo di protezione.</li><li>Premere delicatamente il flacone e instillare 1/2 gocce in ciascun occhio; ripetere l’operazione in base alle esigenze.</li></ol><p>Dopo l’uso chiudere il flacone: il contenuto rimasto può esser riutilizzato fino a 2 mesi dopo la prima</p><p>apertura.</p><p><strong>Condroindicazioni </strong></p><p>Nessuna nota</p><p><strong>Avvertenze</strong></p><p>il prodotto è solo per uso oftalmico esterno.</p><ul style='list-style: inside disc;'><li>conservare a temperatura non superiore a 25°C</li><li>non utilizzare nei casi di riconosciuta intolleranza o ipersensibilità ai suoi componenti.</li><li>non utilizzare il prodotto se il confezionamento risultasse, al momento della prima apertura,danneggiato o non perfettamente chiuso.</li><li>non usare il prodotto dopo la data di scadenza indicata sulla confezione.</li><li>la data di scadenza si riferisce al prodotto integro e correttamente conservato.</li><li>prima dell’uso leggere attentamente le istruzioni riportate nel foglio illustrativo.</li><li>tenere fuori dalla portata dei bambini.</li><li>non disperdere il contenitore nell’ambiente dopo l’uso   </li></ul><p></p><p><strong>Effetti indesiderati</strong></p><p>Nessuno noto</p><p><strong>Confezione e conservazione</strong></p><p>Chiudere il flacono dopo l'uso.</p><p>Il contenuto può essere</p><p>utilizzato fino a 2 mesi dopo</p><p>la prima apertura. Conservare a temperatura non superiore a 25°C. </p><p>A confezionamento integro non superare la data di scadenza indicata sull’astuccio e sul flacone.</p><p>Non separare il contenuto dalla confezione esterna e dal foglio illustrativo, allo scopo di avere tutte</p><p>le informazioni necessarie al corretto utilizzo del prodotto</p>"
-                ]
-            },
-            {
-                "title": "Informazioni Aggiuntive",
-                "details": [
-                    "<p>Dispenser multidose senza conservanti. Utilizzabile con lenti a contatto</p>"
-                ]
-            },
-            {
-                "title": "Garanzia Di Qualita'",
-                "details": [
-                    "<p>L’attenzione e il monitoraggio costanti su tutto il ciclo di produzione hanno permesso l’ottenimento della certificazione ISO9001 (certificazione che attesta la qualità di un sistema aziendale).</p>"
-                ]
-            },
-            {
-                "title": "Ingredienti",
-                "details": [
-                    "<p>Riboflavina, Vitamina E TPGS, Acido Ialuronico, Amminoacidi. Sodio fosfato, Sodio Cloruro, L-glicina, L-prolina, L-lisina, L-leucina, acqua depurata. Senza conservanti.</p>"
-                ]
-            },
-            {
-                "title": "Blog",
-                "blog": true,
-                "details": [
-                    {
-                        "title": "INGREDIENTI E BENEFICI",
-                        "blogs": [
-                            {
-                                "thumb": "https://f.shgcdn.com/0fee628f-55e3-44b1-a6f9-d18ef8005f6b/",
-                                "title": "Vitamine: piccole quantità indispensabili per la vita!",
-                                "link": "https://blog.brunomd.eu/vitamine-piccole-quantita-indispensabili-per-la-vita/"
-                            }
-                        ]
-                    },
-                    {
-                        "title": "PROBLEMI E SINTOMI",
-                        "blogs": [
-                            {
-                                "thumb": "https://f.shgcdn.com/f05372df-0d9b-4e41-af6a-6536482b8d15/",
-                                "title": "Cheratocono: cause e sintomi",
-                                "link": "https://blog.brunomd.eu/cheratocono-cause-e-sintomi/"
-                            },
-                            {
-                                "thumb": "https://f.shgcdn.com/a58ffd0c-0c92-4f83-b3bb-c90c5d43a696/",
-                                "title": "Le lacrime di cosa sono fatte e che funzione hanno?",
-                                "link": "https://blog.brunomd.eu/le-lacrime-di-cosa-sono-fatte-e-che-funzione-hanno/"
-                            },
-                            {
-                                "thumb": "https://f.shgcdn.com/460b154e-5e94-4359-b683-c498a663f3ce/",
-                                "title": "Occhio: com’è fatto, come funziona?",
-                                "link": "https://blog.brunomd.eu/occhio-come-fatto-come-funziona/"
-                            },
-                            {
-                                "thumb": "https://f.shgcdn.com/d0815a9a-8971-4b98-908f-84e3fa73c900/",
-                                "title": "Occhio secco: le principali cause della disidratazione",
-                                "link": "https://blog.brunomd.eu/occhio-secco-le-principali-cause-della-disidratazione/"
-                            }
-                        ]
-                    },
-                    {
-                        "title": "Stile di Vita",
-                        "blogs": [
-                            {
-                                "thumb": "https://f.shgcdn.com/f662b46e-3f0d-4dcf-987b-3ea3fd5ed1cd/",
-                                "title": "Occhio secco: 10 consigli per chi utilizza spesso computer, tablet e cellulari",
-                                "link": "https://blog.brunomd.eu/occhio-secco-10-consigli-per-chi-utilizza-spesso-computer-tablet-e-cellulari/"
-                            },
-                            {
-                                "thumb": "https://f.shgcdn.com/35b638ad-30cc-4a63-b3e7-151b9661a27d/",
-                                "title": "Occhio secco: benessere a sapersi",
-                                "link": "https://blog.brunomd.eu/occhio-secco-benessere-a-sapersi/"
-                            }
-                        ]
-                    }
-                ]
-            }
-        ],
-        "newsletter": {
-            "title": "Iscriviti alla newsletter",
-            "portalId": "19647191",
-            "formId": "4b865a98-e0fc-432c-8a5a-d8a3ddad8989",
-            "desktopImage": "https://f.shgcdn.com/bdd20bbd-7824-499b-b691-a1681a5b16cf/",
-            "mobileImage": "https://f.shgcdn.com/10d806fb-fd51-4711-ab59-407971078e3e/"
-        }
-    },
-    "silverphage-14-individual-wipes": {
-        "EXTERNALID": "8127313936699",
-        "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgxMjczMTM5MzY2OTk=",
-        "SLUG": "silverphage-14-individual-wipes",
-        "link": "/prodotti/",
-        "theme": "#0033A1",
-        "title": "SILVERPHAGE GARZE MONOUSO",
-        "btnText": "Shop",
-        "price":19.00,
-        "logo": {
-            "src": "https://f.shgcdn.com/2289226e-14ac-4a34-a768-41633b067fe5/"
-        },
-        "images": [
-            {
-                "src": "https://f.shgcdn.com/4b19f1d3-e978-46f1-a4a8-632348e56f0a/",
-                "alt": ""
-            },
-            {
-                "src": "https://f.shgcdn.com/32e5bf25-63c6-4522-ba78-cae993e62bc3/",
-                "alt": ""
-            },
-            {
-                "src": "https://f.shgcdn.com/2c6153cd-408f-4f1b-b5f9-9313da648845/",
-                "alt": ""
-            }
-        ],
-        "declaimer": {
-            "title": "<h1>SILVERPHAGE GARZE MONOUSO</h1>",
-            "subTitle": "<strong>SILVERPHAGE 14 GARZE MONOUSO</strong>",
-            "content": "<p>SILVERPHAGE e’ un dispositivo medico per la detersione dell'area perioc</p>"
-        },
-        "priceBox": {
-            "qtyUnitMultiplierLabel": "Unita'",
-            "discount": 15,
-            "maxQty": 10,
-            "defaultQtyMultiplayer": 14,
-            "qtyMultiplierShowOnExtraDesc": true,
-            "qtyExtraDesc": "Garze Monouso",
-            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
-        },
-        "benefits": {
-            "title": "Scheda Prodotto",
-            "productColorTheme": "rgb(0, 51, 161)",
-            "items": [
-                {
-                    "title": "Umettante",
-                    "icon": "",
-                    "img": {
-                        "src": "https://f.shgcdn.com/c87703c3-9203-4b08-9f2d-4846f40f7772/",
-                        "alt": ""
-                    },
-                    "description": "Svolge un'attivita detergente"
-                },
-                {
-                    "title": "Coadiuvante",
-                    "icon": "",
-                    "img": {
-                        "src": "https://f.shgcdn.com/d95534ba-4f58-460d-bd02-cc45bc445a41/",
-                        "alt": ""
-                    },
-                    "description": "Indicato come coadiuvante in caso di infiammazioni, infezioni, allergie anche in presenza di secrezioni oculari. Coadiuvante nel trattamento di congiuntiviti di varia natura, anche in presenza disecrezioni oculare"
-                },
-                {
-                    "title": "Proteggente",
-                    "icon": "",
-                    "img": {
-                        "src": "https://f.shgcdn.com/6debfc41-dc39-4569-b7d3-6ba5f90c4204/",
-                        "alt": ""
-                    },
-                    "description": "Crea un a barriera umida che protegge l’area perioculare e aiuta a prevenire le infezioni batteriche e virali."
-                },
-                {
-                    "title": "Rigenerante",
-                    "icon": "",
-                    "img": {
-                        "src": "https://f.shgcdn.com/35789c4d-5548-4c9f-8019-a1fd417fc069/",
-                        "alt": ""
-                    },
-                    "description": "Favorisce il mantenimento delle condizioni fisiologiche della zona perioculare"
-                }
-            ]
-        },
-        "details": [
-            {
-                "title": "Dettagli",
-                "details": [
-                    "<p>SILVERPHAGE e’una Garza monouso di cotone imbevuta di una sospensione con caratteristiche umettanti in grado di svolgere un'attivita detergente. SILVERPHAGE e’ un dispositivo medico per adulti e bambini indicato come coadiuvante in caso di infiammazioni, infezioni, allergie anche in presenza di secrezioni oculari</p><p>SILVERPHAGE e’ indicate per l'igiene quotidiana di palpebre e ciglia sia nell'adulto che nel bambino e puo’ essere utilizzata durante le terapie prescritte dal medico oculista. E particolarment e’ indicate come coadiuvante nel trattamento di congiuntiviti di varia natura, anche in presenza disecrezioni oculari. Silverphage crea un a barriera uminda che protegge l’area perioculare e aiuta a prevenire le infezioni batteriche e virali. Grazie a questa caratteristica, puo’ essere utilizzata prima e dopo a interventi di chirurgia oftalmica, perche’ favorisce il mantenimento delle condizioni fisiologiche della zona perioculare. La composizione di SILVERPHAGE e’ stata studiata per avere un comfort ottimale e compatibile con le caratteristiche chimico-fisiche dell'area perioculare senza alterarne il pH</p><p><strong>Modalita' d'uso</strong></p><p>Come usare SILVERPHAGE?</p><ul style='list-style: inside disc;'><li>Lavarsi e asciugarsi accuratamente le mani prima di utilizzare il prodotto.</li><li>Aprire la bustina strappandola in prossimita’ dell'apposita tacca di apertura ed estrarre la Garza</li><li>Dispiegare completamente la Garza e passarla delicatamente sulla palpebra e sulle ciglia partendo dall'angolo interno dell'occhio e procedendo verso l'angolo esterno</li><li>Non risciacquare l'occhio dopo l’uso</li><li>Utilizzare una Garza per ciascun occhio</li><li>Lavarsi le mani dopo l’uso. </li></ul><p>Frequenza d'uso: da 1 a 2 volte al giorno o secondo indicazione del medico</p><p><strong>Condroindicazioni</strong></p><p>Non sono noti fenomeni di sovradosaggio.</p><p>Ipersensibilità accertata verso i componenti.</p><p>Non sono note interazioni con farmaci e sostanze medicinali.</p><p><strong>Avvertenze</strong></p><p>Uso esterno:</p><ul style='list-style: inside disc;'><li>Utilizzare nell'area perioculare mantenendo l'occhio chiuso</li><li>Non utilizzare il prodotto in caso di ipersensibilita’ nota o allergia as uno qualsiasi dei componenti. In caso di irritazione locale interrompere l'utilizzo e contattare il medico</li><li>Non riutilizzare la Garza per evitare il rischio di inefficacia e di contaminazione del prodotto</li><li>Ogni bustina e’ monouso e deve essere aperta solo immediatamente prima dell'u¬so</li><li>Non utilizzare in caso di bustina non integra o confezione danneggiata</li><li>Tenere fuori dalla portata dei bambini</li><li>Non utilizzare dopo la data di scadenza indicate sulla confezione Tenere lontano da fonti di calore,conservare in luogo asciutto a temperature ambiente</li><li>Si raccomanda di non condividere SILVERPHAGE tra piu utilizzatori</li><li>In mancanza di dati specifici sulle donne in gravidanza e in allattamento, consultare il proprio medico o il farmacista prima dell'utilizzo</li><li>II prodotto e’ normalmente destinato ad uso continuo per non piu’ di 30 giorni; se I sintomi persistono, consultare il medico</li><li>Rimuovere le lenti a contatto prima dell’utilizzo</li></ul><p>Nessuno noto</p><p> Confezione e conservazione</p><p>Conservare al riparo dall’umidità e da fonti di calore.</p>"
-                ]
-            },
-            {
-                "title": "Informazioni Aggiuntive",
-                "details": [
-                    "<p>Senza Glutine, Senza Lattosio</p>"
-                ]
-            },
-            {
-                "title": "Garanzia Di Qualita'",
-                "details": [
-                    "<p>L’attenzione e il monitoraggio costanti su tutto il ciclo di produzione hanno permesso l’ottenimento della certificazione ISO9001 (certificazione che attesta la qualità di un sistema aziendale).</p>"
-                ]
-            },
-            {
-                "title": "Ingredienti",
-                "details": [
-                    "<p>Garza monouso di cotone imbevuta della seguente sospensione: acqua, caprylyl/caprylglucoside, complessoTiAB (biossido di titanio complessato con ioni argen¬to monovalente),PEG-PPG-20/15 dimeticone, glicole propilenico,1,2-esandiolo,PPG-26 Buteth-26,PEG-40 olio di ricino idrogenato, gamma xantan, idrossiacetofenone, sodiobicarbonato</p>"
-                ]
-            },
-            {
-                "title": "Blog",
-                "blog": true,
-                "details": [
-                    {
-                        "title": "INGREDIENTI E BENEFICI",
-                        "blogs": [
-                            {
-                                "thumb": "https://f.shgcdn.com/1e4f65d0-9e3e-41eb-b80c-2bdc13ba440f/",
-                                "title": "La congiuntivite: cause, forme e sintomi",
-                                "link": "https://blog.brunomd.eu/la-congiuntivite-cause-forme-e-sintomi/"
-                            }
-                        ]
-                    }
-                ]
-            }
-        ],
-        "newsletter": {
-            "title": "Iscriviti alla newsletter",
-            "portalId": "19647191",
-            "formId": "569a2af9-b397-486f-8ac7-98d462d81ec1",
-            "desktopImage": "https://f.shgcdn.com/76e54b5b-01be-413d-8637-92096bc3e0c6/",
-            "mobileImage": "https://f.shgcdn.com/31cde13f-00fc-404b-b218-2b808046c9e5/"
-        }
-    },
     "nubit-30-compresse-da-850mg": {
         "EXTERNALID": "8097688420667",
         "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2ODg0MjA2Njc=",
@@ -1365,6 +1076,295 @@
             "formId": "a97c8b24-a3f9-4896-b126-475d3ece5a8d",
             "desktopImage": "https://f.shgcdn.com/b9f7188a-5f37-43ce-b1e1-6bc0ebe64c20/",
             "mobileImage": "https://f.shgcdn.com/68bfc176-ff46-46db-9d99-e3d38e59c8c2/"
+        }
+    },
+    "silverphage-crema-gel-50-ml": {
+        "EXTERNALID": "8098256224571",
+        "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTgyNTYyMjQ1NzE=",
+        "SLUG": "silverphage-crema-gel-50-ml",
+        "link": "/prodotti/",
+        "theme": "#0033A1",
+        "title": "SILVERPHAGE Crema",
+        "btnText": "Shop",
+        "price": 18.00,
+        "logo": {
+            "src": "https://f.shgcdn.com/ec616737-8a46-496b-b430-ecac1e4a4ddf/"
+        },
+        "declaimer": {
+            "title": "<h1>SILVERPHAGE</h1>",
+            "subTitle": "<strong>SILVERPHAGE CREMA GEL 50 ML</strong>",
+            "content": "<p>Silverphage crema e' un dispositivo medico coadiuvante per la protezione di lesioni cutanee ed abrasioni.</p>"
+        },
+        "images": [
+            {
+                "src": "https://f.shgcdn.com/85b5600e-f0b8-409c-a948-38a08f13c158/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/b394eace-9754-4cbd-8545-67eb31fa86d1/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/b2834c95-39b6-4af9-9aaa-038f70806c86/",
+                "alt": ""
+            }
+        ],
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "Unita'",
+            "discount": 15,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 1,
+            "qtyMultiplierShowOnExtraDesc": true,
+            "qtyExtraDesc": "tubo crema gel 50 ml",
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+        },
+        "benefits": {
+            "title": "Scheda Prodotto",
+            "productColorTheme": "rgb(0, 51, 161)",
+            "items": [
+                {
+                    "title": "Barriera per lesioni cutanee",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/ac3ec240-2aec-4453-94ab-11ac5b51c589/",
+                        "alt": ""
+                    },
+                    "description": "Costruisce una barriera non tradizionale (bende o cerotti) per le lesioni cutanee (trattamento delle ferite, del punto di inserzione del catetere venoso centrale o periferico, e arterioso, delle lesioni da decubito, delle irritazioni, e degli arrossamenti da pannoloni negli anziani etc,)"
+                },
+                {
+                    "title": "Protezione",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/5d4bf5e5-23a8-46be-9f06-c01699e88871/",
+                        "alt": ""
+                    },
+                    "description": "Isola e protegge la cute da fattori irritanti esterni e favorire una normale guarigione"
+                },
+                {
+                    "title": "Effetto barriera",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/2d8439ad-46d8-484d-ba21-a763f8fbea6b/",
+                        "alt": ""
+                    },
+                    "description": "Conferisce significativo apporto all’azione filmogena del dispositivo svolgendo, a supporto, un effetto barriera."
+                },
+                {
+                    "title": "Duplice azione",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/66150f58-02a4-4b22-8b56-e60c11094f89/",
+                        "alt": ""
+                    },
+                    "description": "Agisce con una duplice azione: isola il punto di applicazione dalle aggressioni microbiche esterne; limita la colonizzazione microbica nel punto di applicazione creando le condizioni migliori condizioni per la rigenerazione del tessuto cutaneo."
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Dettagli",
+                "details": [
+                    "<p> Il dispositivo medico “Silverphage”, della famiglia Bactercline, è costituito da una crema-gel il cui elemento principale è dato da un complesso a base di biossido di titanio funzionalizzato con argento monovalente covalentemente legato (TIAB), la cui azione fondamentale è quella di costituire una barriera non tradizionale (bende o cerotti) delle lesioni cutanee (trattamento delle ferite, del punto di inserzione del catetere venoso centrale o periferico, e arterioso, delle lesioni da decubito, delle irritazioni, e degli arrossamenti da pannoloni negli anziani etc,) allo scopo di isolare e proteggere la cute da fattori irritanti</p><p>esterni e favorire una normale guarigione.</p><p>La presenza del dimethicone come sostanza protettrice della pelle, comunemente riconosciuta come materiale in grado di creare bendaggi capaci di assistere le ferite durante la guarigione, conferisce significativo apporto all’azione filmogena del dispositivo svolgendo, a supporto, un effetto barriera.</p><p>Silverphage, agisce con una duplice azione:</p><ul style='list-style: inside disc;'><li>isola il punto di applicazione dalle aggressioni microbiche esterne;</li><li>limita la colonizzazione microbica nel punto di applicazione creando le condizioni migliori condizioni per la rigenerazione del tessuto cutaneo.</li></ul><p><strong>Modalita' d'uso</strong></p><ol style='list-style: inside decimal;'><li>prima dell’utilizzo pulire la cute con soluzione fisiologica ed asciugarla accuratamente</li><li>applicare un sottile strato di crema-gel nella zona interessata</li><li>non massaggiare</li><li>lasciare asciugare naturalmente dopo il trattamento</li><li>ripetere l’operazione due volte al giorno</li></ol><p><strong>Condroindicazioni</strong></p><p>Non sono noti fenomeni di sovradosaggio.</p><p>Ipersensibilità accertata verso i componenti.</p><p>Non sono note interazioni con farmaci e sostanze medicinali.</p><p><strong>Avvertenze  </strong>                                                                                                                                                                                                                                                                                                                                                      </p><ul style='list-style: inside disc;'><li>Non destinare il prodotto ad applicazioni differenti da quelle indicate nel foglietto illustrativo.</li><li>Prima di effettuare qualsiasi medicazione occorre lavarsi bene le mani</li><li>dopo l’applicazione non massaggiare la zona interessata e far asciugare naturalmente, la crema-gel deve formare uno strato filmogeno protettivo,</li><li>evitare il contatto con gli occhi. In caso di contatto lavare immediatamente e accuratamente con acqua,</li><li>non utilizzare il dispositivo dopo la data di scadenza riportata sulla confezione,</li><li>conservare a temperatura ambiente e lontano da fonti di calore,</li><li>non congelare,</li><li>tenere fuori dalla portata dei bambini,</li><li>uso esterno – non ingerire,</li><li>non utilizzare se la confezione risulta aperta o danneggiata,</li><li>non sterilizzare,</li><li>richiudere accuratamente il tubo dopo l’uso,</li><li>non utilizzare in caso di ipersensibilità nota verso i componenti,</li><li>sospendere il trattamento in presenza di anomale reazioni cutanee,</li><li>in caso di uso prolungato consultare il medico.                                          </li></ul><p><strong>Effetti indesiderati </strong></p><p>Nessuno noto</p><p><strong>Confezione e conservazione</strong></p><p>Conservare al riparo dall’umidità e da fonti di calore.</p><p>Il prodotto esposto ai raggi solari potrebbe assumere una leggera colorazione giallastra,</p><p>ciò non inficia sulle sue caratteristiche di funzionalità e durata.</p>"
+                ]
+            },
+            {
+                "title": "Informazioni Aggiuntive",
+                "details": [
+                    "<p>Senza Glutine, Senza Lattosio</p>"
+                ]
+            },
+            {
+                "title": "Garanzia Di Qualita'",
+                "details": [
+                    "<p>L’attenzione e il monitoraggio costanti su tutto il ciclo di produzione hanno permesso l’ottenimento della certificazione ISO9001 (certificazione che attesta la qualità di un sistema aziendale).</p>"
+                ]
+            },
+            {
+                "title": "Ingredienti",
+                "details": [
+                    "<p>Mineral oil, Propylene glycol, PEG-30, dipolyhydroxystearate, Isopropyl palmitate, PPG-15 Stearyl ether, Isononyl isononato,TIAB (cristalli di biossido di titanio con ioni argento monovalente covalentemente legati) , Benzalkonium chloride, Cera Alba, Tocopheryl acetate, Dimethicone, Magnesium sulphate, Acqua.</p>"
+                ]
+            },
+            {
+                "title": "Blog",
+                "blog": true,
+                "details": [
+                    {
+                        "title": "INGREDIENTI E BENEFICI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/050d5f85-e4ac-42c7-823a-fde40a023497/",
+                                "title": "L’uso del dimeticone per proteggere la pelle",
+                                "link": "https://blog.brunomd.eu/luso-del-dimeticone-per-proteggere-la-pelle/"
+                            },
+                            {
+                                "thumb": "https://f.shgcdn.com/6b7dde29-7227-4d05-b225-b55584460f69/",
+                                "title": "Com’è fatta la nostra pelle: la struttura cutanea",
+                                "link": "https://blog.brunomd.eu/come-fatta-la-nostra-pelle-la-struttura-cutanea/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "PROBLEMI E SINTOMI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/ef0e0cd1-3266-4e7e-9d97-7c36b3eff5e7/",
+                                "title": "Le funzioni della nostra pelle",
+                                "link": "https://blog.brunomd.eu/le-funzioni-della-nostra-pelle/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Stile di Vita",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/fac06554-fc2d-42fb-aaa4-95cadcf75427/",
+                                "title": "Piedi e diabete: consigli per l’igiene quotidiana",
+                                "link": "https://blog.brunomd.eu/piedi-e-diabete-consigli-per-ligiene-quotidiana/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "newsletter": {
+            "title": "Iscriviti alla newsletter",
+            "portalId": "19647191",
+            "formId": "c775500b-31a6-49af-9eed-7bc4c60b5395",
+            "desktopImage": "https://f.shgcdn.com/1f24ce69-725d-4db5-8b6a-c4f7ccf3d88b/",
+            "mobileImage": "https://f.shgcdn.com/9e9c86cb-4911-4138-9602-d4e4c0cd4dae/"
+        }
+    },
+    "silverphage-14-individual-wipes": {
+        "EXTERNALID": "8127313936699",
+        "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgxMjczMTM5MzY2OTk=",
+        "SLUG": "silverphage-14-individual-wipes",
+        "link": "/prodotti/",
+        "theme": "#0033A1",
+        "title": "SILVERPHAGE GARZE MONOUSO",
+        "btnText": "Shop",
+        "price":19.00,
+        "logo": {
+            "src": "https://f.shgcdn.com/2289226e-14ac-4a34-a768-41633b067fe5/"
+        },
+        "images": [
+            {
+                "src": "https://f.shgcdn.com/4b19f1d3-e978-46f1-a4a8-632348e56f0a/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/32e5bf25-63c6-4522-ba78-cae993e62bc3/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/2c6153cd-408f-4f1b-b5f9-9313da648845/",
+                "alt": ""
+            }
+        ],
+        "declaimer": {
+            "title": "<h1>SILVERPHAGE GARZE MONOUSO</h1>",
+            "subTitle": "<strong>SILVERPHAGE 14 GARZE MONOUSO</strong>",
+            "content": "<p>SILVERPHAGE e’ un dispositivo medico per la detersione dell'area perioc</p>"
+        },
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "Unita'",
+            "discount": 15,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 14,
+            "qtyMultiplierShowOnExtraDesc": true,
+            "qtyExtraDesc": "Garze Monouso",
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+        },
+        "benefits": {
+            "title": "Scheda Prodotto",
+            "productColorTheme": "rgb(0, 51, 161)",
+            "items": [
+                {
+                    "title": "Umettante",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/c87703c3-9203-4b08-9f2d-4846f40f7772/",
+                        "alt": ""
+                    },
+                    "description": "Svolge un'attivita detergente"
+                },
+                {
+                    "title": "Coadiuvante",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/d95534ba-4f58-460d-bd02-cc45bc445a41/",
+                        "alt": ""
+                    },
+                    "description": "Indicato come coadiuvante in caso di infiammazioni, infezioni, allergie anche in presenza di secrezioni oculari. Coadiuvante nel trattamento di congiuntiviti di varia natura, anche in presenza disecrezioni oculare"
+                },
+                {
+                    "title": "Proteggente",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/6debfc41-dc39-4569-b7d3-6ba5f90c4204/",
+                        "alt": ""
+                    },
+                    "description": "Crea un a barriera umida che protegge l’area perioculare e aiuta a prevenire le infezioni batteriche e virali."
+                },
+                {
+                    "title": "Rigenerante",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/35789c4d-5548-4c9f-8019-a1fd417fc069/",
+                        "alt": ""
+                    },
+                    "description": "Favorisce il mantenimento delle condizioni fisiologiche della zona perioculare"
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Dettagli",
+                "details": [
+                    "<p>SILVERPHAGE e’una Garza monouso di cotone imbevuta di una sospensione con caratteristiche umettanti in grado di svolgere un'attivita detergente. SILVERPHAGE e’ un dispositivo medico per adulti e bambini indicato come coadiuvante in caso di infiammazioni, infezioni, allergie anche in presenza di secrezioni oculari</p><p>SILVERPHAGE e’ indicate per l'igiene quotidiana di palpebre e ciglia sia nell'adulto che nel bambino e puo’ essere utilizzata durante le terapie prescritte dal medico oculista. E particolarment e’ indicate come coadiuvante nel trattamento di congiuntiviti di varia natura, anche in presenza disecrezioni oculari. Silverphage crea un a barriera uminda che protegge l’area perioculare e aiuta a prevenire le infezioni batteriche e virali. Grazie a questa caratteristica, puo’ essere utilizzata prima e dopo a interventi di chirurgia oftalmica, perche’ favorisce il mantenimento delle condizioni fisiologiche della zona perioculare. La composizione di SILVERPHAGE e’ stata studiata per avere un comfort ottimale e compatibile con le caratteristiche chimico-fisiche dell'area perioculare senza alterarne il pH</p><p><strong>Modalita' d'uso</strong></p><p>Come usare SILVERPHAGE?</p><ul style='list-style: inside disc;'><li>Lavarsi e asciugarsi accuratamente le mani prima di utilizzare il prodotto.</li><li>Aprire la bustina strappandola in prossimita’ dell'apposita tacca di apertura ed estrarre la Garza</li><li>Dispiegare completamente la Garza e passarla delicatamente sulla palpebra e sulle ciglia partendo dall'angolo interno dell'occhio e procedendo verso l'angolo esterno</li><li>Non risciacquare l'occhio dopo l’uso</li><li>Utilizzare una Garza per ciascun occhio</li><li>Lavarsi le mani dopo l’uso. </li></ul><p>Frequenza d'uso: da 1 a 2 volte al giorno o secondo indicazione del medico</p><p><strong>Condroindicazioni</strong></p><p>Non sono noti fenomeni di sovradosaggio.</p><p>Ipersensibilità accertata verso i componenti.</p><p>Non sono note interazioni con farmaci e sostanze medicinali.</p><p><strong>Avvertenze</strong></p><p>Uso esterno:</p><ul style='list-style: inside disc;'><li>Utilizzare nell'area perioculare mantenendo l'occhio chiuso</li><li>Non utilizzare il prodotto in caso di ipersensibilita’ nota o allergia as uno qualsiasi dei componenti. In caso di irritazione locale interrompere l'utilizzo e contattare il medico</li><li>Non riutilizzare la Garza per evitare il rischio di inefficacia e di contaminazione del prodotto</li><li>Ogni bustina e’ monouso e deve essere aperta solo immediatamente prima dell'u¬so</li><li>Non utilizzare in caso di bustina non integra o confezione danneggiata</li><li>Tenere fuori dalla portata dei bambini</li><li>Non utilizzare dopo la data di scadenza indicate sulla confezione Tenere lontano da fonti di calore,conservare in luogo asciutto a temperature ambiente</li><li>Si raccomanda di non condividere SILVERPHAGE tra piu utilizzatori</li><li>In mancanza di dati specifici sulle donne in gravidanza e in allattamento, consultare il proprio medico o il farmacista prima dell'utilizzo</li><li>II prodotto e’ normalmente destinato ad uso continuo per non piu’ di 30 giorni; se I sintomi persistono, consultare il medico</li><li>Rimuovere le lenti a contatto prima dell’utilizzo</li></ul><p>Nessuno noto</p><p> Confezione e conservazione</p><p>Conservare al riparo dall’umidità e da fonti di calore.</p>"
+                ]
+            },
+            {
+                "title": "Informazioni Aggiuntive",
+                "details": [
+                    "<p>Senza Glutine, Senza Lattosio</p>"
+                ]
+            },
+            {
+                "title": "Garanzia Di Qualita'",
+                "details": [
+                    "<p>L’attenzione e il monitoraggio costanti su tutto il ciclo di produzione hanno permesso l’ottenimento della certificazione ISO9001 (certificazione che attesta la qualità di un sistema aziendale).</p>"
+                ]
+            },
+            {
+                "title": "Ingredienti",
+                "details": [
+                    "<p>Garza monouso di cotone imbevuta della seguente sospensione: acqua, caprylyl/caprylglucoside, complessoTiAB (biossido di titanio complessato con ioni argen¬to monovalente),PEG-PPG-20/15 dimeticone, glicole propilenico,1,2-esandiolo,PPG-26 Buteth-26,PEG-40 olio di ricino idrogenato, gamma xantan, idrossiacetofenone, sodiobicarbonato</p>"
+                ]
+            },
+            {
+                "title": "Blog",
+                "blog": true,
+                "details": [
+                    {
+                        "title": "INGREDIENTI E BENEFICI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/1e4f65d0-9e3e-41eb-b80c-2bdc13ba440f/",
+                                "title": "La congiuntivite: cause, forme e sintomi",
+                                "link": "https://blog.brunomd.eu/la-congiuntivite-cause-forme-e-sintomi/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "newsletter": {
+            "title": "Iscriviti alla newsletter",
+            "portalId": "19647191",
+            "formId": "569a2af9-b397-486f-8ac7-98d462d81ec1",
+            "desktopImage": "https://f.shgcdn.com/76e54b5b-01be-413d-8637-92096bc3e0c6/",
+            "mobileImage": "https://f.shgcdn.com/31cde13f-00fc-404b-b218-2b808046c9e5/"
         }
     }
 }
