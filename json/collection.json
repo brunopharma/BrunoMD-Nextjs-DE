@@ -58,17 +58,6 @@
                 }
             },
             {
-                "EXTERNALID": "8097688420667",
-                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2ODg0MjA2Njc=",
-                "SLUG": "nubit-30-compresse-da-850mg",
-                "link": "/prodotti/",
-                "title": "NUBIT",
-                "btnText": "Shop",
-                "logo": {
-                    "src": "https://f.shgcdn.com/75ccb267-62ad-4c16-a0db-1987c65ff749/"
-                }
-            },
-            {
                 "EXTERNALID": "8097683702075",
                 "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2ODM3MDIwNzU=",
                 "SLUG": "neulenic-600-confezione-da-15-compresse-rivestite-da-1-g-peso-netto-15-0-g",
@@ -77,6 +66,17 @@
                 "btnText": "Shop",
                 "logo": {
                     "src": "https://f.shgcdn.com/587468bb-8134-4726-bb5e-72b9fc77e96f/"
+                }
+            },
+            {
+                "EXTERNALID": "8097688420667",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2ODg0MjA2Njc=",
+                "SLUG": "nubit-30-compresse-da-850mg",
+                "link": "/prodotti/",
+                "title": "NUBIT",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "https://f.shgcdn.com/75ccb267-62ad-4c16-a0db-1987c65ff749/"
                 }
             },
             {
