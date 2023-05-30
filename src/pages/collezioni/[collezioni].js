@@ -19,7 +19,7 @@ const Collection = () => {
             let splitUrl = url.split('/collezioni/');
             if (splitUrl.length == 2) {
                 console.log({ url: splitUrl[1] });
-                if(splitUrl[1] == 'salute-della-pelle'){
+                if(splitUrl[1] == 'salute-della-pelle' || true){
                     setCategory({
                         name: collection[splitUrl[1]]?.title ? splitUrl[1] : false,
                         DataisLoaded: true

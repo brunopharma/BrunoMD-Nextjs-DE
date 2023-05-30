@@ -1,4 +1,29 @@
-.productCard{
-    display: grid;
-  grid-template-columns: 33.33% 33.33% 33.33%;
+.conatiner {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1380px;
+  width: 100%;
+}
+.title{
+  color: var(--bmd-black);
+  font-family: var(--bmd-font-Primary);
+  font-size: var(--bmd-52px);
+  font-weight: var(--bmd-IvyPresto-regular);
+  line-height: 1;
+  padding-bottom: 1rem;
+  text-transform: uppercase;
+}
+.subTitle ,.content{
+  color: var(--bmd-black);
+  font-family: var(--bmd-font-Secondary);
+  font-size: 14px;
+  font-weight: var(--bmd-Gotham-book);
+  line-height: 20px;
+  margin: 1rem 0 3rem;
+}
+.productCard {
+  display: grid;
+  /* grid-template-columns: 33.33% 33.33% 33.33%; */
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1.5rem;
 }

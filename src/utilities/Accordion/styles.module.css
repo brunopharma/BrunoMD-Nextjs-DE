@@ -7,3 +7,47 @@
     font-weight: 400;
     letter-spacing: 0;
 }
+
+.label {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    border-top:1px solid;
+    width: 100%;
+    text-align: left;
+    padding: 0.5rem;
+}
+
+.label::after {
+
+    content: '+';
+    position: absolute;
+    right: -4px;
+}
+
+.text {
+    height: 0px;
+    overflow: hidden;
+    transition: .5s;
+} 
+.borderBottom{
+    border-bottom: 1px solid;
+}
+
+.active .text {
+
+    height: fit-content;
+    padding: 0.5rem;
+}
+
+.active .label::after {
+
+    content: '-';
+    font-size: 35px;
+    transform: translateY(-20%);
+    transition: .5s;
+
+}

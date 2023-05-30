@@ -4,104 +4,121 @@
         "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2OTQ1ODEwNTE=",
         "SLUG": "cronos-30-compresse-da-850mg",
         "link": "/prodotti/",
+        "theme": "#2c7abf",
         "title": "CRONOS",
         "btnText": "Shop",
-        "productColorTheme":"#2c7abf",
+        "price": 25.00,
+        "productColorTheme": "#2c7abf",
         "logo": {
             "src": "https://f.shgcdn.com/b8a1074b-3ec4-4bf5-bae3-b5e1fd6d9c32/"
         },
-        "declaimer":{
-            "title":"<h1>CRONOS</h1>",
-            "subTitle":"<strong>30 COMPRESSE DA 850MG</strong>",
-            "content":"<p>CRONOS è un integratore alimentare a base di Polidatina, Estrattidi Mirtillo e Vitamine.La Polidatina è una molecola naturale polifenolica con spiccate proprietà antiossidanti, attiva contro la formazione dei radicali liberi,che sono alla base dei processi di invecchiamento cellulare e di reverse-aging. La Polidatina, anche detta trans-resveratrolo, è il glucoside naturale nonché precursore,del resveratrolo e ne costituisce una forma più attiva e d' efficace. Pterostilbene è anch’esso un composto della famiglia del resveratrolo, ma con più alta biodisponibilità. Questa sostanza è biologicamente classificata nel gruppo delle fitoalessine,s ostanze che fanno parte del sistema difensivo delle piante. Le Antocianine e le Vitamine, contenute in CRONOS, aggiungono protezione antiossidante di membrana e contribuiscono al regolare funzionamento del Sistema nervosa.</p>"
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "Unita'",
+            "discount": 15,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 25,
+            "qtyMultiplierShowOnExtraDesc": true,
+            "qtyExtraDesc": "compresse",
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
         },
-        "images":[
+        "declaimer": {
+            "title": "<h1>CRONOS</h1>",
+            "subTitle": "<strong>30 COMPRESSE DA 850MG</strong>",
+            "content": "<p>CRONOS è un integratore alimentare a base di Polidatina, Estrattidi Mirtillo e Vitamine.La Polidatina è una molecola naturale polifenolica con spiccate proprietà antiossidanti, attiva contro la formazione dei radicali liberi,che sono alla base dei processi di invecchiamento cellulare e di reverse-aging. La Polidatina, anche detta trans-resveratrolo, è il glucoside naturale nonché precursore,del resveratrolo e ne costituisce una forma più attiva e d' efficace. Pterostilbene è anch’esso un composto della famiglia del resveratrolo, ma con più alta biodisponibilità. Questa sostanza è biologicamente classificata nel gruppo delle fitoalessine,s ostanze che fanno parte del sistema difensivo delle piante. Le Antocianine e le Vitamine, contenute in CRONOS, aggiungono protezione antiossidante di membrana e contribuiscono al regolare funzionamento del Sistema nervosa.</p>"
+        },
+        "images": [
             {
-                "src":"https://f.shgcdn.com/93d40e17-884f-4dd6-ad38-06b2b91f0cf1/",
-                "alt":""
-            },{
-                "src":"https://f.shgcdn.com/453c659d-7daa-4e3d-ab3a-bd11caa43a29/",
-                "alt":""
+                "src": "https://f.shgcdn.com/93d40e17-884f-4dd6-ad38-06b2b91f0cf1/",
+                "alt": ""
             },
             {
-                "src":"https://f.shgcdn.com/3cfe9ba0-48ca-43c8-995b-d890353e9da0/",
-                "alt":""
+                "src": "https://f.shgcdn.com/453c659d-7daa-4e3d-ab3a-bd11caa43a29/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/3cfe9ba0-48ca-43c8-995b-d890353e9da0/",
+                "alt": ""
             }
         ],
-        "benefits":{
-            "title":"Scheda Prodotto",
-            "productColorTheme":"#2c7abf",
-            "items":[
+        "benefits": {
+            "title": "Scheda Prodotto",
+            "productColorTheme": "#2c7abf",
+            "items": [
                 {
-                    "title":"Antiossidante e reverse-aging",
-                    "icon":"",
-                    "img":{
-                    "src":"https://f.shgcdn.com/7f7a0aeb-dd5e-4a98-89c3-8792b6b84f82/",
-                    "alt":""
+                    "title": "Antiossidante e reverse-aging",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/7f7a0aeb-dd5e-4a98-89c3-8792b6b84f82/",
+                        "alt": ""
                     },
-                    "description":"Contiene proprietà antiossidanti e reverse-aging"
+                    "description": "Contiene proprietà antiossidanti e reverse-aging"
                 },
                 {
-                    "title":"RIPRISTINA",
-                    "icon":"",
-                    "img":{
-                    "src":"https://f.shgcdn.com/085a2c36-4757-4b60-ab01-b82c26a2927d/",
-                    "alt":""
+                    "title": "RIPRISTINA",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/085a2c36-4757-4b60-ab01-b82c26a2927d/",
+                        "alt": ""
                     },
-                    "description":"Contribuisce al ripristino del ciclo metabolico delle sirtuine contribuendo ai meccanismi di difesa dell’organismo contro il rischio di sindrome metabolica e delle alterazioni del metabolismo del glucosio"
+                    "description": "Contribuisce al ripristino del ciclo metabolico delle sirtuine contribuendo ai meccanismi di difesa dell’organismo contro il rischio di sindrome metabolica e delle alterazioni del metabolismo del glucosio"
                 },
                 {
-                    "title":"CONTROLLO GLICEMICO",
-                    "icon":"",
-                    "img":{
-                    "src":"https://f.shgcdn.com/e2062552-1b62-44ac-ac69-d5b6e855d71d/",
-                    "alt":""
+                    "title": "CONTROLLO GLICEMICO",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/e2062552-1b62-44ac-ac69-d5b6e855d71d/",
+                        "alt": ""
                     },
-                    "description":"Aiuta l' azione di sinergia sul controllo glicemico in pazienti diabetici"
+                    "description": "Aiuta l' azione di sinergia sul controllo glicemico in pazienti diabetici"
                 },
                 {
-                    "title":"SUPPORTA E AZIONA",
-                    "icon":"",
-                    "img":{
-                    "src":"https://f.shgcdn.com/c6b6c0c1-1fef-4114-ae7d-eb1e2ebdfb7a/",
-                    "alt":""
+                    "title": "SUPPORTA E AZIONA",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/c6b6c0c1-1fef-4114-ae7d-eb1e2ebdfb7a/",
+                        "alt": ""
                     },
-                    "description":"Aiuta l' azione di supporto nei pazienti a rischio cardiovascolare e l' azione benefica in pazienti con sindrome metabolica"
+                    "description": "Aiuta l' azione di supporto nei pazienti a rischio cardiovascolare e l' azione benefica in pazienti con sindrome metabolica"
                 }
             ]
         },
-        "details":[
+        "details": [
             {
-                "title":"Dettagli",
-                "details":[
+                "title": "Dettagli",
+                "details": [
                     "<p>CRONOS è un integratore alimentare a base di Polidatina, Estratti di Mirtillo e Vitamine.</p><p>La Polidatina è una molecola naturale polifenolica con spiccate proprietà antiossidanti, attiva contro la formazione dei radicali liberi, che sono alla base dei processi di invecchiamento cellulare e di reverse-aging. La Polidatina, anche detta trans-resveratrolo, è il glucoside naturale nonché precursore, del resveratrolo e ne costituisce una forma più attiva ed efficace. Pterostilbene è anch’esso un composto della famiglia del resveratrolo, ma con più alta biodisponibilità. Questa sostanza è biologicamente classificata nel gruppo delle fitoalessine, sostanze che fanno parte del sistema difensivo delle piante. Le Antocianine e le Vitamine, contenute in CRONOS, aggiungono protezione antiossidante di membrana e contribuiscono al regolare funzionamento del sistema nervoso. CRONOS è un integratore alimentare che, grazie alla presenza di Polidatina e Pterostilbene, è in grado di supportare il ciclo metabolico delle sirtuine. Le sirtuine sono delle proteine che svolgono una preziosa attività enzimatica e regolano importanti vie metaboliche, con il passare degli anni la loro produzione endogena risulta ridotta. Quando l’attività delle sirtuine è compromessa, aumenta il rischio di sindrome metabolica e pre-diabete, aggravandosi gli effetti delle diete ricche di grassi. Le sirtuine inoltre, lavorano sul meccanismo naturale di resistenza all’insulina, meccanismo che viene attivato con l’ingestione di dolci. La combinazione degli ingredienti attivi di CRONOS, è in grado di mantenere attivato il ciclo metabolico delle sirtuine e quindi contribuire ai meccanismi di difesa dell’organismo contro il rischio di sindrome metabolica ed alterazioni del metabolismo del glucosio</p><p><strong>Modalita' d'uso</strong></p><p>Si consiglia l’assunzione di 1 - 2 compresse al giorno Può essere assunto in ogni momento della giornata e in ogni condizione</p><p><strong>Condroindicazioni</strong></p><p>Nessuno noto</p><p><strong>Avvertenze </strong>                                                                                                                                                                                                                                                                                                                                                       </p><p>La data discadenza si riferisce al prodotto correttamente conservato in confezione integra. Conservare in luogo fresco ed asciutto, al riparo da fonti di calore. Il prodotto va utilizzato nell’ambito di una dieta variata ed equilibrata. Non superare la dose giornaliera consigliata.Tenere fuori dalla portata dei bambini al di sotto dei 3 anni dietà</p><p><strong>Effetti indesiderati  </strong></p><p>Nessuno noto</p><p><strong>Confezione e conservazione</strong></p><p>Conservare in luogo fresco e asciutto, nell'imballaggio originale.</p><p>Validità confezionamento integro: 36 mesi.</p>"
                 ]
-            },{
-                "title":"Informazioni Aggiuntive",
-                "details":[
+            },
+            {
+                "title": "Informazioni Aggiuntive",
+                "details": [
                     "<p>Senza Glutine, Senza Lattosio</p>"
                 ]
-            },{
-                "title":"Garanzia Di Qualita'",
-                "details":[
+            },
+            {
+                "title": "Garanzia Di Qualita'",
+                "details": [
                     "<p>L’attenzione e il monitoraggio costanti su tutto il ciclo di produzione hanno permesso l’ottenimento della certificazione ISO9001 (certificazione che attesta la qualità di un sistema aziendale).</p>"
                 ]
-            },{
-                "title":"Ingredienti",
-                "details":[
+            },
+            {
+                "title": "Ingredienti",
+                "details": [
                     "<p>Mirtillo frutto estratto secco titolato al 20% in Pterostilbene(Vacciniummyrtillus); AgentediCarica: CellulosaMicrocristallina; Mirtillo frutto estratto secco titolato al 25% in Antocianine(Vaccinium myrtillus); Vitamina C (Acido Ascorbico); Zinco Gluconato; Polidatina da Polygo numcuspidatum; Antiagglomeranti: Salidi Magnesio degli Acidi Grassi,Biossido di Silicio; Vitamina E (DL-Alfa Tocoferolo acetato); Agente di carica: Carbossimetil cellulose Sodica; Selenio Metionina; Rame Gluconato; Vitamina H (Biotina); Vitamina B12(Cianocobalamina).</p>"
                 ]
-            },{
-                "title":"Blog",
-                "details":[
-
-                ]
+            },
+            {
+                "title": "Blog",
+                "blog": true,
+                "details": []
             }
         ],
-        "newsletter":{
+        "newsletter": {
             "title": "Iscriviti alla newsletter",
             "portalId": "19647191",
-            "formId": "569a2af9-b397-486f-8ac7-98d462d81ec1"
+            "formId": "7fdbaec1-ef58-4ebd-9879-b5f34b091893",
+            "desktopImage": "https://f.shgcdn.com/d0e0c1ac-2879-4bec-94e5-94607564c58e/",
+            "mobileImage": "https://f.shgcdn.com/de13aa2f-df64-45d1-a4f0-691a9311c5e1/"
         }
     },
     "citrak-forte-4g-con-edulcoranti-30-bustine": {
@@ -109,10 +126,156 @@
         "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc3MDcyMjk0OTk=",
         "SLUG": "citrak-forte-4g-con-edulcoranti-30-bustine",
         "link": "/prodotti/",
+        "theme": "#00aff0",
         "title": "CITRAK FORTE 4g.",
         "btnText": "Shop",
+        "price":14.00,
         "logo": {
             "src": "https://f.shgcdn.com/853de85b-e2d1-4417-b850-f60587c1dc01/"
+        },
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "Unita'",
+            "discount": 15,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 30,
+            "qtyMultiplierShowOnExtraDesc": true,
+            "qtyExtraDesc": "Bustine",
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+        },
+        "declaimer": {
+            "title": "<h1>CITRAK FORTE 4G.</h1>",
+            "subTitle": "<strong>30 BUSTINE</strong>",
+            "content": "<p>Forte e' un integratore dietetico di potassio consigliato nei casi di ridotto apporto con la dieta o di aumentato fabbisogno fisiologico. Citrak non contiene zuccheri e può quindi essere assunto anche da soggetti con metabolismo del glucosio compromesso.</p>"
+        },
+        "images": [
+            {
+                "src": "https://f.shgcdn.com/2b6bcf4b-735f-475d-abda-c8ea29d199a4/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/3ccf4767-55f0-47cf-87ec-0ba08199b181/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/d11ae7a2-2b19-4f66-8c8e-1a788592977c/",
+                "alt": ""
+            }
+        ],
+        "benefits": {
+            "title": "Scheda Prodotto",
+            "productColorTheme": "rgb(0, 175, 240)",
+            "items": [
+                {
+                    "title": "Reintegra",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/c61e9798-f5d7-4c4b-8c66-2e68c1e46410/",
+                        "alt": ""
+                    },
+                    "description": "Integratore di potassio indicato nei casi di ridotto apporto con la dieta"
+                },
+                {
+                    "title": "INTEGRA",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/0d9e60af-97d8-4211-9304-65be0dc1d24a/",
+                        "alt": ""
+                    },
+                    "description": "Integra il potassio nei casi di aumentato fabbisogno fisiologico."
+                },
+                {
+                    "title": "NON CONTIENE ZUCCHERI",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/f53bf8d5-88e9-4c07-92e2-47e284a59908/",
+                        "alt": ""
+                    },
+                    "description": "Può essere assunto anche da soggetti con alterato metabolismo del glucosio"
+                },
+                {
+                    "title": "RIPRISTINA",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/3bd7a15b-6303-46db-a14b-52953fb92f27/",
+                        "alt": ""
+                    },
+                    "description": "Ripristina la fatica muscolare e da' energia dopo l'attivita' sportiva"
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Dettagli",
+                "details": [
+                    "<p>Citrak Forte e' un integratore dietetico di potassio consigliato nei casi di ridotto apporto con la dieta o di aumentato fabbisogno fisiologico. Grazie al suo mix di principi attivi è efficace in tutti i casi di affaticamento fisico causato da attività fisica intensa o da carenze di potassio in genere .</p><p>Citrak® Forte non contiene zuccheri e può quindi essere assunto anche da soggetti con metabolismo del glucosio compromesso. E' consigliato l'uso di Citrak Forte:</p><ul style='list-style: inside disc;'><li>per il trattamento con diuretici (tiazidici, tiazidici, furosemide)</li><li>in trattamento con digitale</li><li>in stati di ipercorticismo (sindrome CONN, sindrome di CUSHING)</li><li>in trattamento con cortisone e ACTH</li><li> in caso di diarrea e vomito profuso in trattamento con insulina </li><li>nella chetoacidosi diabetica</li><li>insufficienza epatica (come nel caso della cirrosi epatica)</li><li>nella paralisi muscolare periodica</li><li>nel periodo postoperatorio</li><li> attività sportiva</li><li>attività lavorative pesanti</li><li>elevata sudorazione da elevate temperature esterne</li><li>calcoli renali (la cui prevenzione prevede l'aggiunta di sali alcalini di potassio e magnesio come prima arma)</li><li>perdita intestinale dovuta a diarrea o cattivo assorbimento</li><li>disturbi del metabolismo</li></ul><p>disturbi alimentari (una persona anoressica entra in uno stato marcato di acidosi sistemica, sia per il digiuno che per la continua perdita di ioni potassio con emesi indotta).                                                                                                                                                                                                                                                                                                                                                        </p><p><strong>Modalita' d'uso</strong></p><p>Il contenuto di una bustina di Citrak Forte va disciolto in un bicchiere d’acqua. Si consiglia l’assunzione di 1-2 bustine al giorno.</p><p><strong>Condroindicazioni</strong></p><p> polialcoli; un consumo eccessivo può dare effetti lassativi</p><p><strong>Avvertenze</strong></p><p>Gli integratori alimentari non vanno intesi quali sostituti a una dieta variata, equilibrata e di un sano stile di vita. Tenere fuori dalla portata di bambini al di sotto dei 3 anni di età. Non superare la dose giornaliera consigliata. </p><p>                                                             </p><p><strong>Effetti indesiderati</strong></p><p>Nessuno noto</p><p><strong>Confezione e conservazione</strong></p><p>Ogni confezione contiene 30 bustine da 4 g. Ogni bustina di Citrak  contiene 2 g di citrato di potassio. Conservare in luogo fresco ed asciutto, al riparo da fonti dirette di luce, calore ed umidità. </p>"
+                ]
+            },
+            {
+                "title": "Informazioni Aggiuntive",
+                "details": [
+                    "<p>Contiene Polialcoli. Non contiene zuccheri</p>"
+                ]
+            },
+            {
+                "title": "Garanzia Di Qualita'",
+                "details": [
+                    "<p>L’attenzione e il monitoraggio costanti su tutto il ciclo di produzione hanno permesso l’ottenimento della certificazione ISO9001 (certificazione che attesta la qualità di un sistema aziendale).</p>"
+                ]
+            },
+            {
+                "title": "Ingredienti",
+                "details": [
+                    "<p>Citrato di potassio, edulcorante: mannitolo, acidificante: acido citrico, aromi, edulcorante: acesulfame K, colorante: beta carotene.</p>"
+                ]
+            },
+            {
+                "title": "Blog",
+                "blog": true,
+                "details": [
+                    {
+                        "title": "INGREDIENTI E BENEFICI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/f07fc29f-f8c0-40b7-9cb5-c6bac7effcc8/",
+                                "title": "Vitamine e Sali minerali: salute e vitalità",
+                                "link": "https://blog.brunomd.eu/vitamine-e-sali-minerali-salute-e-vitalita/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "PROBLEMI E SINTOMI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/49470804-5018-48c6-a146-beebd04d260b/",
+                                "title": "Il Potassio: che cos’è, a cosa serve?",
+                                "link": "https://blog.brunomd.eu/il-potassio-che-cose-a-cosa-serve/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Stile di Vita",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/d8a8788b-30b7-4810-832f-4252b279b08c/",
+                                "title": "Stile di vita: le buone abitudini antiossidanti",
+                                "link": "https://blog.brunomd.eu/stile-di-vita-le-buone-abitudini-antiossidanti/"
+                            },
+                            {
+                                "thumb": "https://f.shgcdn.com/0fea8049-2370-4ea2-a1b5-2581ee615211/",
+                                "title": "Lo sport nella vita quotidiana: ne migliora la qualità e la durata",
+                                "link": "https://blog.brunomd.eu/lo-sport-nella-vita-quotidiana-ne-migliora-la-qualita-e-la-durata/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "newsletter": {
+            "title": "Iscriviti alla newsletter",
+            "portalId": "19647191",
+            "formId": "65e33639-1716-4cd6-99e2-b413cfd1141b",
+            "desktopImage": "https://f.shgcdn.com/db0a7bad-fa1b-42ca-9a68-13dc49a2d994/",
+            "mobileImage": "https://f.shgcdn.com/668c206c-2dcc-4ddb-bfbf-9b2a0f6f9041/"
         }
     },
     "silverphage-crema-gel-50-ml": {
@@ -120,50 +283,313 @@
         "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTgyNTYyMjQ1NzE=",
         "SLUG": "silverphage-crema-gel-50-ml",
         "link": "/prodotti/",
+        "theme": "#0033A1",
         "title": "SILVERPHAGE Crema",
         "btnText": "Shop",
+        "price": 18.00,
         "logo": {
             "src": "https://f.shgcdn.com/ec616737-8a46-496b-b430-ecac1e4a4ddf/"
         },
-        "declaimer":{
-            "title":"<h1>SILVERPHAGE</h1>",
-            "subTitle":"<strong>SILVERPHAGE CREMA GEL 50 ML</strong>",
-            "content":"<p>Silverphage crema e' un dispositivo medico coadiuvante per la protezione di lesioni cutanee ed abrasioni.</p>"
+        "declaimer": {
+            "title": "<h1>SILVERPHAGE</h1>",
+            "subTitle": "<strong>SILVERPHAGE CREMA GEL 50 ML</strong>",
+            "content": "<p>Silverphage crema e' un dispositivo medico coadiuvante per la protezione di lesioni cutanee ed abrasioni.</p>"
         },
-        "images":[
+        "images": [
             {
-                "src":"https://f.shgcdn.com/85b5600e-f0b8-409c-a948-38a08f13c158/",
-                "alt":""
-            },{
-                "src":"https://f.shgcdn.com/453c659d-7daa-4e3d-ab3a-bd11caa43a29/",
-                "alt":""
+                "src": "https://f.shgcdn.com/85b5600e-f0b8-409c-a948-38a08f13c158/",
+                "alt": ""
             },
             {
-                "src":"https://f.shgcdn.com/3cfe9ba0-48ca-43c8-995b-d890353e9da0/",
-                "alt":""
+                "src": "https://f.shgcdn.com/b394eace-9754-4cbd-8545-67eb31fa86d1/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/b2834c95-39b6-4af9-9aaa-038f70806c86/",
+                "alt": ""
             }
-        ]
+        ],
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "Unita'",
+            "discount": 15,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 1,
+            "qtyMultiplierShowOnExtraDesc": true,
+            "qtyExtraDesc": "tubo crema gel 50 ml",
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+        },
+        "benefits": {
+            "title": "Scheda Prodotto",
+            "productColorTheme": "rgb(0, 51, 161)",
+            "items": [
+                {
+                    "title": "Barriera per lesioni cutanee",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/ac3ec240-2aec-4453-94ab-11ac5b51c589/",
+                        "alt": ""
+                    },
+                    "description": "Costruisce una barriera non tradizionale (bende o cerotti) per le lesioni cutanee (trattamento delle ferite, del punto di inserzione del catetere venoso centrale o periferico, e arterioso, delle lesioni da decubito, delle irritazioni, e degli arrossamenti da pannoloni negli anziani etc,)"
+                },
+                {
+                    "title": "Protezione",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/5d4bf5e5-23a8-46be-9f06-c01699e88871/",
+                        "alt": ""
+                    },
+                    "description": "Isola e protegge la cute da fattori irritanti esterni e favorire una normale guarigione"
+                },
+                {
+                    "title": "Effetto barriera",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/2d8439ad-46d8-484d-ba21-a763f8fbea6b/",
+                        "alt": ""
+                    },
+                    "description": "Conferisce significativo apporto all’azione filmogena del dispositivo svolgendo, a supporto, un effetto barriera."
+                },
+                {
+                    "title": "Duplice azione",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/66150f58-02a4-4b22-8b56-e60c11094f89/",
+                        "alt": ""
+                    },
+                    "description": "Agisce con una duplice azione: isola il punto di applicazione dalle aggressioni microbiche esterne; limita la colonizzazione microbica nel punto di applicazione creando le condizioni migliori condizioni per la rigenerazione del tessuto cutaneo."
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Dettagli",
+                "details": [
+                    "<p> Il dispositivo medico “Silverphage”, della famiglia Bactercline, è costituito da una crema-gel il cui elemento principale è dato da un complesso a base di biossido di titanio funzionalizzato con argento monovalente covalentemente legato (TIAB), la cui azione fondamentale è quella di costituire una barriera non tradizionale (bende o cerotti) delle lesioni cutanee (trattamento delle ferite, del punto di inserzione del catetere venoso centrale o periferico, e arterioso, delle lesioni da decubito, delle irritazioni, e degli arrossamenti da pannoloni negli anziani etc,) allo scopo di isolare e proteggere la cute da fattori irritanti</p><p>esterni e favorire una normale guarigione.</p><p>La presenza del dimethicone come sostanza protettrice della pelle, comunemente riconosciuta come materiale in grado di creare bendaggi capaci di assistere le ferite durante la guarigione, conferisce significativo apporto all’azione filmogena del dispositivo svolgendo, a supporto, un effetto barriera.</p><p>Silverphage, agisce con una duplice azione:</p><ul style='list-style: inside disc;'><li>isola il punto di applicazione dalle aggressioni microbiche esterne;</li><li>limita la colonizzazione microbica nel punto di applicazione creando le condizioni migliori condizioni per la rigenerazione del tessuto cutaneo.</li></ul><p><strong>Modalita' d'uso</strong></p><ol style='list-style: inside decimal;'><li>prima dell’utilizzo pulire la cute con soluzione fisiologica ed asciugarla accuratamente</li><li>applicare un sottile strato di crema-gel nella zona interessata</li><li>non massaggiare</li><li>lasciare asciugare naturalmente dopo il trattamento</li><li>ripetere l’operazione due volte al giorno</li></ol><p><strong>Condroindicazioni</strong></p><p>Non sono noti fenomeni di sovradosaggio.</p><p>Ipersensibilità accertata verso i componenti.</p><p>Non sono note interazioni con farmaci e sostanze medicinali.</p><p><strong>Avvertenze  </strong>                                                                                                                                                                                                                                                                                                                                                      </p><ul style='list-style: inside disc;'><li>Non destinare il prodotto ad applicazioni differenti da quelle indicate nel foglietto illustrativo.</li><li>Prima di effettuare qualsiasi medicazione occorre lavarsi bene le mani</li><li>dopo l’applicazione non massaggiare la zona interessata e far asciugare naturalmente, la crema-gel deve formare uno strato filmogeno protettivo,</li><li>evitare il contatto con gli occhi. In caso di contatto lavare immediatamente e accuratamente con acqua,</li><li>non utilizzare il dispositivo dopo la data di scadenza riportata sulla confezione,</li><li>conservare a temperatura ambiente e lontano da fonti di calore,</li><li>non congelare,</li><li>tenere fuori dalla portata dei bambini,</li><li>uso esterno – non ingerire,</li><li>non utilizzare se la confezione risulta aperta o danneggiata,</li><li>non sterilizzare,</li><li>richiudere accuratamente il tubo dopo l’uso,</li><li>non utilizzare in caso di ipersensibilità nota verso i componenti,</li><li>sospendere il trattamento in presenza di anomale reazioni cutanee,</li><li>in caso di uso prolungato consultare il medico.                                          </li></ul><p><strong>Effetti indesiderati </strong></p><p>Nessuno noto</p><p><strong>Confezione e conservazione</strong></p><p>Conservare al riparo dall’umidità e da fonti di calore.</p><p>Il prodotto esposto ai raggi solari potrebbe assumere una leggera colorazione giallastra,</p><p>ciò non inficia sulle sue caratteristiche di funzionalità e durata.</p>"
+                ]
+            },
+            {
+                "title": "Informazioni Aggiuntive",
+                "details": [
+                    "<p>Senza Glutine, Senza Lattosio</p>"
+                ]
+            },
+            {
+                "title": "Garanzia Di Qualita'",
+                "details": [
+                    "<p>L’attenzione e il monitoraggio costanti su tutto il ciclo di produzione hanno permesso l’ottenimento della certificazione ISO9001 (certificazione che attesta la qualità di un sistema aziendale).</p>"
+                ]
+            },
+            {
+                "title": "Ingredienti",
+                "details": [
+                    "<p>Mineral oil, Propylene glycol, PEG-30, dipolyhydroxystearate, Isopropyl palmitate, PPG-15 Stearyl ether, Isononyl isononato,TIAB (cristalli di biossido di titanio con ioni argento monovalente covalentemente legati) , Benzalkonium chloride, Cera Alba, Tocopheryl acetate, Dimethicone, Magnesium sulphate, Acqua.</p>"
+                ]
+            },
+            {
+                "title": "Blog",
+                "blog": true,
+                "details": [
+                    {
+                        "title": "INGREDIENTI E BENEFICI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/050d5f85-e4ac-42c7-823a-fde40a023497/",
+                                "title": "L’uso del dimeticone per proteggere la pelle",
+                                "link": "https://blog.brunomd.eu/luso-del-dimeticone-per-proteggere-la-pelle/"
+                            },
+                            {
+                                "thumb": "https://f.shgcdn.com/6b7dde29-7227-4d05-b225-b55584460f69/",
+                                "title": "Com’è fatta la nostra pelle: la struttura cutanea",
+                                "link": "https://blog.brunomd.eu/come-fatta-la-nostra-pelle-la-struttura-cutanea/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "PROBLEMI E SINTOMI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/ef0e0cd1-3266-4e7e-9d97-7c36b3eff5e7/",
+                                "title": "Le funzioni della nostra pelle",
+                                "link": "https://blog.brunomd.eu/le-funzioni-della-nostra-pelle/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Stile di Vita",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/fac06554-fc2d-42fb-aaa4-95cadcf75427/",
+                                "title": "Piedi e diabete: consigli per l’igiene quotidiana",
+                                "link": "https://blog.brunomd.eu/piedi-e-diabete-consigli-per-ligiene-quotidiana/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "newsletter": {
+            "title": "Iscriviti alla newsletter",
+            "portalId": "19647191",
+            "formId": "c775500b-31a6-49af-9eed-7bc4c60b5395",
+            "desktopImage": "https://f.shgcdn.com/1f24ce69-725d-4db5-8b6a-c4f7ccf3d88b/",
+            "mobileImage": "https://f.shgcdn.com/9e9c86cb-4911-4138-9602-d4e4c0cd4dae/"
+        }
     },
     "citrak-3g-30-bustine": {
         "EXTERNALID": "8097634582843",
         "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2MzQ1ODI4NDM=",
         "SLUG": "citrak-3g-30-bustine",
         "link": "/prodotti/",
+        "theme": "#00aff0",
         "title": "CITRAK 3g.",
         "btnText": "Shop",
+        "price":12.00,
         "logo": {
             "src": "https://f.shgcdn.com/d3b36d9f-1992-401a-a0f8-3ad7db87fdab/"
-        }
-    },
-    "drop-therapeutic-gocce-oculari-lubrificanti-10ml": {
-        "EXTERNALID": "8097677934907",
-        "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2Nzc5MzQ5MDc=",
-        "SLUG": "drop-therapeutic-gocce-oculari-lubrificanti-10ml",
-        "link": "/prodotti/",
-        "title": "DROP THERAPEUTIC",
-        "btnText": "Shop",
-        "logo": {
-            "src": "https://f.shgcdn.com/6f3eb7b1-e334-4580-bf95-5a86d245e8be/"
+        },
+        "images": [
+            {
+                "src": "https://f.shgcdn.com/609f284d-29ab-425c-bad6-b231104ba2be/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/72e33231-5bc7-4fb0-83c5-684fce3a0477/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/ee37ad04-0213-4395-a4c2-7e123c481008/",
+                "alt": ""
+            }
+        ],
+        "declaimer": {
+            "title": "<h1>CITRAK 3G.</h1>",
+            "subTitle": "<strong>30 BUSTINE</strong>",
+            "content": "<p>Citrak e' un integratore dietetico di potassio consigliato nei casi di ridotto apporto con la dieta o di aumentato fabbisogno fisiologico. Citrak non contiene zuccheri e può quindi essere assunto anche da soggetti con metabolismo del glucosio compromesso.</p>"
+        },
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "Unita'",
+            "discount": 15,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 30,
+            "qtyMultiplierShowOnExtraDesc": true,
+            "qtyExtraDesc": "Bustine",
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+        },
+        "benefits": {
+            "title": "Scheda Prodotto",
+            "productColorTheme": "rgb(0, 175, 240)",
+            "items": [
+                {
+                    "title": "Reintegra",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/c61e9798-f5d7-4c4b-8c66-2e68c1e46410/",
+                        "alt": ""
+                    },
+                    "description": "Integratore di potassio indicato nei casi di ridotto apporto con la dieta"
+                },
+                {
+                    "title": "INTEGRA",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/0d9e60af-97d8-4211-9304-65be0dc1d24a/",
+                        "alt": ""
+                    },
+                    "description": "Integra il potassio nei casi di aumentato fabbisogno fisiologico."
+                },
+                {
+                    "title": "NON CONTIENE ZUCCHERI",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/f53bf8d5-88e9-4c07-92e2-47e284a59908/",
+                        "alt": ""
+                    },
+                    "description": "Può essere assunto anche da soggetti con alterato metabolismo del glucosio"
+                },
+                {
+                    "title": "RIPRISTINA",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/3bd7a15b-6303-46db-a14b-52953fb92f27/",
+                        "alt": ""
+                    },
+                    "description": "Ripristina la fatica muscolare e da' energia dopo l'attivita' sportiva"
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Dettagli",
+                "details": [
+                    "<p>Citrak e' un integratore dietetico di potassio consigliato nei casi di ridotto apporto con la dieta o di aumentato fabbisogno fisiologico. Citrak non contiene zuccheri e può quindi essere assunto anche da soggetti con metabolismo del glucosio compromesso.</p><p><strong> Modalita' d'uso</strong> </p><p>Il contenuto di una bustina di Citrak va disciolto in un bicchiere d’acqua. Si consiglia l’assunzione di 1-2 bustine al giorno. </p><p><strong>Condroindicazioni  </strong> </p><p>Contengono polialcoli; un consumo eccessivo può dare effetti lassativi    </p><p><strong>Avvertenze</strong>  </p><p>Gli integratori alimentari non vanno intesi quali sostituti a una dieta variata, equilibrata e di un sano stile di vita. Tenere fuori dalla portata di bambini al di sotto dei 3 anni di età. Non superare la dose giornaliera consigliata.</p><p><strong>Effetti indesiderati </strong> </p><p>Nessuno noto</p><p><strong>Confezione e conservazione</strong></p><p>Ogni confezione contiene 30 bustine da 3 g. Ogni bustina di Citrak  contiene 1 g di citrato di potassio. Conservare in luogo fresco ed asciutto, al riparo da fonti dirette di luce, calore ed umidità.</p>"
+                ]
+            },
+            {
+                "title": "Informazioni Aggiuntive",
+                "details": [
+                    "<p>Contiene Polialcoli. Non contiene zuccheri</p>"
+                ]
+            },
+            {
+                "title": "Garanzia Di Qualita'",
+                "details": [
+                    "<p>L’attenzione e il monitoraggio costanti su tutto il ciclo di produzione hanno permesso l’ottenimento della certificazione ISO9001 (certificazione che attesta la qualità di un sistema aziendale).</p>"
+                ]
+            },
+            {
+                "title": "Ingredienti",
+                "details": [
+                    "<p>Citrato di potassio, edulcorante: mannitolo, acidificante: acido citrico, aromi, edulcorante: acesulfame K, colorante: beta carotene.</p>"
+                ]
+            },
+            {
+                "title": "Blog",
+                "blog": true,
+                "details": [
+                    {
+                        "title": "INGREDIENTI E BENEFICI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/f07fc29f-f8c0-40b7-9cb5-c6bac7effcc8/",
+                                "title": "Vitamine e Sali minerali: salute e vitalità",
+                                "link": "https://blog.brunomd.eu/vitamine-e-sali-minerali-salute-e-vitalita/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "PROBLEMI E SINTOMI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/49470804-5018-48c6-a146-beebd04d260b/",
+                                "title": "Il Potassio: che cos’è, a cosa serve?",
+                                "link": "https://blog.brunomd.eu/il-potassio-che-cose-a-cosa-serve/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Stile di Vita",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/d8a8788b-30b7-4810-832f-4252b279b08c/",
+                                "title": "Stile di vita: le buone abitudini antiossidanti",
+                                "link": "https://blog.brunomd.eu/stile-di-vita-le-buone-abitudini-antiossidanti/"
+                            },
+                            {
+                                "thumb": "https://f.shgcdn.com/0fea8049-2370-4ea2-a1b5-2581ee615211/",
+                                "title": "Lo sport nella vita quotidiana: ne migliora la qualità e la durata",
+                                "link": "https://blog.brunomd.eu/lo-sport-nella-vita-quotidiana-ne-migliora-la-qualita-e-la-durata/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "newsletter": {
+            "title": "Iscriviti alla newsletter",
+            "portalId": "19647191",
+            "formId": "65e33639-1716-4cd6-99e2-b413cfd1141b",
+            "desktopImage": "https://f.shgcdn.com/db0a7bad-fa1b-42ca-9a68-13dc49a2d994/",
+            "mobileImage": "https://f.shgcdn.com/668c206c-2dcc-4ddb-bfbf-9b2a0f6f9041/"
         }
     },
     "citrak-mg-citrato-di-potassio-1-5g-citrato-di-magnesio-1-g-20-bustine": {
@@ -171,10 +597,328 @@
         "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2NjQ2MzEwOTk=",
         "SLUG": "citrak-mg-citrato-di-potassio-1-5g-citrato-di-magnesio-1-g-20-bustine",
         "link": "/prodotti/",
+        "theme": "#00aff0",
         "title": "CITRAK Mg.",
         "btnText": "Shop",
+        "price":14.00,
         "logo": {
             "src": "https://f.shgcdn.com/79b6c726-99c8-4aea-9288-9eecc5ed09b9/"
+        },
+        "images": [
+            {
+                "src": "https://f.shgcdn.com/613754fa-ed87-48e1-8d02-1149cc5b3dc6/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/caf38538-135d-4c28-8e81-985b0cd0cf33/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/c98e3c6f-cc25-4645-bad4-dee595c1759f/",
+                "alt": ""
+            }
+        ],
+        "declaimer": {
+            "title": "<h1>CITRAK MG.</h1>",
+            "subTitle": "<strong>CITRATO DI POTASSIO 1,5g. + CITRATO DI MAGNESIO 1.g 20 BUSTINE</strong>",
+            "content": "<p>magnesio. E' consigliato nei casi di attività sportiva, intensa sudorazione e nella prevenzione e correzione degli stati di deplezione potassica dell’organismo. E' indicato in caso di carenza di potassio accompagnata a sensazione di stanchezza e astenia muscolare non contiene zuccheri e può pertanto essere assunto anche da soggetti con alterato metabolismo glucidico fornisce 1,5 g di citrato di potassio e 1 g di citrato di magnesio per bustina</p>"
+        },
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "Unita'",
+            "discount": 15,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 20,
+            "qtyMultiplierShowOnExtraDesc": true,
+            "qtyExtraDesc": "Bustine",
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+        },
+        "benefits": {
+            "title": "Scheda Prodotto",
+            "productColorTheme": "rgb(0, 175, 240)",
+            "items": [
+                {
+                    "title": "Reintegra",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/c61e9798-f5d7-4c4b-8c66-2e68c1e46410/",
+                        "alt": ""
+                    },
+                    "description": "Integratore di potassio indicato nei casi di ridotto apporto con la dieta"
+                },
+                {
+                    "title": "INTEGRA",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/0d9e60af-97d8-4211-9304-65be0dc1d24a/",
+                        "alt": ""
+                    },
+                    "description": "Integra il potassio nei casi di aumentato fabbisogno fisiologico."
+                },
+                {
+                    "title": "NON CONTIENE ZUCCHERI",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/f53bf8d5-88e9-4c07-92e2-47e284a59908/",
+                        "alt": ""
+                    },
+                    "description": "Può essere assunto anche da soggetti con alterato metabolismo del glucosio"
+                },
+                {
+                    "title": "RIPRISTINA",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/3bd7a15b-6303-46db-a14b-52953fb92f27/",
+                        "alt": ""
+                    },
+                    "description": "Ripristina la fatica muscolare e da' energia dopo l'attivita' sportiva"
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Dettagli",
+                "details": [
+                    "<p>Citrak Mg. e' un integratore dietetico di potassio ce magnesio onsigliato nei casi di ridotto apporto con la dieta o di aumentato fabbisogno fisiologico. Grazie al suo mix di principi attivi è efficace in tutti i casi di affaticamento fisico causato da attività fisica intensa o da carenze di potassio in genere .</p><p>Citrak® Forte non contiene zuccheri e può quindi essere assunto anche da soggetti con metabolismo del glucosio compromesso. </p><p><strong>E' consigliato l'uso di Citrak® Forte:</strong></p><ul style='list-style: inside disc;'><li>per il trattamento con diuretici (tiazidici, tiazidici, furosemide)</li><li>in trattamento con digitale</li><li>in stati di ipercorticismo (sindrome CONN, sindrome di CUSHING)</li><li>in trattamento con cortisone e ACTH</li><li>in caso di diarrea e vomito profuso in trattamento con insulina</li><li>nella chetoacidosi diabetica</li><li>insufficienza epatica (come nel caso della cirrosi epatica)</li><li>nella paralisi muscolare periodica</li><li>nel periodo postoperatorio</li><li>attività sportiva</li><li>attività lavorative pesanti</li><li>elevata sudorazione da elevate temperature esterne</li><li>calcoli renali (la cui prevenzione prevede l'aggiunta di sali alcalini di potassio e magnesio come prima arma)</li><li>perdita intestinale dovuta a diarrea o cattivo assorbimento</li><li>disturbi del metabolismo</li><li>disturbi alimentari (una persona anoressica entra in uno stato marcato di acidosi sistemica, sia per il digiuno che per la continua perdita di ioni potassio con emesi indotta).</li></ul><p></p><p><strong>Modalita' d'uso</strong></p><p>Il contenuto di una bustina di Citrak Mg va disciolto in un bicchiere d’acqua. Si consiglia l’assunzione di 1-2 bustine al giorno.</p><p></p><p><strong>Condroindicazioni </strong></p><p>Contengono polialcoli; un consumo eccessivo può dare effetti lassativi </p><p><strong>Avvertenze </strong></p><p>  Gli integratori alimentari non vanno intesi quali sostituti a una dieta variata, equilibrata e di un sano stile di vita. Tenere fuori dalla portata di bambini al di sotto dei 3 anni di età. Non superare la dose giornaliera consigliata.</p><p></p><p><strong>Effetti indesiderati</strong></p><p>Nessuno noto</p><p><strong>Confezione e conservazione</strong></p><p>Ogni confezione contiene 30 bustine da 4 g. Ogni bustina di Citrak  contiene 2 g di citrato di potassio. Conservare in luogo fresco ed asciutto, al riparo da fonti dirette di luce, calore ed umidità. </p>"
+                ]
+            },
+            {
+                "title": "Informazioni Aggiuntive",
+                "details": [
+                    "<p>Contiene Polialcoli. Non contiene zuccheri</p>"
+                ]
+            },
+            {
+                "title": "Garanzia Di Qualita'",
+                "details": [
+                    "<p>L’attenzione e il monitoraggio costanti su tutto il ciclo di produzione hanno permesso l’ottenimento della certificazione ISO9001 (certificazione che attesta la qualità di un sistema aziendale).</p>"
+                ]
+            },
+            {
+                "title": "Ingredienti",
+                "details": [
+                    "<p>Citrato di Potassio, Citrato di Magnesio Bibasico, Edulcorante: Mannitolo, Acidificante: Acido Citrico, Aromi, Edulcorante: Acesulfame K, Colorante: Betacarotene.</p>"
+                ]
+            },
+            {
+                "title": "Blog",
+                "blog": true,
+                "details": [
+                    {
+                        "title": "INGREDIENTI E BENEFICI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/f07fc29f-f8c0-40b7-9cb5-c6bac7effcc8/",
+                                "title": "Vitamine e Sali minerali: salute e vitalità",
+                                "link": "https://blog.brunomd.eu/vitamine-e-sali-minerali-salute-e-vitalita/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "PROBLEMI E SINTOMI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/49470804-5018-48c6-a146-beebd04d260b/",
+                                "title": "Il Potassio: che cos’è, a cosa serve?",
+                                "link": "https://blog.brunomd.eu/il-potassio-che-cose-a-cosa-serve/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Stile di Vita",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/d8a8788b-30b7-4810-832f-4252b279b08c/",
+                                "title": "Stile di vita: le buone abitudini antiossidanti",
+                                "link": "https://blog.brunomd.eu/stile-di-vita-le-buone-abitudini-antiossidanti/"
+                            },
+                            {
+                                "thumb": "https://f.shgcdn.com/0fea8049-2370-4ea2-a1b5-2581ee615211/",
+                                "title": "Lo sport nella vita quotidiana: ne migliora la qualità e la durata",
+                                "link": "https://blog.brunomd.eu/lo-sport-nella-vita-quotidiana-ne-migliora-la-qualita-e-la-durata/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "newsletter": {
+            "title": "Iscriviti alla newsletter",
+            "portalId": "19647191",
+            "formId": "65e33639-1716-4cd6-99e2-b413cfd1141b",
+            "desktopImage": "https://f.shgcdn.com/db0a7bad-fa1b-42ca-9a68-13dc49a2d994/",
+            "mobileImage": "https://f.shgcdn.com/668c206c-2dcc-4ddb-bfbf-9b2a0f6f9041/"
+        }
+    },
+    "drop-therapeutic-gocce-oculari-lubrificanti-10ml": {
+        "EXTERNALID": "8097677934907",
+        "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2Nzc5MzQ5MDc=",
+        "SLUG": "drop-therapeutic-gocce-oculari-lubrificanti-10ml",
+        "link": "/prodotti/",
+        "theme": "#00A7E1",
+        "title": "DROP THERAPEUTIC",
+        "btnText": "Shop",
+        "price":18.00,
+        "logo": {
+            "src": "https://f.shgcdn.com/6f3eb7b1-e334-4580-bf95-5a86d245e8be/"
+        },
+        "images": [
+            {
+                "src": "https://f.shgcdn.com/beffa520-31c4-4ba3-938b-ae31b80c5a4d/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/1b795a38-74df-4680-973b-11a452b7bdf0/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/0ae138b4-190e-4209-a182-ec4795a1f7a9/",
+                "alt": ""
+            }
+        ],
+        "declaimer": {
+            "title": "<h1>DROP THERAPEUTIC</h1>",
+            "subTitle": "<strong>GOCCE OCULARI LUBRIFICANTI 10ML</strong>",
+            "content": "<p>Ristabilisce l’attività metabolica oculare e il turnover del film lacrimale. Soluzione oftalmica lubrificante con formulazione brevettata a base di Vitamina B2, Vitamina E TPGS, sodio ialuronato ed amminoacidi. Contribuisce alla stabilità della superficie oculare, regolandone pH e osmolarità. Protegge gli epiteli sottoposti a stress di varia natura.</p>"
+        },
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "Unita'",
+            "discount": 15,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 1,
+            "qtyMultiplierShowOnExtraDesc": false,
+            "qtyExtraDesc": "Flacone 10ml",
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+        },
+        "benefits": {
+            "title": "Scheda Prodotto",
+            "productColorTheme": "rgb(0, 175, 240)",
+            "items": [
+                {
+                    "title": "Idrata e rigenera",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/c87703c3-9203-4b08-9f2d-4846f40f7772/",
+                        "alt": ""
+                    },
+                    "description": "Migliora l'idratazione e la rigenerazione dei tessuti e il rispristino del naturale equilibrio del film lacrimale"
+                },
+                {
+                    "title": "Stabilizza",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/d95534ba-4f58-460d-bd02-cc45bc445a41/",
+                        "alt": ""
+                    },
+                    "description": "Contribuisce alla stabilita' della superficie oculare e regola il pH e l'osmolarità e protegge l'epitelio corneale"
+                },
+                {
+                    "title": "Protegge",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/6debfc41-dc39-4569-b7d3-6ba5f90c4204/",
+                        "alt": ""
+                    },
+                    "description": "Migliora l'azione protettiva sull'epitelio corneale accellerando il naturale processo di riparazione nel Dry Eye."
+                },
+                {
+                    "title": "Promuove",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/35789c4d-5548-4c9f-8019-a1fd417fc069/",
+                        "alt": ""
+                    },
+                    "description": "Promuove la bagnabilità della superficie oculare e fornisce nutrienti essenziali per il post-operatorio della superficie oculare"
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Dettagli",
+                "details": [
+                    "<p>DROP therapeutic è una soluzione oftalmica a base di VIT B2, VIT E, sodio ialuronato ed amminoacidi. La VIT B2 e la VIT E TPGS contenute nella soluzione oftalmica interagiscono con lo strato lipidico esterno del film lacrimale e formano un film protettivo che ostacola la ipervaporazione della componente acquosa. Il sodio ialuronato interagisce meccanicamente con lo strato mucinico del film lacrimale trattenendo acqua e contribuendo a mantenere la superficie oculare stabile per un lungo periodo. L'azione sinergica degli amminoacidi ha una funzione nutritiva della superficie oculare, oltre che funzione di regolazione del ph e dell’osmolarità lacrimale e contribuisce al miglioramento della protezione degli epiteli sottoposti a stress di varia natura. La Vit E TPGS favorisce inoltre la bagnabilità della superfice oculare. La soluzione oftalmica apporta in maniera bilanciata tutti i vari nutrienti necessari a garantire la conservazione delle condizioni ottimali della superficie oculare dopo insulti di tipo chirurgico. Inoltre DROP therapeutic può essere utilizzato dopo l'irraggiamento con UV-A nel cross-linking corneale e durante l'esposizione al sole per mantenere la cornea idratata. Antiossidante naturale contro i danni da raggi UV e luce visibile ad alta energia (HEV light), promuove i naturali processi riparativi. É indicato per il Cheratocono e altre ectasie corneali, trattamenti di cross linking corneale ed i portatori di LAC. DROP therapeutic può essere utilizzato con lenti a contatto indossate. DROP therapeutic è indicato:</p><ul style='list-style: inside disc;'><li>nei pazienti sottoposti ad interventi di cross-linking cornealenei pazienti affetti da cheratocono</li><li>nella secchezza oculare</li><li>nell’alterazione della continuità della superficie oculare</li><li>nelle iperemie dopo chirurgia refrattiva</li><li>nei traumi da corpo estraneo</li><li>in seguito ad interventi chirurgici</li><li>nelle alterazioni della superficie oculare legate a patologie metaboliche</li><li>nello stress ambientale (smog, microclimi alterati, fumo, aria condizionata</li></ul><p>Modalita' d'uso</p><ol style='list-style: inside decimal;'><li>Aprire il flacone e rimuovere il tappo di protezione.</li><li>Premere delicatamente il flacone e instillare 1/2 gocce in ciascun occhio; ripetere l’operazione in base alle esigenze.</li></ol><p>Dopo l’uso chiudere il flacone: il contenuto rimasto può esser riutilizzato fino a 2 mesi dopo la prima</p><p>apertura.</p><p><strong>Condroindicazioni </strong></p><p>Nessuna nota</p><p><strong>Avvertenze</strong></p><p>il prodotto è solo per uso oftalmico esterno.</p><ul style='list-style: inside disc;'><li>conservare a temperatura non superiore a 25°C</li><li>non utilizzare nei casi di riconosciuta intolleranza o ipersensibilità ai suoi componenti.</li><li>non utilizzare il prodotto se il confezionamento risultasse, al momento della prima apertura,danneggiato o non perfettamente chiuso.</li><li>non usare il prodotto dopo la data di scadenza indicata sulla confezione.</li><li>la data di scadenza si riferisce al prodotto integro e correttamente conservato.</li><li>prima dell’uso leggere attentamente le istruzioni riportate nel foglio illustrativo.</li><li>tenere fuori dalla portata dei bambini.</li><li>non disperdere il contenitore nell’ambiente dopo l’uso   </li></ul><p></p><p><strong>Effetti indesiderati</strong></p><p>Nessuno noto</p><p><strong>Confezione e conservazione</strong></p><p>Chiudere il flacono dopo l'uso.</p><p>Il contenuto può essere</p><p>utilizzato fino a 2 mesi dopo</p><p>la prima apertura. Conservare a temperatura non superiore a 25°C. </p><p>A confezionamento integro non superare la data di scadenza indicata sull’astuccio e sul flacone.</p><p>Non separare il contenuto dalla confezione esterna e dal foglio illustrativo, allo scopo di avere tutte</p><p>le informazioni necessarie al corretto utilizzo del prodotto</p>"
+                ]
+            },
+            {
+                "title": "Informazioni Aggiuntive",
+                "details": [
+                    "<p>Dispenser multidose senza conservanti. Utilizzabile con lenti a contatto</p>"
+                ]
+            },
+            {
+                "title": "Garanzia Di Qualita'",
+                "details": [
+                    "<p>L’attenzione e il monitoraggio costanti su tutto il ciclo di produzione hanno permesso l’ottenimento della certificazione ISO9001 (certificazione che attesta la qualità di un sistema aziendale).</p>"
+                ]
+            },
+            {
+                "title": "Ingredienti",
+                "details": [
+                    "<p>Riboflavina, Vitamina E TPGS, Acido Ialuronico, Amminoacidi. Sodio fosfato, Sodio Cloruro, L-glicina, L-prolina, L-lisina, L-leucina, acqua depurata. Senza conservanti.</p>"
+                ]
+            },
+            {
+                "title": "Blog",
+                "blog": true,
+                "details": [
+                    {
+                        "title": "INGREDIENTI E BENEFICI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/0fee628f-55e3-44b1-a6f9-d18ef8005f6b/",
+                                "title": "Vitamine: piccole quantità indispensabili per la vita!",
+                                "link": "https://blog.brunomd.eu/vitamine-piccole-quantita-indispensabili-per-la-vita/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "PROBLEMI E SINTOMI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/f05372df-0d9b-4e41-af6a-6536482b8d15/",
+                                "title": "Cheratocono: cause e sintomi",
+                                "link": "https://blog.brunomd.eu/cheratocono-cause-e-sintomi/"
+                            },
+                            {
+                                "thumb": "https://f.shgcdn.com/a58ffd0c-0c92-4f83-b3bb-c90c5d43a696/",
+                                "title": "Le lacrime di cosa sono fatte e che funzione hanno?",
+                                "link": "https://blog.brunomd.eu/le-lacrime-di-cosa-sono-fatte-e-che-funzione-hanno/"
+                            },
+                            {
+                                "thumb": "https://f.shgcdn.com/460b154e-5e94-4359-b683-c498a663f3ce/",
+                                "title": "Occhio: com’è fatto, come funziona?",
+                                "link": "https://blog.brunomd.eu/occhio-come-fatto-come-funziona/"
+                            },
+                            {
+                                "thumb": "https://f.shgcdn.com/d0815a9a-8971-4b98-908f-84e3fa73c900/",
+                                "title": "Occhio secco: le principali cause della disidratazione",
+                                "link": "https://blog.brunomd.eu/occhio-secco-le-principali-cause-della-disidratazione/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Stile di Vita",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/f662b46e-3f0d-4dcf-987b-3ea3fd5ed1cd/",
+                                "title": "Occhio secco: 10 consigli per chi utilizza spesso computer, tablet e cellulari",
+                                "link": "https://blog.brunomd.eu/occhio-secco-10-consigli-per-chi-utilizza-spesso-computer-tablet-e-cellulari/"
+                            },
+                            {
+                                "thumb": "https://f.shgcdn.com/35b638ad-30cc-4a63-b3e7-151b9661a27d/",
+                                "title": "Occhio secco: benessere a sapersi",
+                                "link": "https://blog.brunomd.eu/occhio-secco-benessere-a-sapersi/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "newsletter": {
+            "title": "Iscriviti alla newsletter",
+            "portalId": "19647191",
+            "formId": "4b865a98-e0fc-432c-8a5a-d8a3ddad8989",
+            "desktopImage": "https://f.shgcdn.com/bdd20bbd-7824-499b-b691-a1681a5b16cf/",
+            "mobileImage": "https://f.shgcdn.com/10d806fb-fd51-4711-ab59-407971078e3e/"
         }
     },
     "silverphage-14-individual-wipes": {
@@ -182,10 +926,131 @@
         "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgxMjczMTM5MzY2OTk=",
         "SLUG": "silverphage-14-individual-wipes",
         "link": "/prodotti/",
+        "theme": "#0033A1",
         "title": "SILVERPHAGE GARZE MONOUSO",
         "btnText": "Shop",
+        "price":19.00,
         "logo": {
             "src": "https://f.shgcdn.com/2289226e-14ac-4a34-a768-41633b067fe5/"
+        },
+        "images": [
+            {
+                "src": "https://f.shgcdn.com/4b19f1d3-e978-46f1-a4a8-632348e56f0a/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/32e5bf25-63c6-4522-ba78-cae993e62bc3/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/2c6153cd-408f-4f1b-b5f9-9313da648845/",
+                "alt": ""
+            }
+        ],
+        "declaimer": {
+            "title": "<h1>SILVERPHAGE GARZE MONOUSO</h1>",
+            "subTitle": "<strong>SILVERPHAGE 14 GARZE MONOUSO</strong>",
+            "content": "<p>SILVERPHAGE e’ un dispositivo medico per la detersione dell'area perioc</p>"
+        },
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "Unita'",
+            "discount": 15,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 14,
+            "qtyMultiplierShowOnExtraDesc": true,
+            "qtyExtraDesc": "Garze Monouso",
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+        },
+        "benefits": {
+            "title": "Scheda Prodotto",
+            "productColorTheme": "rgb(0, 51, 161)",
+            "items": [
+                {
+                    "title": "Umettante",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/c87703c3-9203-4b08-9f2d-4846f40f7772/",
+                        "alt": ""
+                    },
+                    "description": "Svolge un'attivita detergente"
+                },
+                {
+                    "title": "Coadiuvante",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/d95534ba-4f58-460d-bd02-cc45bc445a41/",
+                        "alt": ""
+                    },
+                    "description": "Indicato come coadiuvante in caso di infiammazioni, infezioni, allergie anche in presenza di secrezioni oculari. Coadiuvante nel trattamento di congiuntiviti di varia natura, anche in presenza disecrezioni oculare"
+                },
+                {
+                    "title": "Proteggente",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/6debfc41-dc39-4569-b7d3-6ba5f90c4204/",
+                        "alt": ""
+                    },
+                    "description": "Crea un a barriera umida che protegge l’area perioculare e aiuta a prevenire le infezioni batteriche e virali."
+                },
+                {
+                    "title": "Rigenerante",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/35789c4d-5548-4c9f-8019-a1fd417fc069/",
+                        "alt": ""
+                    },
+                    "description": "Favorisce il mantenimento delle condizioni fisiologiche della zona perioculare"
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Dettagli",
+                "details": [
+                    "<p>SILVERPHAGE e’una Garza monouso di cotone imbevuta di una sospensione con caratteristiche umettanti in grado di svolgere un'attivita detergente. SILVERPHAGE e’ un dispositivo medico per adulti e bambini indicato come coadiuvante in caso di infiammazioni, infezioni, allergie anche in presenza di secrezioni oculari</p><p>SILVERPHAGE e’ indicate per l'igiene quotidiana di palpebre e ciglia sia nell'adulto che nel bambino e puo’ essere utilizzata durante le terapie prescritte dal medico oculista. E particolarment e’ indicate come coadiuvante nel trattamento di congiuntiviti di varia natura, anche in presenza disecrezioni oculari. Silverphage crea un a barriera uminda che protegge l’area perioculare e aiuta a prevenire le infezioni batteriche e virali. Grazie a questa caratteristica, puo’ essere utilizzata prima e dopo a interventi di chirurgia oftalmica, perche’ favorisce il mantenimento delle condizioni fisiologiche della zona perioculare. La composizione di SILVERPHAGE e’ stata studiata per avere un comfort ottimale e compatibile con le caratteristiche chimico-fisiche dell'area perioculare senza alterarne il pH</p><p><strong>Modalita' d'uso</strong></p><p>Come usare SILVERPHAGE?</p><ul style='list-style: inside disc;'><li>Lavarsi e asciugarsi accuratamente le mani prima di utilizzare il prodotto.</li><li>Aprire la bustina strappandola in prossimita’ dell'apposita tacca di apertura ed estrarre la Garza</li><li>Dispiegare completamente la Garza e passarla delicatamente sulla palpebra e sulle ciglia partendo dall'angolo interno dell'occhio e procedendo verso l'angolo esterno</li><li>Non risciacquare l'occhio dopo l’uso</li><li>Utilizzare una Garza per ciascun occhio</li><li>Lavarsi le mani dopo l’uso. </li></ul><p>Frequenza d'uso: da 1 a 2 volte al giorno o secondo indicazione del medico</p><p><strong>Condroindicazioni</strong></p><p>Non sono noti fenomeni di sovradosaggio.</p><p>Ipersensibilità accertata verso i componenti.</p><p>Non sono note interazioni con farmaci e sostanze medicinali.</p><p><strong>Avvertenze</strong></p><p>Uso esterno:</p><ul style='list-style: inside disc;'><li>Utilizzare nell'area perioculare mantenendo l'occhio chiuso</li><li>Non utilizzare il prodotto in caso di ipersensibilita’ nota o allergia as uno qualsiasi dei componenti. In caso di irritazione locale interrompere l'utilizzo e contattare il medico</li><li>Non riutilizzare la Garza per evitare il rischio di inefficacia e di contaminazione del prodotto</li><li>Ogni bustina e’ monouso e deve essere aperta solo immediatamente prima dell'u¬so</li><li>Non utilizzare in caso di bustina non integra o confezione danneggiata</li><li>Tenere fuori dalla portata dei bambini</li><li>Non utilizzare dopo la data di scadenza indicate sulla confezione Tenere lontano da fonti di calore,conservare in luogo asciutto a temperature ambiente</li><li>Si raccomanda di non condividere SILVERPHAGE tra piu utilizzatori</li><li>In mancanza di dati specifici sulle donne in gravidanza e in allattamento, consultare il proprio medico o il farmacista prima dell'utilizzo</li><li>II prodotto e’ normalmente destinato ad uso continuo per non piu’ di 30 giorni; se I sintomi persistono, consultare il medico</li><li>Rimuovere le lenti a contatto prima dell’utilizzo</li></ul><p>Nessuno noto</p><p> Confezione e conservazione</p><p>Conservare al riparo dall’umidità e da fonti di calore.</p>"
+                ]
+            },
+            {
+                "title": "Informazioni Aggiuntive",
+                "details": [
+                    "<p>Senza Glutine, Senza Lattosio</p>"
+                ]
+            },
+            {
+                "title": "Garanzia Di Qualita'",
+                "details": [
+                    "<p>L’attenzione e il monitoraggio costanti su tutto il ciclo di produzione hanno permesso l’ottenimento della certificazione ISO9001 (certificazione che attesta la qualità di un sistema aziendale).</p>"
+                ]
+            },
+            {
+                "title": "Ingredienti",
+                "details": [
+                    "<p>Garza monouso di cotone imbevuta della seguente sospensione: acqua, caprylyl/caprylglucoside, complessoTiAB (biossido di titanio complessato con ioni argen¬to monovalente),PEG-PPG-20/15 dimeticone, glicole propilenico,1,2-esandiolo,PPG-26 Buteth-26,PEG-40 olio di ricino idrogenato, gamma xantan, idrossiacetofenone, sodiobicarbonato</p>"
+                ]
+            },
+            {
+                "title": "Blog",
+                "blog": true,
+                "details": [
+                    {
+                        "title": "INGREDIENTI E BENEFICI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/1e4f65d0-9e3e-41eb-b80c-2bdc13ba440f/",
+                                "title": "La congiuntivite: cause, forme e sintomi",
+                                "link": "https://blog.brunomd.eu/la-congiuntivite-cause-forme-e-sintomi/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "newsletter": {
+            "title": "Iscriviti alla newsletter",
+            "portalId": "19647191",
+            "formId": "569a2af9-b397-486f-8ac7-98d462d81ec1",
+            "desktopImage": "https://f.shgcdn.com/76e54b5b-01be-413d-8637-92096bc3e0c6/",
+            "mobileImage": "https://f.shgcdn.com/31cde13f-00fc-404b-b218-2b808046c9e5/"
         }
     },
     "nubit-30-compresse-da-850mg": {
@@ -194,9 +1059,155 @@
         "SLUG": "nubit-30-compresse-da-850mg",
         "link": "/prodotti/",
         "title": "NUBIT",
+        "theme": "#f58543",
+        "price": 26,
         "btnText": "Shop",
         "logo": {
             "src": "https://f.shgcdn.com/75ccb267-62ad-4c16-a0db-1987c65ff749/"
+        },
+        "images": [
+            {
+                "src": "https://f.shgcdn.com/344b411d-cace-46b8-8bcd-9be51e4bdacc/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/23d17b78-dc20-4666-b4b0-f7899886fae5/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/8edfa801-285e-402a-b32c-8e5fdc55da37/",
+                "alt": ""
+            }
+        ],
+        "declaimer": {
+            "title": "<h1>NUBIT</h1>",
+            "subTitle": "<strong>30 COMPRESSE DA 850MG</strong>",
+            "content": "<p>Nubit e' un integratore alimentare a base di vitamine B1 e B12, che contribuiscono al normale funzionamento del sistema nervoso, e a base di alte dose di nucleotidi (Uridina 5-monofosfato e Citidina 5-monofosfato) considerati essenziali in determinate situazioni. Adatto ai diabetici.</p>"
+        },
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "Unita'",
+            "discount": 15,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 25,
+            "qtyMultiplierShowOnExtraDesc": false,
+            "qtyExtraDesc": "compresse",
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+        },
+        "benefits": {
+            "title": "Scheda Prodotto",
+            "productColorTheme": "rgb(0, 51, 161)",
+            "items": [
+                {
+                    "title": "Dolore Neuropatico",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/c87703c3-9203-4b08-9f2d-4846f40f7772/",
+                        "alt": ""
+                    },
+                    "description": "Aiuta a ridurre il dolore neuropatico"
+                },
+                {
+                    "title": "Sistema nervoso",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/d95534ba-4f58-460d-bd02-cc45bc445a41/",
+                        "alt": ""
+                    },
+                    "description": "Contribuisce al normale funzionamento del sistema nervoso"
+                },
+                {
+                    "title": "Cellule nervose",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/6debfc41-dc39-4569-b7d3-6ba5f90c4204/",
+                        "alt": ""
+                    },
+                    "description": "Stimola la sintesi delle cellule nervose"
+                },
+                {
+                    "title": "Rigenera",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/35789c4d-5548-4c9f-8019-a1fd417fc069/",
+                        "alt": ""
+                    },
+                    "description": "Aiuta a rigenerare i nervi periferici"
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Dettagli",
+                "details": [
+                    "<p>Nubit e' un integratore alimentare a base di vitamine B1 e B12, che contribuiscono al normale funzionamento del sistema nervoso, e a base di alte dose di nucleotidi (Uridina 5-monofosfato e Citidina 5-monofosfato) considerati essenziali in determinate situazioni.</p><p>Adatto ai diabetici.</p><p><strong>Modalita' d'uso</strong></p><p>Assumere una compressa al giorno con un bicchiere d'acqua.</p><p><strong>Condroindicazioni</strong></p><p>Nessuno noto </p><p><strong>Avvertenze</strong></p><p>Non superare la dose giornaliera consigliata. Tenere fuori dalla portata dei bambini al di sotto dei 3 anni di età. Gli integratori alimentari non vanno intesi come sostituti di una dieta variata ed equilibrata e di uno stile di vita sano. Questo prodotto non è un medicinale. In caso di gravidanza o allattamento consultare il proprio medico.</p><p><strong></strong></p><p><strong>Effetti indesiderati</strong></p><p>Nessuno noto</p><p><strong>Confezione e conservazione</strong></p><p>Conservare in luogo fresco e asciutto, nell'imballaggio originale.</p><p>Validità confezionamento integro: 36 mesi.</p>"
+                ]
+            },
+            {
+                "title": "Informazioni Aggiuntive",
+                "details": [
+                    "<p>Senza Glutine, Senza Lattosio</p>"
+                ]
+            },
+            {
+                "title": "Garanzia Di Qualita'",
+                "details": [
+                    "<p>L’attenzione e il monitoraggio costanti su tutto il ciclo di produzione hanno permesso l’ottenimento della certificazione ISO9001 (certificazione che attesta la qualità di un sistema aziendale).</p>"
+                ]
+            },
+            {
+                "title": "Ingredienti",
+                "details": [
+                    "<p>Uridina-5'-monofosfato, sale disodico; agente di carica: cellulosa microcristallina (E460); sale disodico di citidina-5'-monofosfato; agenti antiagglomeranti: biossido di silicio (E551), magnesio stearato (E470b); vitamina B1 (mononitratotiamina); colorante: ossido ferro rosso (E172); vitamina B12 (cianocobalamina).</p>"
+                ]
+            },
+            {
+                "title": "Blog",
+                "blog": true,
+                "details": [
+                    {
+                        "title": "INGREDIENTI E BENEFICI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/ed52fc59-e4bd-499b-af9b-167185f4a7a4/",
+                                "title": "ll ruolo dei nucleotidi nella rigenerazione del nervo",
+                                "link": "https://blog.brunomd.eu/ll-ruolo-dei-nucleotidi-nella-rigenerazione-del-nervo/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "PROBLEMI E SINTOMI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/45bcb0b0-aff4-44b3-80ff-40047bf0201f/",
+                                "title": "Neuropatia diabetica: conosci i fattori di rischio e i principali sintomi ?",
+                                "link": "https://blog.brunomd.eu/neuropatia-diabetica-conosci-i-fattori-di-rischio-e-i-principali-sintomi/?q=2"
+                            },
+                            {
+                                "thumb": "https://f.shgcdn.com/5445b3a4-da5b-46ec-b492-8b71cc2595d5/",
+                                "title": "Buon sonno, buon umore! Dormire bene, riposare di più",
+                                "link": "https://blog.brunomd.eu/buon-sonno-buon-umore-dormire-bene-riposare-di-piu/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "INGREDIENTI E BENEFICI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/a9b50201-c2a3-460c-af4f-0f5736253f23/",
+                                "title": "L’ambiente ideale per una sana dormita",
+                                "link": "https://blog.brunomd.eu/lambiente-ideale-per-una-sana-dormita/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "newsletter": {
+            "title": "Iscriviti alla newsletter",
+            "portalId": "19647191",
+            "formId": "12cce9d1-8ccd-4782-a7ed-b5db55fb906d",
+            "desktopImage": "https://f.shgcdn.com/6a973cd7-6fd9-477c-a211-f542afe9a456/",
+            "mobileImage": "https://f.shgcdn.com/8901fd1f-7803-455f-beae-b16423974600/"
         }
     },
     "neulenic-600-confezione-da-15-compresse-rivestite-da-1-g-peso-netto-15-0-g": {
@@ -205,9 +1216,155 @@
         "SLUG": "neulenic-600-confezione-da-15-compresse-rivestite-da-1-g-peso-netto-15-0-g",
         "link": "/prodotti/",
         "title": "NEULENIC",
+        "theme": "#d50032",
         "btnText": "Shop",
+        "price":26.00,
         "logo": {
             "src": "https://f.shgcdn.com/587468bb-8134-4726-bb5e-72b9fc77e96f/"
+        },
+        "images": [
+            {
+                "src": "https://f.shgcdn.com/b1cc3d88-e115-43a1-a5f6-cfc938623ea9/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/0c026a93-9459-4a7b-b9ec-82040de78931/",
+                "alt": ""
+            },
+            {
+                "src": "https://f.shgcdn.com/05e4672a-dba3-4f3e-9670-75187b7c8058/",
+                "alt": ""
+            }
+        ],
+        "declaimer": {
+            "title": "<h1>NEULENIC</h1>",
+            "subTitle": "<strong>600 CONFEZIONE DA 15 COMPRESSE RIVESTITE DA 1 G. PESO NETTO: 15.0 G</strong>",
+            "content": "<p>Neulenic e' un Integratore alimentare di acido alfa-lipoico, vitamine e rame. Le vitamine del gruppo B presenti nel prodotto, ovvero niacina, vitamina B2, vitamina B6 e vitamina B12 contribuiscono, insieme alla biotina, al normale funzionamento del sistema nervoso. Il rame contribuisce alla protezione delle cellule dallo stress ossidativo. E' il coenzima utile del metabolismo cellulare per la sintesi di ATP, la fonte principale di energia cellulare. É un potente antiossidante e contrasta l'azione dei radicali liberi coinvolti in molti processi dannosi per l'organismo. L'Acido Alfa Lipoico ha mostrato di possedere spiccate proprietà nel trofismo nervoso e vascolare</p>"
+        },
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "Unita'",
+            "discount": 15,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 15,
+            "qtyMultiplierShowOnExtraDesc": true,
+            "qtyExtraDesc": "compresse",
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 10 giorni e riceverai il prodotto a pagamento effettuato"
+        },
+        "benefits": {
+            "title": "Scheda Prodotto",
+            "productColorTheme": "rgb(0, 51, 161)",
+            "items": [
+                {
+                    "title": "Coopera",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/5ce73e76-f27d-4b54-b625-1aa363e2ad5f/",
+                        "alt": ""
+                    },
+                    "description": "Contribuisce al normale funzionamento del sistema nervoso"
+                },
+                {
+                    "title": "Protegge",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/e1243d96-1e0b-4a6e-9617-d1af14f9599e/",
+                        "alt": ""
+                    },
+                    "description": "Contribuisce alla protezione delle cellule dallo stato ossidativo"
+                },
+                {
+                    "title": "Agisce",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/8b58f408-a961-4726-9b62-dc2b7d20f995/",
+                        "alt": ""
+                    },
+                    "description": "Agisce sulla causa ovvero sui processi ossidativi responsabili del percorso verso la patologia"
+                },
+                {
+                    "title": "Agisce",
+                    "icon": "",
+                    "img": {
+                        "src": "https://f.shgcdn.com/528896c7-db85-4858-a54e-52d3f36cbbdd/",
+                        "alt": ""
+                    },
+                    "description": "Agisce sul sintomo ovvero sul dolore generato dall’infiammazione e dalla lesione della membrana nervosa"
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Dettagli",
+                "details": [
+                    "<p>Neulenic e' un Integratore alimentare di acido alfa-lipoico, vitamine e rame. Le vitamine del gruppo B presenti nel prodotto, ovvero niacina, vitamina B2, vitamina B6 e vitamina B12 contribuiscono, insieme alla biotina, al normale funzionamento del sistema nervoso. Il rame contribuisce alla protezione delle cellule dallo stress ossidativo. E' il coenzima utile del metabolismo cellulare per la sintesi di ATP, la fonte principale di energia cellulare. É un potente antiossidante e contrasta l'azione dei radicali liberi coinvolti in molti processi dannosi per l'organismo.in vendita online su farmaciaguacci.it  L'Acido Alfa Lipoico ha mostrato di possedere spiccate proprietà nel trofismo nervoso e vascolare.</p><p><strong>Modalita' d'uso</strong></p><p>Una compressa al giorno da assumersi con acqua o con altro liquido, meglio se lontano dai pasti.</p><p><strong>Condroindicazioni</strong></p><p>Nessuna nota</p><p><strong>Avvertenze</strong></p><p> Gli integratori alimentari non vanno intesi quali sostituiti di una dieta variata, equilibrata e di un sano stile di vita. Non superare la dose giornaliera consigliata. Tenere fuori dalla portata dei bambini al di sotto dei tre anni di età. Per donne in gravidanza o in allattamento e bambini si raccomanda di sentire il parere del medico. In rari casi l'acido lipoico può dare ipoglicemia.</p><p></p><p><strong>Effetti indesiderati</strong></p><p>Nessuno noto</p><p><strong>Confezione e conservazione</strong></p><p>Conservare in luogo fresco al riparo da fonti di calore. Il termine minimo di conservazione si riferisce al prodotto correttamente conservato in confezione integra.</p><p>Validità a confezionamento integro: 24 mesi.</p>"
+                ]
+            },
+            {
+                "title": "Informazioni Aggiuntive",
+                "details": [
+                    "<p></p>"
+                ]
+            },
+            {
+                "title": "Garanzia Di Qualita'",
+                "details": [
+                    "<p>L’attenzione e il monitoraggio costanti su tutto il ciclo di produzione hanno permesso l’ottenimento della certificazione ISO9001 (certificazione che attesta la qualità di un sistema aziendale).</p>"
+                ]
+            },
+            {
+                "title": "Ingredienti",
+                "details": [
+                    "<p>Acido alfa-lipoico; agenti antiagglomeranti: biossido di silicio, sali di magnesio degli acidi grassi, carbossimetilcellulosa sodica reticolata, polivinilpolipirrolidone, talco; agenti di carica: fosfato dicalcico, cellulosa microcristallina; maltodestrine; stabilizzante: polivinilpirrolidone; niacina (nicotinammide); agenti di rivestimento: idrossipropilmetilcellulosa, acidi grassi; rame gluconato; vitamina B6 (piridossina cloridrato); vitamina B2 (riboflavina); coloranti: E171, E101; vitamina B12 (cianocobalamina); biotina (D-biotina).</p>"
+                ]
+            },
+            {
+                "title": "Blog",
+                "blog": true,
+                "details": [
+                    {
+                        "title": "INGREDIENTI E BENEFICI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/cfe16111-4e26-4da9-8334-4d4ac41c369d/",
+                                "title": "Acido alfa-lipoico: il potente antiossidante che protegge i nostri nervi",
+                                "link": "https://blog.brunomd.eu/acido-alfa-lipoico-il-potente-antiossidante-che-protegge-i-nostri-nervi/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "PROBLEMI E SINTOMI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/5445b3a4-da5b-46ec-b492-8b71cc2595d5/",
+                                "title": "Stress ossidativo e radicali liberi",
+                                "link": "https://blog.brunomd.eu/buon-sonno-buon-umore-dormire-bene-riposare-di-piu/"
+                            },
+                            {
+                                "thumb": "https://f.shgcdn.com/964f03ae-512e-484d-a45e-9448c785412d/",
+                                "title": "Neuropatia diabetica: conosci i fattori di rischio e i principali sintomi ?",
+                                "link": "https://blog.brunomd.eu/stress-ossidativo-e-radicali-liberi/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "INGREDIENTI E BENEFICI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/b9098582-7e3e-4469-b2db-4fde192a172f/",
+                                "title": "Frutti di bosco: una preziosa riserva di antiossidanti e non solo",
+                                "link": "https://blog.brunomd.eu/frutti-di-bosco-una-preziosa-riserva-di-antiossidanti-e-non-solo/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "newsletter": {
+            "title": "Iscriviti alla newsletter",
+            "portalId": "19647191",
+            "formId": "a97c8b24-a3f9-4896-b126-475d3ece5a8d",
+            "desktopImage": "https://f.shgcdn.com/b9f7188a-5f37-43ce-b1e1-6bc0ebe64c20/",
+            "mobileImage": "https://f.shgcdn.com/68bfc176-ff46-46db-9d99-e3d38e59c8c2/"
         }
     }
 }

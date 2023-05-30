@@ -10,10 +10,10 @@ export default function Storia() {
     const {masterHead, section,timeline,newsletter} = storia || {};
     return(
         <section>
-        {/* <MasterHeadImg  data={masterHead}/>
+        <MasterHeadImg  data={masterHead}/>
         <TimeLine data={timeline}/>
         <ImgText data={section}/>
-        <NewsLetter content={newsletter}/> */}
+        <NewsLetter content={newsletter}/>
         </section>
     )
 

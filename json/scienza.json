@@ -8,9 +8,9 @@
             "Bruno Farmaceutici S.p.A e attiva nella Ricerca e Sviluppo di nuovi farmaci e formulazioni che aiutano il corpo a guarire. negli ultimi anni, l'azienda ha lanciato formulazioni innovative in cardiologia per aiutare a controllare la fibrillazione atriale, l'ipertensione secondaria, il dolore cronico, il diabete, il trattamento dell'obesità e l'osteoporosi.",
             "Bruno MD inizia con la stessa missione di utilizzare la scienza per perfezionare il meglio che la natura offre. Se i nostri ingredienti non possono essere coltivati sul suolo italiano, cerchiamo in tutto il mondo ingredienti all'altezza degli stessi standard e li trasformiamo in prodotti che offrono una composizione alimentare al 100% e la massima biodisponibilità e benefici che si possono ottenere senza prescrizione medica."
         ],
-        "sectionImage":[
-            "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_2048/https://f.shgcdn.com/7a2fe5be-0bf9-41d2-9820-a5fbfcbc0f41/"
-        ]
+        "sectionImage":{
+            "src":"https://f.shgcdn.com/7a2fe5be-0bf9-41d2-9820-a5fbfcbc0f41/"
+        }
     },
     "sectionTwo":[{
         "title": null,

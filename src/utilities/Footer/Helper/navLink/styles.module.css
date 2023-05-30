@@ -26,7 +26,7 @@
   .menuItem:not(:last-child) {
     margin-bottom: 5px;
   }
-  .menuItem:last-child{
+  .menuItem:last-child p{
     margin-top: 20px;
   }
   
