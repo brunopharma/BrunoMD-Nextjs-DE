@@ -14,8 +14,12 @@
   .listNone{
     list-style: none;
   }
-  .menuItem:hover {
+  .menuItem a:hover {
     text-decoration: underline;
+  }
+  .menuItem > p{
+    cursor: grab;
+    text-decoration: none;
   }
   
   .groupTitle {
