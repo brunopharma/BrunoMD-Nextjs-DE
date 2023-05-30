@@ -1,10 +1,10 @@
 import styles from './styles.module.css'
-const TrustBadge = ({ contents }) => {
-    const {badges, title, theme} = contents
+const TrustBadge = ({ contents,productColorTheme }) => {
+    const {badges, title} = contents
     if(!badges.length || !title) return null
 
     return(
-    <section className={styles.productBadgesContainer} style={{ 'background-color': theme || '#37246b' }}>
+    <section className={styles.productBadgesContainer} style={{ 'background-color': productColorTheme || '#37246b' }}>
       <div className={styles.productBadgesCenter}>
         <div className={styles.badgeGroup}>
         {badges && badges.map((e,i)=>{

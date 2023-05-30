@@ -9,14 +9,15 @@ import Quote from '@/utilities/Sections/Quote';
 
 export default function Scienza() {
     const {masterHead, sectionOne,sectionTwo,quote,newsletter} = scienza || {};
+    console.log({aaa:sectionOne.sectionImage});
     return(
         <section>
-            {/* <WistiaHero id={masterHead.id} content={masterHead.content}/>
-            <TextText data={sectionOne.sectionContent} />
-            <Image src={sectionOne.sectionImage} alt="..."/>
+            <WistiaHero id={masterHead.id} content={masterHead.content}/>
+            <div style={{margin:'3rem auto'}}><TextText data={sectionOne.sectionContent} /></div>
+            <img src={sectionOne.sectionImage.src} alt="..."/>
             <ImgText data={sectionTwo} />
             <Quote data={quote}/>
-            <NewsLetter content={newsletter}/> */}
+            <NewsLetter content={newsletter}/>
         </section>
     )
 

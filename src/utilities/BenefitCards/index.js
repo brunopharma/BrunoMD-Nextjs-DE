@@ -1,12 +1,10 @@
 import React from "react";
 import styles from './styles.module.css'
 
-const BenefitCards = ({ data }) => {
-    console.log({ data });
-
+const BenefitCards = ({ data,productColorTheme }) => {
     return (
         <div className={styles.container}>
-            <div className={styles.card} style={{ 'background-color': data?.productColorTheme }}>
+            <div className={styles.card} style={{ 'background-color': productColorTheme }}>
                 <div className={styles.section}>
                     <div className={styles.title}>
                         <h1>{data.title}</h1></div>
