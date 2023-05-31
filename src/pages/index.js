@@ -11,9 +11,11 @@ import { NewsLetter } from '@/utilities/NewsLetter'
 import PatnerData from "../../json/parters.json"
 import TrustBadgeData from '../../json/trustBages.json'
 import HomePageData from '../../json/home.json'
+
 export default function Home() {
   return (
     <>
+    
       <section>
         <WistiaHero id={HomePageData.wistia.id} content={HomePageData.wistia.content} />
         <MarkqueCarousel image={PatnerData} />
