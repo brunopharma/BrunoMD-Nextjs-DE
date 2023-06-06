@@ -1,3 +1,18 @@
+@font-face {
+  font-family: "Gotham";
+  src: url("https://cdn.shopify.com/s/files/1/0674/0518/5339/t/2/assets/GothamSSm-Book_Web.woff?v=106431077362625990591668075946");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gotham";
+  src: url("https://cdn.shopify.com/s/files/1/0674/0518/5339/t/2/assets/GothamSSm-Bold_Web.woff?v=175273074723104644111668075946");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
 /* :root {
   --max-width: 1100px;
   --border-radius: 12px;

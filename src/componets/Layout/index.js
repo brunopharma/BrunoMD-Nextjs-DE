@@ -1,4 +1,5 @@
 import Header from '@/utilities/Header/';
+import PageHead from "@/utilities/Head";
 import Footer from '@/utilities/Footer/';
 import AnnouncementBar from '@/utilities/announcementBar';
 import Chat from '@/utilities/ChatBubble'
@@ -80,6 +81,7 @@ export default function Layout({ children }) {
     const { announcementBar } = data || {}
     return (
         <>
+        <PageHead/>
             <AnnouncementBar announcement={announcementBar.title} theme={{ textColor: announcementBar.textColor, backgroundColor: announcementBar.backgroundColor }} />
             <Header link={data.links} />
             <main>{children}</main>

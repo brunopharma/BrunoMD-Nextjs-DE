@@ -13,9 +13,11 @@ import HomePageData from '../../json/home.json'
 import SEO from '../../json/SEO.json'
 import PageHead from '@/utilities/Head'
 
+
 export default function Home() {
   return (
     <>
+    
       <section>
         <PageHead content={SEO.home.SEO}/>
         <WistiaHero id={HomePageData.wistia.id} content={HomePageData.wistia.content} />
