@@ -5,7 +5,7 @@ const Blogs = ({ categories }) => {
   console.log({ categories })
   return (
     <div className={styles.container}>
-      {categories?.length && categories.map((category, i) => {
+      {categories?.length ? categories.map((category, i) => {
         if (category.blogs?.length > 0) {
           return (
             <div className={styles.blogCard} key={i}>
@@ -42,7 +42,7 @@ const Blogs = ({ categories }) => {
             </div>
           )
         }
-      })}
+      }): <>No Blogs Found.</>}
     </div>
   )
 }

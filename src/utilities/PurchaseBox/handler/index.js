@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import styles from './styles.module.css'
 import PriceBox from "../priceBox";
-const Handler = ({ data }) => {
+const Handler = ({ data, base }) => {
 
         const [oneTimePrice, setOneTimePrice] = useState(data?.product?.price.toFixed(2))
         const [DiscountPrice, setDiscountPrice] = useState((data?.product?.price * (data?.product?.priceBox.discount / 100)).toFixed(2))
@@ -26,7 +26,7 @@ const Handler = ({ data }) => {
                     <div className={styles.saveText}>&nbsp;acquisto periodico</div>
                 </div>
             </div>
-            {isActive == 2 && <div><PriceBox isActive={isActive} data={data.product}/>
+            {isActive == 2 && <div><PriceBox isActive={isActive} data={data.product} base={base}/>
             </div>}
         </div>
     )

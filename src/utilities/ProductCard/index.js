@@ -1,16 +1,9 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import Slider from "../Slider";
 import styles from "./styles.module.css";
 import PurchaseBox from "../PurchaseBox";
 const ProductCard = ({ data, base }) => {
   const { images, declaimer, priceDescription } = data || {};
-  const { client, shopifyP } = base || {};
-  const [isActive, setIsActive] = useState(1);
-  const [quantity, setQuantity] = useState(1);
-  const [variantId, setVariantId] = useState(shopifyP?.variants[0]?.id);
-  useEffect(() => {
-    setVariantId(shopifyP?.variants[0]?.id);
-  }, [data, base]);
 
   const CreateCart = () => {
     if (quantity && variantId) {
@@ -52,16 +45,17 @@ const ProductCard = ({ data, base }) => {
   console.log({ images });
   return (
     <section className={styles.conatiner}><div className={styles.productCard}>
-      <div style={{ margin: "auto" }}>
+      <div dangerouslySetInnerHTML={{ __html: declaimer?.title }} className={styles.mobTitle}></div>
+      <div className={styles.sliderHolder}>
         {images?.length && <Slider data={images} />}
       </div>
-      <div>
+      <div className={styles.textHolder}>
         <div dangerouslySetInnerHTML={{ __html: declaimer?.title }} className={styles.title}></div>
         <div dangerouslySetInnerHTML={{ __html: declaimer?.subTitle }} className={styles.subTitle}></div>
         <div dangerouslySetInnerHTML={{ __html: declaimer?.content }} className={styles.content}></div>
       </div>
-      <div>
-        <PurchaseBox data={priceDescription} />
+      <div className={styles.purchaseBoxHolder}>
+        <PurchaseBox data={priceDescription} base={base}/>
       </div>
       {/* <div>
         <div

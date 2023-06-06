@@ -39,6 +39,15 @@
   --card-rgb: 180, 185, 188;
   --card-border-rgb: 131, 134, 135;
 } */
+@font-face {
+  font-family: "Gotham";
+  src: url("https://cdn.shopify.com/s/files/1/0674/0518/5339/t/2/assets/GothamSSm-Book_Web.woff?v=106431077362625990591668075946");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@import url('https://use.typekit.net/evu8blm.css') print;
 
 :root {
   --foreground-rgb: 255, 255, 255;

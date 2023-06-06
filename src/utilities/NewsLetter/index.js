@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from "react";
+import { useMatchMedia } from "../Sections/Hooks/useMatchMedia";
 import styles from './styles.module.css'
 export const NewsLetter = ({ content }) => {
-    const [ image ,setImage ] = useState('/utility/home-news-desk.png')
+const [isDesktop] = useMatchMedia('(min-width: 768px)', true)
+    const [ image ,setImage ] = useState()
     useEffect(() => {
         if (content) {
             let { title, portalId, formId,desktopImage,mobileImage } = content || undefined;
-            if(desktopImage) setImage(desktopImage)
+            if(isDesktop){ setImage(desktopImage) }else{ setImage(mobileImage)}
             if (portalId || formId) {
                 const script = document.createElement('script');
                 script.src = 'https://js.hsforms.net/forms/v2.js';
@@ -21,7 +23,7 @@ export const NewsLetter = ({ content }) => {
                 });
             }
         }
-    }, [content]);
+    }, [content,isDesktop]);
     if (!content) return null
     const { title, portalId, formId } = content || undefined;
     if (!portalId || !formId) return null

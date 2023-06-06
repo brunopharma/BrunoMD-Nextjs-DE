@@ -1,7 +1,13 @@
 {
     "masterHead": {
-        "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_1920/https://f.shgcdn.com/52c409e0-14d5-4ebc-944e-a0832e11a496/",
-        "alt": null,
+        "desktopImage": {
+            "src": "/utility/storia-desk.avif",
+            "alt": ""
+        },
+        "mobileImage": {
+            "src": "/utility/storia-mob.avif",
+            "alt": ""
+        },
         "title": "La Nostra Storia"
     },
     "timeline": [
@@ -117,6 +123,8 @@
     "newsletter": {
         "title": "Iscriviti alla newsletter",
         "portalId": "19647191",
-        "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2"
+        "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
+        "desktopImage":"/utility/home-news-desk.png",
+        "mobileImage":"/utility/home-news-mob.png"
     }
 } 

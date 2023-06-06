@@ -107,8 +107,14 @@
         "title": "Pelle",
         "masterHead": {
             "img": {
-                "src": "https://f.shgcdn.com/a4b4a0c1-2f76-47c8-9286-ac4505e9f2f9/",
-                "alt": "",
+                "desktopImage": {
+                    "src": "/utility/pelle-desk.avif",
+                    "alt": ""
+                },
+                "mobileImage": {
+                    "src": "/utility/pelle-mob.avif",
+                    "alt": ""
+                },
                 "title": "Pelle"
             },
             "wistia": {
@@ -133,8 +139,14 @@
         "title": "OCCHI",
         "masterHead": {
             "img": {
-                "src": "https://f.shgcdn.com/68945933-052b-4f18-898e-06a5ee1cd20b/",
-                "alt": "",
+                "desktopImage": {
+                    "src": "/utility/ochhi-desk.avif",
+                    "alt": ""
+                },
+                "mobileImage": {
+                    "src": "/utility/ochhi-mob.avif",
+                    "alt": ""
+                },
                 "title": "OCCHI"
             },
             "wistia": {
@@ -142,7 +154,6 @@
             }
         },
         "item": [
-           
             {
                 "EXTERNALID": "8097677934907",
                 "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2Nzc5MzQ5MDc=",
@@ -171,8 +182,14 @@
         "title": "Reverse-aging",
         "masterHead": {
             "img": {
-                "src": "https://f.shgcdn.com/34a143fb-507e-499a-964d-4e56fe389ff9/",
-                "alt": "",
+                "desktopImage": {
+                    "src": "/utility/agging-desk.avif",
+                    "alt": ""
+                },
+                "mobileImage": {
+                    "src": "/utility/agging-mob.avif",
+                    "alt": ""
+                },
                 "title": "Reverse-aging"
             },
             "wistia": {
@@ -197,8 +214,14 @@
         "title": "Dolore",
         "masterHead": {
             "img": {
-                "src": "https://f.shgcdn.com/f316a0c5-17f0-4110-bbf5-b8291d503438/",
-                "alt": "",
+                "desktopImage": {
+                    "src": "/utility/dolore-desk.jpg",
+                    "alt": ""
+                },
+                "mobileImage": {
+                    "src": "/utility/dolore-mob.avif",
+                    "alt": ""
+                },
                 "title": "Dolore"
             },
             "wistia": {
@@ -234,8 +257,14 @@
         "title": "Pre-diabete",
         "masterHead": {
             "img": {
-                "src": "https://f.shgcdn.com/ddfca662-154f-40f8-aa5a-2e5f9d555606/",
-                "alt": "",
+                "desktopImage": {
+                    "src": "/utility/diabete-desk.avif",
+                    "alt": ""
+                },
+                "mobileImage": {
+                    "src": "/utility/diabete-mob.avif",
+                    "alt": ""
+                },
                 "title": "Pre-diabete"
             },
             "wistia": {
@@ -260,8 +289,14 @@
         "title": "Sali Minerali",
         "masterHead": {
             "img": {
-                "src": "https://f.shgcdn.com/20d43807-7f40-4873-8bd4-73c210e41f6f/",
-                "alt": "",
+                "desktopImage": {
+                    "src": "/utility/Minerali-desk.avif",
+                    "alt": ""
+                },
+                "mobileImage": {
+                    "src": "/utility/Minerali-mob.avif",
+                    "alt": ""
+                },
                 "title": "Sali Minerali"
             },
             "wistia": {

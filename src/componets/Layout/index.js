@@ -83,7 +83,7 @@ export default function Layout({ children }) {
             <AnnouncementBar announcement={announcementBar.title} theme={{ textColor: announcementBar.textColor, backgroundColor: announcementBar.backgroundColor }} />
             <Header link={data.links} />
             <main>{children}</main>
-            {/* <Chat /> */}
+            <Chat />
             <FeatureInfo infoBanners={data.featureInfo} />
             <Footer data={data.footer} />
             <BottomBar contents={data.bottomBar} />

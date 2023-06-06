@@ -110,7 +110,38 @@
             {
                 "title": "Blog",
                 "blog": true,
-                "details": []
+                "details": [
+                    {
+                        "title": "INGREDIENTI E BENEFICI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/a8f5eaf9-0c95-48c2-9eab-83184af43218/",
+                                "title": "Sirtuine: proteine “antinvecchiamento”",
+                                "link": "https://blog.brunomd.eu/sirtuine-proteine-antinvecchiamento/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "PROBLEMI E SINTOMI",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/d1553cc3-aa6a-4276-9560-f85c9b9bf592/",
+                                "title": "Diabete: quale rischio per cuore e vasi? Diabete: quale rischio cardiovascolare? Il rischio per cuore e vasi per la persona con diabete",
+                                "link": "https://blog.brunomd.eu/diabete-quale-rischio-per-cuore-e-vasi-diabete-quale-rischio-cardiovascolare-il-rischio-per-cuore-e-vasi-per-la-persona-con-diabete/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Stile di Vita",
+                        "blogs": [
+                            {
+                                "thumb": "https://f.shgcdn.com/ac161a4e-87a8-4123-9729-92e9fa2ba121/",
+                                "title": "Il progetto cuore: cibi amici e nemici",
+                                "link": "https://blog.brunomd.eu/il-progetto-cuore-cibi-amici-e-nemici/"
+                            }
+                        ]
+                    }
+                ]
             }
         ],
         "newsletter": {

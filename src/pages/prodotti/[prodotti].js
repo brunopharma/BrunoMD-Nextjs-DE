@@ -51,7 +51,7 @@ const Product = () => {
         } else {
             window.location.href = '/';
         }
-    }, [])
+    }, [load])
     const {title, details, newsletter, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price,discount,qtyUnitMultiplierLabel } = product || {}
     const productInfo = { images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, product ,priceBox } }
     const { DataisLoaded, name } = current;

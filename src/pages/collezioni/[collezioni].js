@@ -15,8 +15,7 @@ const Collection = () => {
             let url = window.location.href;
             let splitUrl = url.split('/collezioni/');
             if (splitUrl.length == 2) {
-                console.log({ url: splitUrl[1] });
-                if(splitUrl[1] == 'salute-della-pelle' || true){
+                if(splitUrl[1]){
                     setCategory({
                         name: collection[splitUrl[1]]?.title ? splitUrl[1] : false,
                         DataisLoaded: true
@@ -39,13 +38,14 @@ const Collection = () => {
     const { DataisLoaded, name } = category;
     const { masterHead, item, title } = collection[name] || {}
     const { img, wistia } = masterHead || {};
+
     if (!DataisLoaded) return <div class="center-body"><div class="loader-circle-2"></div></div>;
     return (
         <section>
             {name ?
                 <>
                     {wistia?.id && <WistiaHero id={wistia.id} content={wistia?.content} />}
-                    {img?.src && <MasterHeadImg data={img} />}
+                    {img?.desktopImage && <MasterHeadImg data={img} />}
                     <section className={styles.container}>
                         <CollectionList content={item} />
                     </section></> : <div style={{ fontFamily: 'system-ui,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji"', height: '25vh', textAlign: 'center', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}><div>

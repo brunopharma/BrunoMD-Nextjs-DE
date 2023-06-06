@@ -11,7 +11,7 @@ function PageHead({content}) {
             <meta property="og:image" content={content?.image} key="ogimage" />
             <meta property="og:site_name" content={content?.siteName} key="ogsitename" />
             <meta property="og:title" content={content?.title} key="ogtitle" />
-            <meta property="og:description" content={content?.description} key="ogdesc" />
+            <meta property="og:description" content={content?.description} key="ogdesc" />  
         </Head>
     );
 }

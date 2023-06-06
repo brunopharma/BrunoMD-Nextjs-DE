@@ -19,13 +19,13 @@
     width: 100%;
     text-align: left;
     padding: 0.5rem;
+    display: flex;
+    justify-content: space-between;
 }
 
 .label::after {
-
     content: '+';
-    position: absolute;
-    right: -4px;
+    font-size: 14px;
 }
 
 .text {
@@ -46,7 +46,7 @@
 .active .label::after {
 
     content: '-';
-    font-size: 35px;
+    /* font-size: 35px; */
     transform: translateY(-20%);
     transition: .5s;
 
