@@ -11,8 +11,7 @@ function PageHead({content}) {
             <meta property="og:image" content={content?.image} key="ogimage" />
             <meta property="og:site_name" content={content?.siteName} key="ogsitename" />
             <meta property="og:title" content={content?.title} key="ogtitle" />
-            <meta property="og:description" content={content?.description} key="ogdesc" />
-            <link rel="stylesheet" href="https://use.typekit.net/evu8blm.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
+            <meta property="og:description" content={content?.description} key="ogdesc" />  
         </Head>
     );
 }

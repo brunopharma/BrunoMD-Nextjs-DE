@@ -1,13 +1,18 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import styles from './styles.module.css'
 import SupplementalInfo from "@/utilities/SupplementalInfo";
 import Spinner from "@/utilities/Loader/index1";
 
-const PriceBox = ({ isActive, data }) => {
+const PriceBox = ({ isActive, data, base }) => {
+  const { client, shopifyP } = base || {};
+  const [variantId, setVariantId] = useState(shopifyP?.variants[0]?.id);
   const [learnMore, setLearnMore] = useState(false);
   const [quantity, setQuantity] = useState(1);
   const [isAddingToCart, setIsAddingToCart] = useState(false);
   const [currentShippingInterval, setCurrentShippingInterval] = useState(null)
+  useEffect(() => {
+    setVariantId(false||shopifyP?.variants[0]?.id);
+  }, [base]);
   if (!data) return null
   const QUANTITY_OPTIONS = [...Array(data?.priceBox.maxQty).keys()].map(n => n + 1)
   const buttonText = isActive == 2 ? 'Acquisto periodico' : 'Aggiungi al carrello'
@@ -15,13 +20,43 @@ const PriceBox = ({ isActive, data }) => {
   const handleQuantityChange = e => {
     const { value } = e.target
     setQuantity(+value);
+    console.log({ quantity });
   }
+
   const handleFreqChange = e => {
     const { value } = e.target
     setCurrentShippingInterval(parseInt(value));
   }
-  const onAddToCart = async () => {
-  }
+  const CreateCart = () => {
+    alert("soon.")
+  };
+
+  const AddToCart = (checkOutId) => {
+    const lineItemsToAdd = [
+      {
+        variantId,
+        quantity,
+      },
+    ];
+    client.checkout
+      .addLineItems(checkOutId, lineItemsToAdd)
+      .then((checkout) => {
+        // Do something with the updated checkout
+        window.location.href = checkout.webUrl;
+      });
+  };
+  // if (quantity && variantId) {
+  //   let cId = localStorage.getItem('e6S4JJM9G');
+  //   if (!cId) {
+  //     client.checkout.create().then((checkout) => {
+  //       let checkOutId = checkout.id;
+  //       localStorage.setItem('e6S4JJM9G', checkOutId);
+  //       AddToCart(checkOutId);
+  //     });
+  //   } else {
+  //     AddToCart(cId);
+  //   }
+  // }
   return (
     <div className={styles.accordionItem} >
       <div className={styles.accordionContent}>
@@ -67,7 +102,8 @@ const PriceBox = ({ isActive, data }) => {
                 <option>45 giormi</option>
               </select>
             </div>}
-          <div className={styles.flex}><div className={styles.buyNowBtn} onClick={onAddToCart}><p>{isAddingToCart ? <Spinner className={styles.spinner} size={20} /> : buttonText}</p></div></div>
+          {/* onClick={CreateCart} */}
+          <div className={styles.flex}><div className={styles.buyNowBtn}><p>{isAddingToCart ? <Spinner className={styles.spinner} size={20} /> : buttonText}</p></div></div>
         </div>
       </div>
     </div>

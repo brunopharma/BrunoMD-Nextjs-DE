@@ -32,7 +32,7 @@ const Slider = ({ data }) => {
   };
   return (
     <section onmouseout={handleMouveOut}>
-      <div style={style}></div>
+      {/* <div style={style}></div> */}
       <div className="carousel-wrapper">
         <Carousel
           infiniteLoop

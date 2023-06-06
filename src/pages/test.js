@@ -1,27 +1,43 @@
-//useSWR allows the use of SWR inside function components
-import useSWR from 'swr';
+import '@shopify/shopify-api/adapters/node';
+import {shopifyApi, LATEST_API_VERSION} from '@shopify/shopify-api';
+import { useEffect } from 'react';
 
-//Write a fetcher function to wrap the native fetch function and return the result of a call to url in json format
-const fetcher = (url) => fetch(url).then((res) => res.json());
-
-export default function Index() {
-  //Set up SWR to run the fetcher function when calling "/api/staticdata"
-  //There are 3 possible states: (1) loading when data is null (2) ready when the data is returned (3) error when there was an error fetching the data
-  const { data, error } = useSWR('/api/staticdata', fetcher);
-
-  //Handle the error state
-  if (error) return <div>Failed to load</div>;
-  //Handle the loading state
-  if (!data) return <div>Loading...</div>;
-  //Handle the ready state and display the result contained in the data object mapped to the structure of the json file
-  console.log({json:JSON.parse(data)});
-  return (
-    <div>
-      <h1>My Framework from file</h1>
-      <ul>
-        <li>Name: {data.record?.name}</li>
-        <li>Language: {data.record?.language}</li>
-      </ul>
-    </div>
-  );
+const Test = ()=>{
+  useEffect(()=>{
+    console.log({ll:loginForm()});
+  },[])
+  return(
+    <p>lotrmW</p>
+  )
 }
+
+const loginForm = async ()=>{
+
+  const shopify = shopifyApi({
+      apiKey: 'aa872e7e0b7e64038c17650fbe793fec',
+      apiSecretKey: '22c5c7f7366b5b8b54d226582087a0ad',
+      scopes: ['read_products'],
+      hostName: 'bruno-md-europe',
+    });
+  
+    const client = new shopify.clients.Storefront({
+      domain: 'bruno-md-europe.myshopify.com',
+      storefrontAccessToken:'a51b71098dff9f7cfd68456c464991bb',
+    });
+  
+    const data = await client.query({
+      data: `mutation customerAccessTokenCreate {
+        customerAccessTokenCreate(input: {email: "laura@lanvens.com", password: "LauraBruno123@"}) {
+          customerAccessToken {
+            accessToken
+          }
+          customerUserErrors {
+            message
+          }
+        }
+      }`,
+    });
+    return data;
+  }
+
+export default Test

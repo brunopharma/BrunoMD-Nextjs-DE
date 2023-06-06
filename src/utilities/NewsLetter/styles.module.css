@@ -221,3 +221,8 @@
       width: 100%;
     }
   }
+  @media (max-width: 500px) {
+    .headingContainer{
+      font-size: 32px;
+    }
+  }

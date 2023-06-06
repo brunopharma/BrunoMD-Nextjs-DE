@@ -10,7 +10,8 @@ const BottomBar = ({contents}) => {
     {content.map((element, index)=>{
       return(
         <>
-        <span  className={(index % 2 == 0 ? styles.borderRB : styles.borderB)}>
+        {/* <span  className={(index % 2 == 0 ? styles.borderRB : styles.borderB)}> */}
+        <span className={styles.disc}>
         <div dangerouslySetInnerHTML={{ __html: element }}></div>
         </span>
         {(content.length-1) != index && <span className={styles.hyphen}>&nbsp; - &nbsp;</span>}
