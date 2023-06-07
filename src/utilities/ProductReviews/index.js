@@ -1,23 +1,19 @@
-import React, { memo,useEffect } from 'react'
+import React, { memo,useEffect, useState } from 'react'
 
 import styles from './styles.module.css'
 
 const ProductReviews = ({ product }) => {
+  const [productId, setProductId] = useState(product.variants.length ? product.variants[0].id.split('ProductVariant/').length == 2 ? product.variants[0].id.split('ProductVariant/')[1] : undefined :undefined);
   useEffect(() => {
         (function e() { var e = document.createElement("script"); e.type = "text/javascript", e.async = true, e.src = `//staticw2.yotpo.com/ahHyITcI0fkzYo7KejQeWGiBK2CXMKvLvTZ8KUBJ/widget.js`; var t = document.getElementsByTagName("script")[0]; t.parentNode.insertBefore(e, t) })();
-}, [])
+}, [productId])
 
   return (
     <div className={styles.wrapper}>
-      <div
+      {productId && <div
         class="yotpo yotpo-main-widget"
-        data-product-id={'3526581387339'}
-        data-price={''}
-        data-currency="$"
-        data-name={''}
-        data-url={`/products/`}
-        data-image-url={''}
-      ></div>
+        data-product-id={productId}
+      ></div>}
     </div>
 
   )

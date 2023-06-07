@@ -12,7 +12,8 @@ const PriceBox = ({ isActive, data, base }) => {
   const [currentShippingInterval, setCurrentShippingInterval] = useState(null)
   useEffect(() => {
     setVariantId(false||shopifyP?.variants[0]?.id);
-  }, [base]);
+    console.log({data});
+  }, [data,base]);
   if (!data) return null
   const QUANTITY_OPTIONS = [...Array(data?.priceBox.maxQty).keys()].map(n => n + 1)
   const buttonText = isActive == 2 ? 'Acquisto periodico' : 'Aggiungi al carrello'
@@ -63,7 +64,7 @@ const PriceBox = ({ isActive, data, base }) => {
         <div style={styles.row}>
           {isActive == 2 && <>
             <div className={styles.section2} id="section2">
-              <p>Non perdere l&apos;opportunita&apos; di risparmiare il <b>{data.discount}%</b> su quest&apos;ordine e sulle successive consegne automatiche</p>
+              <p>Non perdere l&apos;opportunita&apos; di risparmiare il <b>{data.priceBox.discount}%</b> su quest&apos;ordine e sulle successive consegne automatiche</p>
               <ul><li className={styles.liDecore}>Nessun costo</li><li className={styles.liDecore}>Cancella quando vuoi</li></ul>
             </div>
             <div className={styles.section3} style={{ 'color': data.theme }} onClick={() => setLearnMore(!learnMore)}>Maggiori informazioni <div className={learnMore ? styles.upArrow : styles.downArrow}><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></div>

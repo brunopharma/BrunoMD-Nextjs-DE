@@ -4,11 +4,13 @@ import MasterHeadImg from '@/utilities/MasterHeadImg';
 import { NewsLetter } from '@/utilities/NewsLetter';
 import Accordion from '@/utilities/Accordion';
 import styles from '@/styles/frequenti.module.css'
+import PageHead from '@/utilities/Head';
 
 export default function Frequenti() {
-    const { masterHead, section, newsletter } = frequenti || {};
+    const { masterHead, section, newsletter, seo } = frequenti || {};
     return (
         <section>
+            <PageHead content={seo} />
             <MasterHeadImg data={masterHead} />
             <div className={styles.container}>
                 <div className={styles.holder}>

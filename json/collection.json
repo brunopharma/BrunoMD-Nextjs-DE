@@ -10,7 +10,7 @@
                 "title": "CITRAK FORTE 4g.",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/853de85b-e2d1-4417-b850-f60587c1dc01/"
+                    "src": "\\utility\\products\\forte\\06-BMD-Citrack-Forte-9O3A5764.png"
                 }
             },
             {
@@ -21,7 +21,7 @@
                 "title": "CITRAK 3g.",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/d3b36d9f-1992-401a-a0f8-3ad7db87fdab/"
+                    "src": "\\utility\\products\\forte\\07-BMD-Citrak-9O3A5769.png"
                 }
             },
             {
@@ -32,7 +32,7 @@
                 "title": "CITRAK Mg.",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/79b6c726-99c8-4aea-9288-9eecc5ed09b9/"
+                    "src": "\\utility\\products\\forte\\06-BMD-Citrak-MG-9O3A5775.png"
                 }
             },
             {
@@ -43,7 +43,7 @@
                 "title": "CRONOS",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/b8a1074b-3ec4-4bf5-bae3-b5e1fd6d9c32/"
+                    "src": "\\utility\\products\\forte\\07-BMD-Cronos-9O3A5820+.png"
                 }
             },
             {
@@ -54,7 +54,7 @@
                 "title": "DROP THERAPEUTIC",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/6f3eb7b1-e334-4580-bf95-5a86d245e8be/"
+                    "src": "\\utility\\products\\forte\\05-BMD-DROP-AZWLMEV0.png"
                 }
             },
             {
@@ -65,7 +65,7 @@
                 "title": "NEULENIC",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/587468bb-8134-4726-bb5e-72b9fc77e96f/"
+                    "src": "\\utility\\products\\forte\\01-BMD-Neulenic-600-9O3A5741.png"
                 }
             },
             {
@@ -76,7 +76,7 @@
                 "title": "NUBIT",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/75ccb267-62ad-4c16-a0db-1987c65ff749/"
+                    "src": "\\utility\\products\\forte\\01-BMD-Nubit-9O3A5730.png"
                 }
             },
             {
@@ -87,7 +87,7 @@
                 "title": "SILVERPHAGE Crema",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/ec616737-8a46-496b-b430-ecac1e4a4ddf/"
+                    "src": "\\utility\\products\\forte\\06-BMD-Silverphage-Crema_Gel-9O3A5961.png"
                 }
             },
             {
@@ -98,10 +98,14 @@
                 "title": "SILVERPHAGE GARZE MONOUSO",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/2289226e-14ac-4a34-a768-41633b067fe5/"
+                    "src": "\\utility\\products\\forte\\01-BMD-Silverphage-9O3A5964.png"
                 }
             }
-        ]
+        ],
+        "seo": {
+            "title": "Acquista Tutti i Prodotti | Bruno MD",
+            "description": "Prodotti per la salute e il benessere radicati nel cuore dell'Italia, realizzati con ingredienti completamente naturali. Acquista i nostri peptidi di collagene reale e altro ancora."
+        }
     },
     "salute-della-pelle": {
         "title": "Pelle",
@@ -130,10 +134,14 @@
                 "title": "SILVERPHAGE Crema",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/ec616737-8a46-496b-b430-ecac1e4a4ddf/"
+                    "src": "\\utility\\products\\forte\\06-BMD-Silverphage-Crema_Gel-9O3A5961.png"
                 }
             }
-        ]
+        ],
+        "seo": {
+            "title": "Prodotti per la Pelle| Bruno MD",
+            "description": "Migliora la salute della tua pelle per consistenza ed elasticità. Scopri i prodotti per la salute e il benessere radicati nel cuore dell'Italia da Bruno MD."
+        }
     },
     "occhi": {
         "title": "OCCHI",
@@ -162,7 +170,7 @@
                 "title": "DROP THERAPEUTIC",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/6f3eb7b1-e334-4580-bf95-5a86d245e8be/"
+                    "src": "\\utility\\products\\forte\\05-BMD-DROP-AZWLMEV0.png"
                 }
             },
             {
@@ -173,10 +181,14 @@
                 "title": "SILVERPHAGE GARZE MONOUSO",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/2289226e-14ac-4a34-a768-41633b067fe5/"
+                    "src": "\\utility\\products\\forte\\01-BMD-Silverphage-9O3A5964.png"
                 }
             }
-        ]
+        ],
+        "seo": {
+            "title": "Occhi| Bruno MD",
+            "description": ""
+        }
     },
     "reverse-aging": {
         "title": "Reverse-aging",
@@ -205,10 +217,14 @@
                 "title": "CRONOS",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/b8a1074b-3ec4-4bf5-bae3-b5e1fd6d9c32/"
+                    "src": "\\utility\\products\\forte\\07-BMD-Cronos-9O3A5820+.png"
                 }
             }
-        ]
+        ],
+        "seo": {
+            "title": "Prodotti per Reverse-aging | Bruno MD",
+            "description": ""
+        }
     },
     "dolore": {
         "title": "Dolore",
@@ -237,7 +253,7 @@
                 "title": "NUBIT",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/75ccb267-62ad-4c16-a0db-1987c65ff749/"
+                    "src": "\\utility\\products\\forte\\01-BMD-Nubit-9O3A5730.png"
                 }
             },
             {
@@ -248,10 +264,14 @@
                 "title": "NEULENIC",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/587468bb-8134-4726-bb5e-72b9fc77e96f/"
+                    "src": "\\utility\\products\\forte\\01-BMD-Neulenic-600-9O3A5741.png"
                 }
             }
-        ]
+        ],
+        "seo": {
+            "title": "Prodotti per il Dolore | Bruno MD",
+            "description": ""
+        }
     },
     "pre-diabete": {
         "title": "Pre-diabete",
@@ -280,10 +300,14 @@
                 "title": "CRONOS",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/b8a1074b-3ec4-4bf5-bae3-b5e1fd6d9c32/"
+                    "src": "\\utility\\products\\forte\\07-BMD-Cronos-9O3A5820+.png"
                 }
             }
-        ]
+        ],
+        "seo": {
+            "title": "Prodotti per il Pre-diabete | Bruno MD",
+            "description": ""
+        }
     },
     "sali-minerali": {
         "title": "Sali Minerali",
@@ -312,7 +336,7 @@
                 "title": "CITRAK FORTE 4g.",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/853de85b-e2d1-4417-b850-f60587c1dc01/"
+                    "src": "\\utility\\products\\forte\\06-BMD-Citrack-Forte-9O3A5764.png"
                 }
             },
             {
@@ -323,7 +347,7 @@
                 "title": "CITRAK Mg.",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/79b6c726-99c8-4aea-9288-9eecc5ed09b9/"
+                    "src": "\\utility\\products\\forte\\06-BMD-Citrak-MG-9O3A5775.png"
                 }
             },
             {
@@ -334,9 +358,13 @@
                 "title": "CITRAK 3g.",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "https://f.shgcdn.com/d3b36d9f-1992-401a-a0f8-3ad7db87fdab/"
+                    "src": "\\utility\\products\\forte\\07-BMD-Citrak-9O3A5769.png"
                 }
             }
-        ]
+        ],
+        "seo": {
+            "title": "Sali Minerali | Bruno MD",
+            "description": ""
+        }
     }
 }
