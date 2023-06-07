@@ -5,9 +5,25 @@ function PageHead({content}) {
         <Head>
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <meta charSet="utf-8" />
+            <link rel="canonical" href="https://brunomd.eu/"/>
             <title>{content?.title}</title>
+            <meta name="title" content={content?.title} />
+            <meta property="og:type" content="website" />
+            <meta property="og:locale" content="en-EU" />
+            <meta property="og:url" content="/" />
             <meta name="description" content={content?.description} />
-            <meta property="og:url" content={content?.url} key="ogurl" />
+            <meta property="og:image:height" content="630px" />
+            <meta property="og:image:width" content="1200px" />
+            <meta property="og:image:type" content="image/jpeg" />
+            <meta name="next-head-count" content="17"/>
+            <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+            <meta name="theme-color" content="#000"/>
+            <meta name="mobile-web-app-capable" content="yes"/>
+            <meta name="application-name" content="Bruno MD Europe "/>
+            <meta name="apple-mobile-web-app-capable" content="yes"/>
+            <meta name="apple-mobile-web-app-status-bar-style" content="default"/>
+            <meta name="apple-mobile-web-app-title" content="Store"/>
+            <meta name="msapplication-TileColor" content="#000"/>
             <meta property="og:image" content={'https://f.shgcdn.com/02637cbd-350e-4b4a-bae7-dad2bce66981/'} key="ogimage" />
             <meta property="og:site_name" content={content?.siteName} key="ogsitename" />
             <meta property="og:title" content={content?.title} key="ogtitle" />
