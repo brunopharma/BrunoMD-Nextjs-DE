@@ -4,39 +4,35 @@ import NavList from '../Navlist'
 import React, { useState } from 'react'
 import styles from './styles.module.css'
 import { useRouter } from 'next/router'
-import { useCustomerState, useCustomerActions } from 'frontend-customer'
-import { useCartState } from 'frontend-checkout'
 import MobileNav from '../MobileNav'
 import Image from 'next/image';
 import { useMatchMedia } from '@/utilities/Sections/Hooks/useMatchMedia'
 const MainNav = ({ navMenuLinks }) => {
   const [isMobile] = useMatchMedia('(max-width: 380px)', true)
-  const { status, isLoggedIn } = useCustomerState()
   const [isSearchOpened, setIsSearchOpened] = useState(false)
   let [isMobileNavOpen, setIsMobileNavOpen] = useState(false)
   const router = useRouter()
 
   const [logInText, setLogIntext] = useState('Accedi')
   const [logInLink, setLogInLink] = useState('/login')
-  const { items } = useCartState()
-  const { getCustomer } = useCustomerActions();
+  const items = [];
 
   const handleSearchSubmit = React.useCallback(query => router.push(`/search?q=${query}`), [router])
   return (
     <div className={styles.navContainer}>
       <div className={styles.logoWrapper}>
-        {!isMobileNavOpen &&<Link href={'/'} className={styles.logo}>
-        {!isMobile ? <Image
-          alt="Bruno logo"
-          src={"/logo/Bruno-White.png"}
-          width={180}
-          height={30}
-        />:<Image
-        alt="Bruno logo"
-        src={"/logo/icon.png"}
-        width={60}
-        height={30}
-      />}
+        {!isMobileNavOpen && <Link href={'/'} className={styles.logo}>
+          {!isMobile ? <Image
+            alt="Bruno logo"
+            src={"/logo/Bruno-White.png"}
+            width={180}
+            height={30}
+          /> : <Image
+            alt="Bruno logo"
+            src={"/logo/icon.png"}
+            width={60}
+            height={30}
+          />}
         </Link>}
         {false ? (
           <></>

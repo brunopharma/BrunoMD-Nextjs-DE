@@ -1,48 +1,11 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Slider from "../Slider";
 import styles from "./styles.module.css";
 import PurchaseBox from "../PurchaseBox";
 const ProductCard = ({ data, base }) => {
   const { images, declaimer, priceDescription } = data || {};
 
-  const CreateCart = () => {
-    if (quantity && variantId) {
-      let cId = localStorage.getItem('e6S4JJM9G');
-      if (!cId) {
-        client.checkout.create().then((checkout) => {
-          let checkOutId = checkout.id;
-          localStorage.setItem('e6S4JJM9G', checkOutId);
-          AddToCart(checkOutId);
-        });
-      } else {
-        AddToCart(cId);
-      }
-    }
-  };
-
-  const AddToCart = (checkOutId) => {
-    const lineItemsToAdd = [
-      {
-        variantId,
-        quantity,
-      },
-    ];
-    client.checkout
-      .addLineItems(checkOutId, lineItemsToAdd)
-      .then((checkout) => {
-        // Do something with the updated checkout
-        window.location.href = checkout.webUrl;
-      });
-  };
-  // fire onClick={CreateCart}
-
-  const handleChange = (event) => {
-    setQuantity(parseInt(event.target.value));
-    console.log({ quantity, variantId });
-  };
-
   if (!data) return null;
-  console.log({ images });
   return (
     <section className={styles.conatiner}><div className={styles.productCard}>
       <div dangerouslySetInnerHTML={{ __html: declaimer?.title }} className={styles.mobTitle}></div>

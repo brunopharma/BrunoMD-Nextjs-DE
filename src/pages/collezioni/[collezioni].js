@@ -4,6 +4,7 @@ import { CollectionList } from '@/utilities/CollectionCard'
 import MasterHeadImg from '@/utilities/MasterHeadImg';
 import { WistiaHero } from '@/utilities/WistiaHero';
 import styles from './styles.module.css'
+import PageHead from '@/utilities/Head';
 const Collection = () => {
     const collezioni = null
     const [category, setCategory] = useState({
@@ -36,7 +37,7 @@ const Collection = () => {
         }
     }, [category])
     const { DataisLoaded, name } = category;
-    const { masterHead, item, title } = collection[name] || {}
+    const { masterHead, item, title,seo } = collection[name] || {}
     const { img, wistia } = masterHead || {};
 
     if (!DataisLoaded) return <div class="center-body"><div class="loader-circle-2"></div></div>;
@@ -44,6 +45,7 @@ const Collection = () => {
         <section>
             {name ?
                 <>
+                <PageHead content={seo} />
                     {wistia?.id && <WistiaHero id={wistia.id} content={wistia?.content} />}
                     {img?.desktopImage && <MasterHeadImg data={img} />}
                     <section className={styles.container}>

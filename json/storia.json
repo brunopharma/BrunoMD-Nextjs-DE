@@ -92,7 +92,7 @@
         {
             "title": "La nostra compagnia",
             "sectionImg": {
-                "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_1920/https://f.shgcdn.com/65d4181f-8df4-4f52-b904-0d8ce99c952e/",
+                "src": "\\pages\\La-nostra-compagnia.avif",
                 "alt": "",
                 "imgPostion": "left"
             },
@@ -106,7 +106,7 @@
         {
             "title": null,
             "sectionImg": {
-                "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_1920/https://f.shgcdn.com/477bc940-0458-4862-8499-6ef2e0d1649c/",
+                "src": "\\pages\\storia-2.avif",
                 "alt": "",
                 "imgPostion": "right"
             },
