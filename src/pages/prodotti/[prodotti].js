@@ -13,6 +13,7 @@ import Tabs from "@/utilities/Tabs";
 import Client from 'shopify-buy';
 import PageHead from "@/utilities/Head";
 import Loader2 from "@/utilities/Loader/index2";
+import ProductReviews from "@/utilities/ProductReviews";
 
 const Product = () => {
     const [load, setLoad] = useState(true)
@@ -65,6 +66,7 @@ const Product = () => {
             <TrustBadge contents={TrustBadgeData} productColorTheme={theme}/>
             <MarkqueCarousel image={PatnerData} />
             <NewsLetter content={newsletter} />
+            <ProductReviews />
         </section>
     )
 }
