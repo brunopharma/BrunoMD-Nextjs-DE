@@ -52,7 +52,7 @@ const Product = () => {
         } else {
             window.location.href = '/';
         }
-    }, [load])
+    }, [current])
     const {title, details, newsletter, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price,discount,qtyUnitMultiplierLabel } = product || {}
     const productInfo = { images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, product ,priceBox } }
     const { DataisLoaded, name } = current;
@@ -66,7 +66,7 @@ const Product = () => {
             <TrustBadge contents={TrustBadgeData} productColorTheme={theme}/>
             <MarkqueCarousel image={PatnerData} />
             <NewsLetter content={newsletter} />
-            <ProductReviews />
+            {/* <ProductReviews /> */}
         </section>
     )
 }

@@ -6,7 +6,7 @@
     padding-top: 4rem;
     width: 100%;
 }
-.textHolder{
+.textHolder, .textPDHolder{
     padding: 4rem 1rem;
 }
 .container > h1{
@@ -33,10 +33,23 @@
     padding-bottom: 0.8rem;
     padding-top: 0.8rem;
 }
-.textHolder > p {
+.textHolder > p,.textPDHolder > p {
     color: var(--bmd-black);
     font-family: var(--bmd-font-Secondary);
     font-size: var(--bmd-16px);
     line-height: 1.5;
     padding-bottom: 1rem;
+}
+.container p{
+    color: var(--bmd-black);
+    font-family: var(--bmd-font-Secondary);
+    font-size: var(--bmd-16px);
+    line-height: 1.5;
+    padding-bottom: 1rem;
+}
+
+@media (min-width: 800px) {
+    .textPDHolder{
+        padding: 6rem 2rem;
+    }
 }
