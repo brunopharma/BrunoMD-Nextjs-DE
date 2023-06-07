@@ -8,7 +8,6 @@ import PageHead from '@/utilities/Head';
 import SEO from '../../json/SEO.json'
 
 export default function Storia() {
-    console.log({storia});
     const {masterHead, section,timeline,newsletter} = storia || {};
     return(
         <section>
