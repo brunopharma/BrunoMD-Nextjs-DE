@@ -1,5 +1,4 @@
 import * as React from 'react'
-import { useCustomerActions } from 'frontend-customer'
 import { useRouter } from 'next/router';
 import Link from 'next/link'
 import styles from  '@/styles/login.module.css'
@@ -9,30 +8,12 @@ const LoginForm = () => {
     const [loginFields, setLoginFields] = React.useState({ email: '', password: '' })
     const [loginInProgress, setLoginInProgress] = React.useState(false)
 
-    const { login } = useCustomerActions()
     const router = useRouter()
     const handleSubmit = async event => {
         event.preventDefault()
 
         setLoginErrors(null)
         setLoginInProgress(true)
-
-        const { errors } = await login(loginFields)
-        if (errors) {
-            setLoginInProgress(false)
-            setLoginErrors(errors)
-
-            console.error('Qualcosa e andato storto', errors)
-
-            return
-        }
-        if (router.query.checkout_url) {
-            console.log('hit')
-            router.push('/checkout')
-        } else {
-            console.log('not hit')
-            router.push('/account')
-        }
     }
 
     const disableLoginButton =
