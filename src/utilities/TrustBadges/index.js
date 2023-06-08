@@ -10,7 +10,7 @@ const TrustBadge = ({ contents,productColorTheme }) => {
         {badges && badges.map((e,i)=>{
           return(
             <>
-            {true ? <img className={styles.p5} src={e.src} alt={e.alt} key={'trustBadge'+i}/> : <img className={styles.p5} src={e.src} alt={e.alt} height={'125px'} key={'trustBadge'+i}/>}
+            {true ? <img className={styles.p5} src={e.src} alt={e.alt} key={i}/> : <img className={styles.p5} src={e.src} alt={e.alt} height={'125px'} key={i}/>}
             </>
           )
         })}
