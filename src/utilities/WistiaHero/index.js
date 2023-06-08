@@ -6,14 +6,17 @@ export const WistiaHero = ({ id, content }) => {
     const [windowWidth, setWindowWidth] = useState(false)
     useEffect(() => {
         setWindowWidth(window.innerWidth - 15)
+        // window._wq = window._wq || [];
+        // _wq.push({ id, onReady: function(video) {
+        //   console.log("I got a handle to the video!", video);
+        // }})
     }, [])
     if (!id) return null
     const wistiaVideo = `//fast.wistia.net/embed/iframe/${id}?videoFoam=true`;
     return (
         <section className={styles.cover}>
             <div className={styles.holder}>
-                <iframe src={wistiaVideo} allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" autoPlay allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width={windowWidth} height={850}></iframe>
-                <script src="//fast.wistia.net/assets/external/E-v1.js" async></script>
+                <iframe src={wistiaVideo} allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" autoPlay allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen preload="auto" width={windowWidth} height={850}></iframe>
                 {content &&
                     <div className={styles.conatiner}>
                         <div className={styles.heroButtonAndTextContainer}>
