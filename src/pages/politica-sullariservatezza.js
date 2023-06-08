@@ -1,11 +1,13 @@
 import React from 'react'
 import styles from '@/styles/spedizione.module.css'
+import PageHead from '@/utilities/Head'
 
 
 export default function Spedizione() {
 
     return (
         <section className={styles.container}>
+            <PageHead content={{title:'Politica di Spedizione | Bruno MD',description:"Hai domande sulla politica di spedizione di BrunoMD? Scopri di più su come funziona la nostra spedizione, dal monitoraggio dei tuoi ordini, ai requisiti di spedizione gratuita e altro ancora."}}/>
             <h1>TERMINI E CONDIZIONI DI PRIVACY</h1>
             <div className={styles.textHolder}>
                 <p>Questa Privacy Policy è resa ai sensi dell&apos;art. 13 del Regolamento Europeo n. 679/2016 e si applica esclusivamente a tutti i Dati raccolti attraverso il Sito web brunomd.eu. La presente Privacy Policy è soggetta ad aggiornamenti che verranno pubblicati puntualmente sul Sito web. La presente Privacy Policy, unitamente ai<a href="https://policies.google.com/terms?hl=it" target="_blank" rel="noopener noreferrer" data-testid="external-link"> Termini e Condizioni</a>, eventuali altri documenti cui si fa riferimento in essa e la <a href="https://legal.hubspot.com/cookie-policy" target="_blank" rel="noopener noreferrer" data-testid="external-link">Cookie Policy</a>, stabiliscono le basi sulle quali verranno elaborati i Dati personali dell&apos;Interessato.</p>

@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from 'react'
 import styles from '@/styles/spedizione.module.css'
+import PageHead from '@/utilities/Head'
 
 
 export default function Spedizione() {
 
     return (
         <section className={styles.container}>
+            <PageHead content={{title:"Disclaimer | Bruno MD"}}/>
             <h1>DISCLAIMER</h1>
             <div className={styles.textHolder}>
                 <p>Per quanto gli autori si sforzino di fornire informazioni corrette e attendibili, le stesse non hanno lo scopo di fornire consigli medici individuali e in nessun caso possono costituire la prescrizione di un trattamento, la visita specialistica o il rapporto diretto con il proprio medico curante.</p>

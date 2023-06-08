@@ -30,7 +30,6 @@
 }
 .productCard {
   display: grid;
-  /* grid-template-columns: 33.33% 33.33% 33.33%; */
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 1.5rem;
 }

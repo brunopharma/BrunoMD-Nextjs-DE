@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from "react"
 import styles from "@/styles/spedizione.module.css"
+import PageHead from "@/utilities/Head"
 
 
 export default function Spedizione() {
 
     return (
         <section className={styles.container}>
+            <PageHead content={{title:'Politica di Spedizione | Bruno MD',description:"Hai domande sulla politica di spedizione di BrunoMD? Scopri di più su come funziona la nostra spedizione, dal monitoraggio dei tuoi ordini, ai requisiti di spedizione gratuita e altro ancora."}}/>
             <h1>POLITICA DI SPEDIZIONE</h1>
             <div className={styles.textHolder}>
             <h2 >

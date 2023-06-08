@@ -10,7 +10,7 @@
         "price": 25.00,
         "productColorTheme": "#2c7abf",
         "logo": {
-            "src": "https://f.shgcdn.com/b8a1074b-3ec4-4bf5-bae3-b5e1fd6d9c32/"
+            "src": "\\utility\\products\\cronos\\07-BMD-Cronos-9O3A5820.avif"
         },
         "priceBox": {
             "qtyUnitMultiplierLabel": "Unita'",
@@ -28,15 +28,15 @@
         },
         "images": [
             {
-                "src": "https://f.shgcdn.com/93d40e17-884f-4dd6-ad38-06b2b91f0cf1/",
+                "src": "\\utility\\products\\cronos\\07-BMD-Cronos-9O3A5820.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/453c659d-7daa-4e3d-ab3a-bd11caa43a29/",
+                "src": "\\utility\\products\\cronos\\05-BMD-Cronos-9O3A5829.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/3cfe9ba0-48ca-43c8-995b-d890353e9da0/",
+                "src": "\\utility\\products\\cronos\\08-BMD-Cronos-9O3A5823.avif",
                 "alt": ""
             }
         ],
@@ -48,7 +48,7 @@
                     "title": "Antiossidante e reverse-aging",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/7f7a0aeb-dd5e-4a98-89c3-8792b6b84f82/",
+                        "src": "\\utility\\products\\cronos\\BMD-i4-Tuscany-GG-P1037649+.avif",
                         "alt": ""
                     },
                     "description": "Contiene proprietà antiossidanti e reverse-aging"
@@ -57,7 +57,7 @@
                     "title": "RIPRISTINA",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/085a2c36-4757-4b60-ab01-b82c26a2927d/",
+                        "src": "\\utility\\products\\cronos\\BMD-GG-i3-P1020681+.avif",
                         "alt": ""
                     },
                     "description": "Contribuisce al ripristino del ciclo metabolico delle sirtuine contribuendo ai meccanismi di difesa dell’organismo contro il rischio di sindrome metabolica e delle alterazioni del metabolismo del glucosio"
@@ -66,7 +66,7 @@
                     "title": "CONTROLLO GLICEMICO",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/e2062552-1b62-44ac-ac69-d5b6e855d71d/",
+                        "src": "\\utility\\products\\cronos\\BMD-i2-FIO_2319+.avif",
                         "alt": ""
                     },
                     "description": "Aiuta l' azione di sinergia sul controllo glicemico in pazienti diabetici"
@@ -75,7 +75,7 @@
                     "title": "SUPPORTA E AZIONA",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/c6b6c0c1-1fef-4114-ae7d-eb1e2ebdfb7a/",
+                        "src": "\\utility\\products\\cronos\\BMD-i3-FilippoFior-FIO_1119.avif",
                         "alt": ""
                     },
                     "description": "Aiuta l' azione di supporto nei pazienti a rischio cardiovascolare e l' azione benefica in pazienti con sindrome metabolica"
@@ -148,8 +148,12 @@
             "title": "Iscriviti alla newsletter",
             "portalId": "19647191",
             "formId": "7fdbaec1-ef58-4ebd-9879-b5f34b091893",
-            "desktopImage": "https://f.shgcdn.com/d0e0c1ac-2879-4bec-94e5-94607564c58e/",
-            "mobileImage": "https://f.shgcdn.com/de13aa2f-df64-45d1-a4f0-691a9311c5e1/"
+            "desktopImage": "\\newsletter\\Desktop\\05.avif",
+            "mobileImage": "\\newsletter\\Mobile\\05.avif"
+        },
+        "seo": {
+            "title": "CRONOS | Bruno MD",
+            "description": "CRONOS è un integratore alimentare a base di Polidatina, Estratti di Mirtillo e Vitamine."
         }
     },
     "citrak-forte-4g-con-edulcoranti-30-bustine": {
@@ -160,9 +164,9 @@
         "theme": "#00aff0",
         "title": "CITRAK FORTE 4g.",
         "btnText": "Shop",
-        "price":14.00,
+        "price": 14.00,
         "logo": {
-            "src": "https://f.shgcdn.com/853de85b-e2d1-4417-b850-f60587c1dc01/"
+            "src": "\\utility\\products\\forte\\06-BMD-Citrack-Forte-9O3A5764.avif"
         },
         "priceBox": {
             "qtyUnitMultiplierLabel": "Unita'",
@@ -180,15 +184,15 @@
         },
         "images": [
             {
-                "src": "https://f.shgcdn.com/2b6bcf4b-735f-475d-abda-c8ea29d199a4/",
+                "src": "\\utility\\products\\forte\\06-BMD-Citrack-Forte-9O3A5764.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/3ccf4767-55f0-47cf-87ec-0ba08199b181/",
+                "src": "\\utility\\products\\forte\\03-BMD-Citrack-Forte-9O3A5784.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/d11ae7a2-2b19-4f66-8c8e-1a788592977c/",
+                "src": "\\utility\\products\\forte\\07-BMD-Citrack-Forte-9O3A5767.avif",
                 "alt": ""
             }
         ],
@@ -200,7 +204,7 @@
                     "title": "Reintegra",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/c61e9798-f5d7-4c4b-8c66-2e68c1e46410/",
+                        "src": "\\utility\\products\\forte\\BMD-Beach-Workout-1845.avif",
                         "alt": ""
                     },
                     "description": "Integratore di potassio indicato nei casi di ridotto apporto con la dieta"
@@ -209,7 +213,7 @@
                     "title": "INTEGRA",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/0d9e60af-97d8-4211-9304-65be0dc1d24a/",
+                        "src": "\\utility\\products\\forte\\BMD-i4-Tuscany-FIO1437+.avif",
                         "alt": ""
                     },
                     "description": "Integra il potassio nei casi di aumentato fabbisogno fisiologico."
@@ -218,7 +222,7 @@
                     "title": "NON CONTIENE ZUCCHERI",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/f53bf8d5-88e9-4c07-92e2-47e284a59908/",
+                        "src": "\\utility\\products\\forte\\BMD-i3-Amalfi-Coast-GG-P1020923+.avif",
                         "alt": ""
                     },
                     "description": "Può essere assunto anche da soggetti con alterato metabolismo del glucosio"
@@ -227,7 +231,7 @@
                     "title": "RIPRISTINA",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/3bd7a15b-6303-46db-a14b-52953fb92f27/",
+                        "src": "\\utility\\products\\forte\\BMD-GG-i1-Donna-Fugata-P1106965+.avif",
                         "alt": ""
                     },
                     "description": "Ripristina la fatica muscolare e da' energia dopo l'attivita' sportiva"
@@ -305,8 +309,12 @@
             "title": "Iscriviti alla newsletter",
             "portalId": "19647191",
             "formId": "65e33639-1716-4cd6-99e2-b413cfd1141b",
-            "desktopImage": "https://f.shgcdn.com/db0a7bad-fa1b-42ca-9a68-13dc49a2d994/",
-            "mobileImage": "https://f.shgcdn.com/668c206c-2dcc-4ddb-bfbf-9b2a0f6f9041/"
+            "desktopImage": "\\newsletter\\Desktop\\01.avif",
+            "mobileImage": "\\newsletter\\Mobile\\01.avif"
+        },
+        "seo": {
+            "title": "Citrak Forte | Bruno MD",
+            "description": "Citrak Forte è un integratore alimentare di potassio indicato nei casi di ridotto apporto con la dieta o nei casi di aumentato fabbisogno fisiologico."
         }
     },
     "drop-therapeutic-gocce-oculari-lubrificanti-10ml": {
@@ -317,21 +325,21 @@
         "theme": "#00A7E1",
         "title": "DROP THERAPEUTIC",
         "btnText": "Shop",
-        "price":18.00,
+        "price": 18.00,
         "logo": {
-            "src": "https://f.shgcdn.com/6f3eb7b1-e334-4580-bf95-5a86d245e8be/"
+            "src": "\\utility\\products\\drop\\BMD-Drop-Therapeutic-9O3A5578_3000.avif"
         },
         "images": [
             {
-                "src": "https://f.shgcdn.com/beffa520-31c4-4ba3-938b-ae31b80c5a4d/",
+                "src": "\\utility\\products\\drop\\BMD-Drop-Therapeutic-9O3A5578_3000.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/1b795a38-74df-4680-973b-11a452b7bdf0/",
+                "src": "\\utility\\products\\drop\\BMD-Drop-Therapeutic-9O3A5578_A3000.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/0ae138b4-190e-4209-a182-ec4795a1f7a9/",
+                "src": "\\utility\\products\\drop\\BMD-Drop-Therapeutic-9O3A5587_90.avif",
                 "alt": ""
             }
         ],
@@ -357,7 +365,7 @@
                     "title": "Idrata e rigenera",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/c87703c3-9203-4b08-9f2d-4846f40f7772/",
+                        "src": "\\utility\\products\\drop\\BMD-Hair_0884b.avif",
                         "alt": ""
                     },
                     "description": "Migliora l'idratazione e la rigenerazione dei tessuti e il rispristino del naturale equilibrio del film lacrimale"
@@ -366,7 +374,7 @@
                     "title": "Stabilizza",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/d95534ba-4f58-460d-bd02-cc45bc445a41/",
+                        "src": "\\utility\\products\\drop\\BMD-GG-i3-P1016891.avif",
                         "alt": ""
                     },
                     "description": "Contribuisce alla stabilita' della superficie oculare e regola il pH e l'osmolarità e protegge l'epitelio corneale"
@@ -375,7 +383,7 @@
                     "title": "Protegge",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/6debfc41-dc39-4569-b7d3-6ba5f90c4204/",
+                        "src": "\\utility\\products\\drop\\BMD-i3-FilippoFior-FIO_0192+.avif",
                         "alt": ""
                     },
                     "description": "Migliora l'azione protettiva sull'epitelio corneale accellerando il naturale processo di riparazione nel Dry Eye."
@@ -384,7 +392,7 @@
                     "title": "Promuove",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/35789c4d-5548-4c9f-8019-a1fd417fc069/",
+                        "src": "\\utility\\products\\drop\\BMD-i2-FIO_5394+.avif",
                         "alt": ""
                     },
                     "description": "Promuove la bagnabilità della superficie oculare e fornisce nutrienti essenziali per il post-operatorio della superficie oculare"
@@ -477,8 +485,12 @@
             "title": "Iscriviti alla newsletter",
             "portalId": "19647191",
             "formId": "4b865a98-e0fc-432c-8a5a-d8a3ddad8989",
-            "desktopImage": "https://f.shgcdn.com/bdd20bbd-7824-499b-b691-a1681a5b16cf/",
-            "mobileImage": "https://f.shgcdn.com/10d806fb-fd51-4711-ab59-407971078e3e/"
+            "desktopImage": "\\newsletter\\Desktop\\04.avif",
+            "mobileImage": "\\newsletter\\Mobile\\04.avif"
+        },
+        "seo": {
+            "title": "DROP therapeutic | Bruno MD",
+            "description": "DROP therapeutic è una soluzione oftalmica a base di VIT B2, VIT E, sodio ialuronato ed amminoacidi."
         }
     },
     "citrak-3g-30-bustine": {
@@ -489,21 +501,21 @@
         "theme": "#00aff0",
         "title": "CITRAK 3g.",
         "btnText": "Shop",
-        "price":12.00,
+        "price": 12.00,
         "logo": {
-            "src": "https://f.shgcdn.com/d3b36d9f-1992-401a-a0f8-3ad7db87fdab/"
+            "src": "\\utility\\products\\citrak\\07-BMD-Citrak-9O3A5769.avif"
         },
         "images": [
             {
-                "src": "https://f.shgcdn.com/609f284d-29ab-425c-bad6-b231104ba2be/",
+                "src": "\\utility\\products\\citrak\\07-BMD-Citrak-9O3A5769.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/72e33231-5bc7-4fb0-83c5-684fce3a0477/",
+                "src": "\\utility\\products\\citrak\\03-BMD-Citrak-9O3A5790.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/ee37ad04-0213-4395-a4c2-7e123c481008/",
+                "src": "\\utility\\products\\citrak\\08-BMD-Citrak-9O3A5772.avif",
                 "alt": ""
             }
         ],
@@ -529,7 +541,7 @@
                     "title": "Reintegra",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/c61e9798-f5d7-4c4b-8c66-2e68c1e46410/",
+                        "src": "\\utility\\products\\forte\\BMD-Beach-Workout-1845.avif",
                         "alt": ""
                     },
                     "description": "Integratore di potassio indicato nei casi di ridotto apporto con la dieta"
@@ -538,7 +550,7 @@
                     "title": "INTEGRA",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/0d9e60af-97d8-4211-9304-65be0dc1d24a/",
+                        "src": "\\utility\\products\\forte\\BMD-i4-Tuscany-FIO1437+.avif",
                         "alt": ""
                     },
                     "description": "Integra il potassio nei casi di aumentato fabbisogno fisiologico."
@@ -547,7 +559,7 @@
                     "title": "NON CONTIENE ZUCCHERI",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/f53bf8d5-88e9-4c07-92e2-47e284a59908/",
+                        "src": "\\utility\\products\\forte\\BMD-i3-Amalfi-Coast-GG-P1020923+.avif",
                         "alt": ""
                     },
                     "description": "Può essere assunto anche da soggetti con alterato metabolismo del glucosio"
@@ -556,7 +568,7 @@
                     "title": "RIPRISTINA",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/3bd7a15b-6303-46db-a14b-52953fb92f27/",
+                        "src": "\\utility\\products\\forte\\BMD-GG-i1-Donna-Fugata-P1106965+.avif",
                         "alt": ""
                     },
                     "description": "Ripristina la fatica muscolare e da' energia dopo l'attivita' sportiva"
@@ -634,8 +646,12 @@
             "title": "Iscriviti alla newsletter",
             "portalId": "19647191",
             "formId": "65e33639-1716-4cd6-99e2-b413cfd1141b",
-            "desktopImage": "https://f.shgcdn.com/db0a7bad-fa1b-42ca-9a68-13dc49a2d994/",
-            "mobileImage": "https://f.shgcdn.com/668c206c-2dcc-4ddb-bfbf-9b2a0f6f9041/"
+            "desktopImage": "\\newsletter\\Desktop\\01.avif",
+            "mobileImage": "\\newsletter\\Mobile\\01.avif"
+        },
+        "seo": {
+            "title": "Citrak | Bruno MD",
+            "description": "Citrak è un integratore alimentare di potassio indicato nei casi di ridotto apporto con la dieta o nei casi di aumentato fabbisogno fisiologico."
         }
     },
     "citrak-mg-citrato-di-potassio-1-5g-citrato-di-magnesio-1-g-20-bustine": {
@@ -646,21 +662,21 @@
         "theme": "#00aff0",
         "title": "CITRAK Mg.",
         "btnText": "Shop",
-        "price":14.00,
+        "price": 14.00,
         "logo": {
-            "src": "https://f.shgcdn.com/79b6c726-99c8-4aea-9288-9eecc5ed09b9/"
+            "src": "\\utility\\products\\mg\\06-BMD-Citrak-MG-9O3A5775.avif"
         },
         "images": [
             {
-                "src": "https://f.shgcdn.com/613754fa-ed87-48e1-8d02-1149cc5b3dc6/",
+                "src": "\\utility\\products\\mg\\06-BMD-Citrak-MG-9O3A5775.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/caf38538-135d-4c28-8e81-985b0cd0cf33/",
+                "src": "\\utility\\products\\mg\\03-BMD-Citrak-MG-9O3A5788.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/c98e3c6f-cc25-4645-bad4-dee595c1759f/",
+                "src": "\\utility\\products\\mg\\07-BMD-Citrak-MG-9O3A5778.avif",
                 "alt": ""
             }
         ],
@@ -686,7 +702,7 @@
                     "title": "Reintegra",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/c61e9798-f5d7-4c4b-8c66-2e68c1e46410/",
+                        "src": "\\utility\\products\\forte\\BMD-Beach-Workout-1845.avif",
                         "alt": ""
                     },
                     "description": "Integratore di potassio indicato nei casi di ridotto apporto con la dieta"
@@ -695,7 +711,7 @@
                     "title": "INTEGRA",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/0d9e60af-97d8-4211-9304-65be0dc1d24a/",
+                        "src": "\\utility\\products\\forte\\BMD-i4-Tuscany-FIO1437+.avif",
                         "alt": ""
                     },
                     "description": "Integra il potassio nei casi di aumentato fabbisogno fisiologico."
@@ -704,7 +720,7 @@
                     "title": "NON CONTIENE ZUCCHERI",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/f53bf8d5-88e9-4c07-92e2-47e284a59908/",
+                        "src": "\\utility\\products\\forte\\BMD-i3-Amalfi-Coast-GG-P1020923+.avif",
                         "alt": ""
                     },
                     "description": "Può essere assunto anche da soggetti con alterato metabolismo del glucosio"
@@ -713,7 +729,7 @@
                     "title": "RIPRISTINA",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/3bd7a15b-6303-46db-a14b-52953fb92f27/",
+                        "src": "\\utility\\products\\forte\\BMD-GG-i1-Donna-Fugata-P1106965+.avif",
                         "alt": ""
                     },
                     "description": "Ripristina la fatica muscolare e da' energia dopo l'attivita' sportiva"
@@ -791,8 +807,12 @@
             "title": "Iscriviti alla newsletter",
             "portalId": "19647191",
             "formId": "65e33639-1716-4cd6-99e2-b413cfd1141b",
-            "desktopImage": "https://f.shgcdn.com/db0a7bad-fa1b-42ca-9a68-13dc49a2d994/",
-            "mobileImage": "https://f.shgcdn.com/668c206c-2dcc-4ddb-bfbf-9b2a0f6f9041/"
+            "desktopImage": "\\newsletter\\Desktop\\01.avif",
+            "mobileImage": "\\newsletter\\Mobile\\01.avif"
+        },
+        "seo": {
+            "title": "Citrak Mg | Bruno MD",
+            "description": "Citrak Mg è un integratore alimentare di potassio e magnesio. E' consigliato nei casi di attività sportiva, intensa sudorazione e nella prevenzione e correzione degli stati di deplezione potassica dell’organismo."
         }
     },
     "nubit-30-compresse-da-850mg": {
@@ -805,19 +825,19 @@
         "price": 26,
         "btnText": "Shop",
         "logo": {
-            "src": "https://f.shgcdn.com/75ccb267-62ad-4c16-a0db-1987c65ff749/"
+            "src": "\\utility\\products\\Nubit\\01-BMD-Nubit-9O3A5730.avif"
         },
         "images": [
             {
-                "src": "https://f.shgcdn.com/344b411d-cace-46b8-8bcd-9be51e4bdacc/",
+                "src": "\\utility\\products\\Nubit\\01-BMD-Nubit-9O3A5730.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/23d17b78-dc20-4666-b4b0-f7899886fae5/",
+                "src": "\\utility\\products\\Nubit\\02-BMD-Nubit-9O3A5735.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/8edfa801-285e-402a-b32c-8e5fdc55da37/",
+                "src": "\\utility\\products\\Nubit\\04-BMD-Nubit-9O3A5793.avif",
                 "alt": ""
             }
         ],
@@ -843,7 +863,7 @@
                     "title": "Dolore Neuropatico",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/c87703c3-9203-4b08-9f2d-4846f40f7772/",
+                        "src": "\\utility\\products\\Nubit\\BMD-i2-FIO_3281+.avif",
                         "alt": ""
                     },
                     "description": "Aiuta a ridurre il dolore neuropatico"
@@ -852,7 +872,7 @@
                     "title": "Sistema nervoso",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/d95534ba-4f58-460d-bd02-cc45bc445a41/",
+                        "src": "\\utility\\products\\Nubit\\BMD-i4-Tuscany-FIO_FIO0731+.avif",
                         "alt": ""
                     },
                     "description": "Contribuisce al normale funzionamento del sistema nervoso"
@@ -861,7 +881,7 @@
                     "title": "Cellule nervose",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/6debfc41-dc39-4569-b7d3-6ba5f90c4204/",
+                        "src": "\\utility\\products\\Nubit\\BMD-i2-GG_BMDROM1_21-31+.avif",
                         "alt": ""
                     },
                     "description": "Stimola la sintesi delle cellule nervose"
@@ -870,7 +890,7 @@
                     "title": "Rigenera",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/35789c4d-5548-4c9f-8019-a1fd417fc069/",
+                        "src": "\\utility\\products\\Nubit\\BMD-i1-P1072522+.avif",
                         "alt": ""
                     },
                     "description": "Aiuta a rigenerare i nervi periferici"
@@ -948,8 +968,12 @@
             "title": "Iscriviti alla newsletter",
             "portalId": "19647191",
             "formId": "12cce9d1-8ccd-4782-a7ed-b5db55fb906d",
-            "desktopImage": "https://f.shgcdn.com/6a973cd7-6fd9-477c-a211-f542afe9a456/",
-            "mobileImage": "https://f.shgcdn.com/8901fd1f-7803-455f-beae-b16423974600/"
+            "desktopImage": "\\newsletter\\Desktop\\07.avif",
+            "mobileImage": "\\newsletter\\Mobile\\07.avif"
+        },
+        "seo": {
+            "title": "Nubit | Bruno MD",
+            "description": "Nubit e' un integratore alimentare a base di vitamine B1 e B12, che contribuiscono al normale funzionamento del sistema nervoso, e a base di alte dose di nucleotidi."
         }
     },
     "neulenic-600-confezione-da-15-compresse-rivestite-da-1-g-peso-netto-15-0-g": {
@@ -960,21 +984,21 @@
         "title": "NEULENIC",
         "theme": "#d50032",
         "btnText": "Shop",
-        "price":26.00,
+        "price": 26.00,
         "logo": {
-            "src": "https://f.shgcdn.com/587468bb-8134-4726-bb5e-72b9fc77e96f/"
+            "src": "\\utility\\products\\Neulenic\\01-BMD-Neulenic-600-9O3A5741.avif"
         },
         "images": [
             {
-                "src": "https://f.shgcdn.com/b1cc3d88-e115-43a1-a5f6-cfc938623ea9/",
+                "src": "\\utility\\products\\Neulenic\\01-BMD-Neulenic-600-9O3A5741.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/0c026a93-9459-4a7b-b9ec-82040de78931/",
+                "src": "\\utility\\products\\Neulenic\\05-BMD-Neulenic-600-9O3A5747.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/05e4672a-dba3-4f3e-9670-75187b7c8058/",
+                "src": "\\utility\\products\\Neulenic\\02-BMD-Neulenic-600-9O3A5744.avif",
                 "alt": ""
             }
         ],
@@ -1000,7 +1024,7 @@
                     "title": "Coopera",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/5ce73e76-f27d-4b54-b625-1aa363e2ad5f/",
+                        "src": "\\utility\\products\\Neulenic\\BMD-GG-i3-P1020672+.avif",
                         "alt": ""
                     },
                     "description": "Contribuisce al normale funzionamento del sistema nervoso"
@@ -1009,7 +1033,7 @@
                     "title": "Protegge",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/e1243d96-1e0b-4a6e-9617-d1af14f9599e/",
+                        "src": "\\utility\\products\\Neulenic\\BMD-i2-FIO_5329+.avif",
                         "alt": ""
                     },
                     "description": "Contribuisce alla protezione delle cellule dallo stato ossidativo"
@@ -1018,7 +1042,7 @@
                     "title": "Agisce",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/8b58f408-a961-4726-9b62-dc2b7d20f995/",
+                        "src": "\\utility\\products\\Neulenic\\BMD-i3-FilippoFior-FIO_0067+.avif",
                         "alt": ""
                     },
                     "description": "Agisce sulla causa ovvero sui processi ossidativi responsabili del percorso verso la patologia"
@@ -1027,7 +1051,7 @@
                     "title": "Agisce",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/528896c7-db85-4858-a54e-52d3f36cbbdd/",
+                        "src": "\\utility\\products\\Neulenic\\BMD-GG-i1-P1072516+.avif",
                         "alt": ""
                     },
                     "description": "Agisce sul sintomo ovvero sul dolore generato dall’infiammazione e dalla lesione della membrana nervosa"
@@ -1105,8 +1129,12 @@
             "title": "Iscriviti alla newsletter",
             "portalId": "19647191",
             "formId": "a97c8b24-a3f9-4896-b126-475d3ece5a8d",
-            "desktopImage": "https://f.shgcdn.com/b9f7188a-5f37-43ce-b1e1-6bc0ebe64c20/",
-            "mobileImage": "https://f.shgcdn.com/68bfc176-ff46-46db-9d99-e3d38e59c8c2/"
+            "desktopImage": "\\newsletter\\Desktop\\06.avif",
+            "mobileImage": "\\newsletter\\Mobile\\06.avif"
+        },
+        "seo": {
+            "title": "Neulenic | Bruno MD",
+            "description": "Neulenic e' un Integratore alimentare di acido alfa-lipoico, vitamine e rame."
         }
     },
     "silverphage-crema-gel-50-ml": {
@@ -1119,7 +1147,7 @@
         "btnText": "Shop",
         "price": 18.00,
         "logo": {
-            "src": "https://f.shgcdn.com/ec616737-8a46-496b-b430-ecac1e4a4ddf/"
+            "src": "\\utility\\products\\Silverphage-crema\\06-BMD-Silverphage-Crema_Gel-9O3A5961.avif"
         },
         "declaimer": {
             "title": "<h1>SILVERPHAGE</h1>",
@@ -1128,15 +1156,15 @@
         },
         "images": [
             {
-                "src": "https://f.shgcdn.com/85b5600e-f0b8-409c-a948-38a08f13c158/",
+                "src": "\\utility\\products\\Silverphage-crema\\06-BMD-Silverphage-Crema_Gel-9O3A5961.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/b394eace-9754-4cbd-8545-67eb31fa86d1/",
+                "src": "\\utility\\products\\Silverphage-crema\\03-BMD-Silverphage-Crema_Gel-9O3A5893.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/b2834c95-39b6-4af9-9aaa-038f70806c86/",
+                "src": "\\utility\\products\\Silverphage-crema\\01-BMD-Silverphage-Crema_Gel-9O3A5808.avif",
                 "alt": ""
             }
         ],
@@ -1157,7 +1185,7 @@
                     "title": "Barriera per lesioni cutanee",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/ac3ec240-2aec-4453-94ab-11ac5b51c589/",
+                        "src": "\\utility\\products\\Silverphage-crema\\BMD-i4-Tuscany-GG-P1040909+.avif",
                         "alt": ""
                     },
                     "description": "Costruisce una barriera non tradizionale (bende o cerotti) per le lesioni cutanee (trattamento delle ferite, del punto di inserzione del catetere venoso centrale o periferico, e arterioso, delle lesioni da decubito, delle irritazioni, e degli arrossamenti da pannoloni negli anziani etc,)"
@@ -1166,7 +1194,7 @@
                     "title": "Protezione",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/5d4bf5e5-23a8-46be-9f06-c01699e88871/",
+                        "src": "\\utility\\products\\Silverphage-crema\\BMD-Beach_Workout_1896.avif",
                         "alt": ""
                     },
                     "description": "Isola e protegge la cute da fattori irritanti esterni e favorire una normale guarigione"
@@ -1175,7 +1203,7 @@
                     "title": "Effetto barriera",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/2d8439ad-46d8-484d-ba21-a763f8fbea6b/",
+                        "src": "\\utility\\products\\Silverphage-crema\\BMD-GG-i1-BCDG-P1072451+.avif",
                         "alt": ""
                     },
                     "description": "Conferisce significativo apporto all’azione filmogena del dispositivo svolgendo, a supporto, un effetto barriera."
@@ -1184,7 +1212,7 @@
                     "title": "Duplice azione",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/66150f58-02a4-4b22-8b56-e60c11094f89/",
+                        "src": "\\utility\\products\\Silverphage-crema\\BMD-GG-01-Sicily-P1095965+.avif",
                         "alt": ""
                     },
                     "description": "Agisce con una duplice azione: isola il punto di applicazione dalle aggressioni microbiche esterne; limita la colonizzazione microbica nel punto di applicazione creando le condizioni migliori condizioni per la rigenerazione del tessuto cutaneo."
@@ -1262,8 +1290,12 @@
             "title": "Iscriviti alla newsletter",
             "portalId": "19647191",
             "formId": "c775500b-31a6-49af-9eed-7bc4c60b5395",
-            "desktopImage": "https://f.shgcdn.com/1f24ce69-725d-4db5-8b6a-c4f7ccf3d88b/",
-            "mobileImage": "https://f.shgcdn.com/9e9c86cb-4911-4138-9602-d4e4c0cd4dae/"
+            "desktopImage": "\\newsletter\\Desktop\\03.avif",
+            "mobileImage": "\\newsletter\\Mobile\\03.avif"
+        },
+        "seo": {
+            "title": "Silverphage Crema  | Bruno MD",
+            "description": "Silverphage Crema e' un dispositivo medico coadiuvante per la protezione di lesioni cutanee ed abrasioni"
         }
     },
     "silverphage-14-individual-wipes": {
@@ -1274,21 +1306,21 @@
         "theme": "#0033A1",
         "title": "SILVERPHAGE GARZE MONOUSO",
         "btnText": "Shop",
-        "price":19.00,
+        "price": 19.00,
         "logo": {
-            "src": "https://f.shgcdn.com/2289226e-14ac-4a34-a768-41633b067fe5/"
+            "src": "\\utility\\products\\SILVERPHAGE-GARZE\\01-BMD-Silverphage-9O3A5964_1.avif"
         },
         "images": [
             {
-                "src": "https://f.shgcdn.com/4b19f1d3-e978-46f1-a4a8-632348e56f0a/",
+                "src": "\\utility\\products\\SILVERPHAGE-GARZE\\01-BMD-Silverphage-9O3A5964_1.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/32e5bf25-63c6-4522-ba78-cae993e62bc3/",
+                "src": "\\utility\\products\\SILVERPHAGE-GARZE\\03-BMD-Silverphage-9O3A5757.avif",
                 "alt": ""
             },
             {
-                "src": "https://f.shgcdn.com/2c6153cd-408f-4f1b-b5f9-9313da648845/",
+                "src": "\\utility\\products\\SILVERPHAGE-GARZE\\02-BMD-Silverphage-9O3A5970.avif",
                 "alt": ""
             }
         ],
@@ -1314,7 +1346,7 @@
                     "title": "Umettante",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/c87703c3-9203-4b08-9f2d-4846f40f7772/",
+                        "src": "\\utility\\products\\SILVERPHAGE-GARZE\\BMD-GG-01-Sicily-SCILI-P1106849+.avif",
                         "alt": ""
                     },
                     "description": "Svolge un'attivita detergente"
@@ -1323,7 +1355,7 @@
                     "title": "Coadiuvante",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/d95534ba-4f58-460d-bd02-cc45bc445a41/",
+                        "src": "\\utility\\products\\SILVERPHAGE-GARZE\\BMD-GG-i3-P1016912+.avif",
                         "alt": ""
                     },
                     "description": "Indicato come coadiuvante in caso di infiammazioni, infezioni, allergie anche in presenza di secrezioni oculari. Coadiuvante nel trattamento di congiuntiviti di varia natura, anche in presenza disecrezioni oculare"
@@ -1332,7 +1364,7 @@
                     "title": "Proteggente",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/6debfc41-dc39-4569-b7d3-6ba5f90c4204/",
+                        "src": "\\utility\\products\\SILVERPHAGE-GARZE\\BMD-GG-ROM3-27+.avif",
                         "alt": ""
                     },
                     "description": "Crea un a barriera umida che protegge l’area perioculare e aiuta a prevenire le infezioni batteriche e virali."
@@ -1341,7 +1373,7 @@
                     "title": "Rigenerante",
                     "icon": "",
                     "img": {
-                        "src": "https://f.shgcdn.com/35789c4d-5548-4c9f-8019-a1fd417fc069/",
+                        "src": "\\utility\\products\\SILVERPHAGE-GARZE\\BMD-i3-FilippoFior-FIO_0348b+.avif",
                         "alt": ""
                     },
                     "description": "Favorisce il mantenimento delle condizioni fisiologiche della zona perioculare"
@@ -1394,8 +1426,12 @@
             "title": "Iscriviti alla newsletter",
             "portalId": "19647191",
             "formId": "569a2af9-b397-486f-8ac7-98d462d81ec1",
-            "desktopImage": "https://f.shgcdn.com/76e54b5b-01be-413d-8637-92096bc3e0c6/",
-            "mobileImage": "https://f.shgcdn.com/31cde13f-00fc-404b-b218-2b808046c9e5/"
+            "desktopImage": "\\newsletter\\Desktop\\02.avif",
+            "mobileImage": "\\newsletter\\Mobile\\02.avif"
+        },
+        "seo": {
+            "title": "Silverphage Garze | Bruno MD",
+            "description": "Silverphage Garze  e’ un dispositivo medico per la detersione dell'area perioculare"
         }
     }
 }
