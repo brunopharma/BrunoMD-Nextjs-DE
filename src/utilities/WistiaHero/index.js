@@ -8,8 +8,7 @@ export const WistiaHero = ({ id, content }) => {
         setWindowWidth(window.innerWidth - 15)
         }, [])
         if (!id) return null
-        const wistiaVideo = `//fast.wistia.net/embed/iframe/${id}?videoFoam=true`;
-        //?controlsVisibleOnLoad=true&amp;version=v1&amp;videoHeight=272&amp;videoWidth=640&amp;volumeControl=true
+        const wistiaVideo = `//fast.wistia.net/embed/iframe/${id}?controlsVisibleOnLoad=true&amp;version=v1&amp;videoHeight=272&amp;videoWidth=640&amp;volumeControl=true`;
         
         return (
             <section className={styles.cover}>
