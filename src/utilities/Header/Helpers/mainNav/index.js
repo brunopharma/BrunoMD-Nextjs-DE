@@ -24,14 +24,14 @@ const MainNav = ({ navMenuLinks }) => {
         {!isMobileNavOpen && <Link href={'/'} className={styles.logo}>
           {!isMobile ? <Image
             alt="Bruno logo"
-            src={"/logo/Bruno-White.png"}
+            src={"/logo/Bruno-White.avif"}
             width={180}
             height={30}
           /> : <Image
             alt="Bruno logo"
-            src={"/logo/icon.png"}
-            width={60}
-            height={30}
+            src={"/logo/Bruno-White.avif"}
+            width={120}
+            height={20}
           />}
         </Link>}
         {false ? (

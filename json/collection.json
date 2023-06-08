@@ -65,7 +65,7 @@
                 "title": "NEULENIC",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\neulenic\\01-BMD-Neulenic-600-9O3A5741.avif"
+                    "src": "\\utility\\products\\Neulenic\\01-BMD-Neulenic-600-9O3A5741.avif"
                 }
             },
             {
@@ -76,7 +76,7 @@
                 "title": "NUBIT",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\nubit\\01-BMD-Nubit-9O3A5730.avif"
+                    "src": "\\utility\\products\\Nubit\\01-BMD-Nubit-9O3A5730.avif"
                 }
             },
             {
@@ -253,7 +253,7 @@
                 "title": "NUBIT",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\nubit\\01-BMD-Nubit-9O3A5730.avif"
+                    "src": "\\utility\\products\\Nubit\\01-BMD-Nubit-9O3A5730.avif"
                 }
             },
             {
@@ -264,7 +264,7 @@
                 "title": "NEULENIC",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\neulenic\\01-BMD-Neulenic-600-9O3A5741.avif"
+                    "src": "\\utility\\products\\Neulenic\\01-BMD-Neulenic-600-9O3A5741.avif"
                 }
             }
         ],
