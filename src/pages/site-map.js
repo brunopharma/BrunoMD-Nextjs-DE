@@ -1,9 +1,11 @@
 import React from 'react'
 import styles from '@/styles/siteMap.module.css'
 import Link from 'next/link'
+import PageHead from '@/utilities/Head'
 const SiteMap = ({ title }) => {
   return (
     <section className={styles.mainsitemap}>
+      <PageHead content={{title:"Site Map | Bruno MD"}}/>
       <div>
       <h1 className={styles.head}>PAGINE</h1>
         <ul className={styles.lists}>

@@ -1,5 +1,6 @@
 import styles from './styles.module.css'
 import NavLink from './Helper/navLink'
+import Link from 'next/link'
 export default function Home({ data }) {
     console.log({ data });
     return (
@@ -7,7 +8,9 @@ export default function Home({ data }) {
             <div className={styles.container}>
                 <div className={styles.wrapper}>
                     <div>
-                        <img className={styles.logo} src='/logo/Bruno-White.png' alt='...' />
+                    <Link href={'/'}>
+                        <img className={styles.logo} src='/logo/Bruno-White.avif' alt='...' />
+                        </Link>
                     </div>
                     <div className={styles.socialLinkHolder}>
                         <a href="https://www.instagram.com/brunomdofficial/?hl=en" target="_blank" rel="noreferrer" data-testid="external-link">

@@ -10,7 +10,7 @@
                 "title": "CITRAK FORTE 4g.",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\06-BMD-Citrack-Forte-9O3A5764.png"
+                    "src": "\\utility\\products\\forte\\06-BMD-Citrack-Forte-9O3A5764.avif"
                 }
             },
             {
@@ -21,7 +21,7 @@
                 "title": "CITRAK 3g.",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\07-BMD-Citrak-9O3A5769.png"
+                    "src": "\\utility\\products\\citrak\\07-BMD-Citrak-9O3A5769.avif"
                 }
             },
             {
@@ -32,7 +32,7 @@
                 "title": "CITRAK Mg.",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\06-BMD-Citrak-MG-9O3A5775.png"
+                    "src": "\\utility\\products\\mg\\06-BMD-Citrak-MG-9O3A5775.avif"
                 }
             },
             {
@@ -43,7 +43,7 @@
                 "title": "CRONOS",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\07-BMD-Cronos-9O3A5820+.png"
+                    "src": "\\utility\\products\\cronos\\07-BMD-Cronos-9O3A5820.avif"
                 }
             },
             {
@@ -54,7 +54,7 @@
                 "title": "DROP THERAPEUTIC",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\05-BMD-DROP-AZWLMEV0.png"
+                    "src": "\\utility\\products\\drop\\BMD-Drop-Therapeutic-9O3A5578_3000.avif"
                 }
             },
             {
@@ -65,7 +65,7 @@
                 "title": "NEULENIC",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\01-BMD-Neulenic-600-9O3A5741.png"
+                    "src": "\\utility\\products\\neulenic\\01-BMD-Neulenic-600-9O3A5741.avif"
                 }
             },
             {
@@ -76,7 +76,7 @@
                 "title": "NUBIT",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\01-BMD-Nubit-9O3A5730.png"
+                    "src": "\\utility\\products\\nubit\\01-BMD-Nubit-9O3A5730.avif"
                 }
             },
             {
@@ -87,7 +87,7 @@
                 "title": "SILVERPHAGE Crema",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\06-BMD-Silverphage-Crema_Gel-9O3A5961.png"
+                    "src": "\\utility\\products\\Silverphage-crema\\06-BMD-Silverphage-Crema_Gel-9O3A5961.avif"
                 }
             },
             {
@@ -98,7 +98,7 @@
                 "title": "SILVERPHAGE GARZE MONOUSO",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\01-BMD-Silverphage-9O3A5964.png"
+                    "src": "\\utility\\products\\SILVERPHAGE-GARZE\\01-BMD-Silverphage-9O3A5964_1.avif"
                 }
             }
         ],
@@ -134,7 +134,7 @@
                 "title": "SILVERPHAGE Crema",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\06-BMD-Silverphage-Crema_Gel-9O3A5961.png"
+                    "src": "\\utility\\products\\Silverphage-crema\\06-BMD-Silverphage-Crema_Gel-9O3A5961.avif"
                 }
             }
         ],
@@ -170,7 +170,7 @@
                 "title": "DROP THERAPEUTIC",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\05-BMD-DROP-AZWLMEV0.png"
+                    "src": "\\utility\\products\\drop\\BMD-Drop-Therapeutic-9O3A5578_3000.avif"
                 }
             },
             {
@@ -181,7 +181,7 @@
                 "title": "SILVERPHAGE GARZE MONOUSO",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\01-BMD-Silverphage-9O3A5964.png"
+                    "src": "\\utility\\products\\SILVERPHAGE-GARZE\\01-BMD-Silverphage-9O3A5964_1.avif"
                 }
             }
         ],
@@ -217,7 +217,7 @@
                 "title": "CRONOS",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\07-BMD-Cronos-9O3A5820+.png"
+                    "src": "\\utility\\products\\cronos\\07-BMD-Cronos-9O3A5820.avif"
                 }
             }
         ],
@@ -231,11 +231,11 @@
         "masterHead": {
             "img": {
                 "desktopImage": {
-                    "src": "/utility/dolore-desk.jpg",
+                    "src": "\\utility\\dolore-desk.avif",
                     "alt": ""
                 },
                 "mobileImage": {
-                    "src": "/utility/dolore-mob.avif",
+                    "src": "\\utility\\dolore-mob.avif",
                     "alt": ""
                 },
                 "title": "Dolore"
@@ -253,7 +253,7 @@
                 "title": "NUBIT",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\01-BMD-Nubit-9O3A5730.png"
+                    "src": "\\utility\\products\\nubit\\01-BMD-Nubit-9O3A5730.avif"
                 }
             },
             {
@@ -264,7 +264,7 @@
                 "title": "NEULENIC",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\01-BMD-Neulenic-600-9O3A5741.png"
+                    "src": "\\utility\\products\\neulenic\\01-BMD-Neulenic-600-9O3A5741.avif"
                 }
             }
         ],
@@ -300,7 +300,7 @@
                 "title": "CRONOS",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\07-BMD-Cronos-9O3A5820+.png"
+                    "src": "\\utility\\products\\cronos\\07-BMD-Cronos-9O3A5820.avif"
                 }
             }
         ],
@@ -329,6 +329,17 @@
         },
         "item": [
             {
+                "EXTERNALID": "8097634582843",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2MzQ1ODI4NDM=",
+                "SLUG": "citrak-3g-30-bustine",
+                "link": "/prodotti/",
+                "title": "CITRAK 3g.",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\citrak\\07-BMD-Citrak-9O3A5769.avif"
+                }
+            },
+            {
                 "EXTERNALID": "8097707229499",
                 "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc3MDcyMjk0OTk=",
                 "SLUG": "citrak-forte-4g-con-edulcoranti-30-bustine",
@@ -336,7 +347,7 @@
                 "title": "CITRAK FORTE 4g.",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\06-BMD-Citrack-Forte-9O3A5764.png"
+                    "src": "\\utility\\products\\forte\\06-BMD-Citrack-Forte-9O3A5764.avif"
                 }
             },
             {
@@ -347,18 +358,7 @@
                 "title": "CITRAK Mg.",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\forte\\06-BMD-Citrak-MG-9O3A5775.png"
-                }
-            },
-            {
-                "EXTERNALID": "8097634582843",
-                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2MzQ1ODI4NDM=",
-                "SLUG": "citrak-3g-30-bustine",
-                "link": "/prodotti/",
-                "title": "CITRAK 3g.",
-                "btnText": "Shop",
-                "logo": {
-                    "src": "\\utility\\products\\forte\\07-BMD-Citrak-9O3A5769.png"
+                    "src": "\\utility\\products\\mg\\06-BMD-Citrak-MG-9O3A5775.avif"
                 }
             }
         ],

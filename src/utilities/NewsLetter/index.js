@@ -25,18 +25,18 @@ const [isDesktop] = useMatchMedia('(min-width: 768px)', true)
         }
     }, [content,isDesktop]);
     if (!content) return null
-    const { title, portalId, formId } = content || undefined;
+    const { title, portalId, formId,titleFont,formWidth } = content || undefined;
     if (!portalId || !formId) return null
     return(
         <section>
         <div className={styles.container}>
-          <div className={styles.grid}>
-            <div className={styles.imageContainer}>
+          <div className={styles.grid} style={formWidth && {gridTemplateColumns:formWidth}}>
+            {image && <div className={styles.imageContainer}>
             <img className={styles.image} src={image} alt="..." />
-            </div>
+            </div>}
             <div style={{ 'position': 'relative' }}>
               <div className={styles.details}>
-                <div className={styles.headingContainer}>
+                <div className={styles.headingContainer} style={titleFont && {fontSize:titleFont}}>
                 {title}
                 </div>
                 <div className={styles.formContainer}>

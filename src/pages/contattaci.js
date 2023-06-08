@@ -3,6 +3,7 @@ import styles from '@/styles/contattaci.module.css'
 import { NewsLetter } from '@/utilities/NewsLetter'
 import HomePageData from '../../json/home.json'
 import ContactData from '../../json/contattaci.json'
+import PageHead from '@/utilities/Head'
 
 export default function Contattaci() {
   const [state1, setState1] = useState(false)
@@ -33,6 +34,7 @@ export default function Contattaci() {
 
   return (
     <section>
+      <PageHead content={{title:'Contattaci | Bruno MD',description:"Hai una domanda sui nostri prodotti per la salute e il benessere o un ordine recente? Contatta Bruno MD inviando la tua richiesta tramite l&apos;apposito form."}}/>
       <div>
         <div className={styles.twoCol}>
           <div className={styles.copyBlock} dangerouslySetInnerHTML={{ __html: ContactData.firstSection }}>

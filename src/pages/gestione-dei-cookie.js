@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from 'react'
 import styles from '@/styles/spedizione.module.css'
+import PageHead from '@/utilities/Head'
 
 
 export default function Spedizione() {
 
     return (
         <section className={styles.container}>
+            <PageHead content={{title:"Cookie Policy | Bruno MD"}}/>
             <h1>COOKIE POLICY</h1>
             <div className={styles.textHolder}>
                 <p>
