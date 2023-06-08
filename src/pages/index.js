@@ -23,7 +23,7 @@ export default function Home() {
         <Cards contents={HomePageData.categories} />
         <TrustBadge contents={TrustBadgeData} />
         <Purpose contents={HomePageData.purpose} />
-        {/* <HomeGallery id={HomePageData.homeGallery}/> */}
+        <HomeGallery id={HomePageData.homeGallery}/>
         <NewsLetter content={HomePageData.newsletter}/>
       </section>
     </>
