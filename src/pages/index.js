@@ -20,7 +20,7 @@ export default function Home() {
     
       <section>
         <PageHead content={SEO.home.SEO}/>
-        {/* <WistiaHero id={HomePageData.wistia.id} content={HomePageData.wistia.content} /> */}
+        <WistiaHero id={HomePageData.wistia.id} content={HomePageData.wistia.content} />
         <MarkqueCarousel image={PatnerData} />
         <Cards contents={HomePageData.categories} />
         <TrustBadge contents={TrustBadgeData} />
