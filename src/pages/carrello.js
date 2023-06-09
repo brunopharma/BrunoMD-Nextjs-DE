@@ -5,7 +5,9 @@ import { NewsLetter } from "@/utilities/NewsLetter";
 import Link from "next/link";
 
 const Carrelo = ()=>{
-
+    return(
+        <p>soon.</p>
+    )
     return(
         <section className={styles.container}>
             <Link href={'/collezioni/tutti'} className={styles.back}>← Continua lo shopping</Link>
