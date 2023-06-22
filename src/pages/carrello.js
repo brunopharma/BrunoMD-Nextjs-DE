@@ -27,10 +27,12 @@ const Carrelo = ({version}) => {
     useEffect(() => {
         let cId = localStorage.getItem('e6S4JJM9G');
         client.checkout.fetch(cId).then((checkout) => {
-            let {webUrl,totalPrice,lineItems} = checkout;
-            setData({
-                url:webUrl,price:totalPrice.amount,lineItems
-            })
+            if(checkout){
+                let {webUrl,totalPrice,lineItems} = checkout;
+                setData({
+                    url:webUrl,price:totalPrice.amount,lineItems
+                })
+            }
         });
     }, [])
 return(
