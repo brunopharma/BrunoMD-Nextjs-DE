@@ -5,7 +5,7 @@ import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 
 
-const RECYCLEProductTrustBadges = ({ product }) => {
+const ProductTrustBadges = ({ images }) => {
   const [isDesktop] = useMatchMedia('(min-width: 800px)', true)
   const ButtonGroup = ({ next, previous, goToSlide, ...rest }) => {
     const { carouselState: { currentSlide } } = rest;
@@ -47,18 +47,17 @@ const RECYCLEProductTrustBadges = ({ product }) => {
     prevNextButtons: false,
     wrapAround: true,
   }
-  if (!product || !product.productTrustBadge) return null
-  if (product.productTrustBadge.length) {
+  if (images) {
     return (
       <section style={{ 'background-color': '#f7f7f7' }}>
         {isDesktop ? (
           <div className={styles.productBadgesContainer}>
             <div className={styles.productBadgesCenter}>
               <div className={styles.badgeGroup}>
-                {product.productTrustBadge.map((element, index) => {
+                {images.map((element, index) => {
                   return (
                     <div className={styles.productBadgeslist} key={`image-${index}`}>
-                      <img src={element.logo.src} alt={element.logo.alt} />
+                      <img src={element.src} alt={element.alt} />
                     </div>
                   )
                 })}
@@ -68,9 +67,9 @@ const RECYCLEProductTrustBadges = ({ product }) => {
             <div style={{'padding': '3rem 0'}} id="productTrustBadgeCarousel">
           <Carousel arrows={false} customButtonGroup={<ButtonGroup />} itemClass="m-0" autoPlay={true} infinite={true} containerClass="container"  autoPlaySpeed={3000}
             keyBoardControl={true} responsive={responsive}>
-            {product.productTrustBadge.map((element,i1) => {
+            {images.map((element,i1) => {
               return (
-                  <img src={element.logo.src} alt={element.logo.alt}  key={i1}/>
+                  <img src={element.src} alt={element.alt}  key={i1}/>
               )
             })}
           </Carousel>
@@ -83,4 +82,4 @@ const RECYCLEProductTrustBadges = ({ product }) => {
   }
 }
 
-export default RECYCLEProductTrustBadges
+export default ProductTrustBadges

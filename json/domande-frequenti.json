@@ -1,111 +1,764 @@
 {
-    "seo":{
-        "title":"Domande Frequenti | BrunoMD",
-        "description":"Leggi le domande frequenti sui prodotti Bruno MD, tra cui: Citrak, Citrak Forte, Citrak Mg., Drop Therapeutic, Neulenic, Nubit."
-    },
-    "masterHead": {
-        "desktopImage": {
-            "src": "/utility/frequenti-desk.avif",
-            "alt": ""
+    "ENG": {
+        "seo": {
+            "title": "BrunoMD | FAQs | Learn About Collagen and BrunoMD Products",
+            "description": "Read frequently asked questions about BrunoMD Products including: Royal Collagen Peptides, Bluerex, Riboflam, Chondrorex, Ketorex, and CholestQ10."
         },
-        "mobileImage": {
-            "src": "/utility/frequenti-mob.avif",
-            "alt": ""
+        "masterHead": {
+            "desktopImage": {
+                "src": "/utility/frequenti-desk.avif",
+                "alt": ""
+            },
+            "mobileImage": {
+                "src": "/utility/frequenti-mob.avif",
+                "alt": ""
+            },
+            "title": "Frequently Asked Questions"
         },
-        "title": "Frequently Asked Questions"
-    },
-    "section": [
-        {
-            "title": "Ordini",
-            "content": [
-                {
-                    "title": "Come posso modificare il mio ordine?",
-                    "content": "<p>Per modificare il metodo di pagamento, le informazioni di spedizione, modificare l'abbonamento (frequenza) o il contenuto dell'ordine, dovrai accedere al tuo account visitando www.brunomd.eu. In alto a destra della home page fai clic sul link 'Accedi' sopra il carrello. Tieni presente che avrai bisogno di un account per apportare modifiche e dovrai crearne uno se non lo hai fatto al momento dell'acquisto. Ti invitiamo a utilizzare lo stesso indirizzo e-mail utilizzato al momento dell'acquisto per collegare l'ordine al tuo account. Se un account è già stato creato, accedi utilizzando il tuo indirizzo e-mail e la password. Puoi farlo facendo clic sul link 'Accedi' sopra l'icona del carrello nella home page (angolo in alto a destra) e accedi. Verrai indirizzato alla pagina della cronologia degli ordini e sulla riga dell'ordine c'è un'opzione per 'cancellare / modificare' il tuo ordine.</p><p>Se hai bisogno di ulteriore assistenza, non esitare a contattarci via e-mail all’indirizzo customerservice@brunopharma.com.</p>"
-                }
-            ]
-        },
-        {
-            "title": "Cancellazione e Reso",
-            "content": [
-                {
-                    "title": "Come posso cancellare il mio ordine?",
-                    "content": "<p>1.Se vuoi annullare il tuo primo ordine che non è stato spedito contattaci all’indirizzo customerservice@brunopharma.com. Di solito, le spedizioni vengono spedite lo stesso giorno in cui si riceve l’ordine, quindi non garantiamo che ci sarà abbastanza tempo per fermarlo in tempo. Faremo del nostro meglio per soddisfare la vostra richiesta.   </p><p>2.Se desideri annullare il tuo primo ordine che è stato spedito, segui le istruzioni riportate di seguito:</p><p>• Dovrai creare una richiesta di reso tramite il nostro centro resi ( Vedi &quot;Portale per il Reso&quot; ) Puoi accedervi visitando il nostro sito www.brunomd.eu e navigando nella pagina &quot;Portale per il Reso&quot; situata nella parte inferiore della home page. </p><p>• Clicca su &quot;Portale per il Reso&quot;. Verrai indirizzato alla pagina del centro resi e lì ti verrà richiesto di inserire il numero dell'ordine e l'indirizzo e-mail per avviare il processo. Nota che il contenuto della pagina verra' mostrato in lingua inglese. In alto a destra potrai scegliere la lingua italiana. Poiché non è necessario restituire il primo ordine, ti rimborseremo per intero meno il costo della spedizione, una volta ricevuta la tua richiesta. Il nostro sistema genererà un RMA, si prega di ignorarlo. Sarai rimborsato per intero una volta che la tua richiesta sarà stata elaborata dal nostro servizio clienti.</p><p>3.Se si desidera annullare eventuali ordini successivi, inclusi gli ordini di acquisto periodico, segui le istruzioni riportate qui sotto:</p><p>• Dovrai accedere al tuo ordine visitando <a href='https://www.brunomd.eu' target='_blank' rel='noopener noreferrer' data-testid='external-link'>www.brunomd.eu</a>. Vai su “accedi” (in alto a destra della homepage) per gestire qualsiasi riprogrammazione o cancellazione relativa a qualsiasi ordine successivo o qualsiasi ordine di acquisto periodico.</p><p>• Tuttavia, se non sei in grado di apportare le modifiche necessarie o hai bisogno di ulteriore assistenza, non esitare a contattarci via e-mail all’indirizzo customerservice@brunopharma.com, ed un membro del nostro team di customer service sarà lieto di aiutarti.</p><p>4.Se desideri restituire il tuo ordine, segui le istruzioni riportate di seguito:</p><p>• Non è necessario restituire il tuo primo ordine. Sebbene i nostri sistemi generino un RMA, si prega di ignorarlo. Offriamo un rimborso completo meno il costo della spedizione per il tuo primo ordine. Non dovrai restituire alcun prodotto. Sarai rimborsato per intero meno il costo della spedizione, una volta che la tua richiesta sarà stata elaborata dal nostro servizio clienti.</p><p>• Per ricevere un rimborso completo, tutti gli ordini successivi o tutti gli ordini di acquisto periodico devono essere restituiti non aperti e sigillati.  Non emettiamo rimborsi o crediti su merce danneggiata, aperta o usata dopo il tuo primo ordine e su quelli di acquisto periodico. Il tuo ordine non sarà idoneo per la restituzione se ci contatterai 14 giorni dopo il ricevimento della merce. Se non riesci a completare questo processo o hai bisogno di ulteriore assistenza, non esitare a inviarci un'e-mail all'indirizzo customerservice@brunopharma.com.</p><p>Istruzioni su come restituire il tuo ordine:</p><p>1. Accedi a www.brunomd.eu e vai su &quot;Portale per il Reso&quot; (sotto &quot;Chi Siamo&quot; che si trova in basso della home page).  Nota che il contenuto della pagina verra' mostrato in lingua inglese. In alto a destra potrai scegliere la lingua italiana. Assicurati che il reso non avvenga dopo più di 14 giorni dal ricevimento della merce.</p><p>2. Ti verrà fornito un numero di autorizzazione alla restituzione della merce (RMA). Nessun rimborso sarà dato senza un numero RMA e la spedizione sarà rifiutata. I numeri RMA saranno validi solo per dieci giorni. Un rimborso verrà emesso dopo l'approvazione dell'idoneità.</p><p>3. Scrivi l'RMA# all'esterno della tua scatola di spedizione.</p><p>4. Allega una nota con una copia della fattura originale / bolla di accompagnamento con il motivo del reso e il numero RMA. Imballa accuratamente i prodotti nella scatola di spedizione originale o in qualsiasi cartone di spedizione adatto utilizzando abbondante materiale imbottito per proteggere i prodotti. Assicurati che i prodotti siano ben protetti e confezionati in modo simile al modo in cui li hai ricevuti.</p><p>5. Spedisci la merce a:</p><p>Bruno Pharma Innovations</p><p>c/o Byrd Technologies</p><p>c/o Trasgo S.r.l</p><p>Via Cascina Fabbrica, 27</p><p>27040 Arena Po (PV)</p><p>Italia</p><p>6. Un rimborso sarà emesso dopo l'approvazione dell'idoneità. Conserva i numeri di tracciamento della tua spedizione fino a quando non hai ricevuto il tuo credito o la sostituzione di una nuova spedizione.</p>"
-                },
-                {
-                    "title": "Come posso cancellare un acquisto periodico?",
-                    "content": "<div><p>Accedi al tuo account su <a href='https://www.brunomd.eu' target='_blank' rel='noopener noreferrer' data-testid='external-link'>www.brunomd.eu</a>, facendo clic sul link &quot;accedi&quot; nell'angolo in alto a destra della home page sopra il carrello. Tieni presente che avrai bisogno di un account per apportare modifiche e dovrai crearne uno se non lo hai fatto al momento dell'acquisto. Ti invitiamo a utilizzare lo stesso indirizzo e-mail utilizzato al momento dell'acquisto per collegare l'ordine al tuo account. Se un account è già stato creato è sufficiente accedere utilizzando il proprio indirizzo e-mail e password. Puoi farlo facendo clic sul link &quot;accedi&quot; sopra l'icona del carrello nella home page (angolo in alto a destra) e accedi. Verrai indirizzato alla pagina della cronologia degli ordini e sulla riga dell'ordine c'è un'opzione per &quot;cancellare / modificare&quot; il tuo ordine.</p><p>Se hai bisogno di ulteriore assistenza, non esitare a contattarci via e-mail all’indirizzo customerservice@brunopharma.com.</p></div>"
-                },
-                {
-                    "title": "Il mio prodotto è arrivato danneggiato, cosa devo fare?",
-                    "content": "<div><p>Non preoccuparti, ti invieremo un nuovo ordine al più presto.</p><p>• È necessario contattarci a customerservice@brunopharma.com entro 72 ore dalla data della merce ricevuta. La tua e-mail deve includere una foto dell'articolo danneggiato. Il tuo caso verrà inviato al nostro servizio clienti e uno dei nostri agenti dell'assistenza clienti ti risponderà con ulteriori istruzioni.</p></div>"
-                },
-                {
-                    "title": "Ho ordinato il mio prodotto su Amazon, ma il vostro sito web è più economico, potete rimborsarmi la differenza?",
-                    "content": "<div><p>Amazon ha un sistema diverso rispetto al nostro sito, quindi non siamo in grado di emettere rimborsi per una differenza di prezzo tra il sito <a href='https://www.brunomd.eu' target='_blank' rel='noopener noreferrer' data-testid='external-link'>www.brunomd.eu</a> ed Amazon.</p></div>"
-                }
-            ]
-        },
-        {
-            "title": "Spedizioni",
-            "content": [
-                {
-                    "title": "Offrite la spedizione gratuita?",
-                    "content": "<p>Offriamo la spedizione via terra standard gratuita per tutti gli ordini superiori a € 60. Per qualificarsi, il totale del carrello deve essere di € 60 dopo eventuali sconti applicabili e l'ordine deve essere effettuato in Italia. Riceverai la merce entro 3-5 giorni lavorativi dalla data di spedizione. Faremo del nostro meglio per spedire la merce entro 24 ore dal ricevimento dell’ordine. Spediamo dal lunedì al venerdì, weekends e festivi esclusi. Al momento non spediamo alcun prodotto al di fuori dell'Italia.</p>"
-                },
-                {
-                    "title": "Come funziona la spedizione?",
-                    "content": "<div><p>Una volta spedita la tua merce, ti invieremo via e-mail le informazioni di tracciamento in modo che tu possa seguire la spedizione durante il transito. Talvolta occorrono 1-2 giorni lavorativi per l'aggiornamento del sito della compagnia di spedizione. Se hai problemi con la consegna o l'indirizzo di spedizione, faccelo sapere. Potremmo essere in grado di cambiare l'indirizzo prima della spedizione dell'ordine, ma non dopo. Quindi, se il tuo ordine non è stato ancora spedito, puoi sempre modificare il metodo di pagamento, le informazioni di spedizione o il contenuto dell'ordine. Accedi al tuo ordine su www.brunomd.eu (in alto a destra della homepage).  Nell'angolo in alto a destra della home page fai clic sul link &quot;Accedi&quot; sopra il carrello. Tieni presente che avrai bisogno di un account per apportare modifiche e dovrai crearne uno se non lo hai fatto al momento dell'acquisto. Ti invitiamo a utilizzare lo stesso indirizzo e-mail utilizzato al momento dell'acquisto per collegare l'ordine al tuo account. Se un account è già stato creato, accedi utilizzando il tuo indirizzo e-mail e la password. Puoi farlo facendo clic sul link &quot;Accedi&quot; sopra l'icona del carrello nella home page (angolo in alto a destra) e accedi. Verrai indirizzato alla pagina della cronologia degli ordini e sulla riga dell'ordine c'è un'opzione per &quot;cancellare / modificare&quot; il tuo ordine.</p><p>Verrai indirizzato alla pagina della cronologia degli ordini e sulla riga dell'ordine c'è un'opzione per &quot;cancellare / modificare&quot; il tuo ordine.</p><p>• In alternativa, puoi contattare il nostro Servizio Clienti all’indirizzo customerservice@brunopharma.com</p></div>1"
-                },
-                {
-                    "title": "Dov'è il mio pacco e come posso tracciarlo?",
-                    "content": "<div><p>Nel momento in cui spediamo il tuo ordine, ti invieremo via e-mail il numero di tracciamento e un link in modo da poter seguire tutti gli aggiornamenti di tracciamento via e-mail. Se non riesci a trovare l'e-mail, inviaci un'e-mail all’indirizzo customerservice@brunopharma.com e ti aiuteremo a trovare le tue informazioni. </p><p>Nota: tieni presente che a volte occorrono da 1-2 giorni lavorativi per l'aggiornamento della spedizione nel sito opportuno, e questo non significa che il tuo ordine sia bloccato in una città diversa. Ti consigliamo di controllare il sito della spedizione anche 2-3 giorni dopo. </p></div>"
-                },
-                {
-                    "title": "Il monitoraggio della mia spedizione non si aggiorna, dov'è la mia merce?",
-                    "content": "<p>L'aggiornamento del monitoraggio richiede in genere 24 ore, ma non è raro che l'aggiornamento possa richiedere anche 2-3 giorni. Facciamo del nostro meglio per spedire tutti gli ordini entro 1 giorno lavorativo dall'ordine. Se ti abbiamo inviato via e-mail un numero di tracciamento, il tuo ordine è stato spedito dal nostro magazzino.</p>"
-                },
-                {
-                    "title": "Il mio pacco viene inviato all'indirizzo sbagliato; come posso correggerlo?",
-                    "content": "<div><p>• Se non ti abbiamo ancora inviato via e-mail il tuo tracking #, significa che il tuo ordine non è stato ancora spedito. Sei ancora in tempo per modificare il tuo indirizzo di spedizione.</p><p>- Accedi al tuo ordine su www.brunomd.eu (in alto a destra della homepage).  Nell'angolo in alto a destra della home page fai clic sul link &quot;accedi&quot; sopra il carrello. Tieni presente che avrai bisogno di un account per apportare modifiche e dovrai crearne uno se non lo hai fatto al momento dell'acquisto. Ti invitiamo a utilizzare lo stesso indirizzo e-mail utilizzato al momento dell'acquisto per collegare l'ordine al tuo account. Se un account è già stato creato, accedi utilizzando il tuo indirizzo e-mail e la password. Puoi farlo facendo clic sul link &quot;Accedi&quot; sopra l'icona del carrello nella home page (angolo in alto a destra) e accedi. Verrai indirizzato alla pagina della cronologia degli ordini e sulla riga dell'ordine c'è un'opzione per &quot;annullare / modificare&quot; il tuo ordine.</p><p>• Se ti abbiamo inviato via e-mail il tuo tracking #, questo significa che il tuo ordine è già stato spedito.</p><p>- Vi preghiamo di contattarci all’indirizzo customerservice@brunopharma.com, utilizzando il nostro &quot;Modulo Contattaci&quot; situato sulla homepage (in basso sotto la scheda informazioni), o utilizzando il &quot;Contattaci in basso&quot;, situato sulla homepage (in basso a destra), e uno dei nostri agenti di assistenza clienti, ti risponderà il più rapidamente possibile.</p></div>"
-                },
-                {
-                    "title": "Il mio pacco dice che è stato consegnato ma non riesco a trovarlo. Qual è il prossimo passo?",
-                    "content": "<div><p>Il passo successivo è contattare il corriere locale che ha effettuato la consegna finale. Probabilmente è Poste Italiane o Bartolini. Scoprilo controllando il tuo tracking #, precedentemente inviato via e-mail. Il corriere locale sarà in grado di dirti se si è trattato di un errore durante il processo di scansione e se sono in grado di aiutarti a localizzare il pacco. Se non ricevi supporto, ti preghiamo di contattarci inviando un'e-mail utilizzando il nostro &quot;Modulo Contattaci&quot; situato sulla homepage (in basso sotto la scheda informazioni), o utilizzando il &quot;Contattaci&quot; in basso, situato sulla homepage (in basso a destra), e uno dei nostri agenti di assistenza clienti, ti risponderà il più rapidamente possibile.</p></div>"
-                }
-            ]
-        },
-        {
-            "title": "Assistenza clienti",
-            "content": [
-                {
-                    "title": "Come posso contattare l'assistenza clienti?",
-                    "content": "<div><p>Il modo più veloce per ottenere una risposta alla tua domanda è cercarla prima nel nostro sito web sotto &quot;FAQs&quot; (angolo in alto a destra).</p><p>Se non riesci a trovare la risposta, invia un'e-mail al servizio clienti di customerservice@brunopharma.com o contattaci utilizzando la casella di chat situata nell'angolo in basso a sinistra della home page. Se non riceverai una risposta istantanea, condividi il tuo indirizzo e-mail, e riceverai una risposta entro le 24-48 ore.</p></div>"
-                }
-            ]
-        },
-        {
-            "title": "Problemi relativi all'account",
-            "content": [
-                {
-                    "title": "Come posso accedere al mio account?",
-                    "content": "<div><p>Puoi accedere al tuo account su <a href='https://www.brunomd.eu' target='_blank' rel='noopener noreferrer' data-testid='external-link'>www.brunomd.eu</a>, facendo clic sul link &quot;Accedi&quot; sopra l'icona del carrello nella home page (angolo in alto a destra) e facendo clic su crea un account. Segui tutti i passaggi e avrai pieno accesso. </p></div>"
-                },
-                {
-                    "title": "Hai dei problemi?",
-                    "content": "<div><p>Ci sono alcuni motivi per cui potresti non essere in grado di accedere al tuo account:</p><p>1.La password non è corretta. Per rimpostare la password, click su &quot;<a href='https://www.brunomd.eu/account/forgot-password' target='_blank' rel='noopener noreferrer' data-testid='external-link'>Password dimenticata?</a>&quot;</p><p>3. Il tuo account non è mai stato attivato via e-mail </p><p>4. Il tuo account è sotto un indirizzo e-mail diverso</p><p>6. Il tuo account non è mai stato creato</p></div>"
-                },
-                {
-                    "title": "Il problema persiste?",
-                    "content": "<div><p>Non esitare a contattarci, inviando un'e-mail utilizzando il nostro &quot;Modulo Contattaci&quot; situato in homepage (in basso sotto la scheda Informazioni), oppure utilizzando il fondo &quot;Contattaci&quot;, situato sulla homepage (in basso a destra), e uno dei nostri agenti di assistenza clienti, ti risponderà il più rapidamente possibile.</p></div>"
-                }
-            ]
+        "section": [
+            {
+                "title": "Orders",
+                "content": [
+                    {
+                        "title": "How do I edit my order?",
+                        "content": "<div><p>To edit payment methods, shipping information, modify subscription (frequency), or order content, you will need to access your account at www.brunomd.com. At the top right corner of the homepage click the ‘log-in’ link above the shopping cart. Be aware that you will need an account to make changes and will need to create one if you did not do it at the time of purchase. We encourage you to use the same email address that was used when the purchase was made to link the order to your account. If an account has already been created simply log in using your email address and password. You can do this by clicking the ‘log-in’ link above the cart icon on the home page (top right-hand corner) and sign in. You will be redirected to the order history page and on the order line there is an option to ‘cancel/edit’ your order.</p><p>If you need further assistance, feel free to contact us via email at customercare@brunopharma.com.</p></div>"
+                    },
+                    {
+                        "title": "How do I cancel my order?",
+                        "content": "<div><p>1.If you want to cancel your first order that has not been shipped . If  follow the instructions below:</p><p>• If an account was not created at the time of purchase, then one will need to be created to cancel the order.</p><p>• Please use the same email address that was used when the purchase was made to link the order to the account.</p><p>• If an account has already been created simply log in using your email address and password. You can do this by clicking the ‘log-in’ link above the shopping cart, on the home page (top right-hand corner). You will be redirected to the order history page and on the order line there is an option to ‘cancel/edit’ your order.</p><p>• If you need further assistance, feel free to contact us via email at customercare@brunopharma.com, or by calling our customer care department at Toll Free # 866-816-3400.</p><p>2.If you want to cancel your first order that has been shipped, follow the instructions below:</p><p>• You will need to create a returns request via our returns center. You can access this by visiting our site www.brunomd.com and navigating to the returns tab located at the bottom of the homepage.</p><p>• Click on “Returns” (Under the Company tab). You will be redirected to the returns center page, and there you will be prompted to input your order number and email address to start the process. As there is no need to return the first order, we will refund you in full once we have received your request. Our system will generate an RMA, please ignore it. You will be refunded in full once your request has been processed by our customer care department.</p><p>3.If you want to cancel any subsequent orders including subscribe and save orders, follow the instructions below:</p><p>• You will need to access your order at www.brunomd.com (Top right of the homepage) to handle any rescheduling or cancellation related to any subsequent orders or any subscribe &amp; save orders.</p><p>• However, if you are unable to make the necessary changes or require further assistance, please do not hesitate to contact us by email at customercare@brunopharma.com or call us at 1-866-816-3400 where a member of our support team will be happy to assist you.</p><p>4.If you want to return your orders, follow the instructions below:</p><p>• There is no need to return your first order. Although our systems will generate an RMA, please ignore it. We offer a full refund for your first order without the hassle of having to return any product. You will be refunded in full once your request has been processed by our customer care department.</p><p>• To receive a full refund, all subsequent orders, or all subscribe &amp; save orders must be returned unopened and sealed. We do not issue refunds or credits on damaged, opened or used merchandise after your first order and on subscribe &amp; save orders.</p><p>Your order will not be eligible to return 30 days after the order date. If you are unable to complete this process or require further assistance, do not hesitate to email us at customercare@brunopharma.com, or to call us at 1-866-816-3400.</p><p>Instructions on how to return your order:</p><p>1. Access the brunomd.com and go to “Returns” (Under Company Tab). Make sure your order is within 30 days from the purchase date.</p><p>2. You will be given a Returned Merchandise Authorization Number (RMA). No refunds will be given without an RMA number and the package will be refused. RMA numbers will be valid for 10 days only. A refund will be issued upon approval of eligibility.</p><p>3. Write the RMA# on the outside of your shipping box.</p><p>4. Enclose a note with a copy of the original invoice/packing slip with the reason for the return and the RMA number. Carefully package the products in the original shipping box or any suitable shipping carton using plenty of padded material to protect the product(s). Make sure the products are well protected and packaged similar to the way you received them.</p><p>5. Ship your return package to:</p><p>Bruno Pharma innovations</p><p>Attn: Returns Department</p><p>8791 Cobblestone Point Circle Boynton Beach, FL 33472</p><p>6. A refund will be issued upon approval of eligibility. Keep accurate records and tracking numbers of your shipment until you have received your credit or new merchandise</p></div>"
+                    },
+                    {
+                        "title": "How do I cancel my 'subscribe & save' subscription program?",
+                        "content": "<div><p>Access your account at www.brunomd.com, by clicking the ‘log-in’ link above the cart icon on the home page (top right-hand corner) and sign in. You will be redirected to the order history page and on the order line there is an option to ‘cancel/edit’ your order.</p><p>If you need further assistance, feel free to contact us via email at customercare@brunopharma.com.</p></div>"
+                    },
+                    {
+                        "title": "My product arrived damaged or I received incorrect items, what shall I do?",
+                        "content": "<div><p>Don't worry we will get you a replacement product ASAP.</p><p>You must contact us at customercare@brunopharma.com within 72 hours from the date you received the shipment. Your email should include a picture of the damaged item. Your case will be sent to our customer care department, and one of our customer care agents will get back to you with further instructions.</p></div>"
+                    }
+                ]
+            },
+            {
+                "title": "Shipping",
+                "content": [
+                    {
+                        "title": "Do you offer free shipping",
+                        "content": "<div><p>We offer free standard ground shipping for all orders over $75. To qualify, your cart total must be $75 after any applicable discounts, and the order made within U.S.A. Free shipping is typically 3-5 business days once we ship out your product. We do our absolute best to ship out all orders within 24 hours of ordering Mon-Fri. We currently do not ship any products outside of U.S.A</p></div>"
+                    },
+                    {
+                        "title": "How does shipping work?",
+                        "content": "<div><p>Once we ship out your order, we will email you the tracking info so you can follow the order during transit. Tracking oftentimes takes 1-2 days to update once we ship it out. If you have any issues with delivery or the shipping address, please let us know. We may be able to change the address before the order ships, but not after. So, if your order did not ship yet, you can always edit your payment method, shipping information or order content. Access your order at www.brunomd.com (Top right of the homepage). At the top right corner of the homepage click the ‘log-in’ link above the shopping cart. Be aware that you will need an account to make changes and will need to create one if you did not do it at the time of purchase. We encourage you to use the same email address that was used when the purchase was made to link the order to your account. If an account has already been created simply log in using your email address and password. You can do this by clicking the ‘log-in’ link above the cart icon on the home page (top right-hand corner) and sign in. You will be redirected to the order history page and on the order line there is an option to ‘cancel/edit’ your order.</p><p>You will be redirected to the order history page and on the order line there is an option to ‘cancel/edit’ your order.</p><p>Alternatively, you can contact our Customer Care department at customercare@brunopharma.com </p></div>"
+                    },
+                    {
+                        "title": "Where's my package and how do I track it?",
+                        "content": "<div><p>The moment we ship out your order, we will email you the tracking number and a link so you can follow all tracking updates via email. If you can't find the email, email us at customercare@brunopharma.com and we will help you find your info.</p><p>Note: Please know that tracking sometimes takes 1-3 business days to update, and this does not mean that your order is stuck in a different city. Instead, our shipping carriers will update the tracking at each new location including your city.</p></div>"
+                    },
+                    {
+                        "title": "My package tracking is not updating, where's my package?",
+                        "content": "<div><p>Tracking typically takes 24 hours to update, but it is not uncommon for tracking to take 2-3 days to update. We do our best to ship out all orders within 1 business day of ordering. If we emailed you a tracking number, then your order has been shipped out of our warehouse.</p></div>"
+                    },
+                    {
+                        "title": "My package is being sent to the wrong address; how do I correct that?",
+                        "content": "<div><p>If we have not emailed you your tracking #, it means that your order has not been shipped. You still have time to edit your shipping address.</p><p>- Access your order at www.brunomd.com (Top right of the homepage). At the top right corner of the homepage click the ‘log-in’ link above the shopping cart. Be aware that you will need an account to make changes and will need to create one if you did not do it at the time of purchase. We encourage you to use the same email address that was used when the purchase was made to link the order to your account. If an account has already been created simply log in using your email address and password. You can do this by clicking the ‘log-in’ link above the cart icon on the home page (top right-hand corner) and sign in. You will be redirected to the order history page and on the order line there is an option to ‘cancel/edit’ your order.</p><p>• If we have already emailed you the tracking #, that means that your order has been shipped.</p><p>- Please contact us at customercare@brunopharma.com, by using our “Contact Us form” located on the homepage (Bottom under the Contact tab), or by using the “Contact” bottom, located on the homepage (Bottom right side), and one of our customer care agents, will get back to you as quickly as possible.</p></div>"
+                    },
+                    {
+                        "title": "My package says it was delivered but I can't find it. What is the next step?",
+                        "content": "<div><p>The next step is to reach out to the local courier that made the final delivery. It is probably USPS. Find out by checking your tracking #, previously emailed to you. The local courier will be able to tell you if this was an error during the scanning process and can reach out to the courier on the route. If they are unable to help you locate the package, please contact us by sending an email using our “Contact Us form” located on the homepage (Bottom under the Company tab), or by using the “Contact” bottom, located on the homepage (Bottom right side), and one of our customer care agents, will get back to you as quickly as possible.</p></div>"
+                    }
+                ]
+            },
+            {
+                "title": "Returns & Cancellation Policy",
+                "content": [
+                    {
+                        "title": "How do I contact customer support?",
+                        "content": "<div><p>The faster way to get an answer to your question is to first search for it in our website under “Learn”, or in the search slick on the top right side, next to the “person” icon located next to the basket icon on the home page (top right-hand corner).</p><p>If you cannot find the answer email customer care department at customercare@brunopharma.com, or call us at 1-866-816-3400, Monday - Friday from 9:00 AM-6:00 PM EST, and we will gladly assist you. If you are directed to the voicemail, do not worry. Leave a detailed message including your name, order #, email address and phone #, and one of our customer care agents, will get back to you as quickly as possible.</p></div>"
+                    },
+                    {
+                        "title": "How do I access my account?",
+                        "content": "<div><p>You can access your account at www.brunomd.com, by clicking on the ‘person’ icon located next to the basket icon on the home page (top right-hand corner).</p><p>Having trouble?</p><p>There are few reasons why you may not be able to access your account:</p><p>1. Your password is incorrect</p><p>2. Reset your password: https://brunomd.com/account/login</p><p>3. Your account was never activated via email</p><p>4. Search your email for: “Customer account activation”</p><p>5. Your account is under a different email address</p><p>6. Your account was never created</p><p>Still having trouble?</p><p>Do not hesitate to contact us, by sending an email using our “Contact Us” form located on the homepage (Bottom under Info Tab), or by using the “Help” bottom, located on the homepage (Bottom Right-Hand Side), and one of our customer care agents, will get back to you as quickly as possible.</p></div>"
+                    },
+                    {
+                        "title": "30-Day Supply Return Instructions",
+                        "content": "<div><p>We are confident you will be happy with your Bruno MD products; however, if for any reason you are dissatisfied with your purchase, we will refund your first order in full. We honor a full refund if our customer care department is contacted within 30 days from your first order date. There is no need to return the product; however, we welcome your feedback to help us improve the quality of our service.</p></div>"
+                    },
+                    {
+                        "title": "First Order - Cancellation Instructions If Your First Order Remains Unshipped",
+                        "content": "<div><p>You must create an account if you want to cancel your order. If an account was not created at the time of purchase, then one will need to be created. Please use the same email address used when the purchase was made to link the order to the account. If an account has already been created, simply log in using your email address and password. You can do this by clicking on the “person” icon located next to the basket icon on the home page (top right-hand corner). You will be redirected to the order history page, and on the order line, you will find the option to cancel/edit your order.</p></div>"
+                    },
+                    {
+                        "title": "First Order - Cancellation Instructions If Your Order Has Been Shipped",
+                        "content": "<div><p>You will need to create a returns request via our returns center. This can be accessed using the following link: https://brunomd.myreturnscenter.com/</p><p>When you land on the returns center page, you will be prompted to input your order number and email address to start the returns process. Although our systems generate a Returned Merchandise Authorization Number (RMA), please ignore this as our policy is to refund your first order without you having to return the product. You will be refunded in full once our customer care department has processed your request.</p></div>"
+                    },
+                    {
+                        "title": "Second Orders - Subscribe & Save, Supply Reschedule, Cancellation, or Return Instructions",
+                        "content": "<div><p>Subscribe &amp; Save orders are automatically sent 30 days after your first shipment and every 30 days after that unless previously modified by you via our website. If you wish to reschedule, amend or cancel via our customer service department, you must contact us at least ten days before the shipment is processed. Cancellations will only take effect after we have had sufficient time to allow us and our financial institution, using commercially reasonable (but not extraordinary) efforts, to act on this notice. Your order will not be eligible to return if it is not within 30 days from the purchase date. To receive a full refund, all subsequent orders or all subscribe &amp; save orders must be returned unopened and sealed. We do not issue refunds or credits on damaged, opened, or used merchandise after your first order and on Subscribe &amp; Save orders. Consult our Return Policy located at the bottom of the homepage, on Returns (under Info tab).</p></div>"
+                    },
+                    {
+                        "title": "How To Return Your Products",
+                        "content": "<div><p>Access brunomd.com and go to “Returns” (under Info Tab). Make sure your order is within 30 days from the purchase date, or your return cannot be processed via our returns center. You will be given a Returned Merchandise Authorization Number (RMA). No refunds will be given without an RMA number, and the package will be refused. RMA numbers will be valid for 10 days only. A refund will be issued upon approval of eligibility. A pre-paid label will be email to you. USPS courier will be used as the preferred shipping company. Write the RMA number on the outside of your shipping box. Enclose a note with a copy of the original invoice/packing slip with the reason for the return and the RMA number. Carefully package the products in the original shipping box or any suitable shipping carton using plenty of padded material to protect the product(s). Make sure the products are packaged similarly to the way you received them. Ship your return package to:Bruno Pharma Innovations Attn: Returns Department8791 Cobblestone Point Circle Boynton Beach, FL 33472A refund will be issued upon approval of eligibility. Keep accurate records and tracking numbers of your shipment until you have received your credit.Upon receipt of your return, your refund will be processed if eligible within 7 business days. If the original order was purchased via credit card, your refund will be credited to that same account. The cardholder must be the purchaser.</p></div>"
+                    },
+                    {
+                        "title": "Damaged Packages",
+                        "content": "<div><p>We take great care when packaging your shipment. However, in the event your shipment arrives damaged, please log into the returns portal and create a return request. A picture of the damaged item is always required. Please download your images in the returns portal so that we can bring the matter up with the carrier. Your case will be sent to our customer care department, and one of our customer care agents will get back to you with further instructions.</p><p>Alternatively, you can contact our Customer Care Department, within 72 hours of receipt, by emailing customercare@brunopharma.com or calling 1-866-816-3400, Monday - Friday from 9:00 AM - 6:00 PM EST and we will gladly assist you. If you are directed to voice mail, please leave a detailed message that includes your name, order number, email address, and phone number, and one of our Customer Care Agents will get back to you as quickly as possible.</p></div>"
+                    }
+                ]
+            },
+            {
+                "title": "Royal Collagen Peptides",
+                "content": [
+                    {
+                        "title": "What are the 5 in 1 benefits of Royal Collagen Peptides?",
+                        "content": "<div><p>1. Skin Health Improving - elasticity, hydration, fine lines, wrinkles, ligaments, and tendons</p><p>2. Bone Health Improving - bone stability, flexibility, and density</p><p>3. Nail Health Promoting - growth and health of fingernails </p><p>4. Hair Health Promoting - healthier hair growth</p><p>5. Joint Health Measurable -recovery of joint cartilage</p></div>"
+                    },
+                    {
+                        "title": "What is a Highly Purified Collagen Peptides Complex?",
+                        "content": "<div><p>Specific Collagen Peptides sourced from Italy, Germany, Great Britain,other EU countries.</p><p>Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age. The benefits are many: improved skin texture, glow, and elasticity, stronger nails, and more youthful hair with renewed luster and bounce. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage, so you'll move better, and increase bone density to keep your bones strong.</p></div> "
+                    },
+                    {
+                        "title": "How are Royal Collagen Peptides different from other collagen products?",
+                        "content": "<div><p>The vast majority of collagen products available on the market today do not address the issue of collagen biosynthesis (the body’s ability to create its own collagen.) They combat the problem of collagen degeneration by offering a supplement that focuses on offsetting the loss. Royal Specific Collagen Peptides both offset the loss and maximize stimulation of the human cell types responsible for collagen biosynthesis, giving the body “fuel” to create collagen and improve skin, hair, nail, joints, and bone health.</p></div>"
+                    },
+                    {
+                        "title": "How do Royal Collagen Peptides help reduce the appearance of wrinkles?",
+                        "content": "<div><p>Royal Collagen Peptides work in two ways: first, they stimulate the activity of the fibroblasts. Fibroblasts are cell types that build fibers and molecular components of the connective tissue, giving the skin its structure and firmness. Activating the fibroblasts encourages the production of new collagen structures as well as the ones from hyaluronic acid. Hyaluronic acid can bind a great deal of water and is indispensable for tight, firmer-looking skin. This process takes some time, but with consistency and determination, your skin regains its natural tone and improves its moisture-storing capacity.</p><p>Royal Collagen Peptides provide the skin with its necessary “building blocks.” Their mode of action is exceptionally sophisticated. They perfectly resemble the fragments which form when skin collagen degrades. Our bodies recognize these peptides as degradation products and boost our collagen synthesis. Thanks to the considerably higher production of natural collagen, the skin can repair itself and replace what was lost through age and environmental influencers.</p></div>"
+                    },
+                    {
+                        "title": "Why are Royal Collagen Peptides important for connective tissues?",
+                        "content": "<div><p>Connective tissue includes the skin, ligaments, tendons, cartilage, and joint cartilage, as well as the fasciae and blood vessels.Collagen is the main component of connective tissue and structural tissue and is found everywhere in the body. It gives bones, joints, tendons, ligaments, and muscles strength and flexibility. If the collagenous structures are degraded by heavy stress, like working out, or by the normal aging process, the function of all organs and tissues that depend on collagen are impaired. Ligaments and tendons weaken, muscle mass decreases, and the loss of vital cartilage tissue at the joints can lead to painful symptoms. Fibroblasts are cell types responsible for collagen biosynthesis in the connective tissue. They build fibers and molecular components of the connective tissue, giving the skin structure and firmness. Activating the fibroblasts encourages the production of new collagen structures as well as the ones from hyaluronic acid.</p></div>"
+                    },
+                    {
+                        "title": "Why do I need Royal Collagen Peptides to promote bone health?",
+                        "content": "<div><p>About 70% of our bones are made of inorganic minerals and 10% of water. Collagen makes up the remaining 20% and forms the basic framework of the bone to which calcium “attaches.” Imagine calcium as the concrete bridge and collagen as the steel core. Calcium provides the mineral component of the structure’s strength. For this reason, Royal Collagen Peptides’ consumption is essential for helping maintain bone health. If collagen is missed in your body, the degradation of bone mass along with the stability of high-density bone is compromised. Royal Collagen Peptides help support bone health and improve bone stability and flexibility by stimulating the activity of the osteoblasts, the cell types responsible for the collagen biosynthesis (absorption) in the bone.</p></div>"
+                    },
+                    {
+                        "title": "Why do I need Royal collagen peptides for promoting joint health?",
+                        "content": "<div><p>Cartilage is a fundamental constituent of our joints. It acts as a shock absorber when two bones meet at the joint, allowing frictionless, smooth movement while protecting the bones and joints. Since cartilage is not connected to the bloodstream, it receives its nutrients via synovial fluid that acts like a lubricant film and supplies the sponge-like cartilage with nutrients. This works through movement and pressure. Exercise is essential for providing the cartilage with nutrients. Royal collagen peptides stimulate the activity of the chondrocytes. Chondrocytes are cell types responsible for the collagen biosynthesis in the cartilage. They produce and maintain cartilage matrix.</p></div>"
+                    },
+                    {
+                        "title": "Do Royal Collagen Peptides trigger allergies?",
+                        "content": "<div><p>Collagen peptides are considered non-allergic. Their structure is very similar to that of the body’s natural collagen. For that reason, collagen peptides are not regarded as a foreign substance that must be combated, even in a very sensitive immune system. This is why medical sponges made of collagen are used in surgical procedures. For example, a surgeon uses them to stop bleeding and leaves them in place to continue to regulate blood flow after the operation. The surgeon simply sutures the incision, and the sponges are absorbed and degraded in the body in a few weeks. Nevertheless, if you suffer from allergies, we recommend consulting your healthcare professional before taking this product.</p></div>"
+                    },
+                    {
+                        "title": "Can a person with diabetes take Royal Collagen Peptides?",
+                        "content": "<div><p>For people with diabetes who have to keep their blood glucose level under control, collagen peptides are ideal energy and protein sources. Royal Collagen Peptides support the functionality of collagenous structures in the skin, so they can also help improve healing time.</p></div>"
+                    },
+                    {
+                        "title": "Can I take Royal Collagen Peptides while pregnant or breastfeeding?",
+                        "content": "<div><p>We recommend talking with your healthcare professional first before taking our product because nutritional needs vary when pregnant or breastfeeding.</p></div>"
+                    },
+                    {
+                        "title": "Do Royal Collagen Peptides taste like protein drinks?",
+                        "content": "<div><p>Our Royal Collagen Peptides taste nothing like conventional protein powders and peptides. Because of their neutral taste and excellent dissolution properties, many customers mix theirs with breakfast cereal, yogurt, or cold drinks.</p></div>"
+                    },
+                    {
+                        "title": "How many calories do Royal Collagen Peptides contain?",
+                        "content": "<div><p>Like the other proteins, Royal Collagen Peptides have a caloric value of4 kilocalories per gram. Fat, for example, has 9 kilocalories per gram, and alcohol has no less than 7. If you take the recommended quantity of 2.5 grams of collagen peptides daily for your skin, that amounts to only 10 kilocalories.For muscle building and body toning, the recommended 15 grams totals up to 60kilocalories. Royal Collagen Peptides can increase and prolong the feeling of being full and counteract food cravings, which makes them ideal for weight management.</p></div>"
+                    },
+                    {
+                        "title": "Can I consume Royal Collagen Peptides when I am working out?",
+                        "content": "<div><p>Yes. Inadequate collagen levels in the body make connective tissue moreprone to injury, so consuming Royal Collagen Peptides can help protect muscles,ligaments, tendons, joints, and bones.</p></div>"
+                    },
+                    {
+                        "title": "Can I mix Royal Collagen Peptides with hot drinks?",
+                        "content": "<div><p>Our Royal Collagen Peptides Proprietary Blend contains pharmaceutical grade Vitamin C, which is very sensitive to heat. The increased temperature rapidly boosts its degradation. Vitamin C is vital for the absorption of iron and the biosynthesis of collagen in the human body. That’s why we recommend consuming Royal Collagen Peptides with cold liquid, cold juice, smoothies, yogurt, cold soups, or salads.</p></div>"
+                    },
+                    {
+                        "title": "Where do you source your Collagen Peptides?",
+                        "content": "<div><p>Our collagen peptides are bovine sourced exclusively from trustedEuropean suppliers and not from multiple untraceable animal sources fromthird-world countries. Our bovines are subjected to the strictest of veterinaryinspections before being released for human consumption, ensuring that anycontamination of the final product is avoided.</p></div>"
+                    },
+                    {
+                        "title": "Why is natural Vitamin C added to Royal Collagen Peptides?",
+                        "content": "<div><p>Royal Collagen Peptides are carefully blended with a potent and completely natural form of Vitamin C. Clinical research has proven that skin health is significantly improved when taking a collagen supplement combined with Vitamin C. However, choosing the right source of Vitamin C is crucial.Clinical studies have shown that taking Vitamin C and collagen peptide supplements ensures a healthy biosynthesis of collagen within the whole body.</p></div>"
+                    },
+                    {
+                        "title": "Where do you source your Vitamin C?",
+                        "content": "<div><p>The vast majority of Vitamin C (ascorbic acid) used in supplements on the market today is synthetically or artificially manufactured, often in China.Our experts opted to use a vastly superior, wholly natural, and clinically proven source known as the Red Orange Complex® from Sicily. The Red Orange Complex contains a standardized powder extract obtained from the juice of three pigmented (Moro, Tarocco, and Sanguinello) varieties ofSicilian blood oranges that are exclusively grown in a particular area nearMount Etna volcano in Sicily.</p></div>"
+                    },
+                    {
+                        "title": "What do Sicilian Blood Oranges come from?",
+                        "content": "<div><p>Sicilian Blood Oranges come from the greatest blood orange trees in the world, grow on the side of the Mount Etna volcano, where climate and soil are perfect for this kind of tree. No one else in the world has access to it. Sicilians call this orange “the ultimate healthy fruit.”</p></div>"
+                    },
+                    {
+                        "title": "Why is Collagen Important?",
+                        "content": "<div><p>It is well known that the human body consists mainly of water. Proteinsare the other major component. When referring to the heart, lungs, kidneys,liver, brain, skin, bones, and even most hormones and enzymes that areindispensable for metabolism, it is always the proteins that provide theirstructure and function. Collagen is the most abundant component in the humanbody, and therefore an essential component of human connective tissue. Thisextraordinary protein is also the central building block of the bones, joints,tendons, and many other tissues and structures.  Collagen provides a structure for the body and its many organs and keepsthem “together” in the truest sense of the word. It is present nearlyeverywhere in the body, forming and connecting moving parts, like the bones,and in turn, the muscles, tendons, and ligaments with the bones.</p></div>"
+                    },
+                    {
+                        "title": "How many types of collagen exists?",
+                        "content": "<div><p>Currently, we know of 28 different types of collagen. The human bodymainly consists of collagen types I, II, and III. Type I accounts for about 90%of the body’s total collagen content, mainly in the connective tissue of theskin, bones, and tendons. Type II accounts for joint cartilage, and type IIIaccounts for skin and muscles.</p></div>"
+                    },
+                    {
+                        "title": "What are collagen peptides?",
+                        "content": "<div><p>The body keeps itself young by breaking down old tissue and building new tissue. As we age, this process slows down. When our body breaks down collagen, these long chains are disassembled, by enzymes, into small “snippets'' for removal. This sends a signal to the body to start rebuilding. A young and healthy body reacts to build the required quantity, but as we age, our metabolism becomes weary, and these signals are no longer enough for the body, which is becoming sluggish. When we consume collagen peptides as a dietary supplement, we ingest just these collagen snippets but in more significant amounts. Our bodies are rapidly digesting and absorbing collagen, mainly in the form of the smallest units, single amino acids, but also partially in intact form as collagen peptides (collagen snippets). These collagen snippets reach the bloodstream and distribute throughout the body.  Collagen peptides stimulate our body’s collagen production. The whole connective tissue metabolism comes to life. Taking the skin as an example, it can be shown that other vital components of skin structure, such as elastin and proteoglycans, are also produced in significant quantities. The dermis, the second layer of skin, is completely overhauled. At the same time, the degradation of the skin is slowed. In total, more collagen is being built up than broken down, and it is precisely this effect that many users describe as amore attractive, firmer, radiant complexion. The balance also shifts in other tissue types such as cartilage or bone:increased formation, slower degradation. This also explains why dietary supplements cannot produce visible or tangible results instantly. Our body needs time to adapt to these processes. It is important to note one thing, collagen peptides not only affect the symptoms but also address the causes of the problems directly.</p></div>"
+                    },
+                    {
+                        "title": "What are Specific Collagen Peptides?",
+                        "content": "<div><p>We have come up with a method of cutting the snippets out of the long chain of amino acids “to size” in an exact way. Specific Collagen Peptides are optimized for different purposes and particular conditions.</p></div>"
+                    },
+                    {
+                        "title": "What is the difference between collagen and collagen peptides?",
+                        "content": "<div><p>Collagen molecules themselves are very large, so the body has difficulty using and absorbing them. Collagen peptides are obtained from collagen.Collagen peptides are collagen molecules cut smaller, allowing our body to make good use of them and their excellent bioavailability.</p></div>"
+                    },
+                    {
+                        "title": "What does aging mean for metabolism?",
+                        "content": "<div><p>When we are young, our metabolism runs at full speed, and our body cells are constantly renewing themselves. The nutrient uptake works flawlessly, and the body’s production of essential substances helps to ensure that it gets everything it needs. But as we grow older, many processes in the body change.Our entire metabolism slows down, and the untack and processing of nutrients declines. Certain tissues within the body are no longer reproduced at the required levels. Cartilage tissue wears out, bones become more porous, blood vessels calcify and stiffen, and the skin loses its ability to store moisture.These aging processes cannot be stopped. They can, however, be influenced by physical activity and a targeted diet with nutritional supplementation.</p></div>"
+                    },
+                    {
+                        "title": "What does bioavailability mean?",
+                        "content": "<div><p>The body can absorb collagen peptides efficiently because they are water-soluble and, unlike other proteins, have a straightforward peptide structure that is very easy for the body to work with. They are broken down with an enzymatic process called exogenous enzymatic hydrolysis and can be absorbed more quickly than natural collagen.</p></div>"
+                    },
+                    {
+                        "title": "I am a vegetarian. Is there anything similar of plant origin?",
+                        "content": "<div><p>There are indeed a multitude of plant-based proteins, for example, soy and hemp. However, they cannot replace collagen peptides as nutritional supplements. Our body is not made of plant origin. In purely biological terms, we are “animals,” and the collagen peptides of warm-blooded animals correspond to our body’s collagen building blocks molecular structure. This means that our body recognizes them as quasi naturally-produced proteins and can easily absorb and utilize them.</p></div>"
+                    }
+                ]
+            },
+            {
+                "title": "Royal Collagen Peptides 'Beauty from Within'",
+                "content": [
+                    {
+                        "title": "What does aging Mean?",
+                        "content": "<div><p>When we are young, our metabolism runs at full speed and our body cells are constantly renewing themselves. The nutrient uptake works flawlessly, and the body’s own production of important substances also helps to ensure the body’s gets everything it needs. We are bursting with strengths and youthfulness. But as we grow older, many processes in the body change. Our entire metabolism slows down and the untack and processing of nutrients decline. Certain tissues within the body are no longer reproduced at the required levels. Cartilage tissue wears out, bones become more porous, blood vessels calcify and stiffen. The blood flow decreases, and as a result neither the tissue nor the brain is optimally provided for. The skin loses its ability to store moisture. These aging processes cannot be halted or reversed. They can, however, be influenced by physical activity and a targeted diet with nutritional supplementation.</p></div>"
+                    },
+                    {
+                        "title": "Why is Collagen Important?",
+                        "content": "<div><p>It is well known that the human body consists largely of water. Proteins are the other major component. When referring to the heart, lungs, kidneys, liver, brain, skin, bones, and even most hormones and enzymes that are indispensable for metabolism, it is always the proteins that provide their structure and function. Collagen is the most abundant component in the human body, and therefore the most important component of human connective tissue. This extraordinary protein is also the central building block of the bones, joints, tendons, and many other tissues and structures. Collagen provides a structure for the body and its many organs, and keeps them “together” in the truest sense of the word. It is present nearly everywhere in the body, forming and connecting moving parts, like the bones, and in turn, the muscles, tendons, and ligaments with the bones.</p></div>"
+                    },
+                    {
+                        "title": "How many types of collagen exist?",
+                        "content": "<div><p>Currently we know of 28 different types of collagen. The human body mainly consists of collagen types I, II and III. Type I accounts for about 90% of the body’s total collagen content, mainly in the connective tissue of the skin, bones, and tendons. Type II accounts for joint cartilage, and type III accounts for skin and muscles.</p></div>"
+                    },
+                    {
+                        "title": "What are collagen peptides?",
+                        "content": "<div><p>When we are young, our body is busy day and night performing renovation work. It keeps itself young by breaking down old tissue, while at the same time building new tissue to replace old. As we age, this process slows down, but it never ceases. When our body breaks down collagen, these long chains are disassembled, by enzymes, into small “snippets'' for removal. This sends a signal to the body: “Attention! Bits of degraded collagen are floating around here; we have to start rebuilding.” A young and healthy body reacts promptly to build the required quantity. As we age, our metabolism becomes weary and these signals are no longer enough for the body, which is becoming sluggish. When we consume collagen peptides as a dietary supplement, we ingest just these collagen snippets, but in larger amounts. Our bodies are rapidly digesting and absorbing collagen, mainly in the form of the smallest units, single amino acids, but also partially in intact form as collagen peptides (collagen snippets). These collagen snippets reach the bloodstream and distribute throughout the body. Now the cells in our body, which are responsible for connective tissue/collagen metabolism, notice that there is an imbalance. It is like an alarm, “Attention! There are lots of collagen particles swimming about here, now we really have to get work and make even more collagen!” As the collagen supplements provide the amino acids, building blocks for collagen synthesis at the same time, they support the body twofold. In this way, collagen peptides stimulate our body’s own collagen production. The whole connective tissue metabolism comes to life. Taking the skin as an example, it can be shown that other important components of skin structure, such as elastin and proteoglycans, are also produced in great quantities. The dermis, the second layer of skin, is, so to speak, completely overhauled. At the same time the degradation of the skin is slowed. In total, more collagen is being built up than broken down, and it is exactly this effect that many users, mostly women, describe as a more attractive, firmer, radiant complexion. The balance also shifts in other tissue types such as cartilage or bone: increased formation, slower degradation. This also explains why dietary supplements cannot produce visible or tangible results instantly disappear. Our body needs time to adapt to these processes. It is important to note one thing, collagen peptides do not only affect the symptoms, but also address the causes of the problems directly.</p></div>"
+                    },
+                    {
+                        "title": "What are Specific Collagen Peptides?",
+                        "content": "<div><p>We have invested a lot of time researching these differences and came up with a method of cutting the snippets out of the long chain of amino acids “to size’ in precisely the right way. Specific collagen peptides are optimized for different purposes, and for specific conditions.</p></div>"
+                    },
+                    {
+                        "title": "What is the difference between collagen and collagen peptides?",
+                        "content": "<div><p>Collagen molecules themselves are very large, which is why the body has difficulty in using and absorbing them. Collagen peptides are obtained from collagen. Collagen peptides are collagen molecules cut smaller allowing our body to make good use of them. Therefore, one speaks of their excellent “bioavailability”.</p></div>"
+                    },
+                    {
+                        "title": "What does bioavailability mean?",
+                        "content": "<div><p>Collagen peptides can be so well absorbed by the body because they are water-soluble, and, unlike other proteins, have a very simple peptide structure, that is very easy for the body to work with. They are “broken down”, with an enzymatic process called “exogenous enzymatic hydrolysis” and can therefore be absorbed more quickly and extensively than under natural collagen.</p></div>"
+                    },
+                    {
+                        "title": "Why are Royal Collagen Peptides “Beauty from Within” is different from other products in the market?",
+                        "content": "<div><p>The vast majority of collagen products available on the market today do not address the issue of collagen biosynthesis (the body’s ability to create its own collagen.) They combat the issue of collagen degeneration by offering a supplement that focuses on offsetting the loss. ROYAL Specific Collagen Peptides “Beauty from Within” both offset the loss &amp; maximize stimulation of the human cell types responsible for collagen biosynthesis giving the body fuel to create collagen to improve skin, hair, nail, joints, and bone health*.</p></div>"
+                    },
+                    {
+                        "title": "How do Royal Collagen Peptides help reduce the appearance of wrinkles?",
+                        "content": "<div><p>Royal Collagen Peptides work in 2 ways: firstly, they stimulate the activity of the fibroblasts. Fibroblasts are cell types that build fibers and molecular components of the connective tissue, thus giving the skin its structure and firmness. Activating the fibroblasts encourages the production of new collagen structures as well as the ones from the hyaluronic acid. Hyaluronic acid can bind a great deal of water and is indispensable for taut-looking skin (taut means tight, firmer). This process takes some time, but with consistency and determination, your skin regains its natural tone and improves its moisture-storing capacity. Furthermore, Royal Collagen Peptides provide the skin with the necessary “building blocks”. Their mode of action is extremely sophisticated. They perfectly resemble the fragments which form when skin collagen degrades. Our body “recognizes” the peptides as degradation products, and boosts the body’s own collagen synthesis. The result: Thanks to the considerably higher production of natural collagen, the skin can repair itself and replace what was lost through age and environmental influencers.</p></div>"
+                    },
+                    {
+                        "title": "Why is Royal Collagen Peptides important for connective tissue?",
+                        "content": "<div><p>Connective tissue includes the skin, ligaments, tendons, cartilage and joint cartilage, but also the fasciae and blood vessels.</p><p>Collagen is the main component of connective tissue and structural tissue, and is found everywhere in the body. It gives bones, joints, tendons, ligaments, and muscles strengths and flexibility. If the collagenous structures are degraded by heavy stress, for example by working out, or by the normal aging process, the function of all organs and tissues that depend on collagen are impaired. Ligaments and tendons weaken, muscle mass decreases, and above all, the loss of highly important cartilage tissue at the joints can lead to painful symptoms. Fibroblasts are cell types responsible for collagen biosynthesis in the connective tissue. They build fibers and molecular components of the connective tissue, thus giving the skin structure and firmness. Activating the fibroblasts encourages the production of new collagen structures as well as the ones from the hyaluronic acid.</p></div>"
+                    },
+                    {
+                        "title": "Why is Royal Collagen Peptides “Beauty from Within” a 6 in 1 dietary supplements?",
+                        "content": "<div><p>a. Improvement of Skin Health. Improving elasticity, hydration, fine lines, wrinkles, ligaments, and tendons*</p><p>b. Supporting Healthy Inflammation Response*</p><p>c. Improvement of Nail Health. Promoting growth and health of fingernails *</p><p>e. Improvement of Hair Health. Promoting healthy hair*</p><p>f. Improvement of Skin Tone. Helping Improve skin tone by reducing age spots *</p><p>g. Reducing appearance of cellulite. Helping smooth skin and increase elasticity of connective tissue with the dermal matrix to help decrease the appearance of cellulite*.</p></div>"
+                    },
+                    {
+                        "title": "Why is natural Vitamin C added to the Royal Collagen Peptides?",
+                        "content": "<div><p>Royal Collagen Peptides® are carefully blended with a potent &amp; completely natural form of vitamin C. Vitamin C is necessary for the biosynthesis of collagen in the human body. When collagen is produced, there is a complex series of events, some occurring inside of the cell, and some outside of the cell. Vitamin C is active inside of the cell, where it hydroxylates (adds hydrogen and oxygen) to two amino acids: proline and lysine. This helps form a precursor molecule called procollagen that is later packaged and modified into collagen outside of the cell. Without vitamin C, collagen formation is disrupted, causing a wide variety of problems throughout the body.</p><p>Clinical research has proven that skin health is significantly improved when taking a collagen supplement combined with Vitamin C. However, choosing the right source of Vitamin C is CRUCIAL. Clinical studies have shown that taking vitamin C along with collagen peptides supplements ensure a healthy biosynthesis of collagen within the whole body.</p></div>"
+                    },
+                    {
+                        "title": "Why is Astaxanthin added to the Royal Collagen Peptides?",
+                        "content": "<div><p>Harmful free radicals break down collagen in your skin and your skin’s ability to produce more collagen. Astaxanthin enhances collagen supplementation by protecting skin from free radicals and by preserving natural collagen production keeping skin hydrated, supple, and smooth.</p><p>When trio of key ingredients is taken together, they increase the collagen production in the skin cells by 108%.</p></div>"
+                    },
+                    {
+                        "title": "Why are Astaxanthin and Hyaluronic Acid added to the Royal Collagen Peptides?",
+                        "content": "<div><p>Astaxanthin can protect existing HA molecules from free radical degradation. Furthermore, Astaxanthin has been shown to increase Hyaluronic production in keratinocytes at the epidermis. Keratinocytes are epidermal cells that produce keratin, the fibrous protein that constitutes hair and nails. This makes Bruno MD® Royal Collagen Peptides WITH Astaxanthin and HA a powerful combination for supporting hydration in aging skin.</p></div>"
+                    },
+                    {
+                        "title": "Bruno MD 4 Step Process",
+                        "content": "<div><p>1. Reduce Inflammation. From Haematococcus Pluvias Algae to reduce inflammation and restart collagen-producing cells. Astaxanthin is the most potent antioxidant known in nature. Your skin is under constant attack by free radicals, and astaxanthin acts as a defender to preserve collagen production, and lock in the increased elasticity and hydration. A group of 150 healthy women aged 20-55 supplemented with Astaxanthin over six separate studies.* The women taking Astaxanthin demonstrated an 18% improvement in viscoelasticity and 17x increase in skin hydration over the placebo group after just four weeks. Additionally, skin smoothness improved 16%, and age spots were reduced by an average of 3mm in only eight weeks.</p><p>2. Boost collagen production with Specific Collagen Peptides. From highly purified collagen peptides to stimulate fibroblasts, reduce wrinkles, and improve overall skin tone. Bruno MD collagen peptides begin with an organic, non-GMO, halal, and kosher certified bovine source, raised exclusively on a plant-based diet by European partners near the Alps. The EU prohibits ranchers from breeding genetically modified bovines or using GMO feed, unlike farmers in the farmers in the US and Brazil. Three clinical trials* conducted on 250 healthy females, ages 45 to 65, confirm that oral intake of Royal Collagen Specific Peptides Complex significantly reduced eye wrinkle volume by 20.1% on average and up to a maximum of $49.9% vs. the placebo group after only eight weeks of treatment.</p><p>3. Maximize collagen biosynthesis with Red Orange Complex from varieties of Moro, Sanguinello, and Tarocco orange extract to encourage collagen formation and boost the immune system with potent Natural Vitamin C. We harvest our Vitamin C from three varieties of blood orange grown for centuries on family farms near Mt. Etna volcano. This mineral rich soil creates citrus so dense in flavonoids and Vitamin C that the Romans called it “the miracle of Madre Terra”.</p><p>4. Lock in hydration with Hyaluronic Acid. From natural fermentation process which significantly increases skin plumpness, moisture, and glow. Hyaluronic Acid is a sponge that keeps our skin hydrated. Our Hyaluronic Acid is made with organic fermentation and is clinically proven to help reduce wrinkles, smooth skin texture, and deeply hydrate skin cells. A group of 120 healthy women aged 35-60 with dry and sagging skin or wrinkles around their outer canthus supplemented with Bruno MD low molecular weight hyaluronic acid for six weeks and significantly increased skin moisture content and improved the facial aging symptoms such as luster and suppleness. Also, the group showed better levels of the sulcus volume ratio, wrinkle area ratio, and wrinkle volume ration than the placebo group.</p></div>"
+                    },
+                    {
+                        "title": "Where do we source our Collagen Peptides from?",
+                        "content": "<div><p>Our collagen peptides are bovine source only, exclusively from trusted European suppliers, and not from multiple untraceable animal sources from third world countries. Our bovines are subjected to the strictest of veterinary inspections prior to being released for human consumption ensuring that any contamination of the final product is avoided.</p></div>"
+                    },
+                    {
+                        "title": "Where do we source our Vitamin C from?",
+                        "content": "<div><p>The vast majority of Vitamin C (ascorbic acid) used in supplements on the market today is synthetically or artificially manufactured, mostly in China. Our experts opted not to use this cheap source and instead decided to use a vastly superior, completely natural and clinically proven source known as the Red Orange Complex® from Sicily. The Red Orange Complex® contains a standardized powder extract obtained from the juice of three pigmented (Moro, Tarocco, and Sanguinello) varieties of Sicilian blood oranges that are exclusively grown in a particular area surrounding the Mount Etna volcano in Sicily (Italy).</p></div>"
+                    },
+                    {
+                        "title": "Where do you source natural Astaxanthin from?",
+                        "content": "<p>Astaxanthin is a naturally occurring pigment that gives the reddish pink color to marine organisms such as crabs, shrimp, and salmon. It is often called the “King of Carotenoids” because of its powerful antioxidant potency. Astaxanthin also possesses a unique molecular structure that spans the cell membrane’s hydrophilic and hydrophobic layers, attracting and quenching free radicals. Our natural Astaxanthin is derived from a wholly natural source, the microalgae Haematococcus pluvialis, and contains the same form of astaxanthin found in wild salmon. Our natural astaxanthin is produced in Japan and Sweden.</p>"
+                    },
+                    {
+                        "title": "How do you make natural Astaxanthin?",
+                        "content": "<div><p>Astaxanthin is a naturally occurring pigment that gives the reddish pink color to marine organisms such as crabs, shrimp, and salmon. It is often called the “King of Carotenoids” because of its powerful antioxidant potency. Astaxanthin also possesses a unique molecular structure that spans the cell membrane’s hydrophilic and hydrophobic layers, attracting and quenching free radicals. Our natural Astaxanthin is derived from a wholly natural source, the microalgae Haematococcus pluvialis, and contains the same form of astaxanthin found in wild salmon. Our natural astaxanthin is produced in Japan and Sweden.</p><p>Astaxanthin is made by the algae Haematoccous pluvialis in response to stresses that produce free radicals. Astaxanthin is called a “secondary carotenoid” because algae make it using beta-carotene as one of the starting materials for making astaxanthin. Astaxanthin is fat-loving organic hydrocarbon with the chemical formula C40H52O4. It has a central chain of carbons with alternating single and double bonds (also known as conjugated double bonds), which is a special structure that allows astaxanthin to neutralize free radicals. The oxygen-containing rings at each end of the astaxanthin molecule fit on the edges of cell membranes, giving astaxanthin the unique ability to span the whole membrane for full protection from free radical damage.</p></div>"
+                    },
+                    {
+                        "title": "How do you make natural Astaxanthin?",
+                        "content": "<div><p>Our natural astaxanthin is only produced indoors in a clean, controlled environment where the air is filtered through hospital grade HEPA filters and use only triple, reverse osmosis purified water. While others produce their astaxanthin outdoors, this does not allow much control over the environment, which can cause the quality of the astaxanthin produced to be compromised. Strict manufacturing processes allow our strategic business partner to control the light, water, air, and nutrients, and therefore to produce the cleanest, and most stable natural astaxanthin in the world.</p></div>"
+                    },
+                    {
+                        "title": "Where do we source Hyaluronic Acid?",
+                        "content": "<div><p>Our Hyaluronic Acid is sourced in Japan and is produced with a natural microbial fermentation process. The safety of Hyaluronic acid produced by the microbial fermentation through our quality assurance system is developed in the manufacture of pharmaceuticals. The production bacillus used in the fermentation method is Streptococcus zooepidemicus, listed in basic principles, manufacturing methods, and characteristics under “Food additive —Hyaluronic acid.</p></div>"
+                    },
+                    {
+                        "title": "I am a vegetarian. Is there anything similar of plant origin?",
+                        "content": "<div><p>There are indeed a multitude of plant-based proteins, for example, soy and hemp. However, they cannot replace collagen peptides, as nutritional supplements. The explanation is quite simple, our body itself is not made of plant origin. In purely biological terms, we are, we are also “animals”- the collagen peptides of warm-blooded animals correspond to our body’s own collagen building blocks in their molecular structure. Our body recognizes them as quasi naturally produced proteins and can easily absorb and utilize them.</p></div>"
+                    }
+                    ,{
+                        "title": "Can I take Royal Collagen Peptides as a diabetic?",
+                        "content": "<div><p>Absolutely! For diabetics who have to keep their blood glucose level under control, collagen peptides are an ideal source of energy and of protein. Many diabetics also suffer from poor wound healing. Collagen peptides have a positive effect in this case, because when the functionality of collagenous structures in the skin is supported, collagen can also improve wound healing.</p></div>"
+                    },
+                    {
+                        "title": "Can I take Royal Collagen Peptides whilst pregnant with breastfeeding?",
+                        "content": "We always recommend talking with your doctor first, before consuming our product, as nutritional needs can vary when you are pregnant or breastfeeding."
+                    },
+                    {
+                        "title": "I suffer from various food allergies. Do your collagen peptides trigger allergies?",
+                        "content": "<div><p>Collagen peptides are considered non-allergic. Their structure is very similar to that of the body’s own natural collagen. For that reason, collagen peptides are not regarded as a foreign substance that must be combated, even in a very sensitive immune system. This is why medical sponges made of collagen are used in surgical procedures. For example, a surgeon uses them in the body to stop bleeding and leaves them in place so that they can continue to regulate the blood flow; even after the operation. The surgeon simply sutures the incision, and the sponges are simply absorbed and degraded in the body just in few weeks without any reactions occurring. Nevertheless, if you suffer from allergies, we recommend you consult your healthcare professional before taking this product.</p></div>"
+                    },
+                    {
+                        "title": "I do not like protein drinks. Do Royal Collagen Peptides taste the same?",
+                        "content": "<div><p>Our collagen peptides have a mild flavor of their own, however this is nothing like the taste of conventional protein powders and peptides. Because of their neutral taste, and the excellent solubility and dissolution properties, many customers can mix Royal collagen peptides with breakfast cereal, drinks, yogurt and any cold drinks.</p></div>"
+                    },
+                    {
+                        "title": "I am struggling with my weight and I would like to know how many calories Royal Collagen Peptides contain.",
+                        "content": "<p>Like the other proteins, Royal Collagen Peptides have a caloric value of 4 kilocalories per gram. Fat, for example, has 9 kilocalories per gram, and alcohol has no less than 7. So, if you take the recommended quantity of 2.5 grams of collagen peptides daily for your skin, that amounts to only 10 kilocalories. For muscle building and body toning, the recommended15 grams totals up to 60 kilocalories. But here comes the best news: Royal Collagen Peptides can increase and prolong the feeling of being full and counteract food cravings, which makes them ideal for weight management.</p>"
+                    },
+                    {
+                        "title": "Can I consume Royal Collagen Peptides when I am working out?",
+                        "content": "Yes. Royal Collagen Peptides help protect muscles, ligaments, tendons, joints and bone. Inadequate levels of collagen in the body make connective tissue more prone to injury."
+                    },
+                    {
+                        "title": "Can I mix Royal Collagen Peptides with hot drinks?",
+                        "content": "<p>Our Royal Collagen Peptides® Proprietary blend contains pharmaceutical grade Vitamin C which is very sensitive to heat, therefore, increased temperature rapidly boosts its degradation. Vitamin C is vital for the absorption of iron and the biosynthesis of collagen in the human body. For best results: Add 1 packet to at least 8 fl oz. of cold water, and mix well. Royal Collagen Peptides may be consumed with or without food, at any time during the day.</p>"
+                    }
+                ]
+            },
+            {
+                "title": "Riboflam",
+                "content": [
+                    {
+                        "title": "What are the benefits of taking Bruno MD Riboflam?",
+                        "content": "<div><p>Riboflam contains clinically proven ingredients to promote a healthy inflammation response and gain relief from exercise-related pain. Other benefits include:</p><p>1. Healthy Whole Body Inflammation Response - maintains and moderates inflammation response.</p><p>2. Immune System Functionality - boosts and speeds immune response</p><p>3. Brain Health - supports mental health, cognition, mental clarity, and focus</p><p>4. Post Exercise Pain - helps ease muscular pain related to sports activity</p><p>5. Digestive and Liver Function - supports intestinal health and maintains liver health ***</p><p>6. Social Functions - helps maintain the performance of social and emotional functions.</p></div>"
+                    },
+                    {
+                        "title": "Is Bruno MD Riboflam vegan?",
+                        "content": "Yes, Riboflam is a vegan dietary supplement. It is made from plant-based ingredients right down to the capsules. This allows everyone to take the supplement regardless of personal or religious dietary restrictions."
+                    },
+                    {
+                        "title": "Can I take Bruno MD Riboflam while pregnant or breastfeeding?",
+                        "content": "We recommend talking with your doctor before consuming our product, as nutritional needs can vary when you are pregnant or breastfeeding."
+                    },
+                    {
+                        "title": "How many times a day should I take Bruno MD Riboflam?",
+                        "content": "Take three (3) capsules daily: 1 in the morning, 1 in the afternoon, and 1 in the evening, preferably before meals or as directed by your healthcare professional."
+                    },
+                    {
+                        "title": "What does Bruno MD Riboflam contain?",
+                        "content": "Riboflam is a blend of ingredients that contain a Nucleotides Complex, Natural Astaxanthin, Curcumin Phytosome, Boswellia Serrata Phytosome, and Echinacea Angustifolia Phytosome, all of which are clinically proven."
+                    },
+                    {
+                        "title": "What is Bruno MD Riboflam Proprietary Phytosome Complex?",
+                        "content": "Bruno MD Riboflam is a powerful combination of clinically proven ingredients that have been validated in more than 120 double-blind, placebo-controlled studies. It has also been proven to have long-term high tolerability in an 18-month clinical trial."
+                    },
+                    {
+                        "title": "What does phytosome mean?",
+                        "content": "<div><p>It is a patented technology that vastly improves the bioavailability of our products, including Bruno MD Riboflam. Phytosome technology is the only nutrient delivery system in the world that can claim a 100% food-grade composition and delivers the highest concentration of vital nutrients where your body needs them in their most potent form. </p><p>This technology makes our prescription-grade ingredients Ultra-Bioavailable. Bioavailability is the amount of a substance that enters your bloodstream. Bioavailability is key to keeping you in the game by ensuring fast recovery and long-term inflammation management.</p></div>"
+                    },
+                    {
+                        "title": "What is Nucleoflam™ Proprietary Nucleotide and Nucleosides Yeast Extract Complex?",
+                        "content": "<div><p>Our formulation begins at the cellular base level with a unique Nucleoflam™ Proprietary Nucleotide &amp; Nucleosides Yeast Extract Complex. These nucleotides are vital to maintaining essential cell functions and supporting a healthy immune system, digestive system, and brain function. Nucleotides yeast extracts are a natural product extracted from yeast cells with a gentle, standardized, and highly controlled process free of chemical solvents. They are defined as low molecular weight intracellular compounds that participate in numerous biochemical processes. They serve several functions in human cells: </p><p>Structural (nucleic acids - RNA, DNA)</p><p>Carriers (energy transport – ATP, ADP, AMP)</p><p>Co-Enzymes (key role in the synthesis of proteins, fats, and carbohydrate metabolism)</p><p>Messengers (intracellular signal transduction) </p><p>They are a source of nucleotides, nucleosides, oligonucleotides, ribonucleic acid fragments, amino acids, minerals, and group B Vitamins. They are gluten-free and suitable for vegans. They are certified as both kosher and halal.</p><p>Nucleotides yeast extracts can support immune system functionality, gut barrier health, sports nutrition (recovery after performance), cognition/concentration (lack of synthesis of nucleotides in brain tissue), and iron absorption. They can also boost the anti-inflammatory activity of Acerola (Vitamin C), Zinc, and Vitamin D3.</p></div>"
+                    },
+                    {
+                        "title": "What is Natural Astaxanthin, and why is it a key ingredient in your formula?",
+                        "content": "<div><p>Our astaxanthin is a naturally occurring carotenoid derived from the microalgae “Haematococcus Pluvialis” found in temperate environments worldwide. Astaxanthin has a unique molecular structure that makes it hundreds of times more potent than any other antioxidant molecule. For this reason, Astaxanthin is often called 'The King of Antioxidants.' As well as being the most powerful antioxidant known to science, Astaxanthin also has powerful anti-inflammatory properties. It can span the entire lipid bilayer of the cell membrane, thus providing superior protection from the inside out. </p><p>Studies have shown that natural Astaxanthin may provide significant protection to the mitochondria, preventing muscle damage. </p><p>Over 50 human studies, including 23 double-blind, placebo-controlled trials with more than 1,400 participants undergoing treatments lasting from 2 weeks to 6 months, have been performed.</p><p>Research has shown that natural Astaxanthin is a potent anti-inflammatory and is particularly effective against chronic inflammation.</p></div>"
+                    },
+                    {
+                        "title": "Is Astaxanthin good for enhancing the immune system response?",
+                        "content": "<div><p>Our immune system is a complex network of specialized cells and organs that work together to protect the body against infections from bacteria, viruses, and other outside invaders. With age, the activity of the immune system declines and becomes more vulnerable to oxidative stress. The most pronounced decline is found in cell-mediated immune response, especially a decline in the proliferation capacity in T-lymphocytes. </p><p>B cell phagocytes are cells that ingest and destroy harmful pathogens such as bacteria and viruses, while T cell lymphocytes assist antibody release, destroying virus-infected cells and helping to remember and recognize previous invaders. </p><p>Clinical results have shown that Natural Astaxanthin seems to increase the count of these two major components of the immune response (the B lymphocytes and the T phagocytes.)</p></div>"
+                    },
+                    {
+                        "title": "What’s in your Riboflam Proprietary Phytosome Complex?",
+                        "content": "Riboflam’s formula contains clinically proven flavonoid phytosomes: Turmeric Extract (Curcuma Longa), Indian Frankincense (Boswellia Serrata), and Coneflower Extract (Echinacea Angustifolia)."
+                    },
+                    {
+                        "title": "What is Turmeric (Curcuma longa)?",
+                        "content": "<div><p>It is a distinctive yellow spice, part of the ginger family (Zingiberaceae), used for thousands of years in Southeast Asia, China, and India for cooking and medicinal uses. Advances in modern medicine have revealed curcumin to be the key ingredient responsible for turmeric's activities and therapeutic properties. Turmeric has been used for thousands of years as a “master switch” for addressing the natural inflammation response function. Our Curcumin Phytosome is clinically proven in 35 randomized, double-blind, placebo-controlled, published clinical trials.</p><p>Turmeric works through multiple pathways and on more than one target to promote a normal inflammatory response, boost immune response, and provide relief from exercise-related pain. Curcumin Phytosome is based on a natural and food-grade delivery Phytosome technology. The extract has been standardized, and it contains the full bouquet of curcuminoids, not just curcumin (Curcuminoids are polyphenolic pigments and include 77% curcumin). Curcumin Phytosome is the #1 doctors’ recommended Curcumin, and it has been endorsed by Cleveland Clinic.</p></div>"
+                    },
+                    {
+                        "title": "What is Indian Frankincense (Boswellia Serrata)?",
+                        "content": "<div><p>Boswellia Serrata Phytosome is derived from Indian Frankincense, a botanical extract taken from the gum resin of the Boswellia Serrata tree. Boswellia extract has been demonstrated to effectively manage various inflammatory response functions, including those in the bowel, joints, bones, respiratory airways, and brain. Its mechanism of action involves the modulation/control of the natural inflammatory response. </p><p>Boswellia Serrata Phytosome has been demonstrated to be useful for bowel-related inflammatory responses. It Improves physical function in subjects with joint and tendon challenges. Boswellia Serrata Phytosome has been shown to support gut health and significantly alleviate IBS (Irritable Bowel Syndrome) and IBD (Inflammatory Bowel Disease). In addition, clinical studies have shown that a cocktail of AKBA (Acetyl-11-Keto-𝛃-Boswelliac Acid) and Curcumin significantly inhibit certain viral infections (viral entry) compared to the untreated control.</p><p>Bruno MD Boswellia Serrata Phytosome extract has four times the bioavailability of regular Boswellia, which helps govern inflammatory response in the joints, bones, respiratory airways, the bowel, and the brain.</p></div>"
+                    },
+                    {
+                        "title": "What is Coneflower Extract (Echinacea Angustifolia)?",
+                        "content": "<div><p>We use a variety of Echinacea Angustifolia (or Coneflower) root extract to create Echinacea Angustifolia Phytosome. The benefits of Coneflower can be traced back to the Native Americans who used it as a natural anti-inflammatory. Bruno MD’s strict agricultural controls guarantee plants high in polysaccharides with very low cross-contamination between Echinacea species. Echinacea Angustifolia Phytosome is optimized for maximum absorption.</p><p>Results in clinical trials conducted using our triple-standardized Echinacea Phytosome, have shown a statistically significant tendency to be more efficacious than flu vaccination alone, suggesting that E. Phytosome has the potential to act synergistically with influenza vaccination.</p></div>"
+                    },
+                    {
+                        "title": "What does clinically proven ingredients mean?",
+                        "content": "<div><p>Multiple clinical studies substantiate all advertised health benefits and claims.</p><p>All clinical trials conducted on our ingredients are randomized, double-blind, placebo-controlled, and published.</p><p>Clinically proven claims represent the highest medical bar for any benefit and are rarely used on nutraceutical products.</p><p>The efficacy of our clinically proven ingredients is guaranteed.</p><p>Riboflam undergoes the same rigorous manufacturing and internal regulatory processes as our pharmaceutical drugs.</p></div>"
+                    },
+                    {
+                        "title": "What is Inflammation?",
+                        "content": "Inflammation is a buzzword that really means stress. Bruising and swelling, for example, are signs that inflammation is tending to an injury. But when inflammation doesn’t turn off, this long-term stress can lead to serious health problems."
+                    },
+                    {
+                        "title": "How does the immune system work?",
+                        "content": "<div><p>The immune system is made up of two armies of cells; innate and acquired. Innate immune cells are the body's first line of defense. They quickly respond to foreign cells to fight infection, battle a virus or defend the body against bacteria. Our acquired immunity—also called adaptive immunity—uses T-cells and B-cells when invading organisms slip through that first line. These cells take longer to develop because their behaviors evolve from learned experiences, but they tend to live longer than innate cells. Adaptive immune cells remember foreign invaders after their first encounter and fight them off the next time they enter the body. This is the fundamental premise for how vaccines work—using a small, harmless amount of protein from a disease to allow the immune system to recognize that protein if the pathogen were to invade the body.</p><p>B-cells and T-cells are also called lymphocytes. 'There are primary and secondary lymphoid organs involved in the complex development of lymphocytes,” says Pamela Crilley, DO, Chair of the Department of Medical Oncology at Cancer Treatment Centers of America (CTCA). “The primary lymphoid tissues in the initial generation of B- and T-lymphocytes are the bone marrow and the thymus.”</p><p>B-cells fight bacteria and viruses by making Y-shaped proteins called antibodies, which are specific to each pathogen and are able to lock onto the surface of an invading cell and mark it for destruction by other immune cells. </p></div>"
+                    },
+                    {
+                        "title": "What do T-cells do?",
+                        "content": "<div><p>There are two main types of T-cells; helper T-cells and killer T-cells. Helper T-cells stimulate B-cells to make antibodies and help killer cells develop. Killer T-cells directly kill cells that have already been infected by a foreign invader. T-cells also use cytokines as messenger molecules to send chemical instructions to the rest of the immune system to ramp up its response.</p><p>While both are critical to the body's defense against disease and infection, T-cells and B-cells play very different roles.</p></div>"
+                    },
+
+                    {
+                        "title": "Why is it important to boost your immune system, and how can I protect my immune system?",
+                        "content": "<div><p>Our body’s ability to fight infection and disease depends on our immune systems. The immune system is comprised of cells, tissues, and organs that work together to protect your body from illness and infection.</p><p>Since the immune system is not just a single entity, there isn’t a single food that you can eat or add to your diet to support it. The best way to keep your immune system running smoothly is to follow healthy living strategies that include.</p><p>Good Nutrition </p><p>Good nutrition is vital to supporting a healthy immune system. Follow a plant-based, heart-healthy menu that incorporates a variety of vegetables and fruits, whole grains, lean protein, and healthy fats. Eat small, frequent meals throughout the day to stay energized and ensure your body is getting enough calories, proteins, and nutrients. </p><p>Phytochemicals </p><p>Fruits, vegetables, and other plants contain a naturally occurring compound known as phytochemicals (or phytonutrients). Phytochemicals refer to a variety of compounds that give fruits and vegetables their color and flavor. Studies show that phytochemicals support the:</p><p>Immune system</p><p>Creation of healthy cells</p><p>Death of damaged cells. Phytochemicals also act as antioxidants to protect the body from damage.</p><p>Dietary Supplements </p><p>Dietary supplements help you get adequate amounts of essential nutrients if you don’t eat a nutritious variety of foods or if these nutrients cannot be taken from the food itself. However, make sure to always take dietary supplements that follow the highest standard quality control process. The FDA has established good manufacturing practices (GMPs) that companies must follow to help ensure the identity, purity, strength, and composition of their dietary supplements. These GMPs can prevent adding the wrong ingredient (or too much or too little of the correct ingredient) and reduce the chance of contamination or improper packaging and labeling of a product. The FDA periodically inspects facilities that manufacture supplements.</p><p>Lifestyle </p><p>Change your lifestyle to help support your health and immunity.</p><p>Get Enough Sleep </p><p>Sleep is an essential aspect of health. Our bodies need sleep to recharge and heal. The Centers for Disease Control and Prevention (CDC) recommends that adults get seven hours or more of sleep every night. </p><p>Minimize Stress </p><p>Stress can also take a toll on the immune system. In many ways, mental health can also affect your physical health. Try to reduce stress by taking time to do things you enjoy, such as spending time with family, spending time outdoors, or reading. If your feelings of anxiety or depression make it difficult for you to complete daily tasks, talk to your healthcare professional.</p><p>Exercise Regularly </p><p>Leading an active lifestyle can also support your immune system by promoting good circulation, allowing the cells and substances of the immune system to move through the body freely and do their job efficiently. Regular exercise promotes good cardiovascular (heart) health, too. The American Institute for Cancer Research (AICR) recommends getting at least 150 minutes of moderate activity or 75 minutes of vigorous physical activity a week. Physical activity includes walking, jogging, swimming, biking, playing sports, etc. Include strength training and stretching along with aerobic exercise to build muscle and increase flexibility.</p><p>Enjoy Life </p><p>Enjoy family, entertaining old friends, and making new ones; turn the simplest occasion into a social gathering for the entire neighborhood.</p></div>"
+                    }
+                ]
+            },
+            {
+                "title": "CholestQ10",
+                "content": [
+                    {
+                        "title": "What are the benefits of taking CholestQ10?",
+                        "content": "<div><p>CholestQ10 contains clinically proven ingredients to help reduce cholesterol counts while also providing several other health benefits, including:***</p><p>1. Cholesterol Health - supports healthy cholesterol levels</p><p>2. Cholesterol Control - inhibits cholesterol biosynthesis and LDL oxidation already in the healthy range</p><p>3. Cholesterol Inhibition - inhibit fat accumulation in the hepatocytes (liver cells)</p><p>4. CoQ10 Boost - significant boost of physiological CoQ10. 116% higher CoQ10 levels vs. baseline</p><p>5. Circulatory Management -supports healthy blood vessel function</p></div>"
+                    },
+                    {
+                        "title": "What is Coenzyme Q10?",
+                        "content": "<div><p>It is a powerful antioxidant that protects proteins, LDL cholesterol, and mitochondrial DNA from oxidative damage.</p><p>As a participant in cellular energy production, CoQ10 helps ensure thebody’s biggest energy consumers, the heart and the brain, are well fed. Thanks to these two functions, CoQ10 can enhance cardiovascular functions.</p><p>CoQ10 Phytosome promotes healthy aging, heart &amp; cardiovascular health, brain health, and all activities involving energetic expenditure. CoQ10Phytosome is delivered in a crystal-free preparation to maximize absorption.</p></div>"
+                    },
+                    {
+                        "title": "Why is it important to take CholestQ10 for your heart health?",
+                        "content": "Worldwide, heart-related diseases are at an all-time high. While many countries offer programs to help individuals reduce their cholesterol and blood pressure levels, these efforts simply cannot overcome the effects of poor diet and nutrition."
+                    },
+                    {
+                        "title": "Why should I buy my cholesterol supplement from Bruno MD?",
+                        "content": "The ingredients we choose for CholestQ10 follow our core belief of good things coming from goodingredients."
+                    },
+                    {
+                        "title": "Is CholestQ10 vegan?",
+                        "content": "Yes. CholestQ10 is a vegan dietary supplement. It is made fromplant-based ingredients right down to the capsules. This allows everyone to take the supplement regardless of personal or religious dietary restrictions."
+                    },
+                    {
+                        "title": "Can I take CholestQ10 while pregnant or breastfeeding?",
+                        "content": "We always recommend talking with your healthcare professional before consuming our products, as nutritional needs can vary when pregnant or breastfeeding."
+                    },
+                    {
+                        "title": "How many times a day should I take CholestQ10?",
+                        "content": "Take two (2) capsules daily, 1 in the morning, and 1 in the evening,preferably before meals or as directed by your healthcare professional."
+                    },
+                    {
+                        "title": "What does CholestQ10 contain?",
+                        "content": "CholestQ10 is a blend of ingredients that contain Vitamin E (asd-alpha-tocopherol succinate), Bergamot Phytosome, Curcumin Phytosome, CoenzymeQ10 Phytosome, and Cardoon."
+                    },
+                    {
+                        "title": "What is CholestQ10 proprietary phytosome complex?",
+                        "content": "It is a powerful combination of clinically proven ingredients that have been validated in more than 120 double-blind, placebo-controlled studies. It has also been proven to have long-term high tolerability in an 18-month clinical trial."
+                    },
+                    {
+                        "title": "What’s in CholestQ10’s Proprietary Phytosome Complex?",
+                        "content": "CholestQ10’s formula contains clinically proven flavonoid phytosomes: Bergamot Orange extract (Citrus Bergamia), Turmeric Extract (Curcuma Longa), and Coenzyme Q10."
+                    },
+                    {
+                        "title": "What is Bergamot Orange Extract (Citrus Bergamia)?",
+                        "content": "<div><p>We use a variety called Citrus Bergamia Risso et Poiteau, an endemicplant of the Calabrian region of Southern Italy. Bergamot Phytosome isclinically proven to protect against cardiovascular issues by supporting healthy cholesterol levels. It also helps govern metabolic conditions that increase the risk of heart disease and TYPE II diabetes. Bergamot Phytosome optimizesthe biological absorption of polyphenols, which are normally characterized by poor solubility in both water and organic solvents. Our Citrus Bergamia is the green “gold standard” for heart health. </p><p>Bergamot Orange Extract is acitrus fruit. Bergamot Orange Extract (Citrus Bergamia) is hand-harvested in Calabria. </p></div>"
+                    },
+                    {
+                        "title": "What is Turmeric (Curcuma Phytosome)?",
+                        "content": "<div><p>It is a distinctive yellow spice, part of the ginger family(Zingiberaceae), used for thousands of years in Southeast Asia, China, andIndia for cooking and medicinal uses. Advances in modern medicine have revealed curcumin to be the key ingredient responsible for turmeric's activities andtherapeutic properties. It has been used for thousands of years as a “masterswitch” for addressing the natural inflammation response function. Our CurcuminPhytosome is clinically proven by 35 randomized, double-blind,placebo-controlled, published clinical trials.</p><p>Curcumin Phytosome works through multiple pathways and on more than onetarget to promote a normal inflammatory response, boost immune response, and help reduce exercise-related pain. It is delivered with Phytosome technology. The extract has been standardized, and it contains the full bouquet ofcurcuminoids, not just curcumin. (Curcuminoids are polyphenolic pigments andinclude 77% curcumin). Curcumin Phytosome is the #1 doctors’ recommended Curcumin, and it has been endorsed by the Cleveland Clinic.</p><p>With Curcumin Phytosome, the level of bioavailability, absorption,modality, and tolerability over time make our product compatible andappropriate to the permanent role of “Life Guardian” over the levels of chronic inflammation during the entire course of life.</p><p>Our Curcumin Phytosome is sourced from India.</p></div>"
+                    },
+                    {
+                        "title": "What is Coenzyme Q10 Phytosome (CholestQ10 Proprietary Phytosome Complex)?",
+                        "content": "<div><p>Coenzyme Q10 (CoQ10) is a potent antioxidant. CholestQ10 is formulated with Phytosome proprietary technology, a revolutionary ingredient transport system that delivers 100% food-grade composition of vital nutrients in their most potent form, where your body needs them. Coenzyme Q10 is delivered in a crystal-free liquid solution to maximize absorption. CoQ10 Phytosome promotes healthy aging, heart and cardiovascular health, brain health, and all activities involving energetic expenditure.</p><p>Our Coenzyme Q10 Phytosome is sourced in Lombardia, Italy.</p></div>"
+                    },
+                    {
+                        "title": "Why do you use natural Vitamin E (as d-alpha-tocopherol succinate)?",
+                        "content": "<div><p>Both natural-sourced Vitamin E and synthetic Vitamin E are absorbed in the body. However, after absorption, a specific transport protein in the liverknown as RRR-alpha-Tocopherol Transport Protein (α-TTP) recognizes the naturald-alpha-tocopherol acetate. It gives it priority over the synthetic form. The unrecognized form of synthetic Vitamin E is preferentially excreted. Vitamin Ein natural form is retained better and longer in the body when compared to thesynthetic form. As a result, Vitamin E natural Tocopherol is more efficientlyused by the body than its synthetic counterpart and has higher bioavailability.</p></div>"
+                    },
+                    {
+                        "title": "Why did you combine Coenzyme Q10 and natural Vitamin E (d-alpha-tocopherol)?",
+                        "content": "Together they are a heart-healthy duo that stays active in the body longer and creates a paving shield to protect proteins, LDL cholesterol, and mitochondrial DNA against the oxidative damage that leads to heart disease."
+                    },
+                    {
+                        "title": "What is Cardoon Leaf Extract (Cynara Cardunculus)?",
+                        "content": "<div><p>Farmers have grown an artichoke called the Cardoon in Sicily. Bruno MDscientists discovered that the active biophenols and flavonoids from an endemicvariety of Cardoon leaf (Cynara Cardunculus L. Var. altilis DC and scolymus) are among the most potent found in nature. Importantly, these compounds inhibit the creation of fatty lipids in the hepatocytes (liver cells), a “secret” health benefit that farmers have known for millennia.</p><p>Our Cardoon Leaf Extract is sourced in Italy.</p></div>"
+                    },
+                    {
+                        "title": "What does clinically proven ingredients mean?",
+                        "content": "<div><p>- Multiple clinical studies substantiate all advertised health benefits and claims.</p><p>- All clinical trials conducted on our ingredients are randomized, double-blind, placebo-controlled, and published.</p><p>- Clinically proven claims represent the highest medical bar for any benefit and are rarely used on nutraceutical products.</p><p>- The efficacy of our clinically proven ingredients is guaranteed.</p><p>- CholestQ10 undergoes the same rigorous manufacturing and internal regulatory processes as our pharmaceutical drugs.</p></div>"
+                    },
+                    {
+                        "title": "Are CholestQ10’s ingredients safe?",
+                        "content": "Yes. All our key ingredients are exclusively sourced from trusted suppliers. Other brands often obtain their key ingredients from multiple untraceable animal sources and often from third-world countries."
+                    }
+                ]
+            },
+            {
+                "title": "BlueRex Vision",
+                "content": [
+                    {
+                        "title": "What are the benefits of taking Bluerex?",
+                        "content": "<div><p>1. Blue Light Damage Proven - eye protection from harmful blue light</p><p>2. Dry, Itchy Eyes - supports healthy tear secretion</p><p>3. Digital Eye Strain Support - alleviates oxidative stress in eyes and symptoms of (CVS) computer vision syndrome</p><p>4. Eye Pain From Prolonged Screen Time - reduces eye fatigue and strain. Promotes vision recovery from digital overexposure.</p><p>6. Total Eye Care - helps maintain overall eye health</p></div>"
+                    },
+                    {
+                        "title": "Why is Bluerex Vision unique?",
+                        "content": "Bluerex Vision is the only eye health dietary supplement that helps with Blue Light Protection and Relief from Computer Vision Syndrome (CVS). It contains clinically proven ingredients to increase Macular Pigment Optical Density (MPOD) and support eyes from front to back."
+                    },
+                    {
+                        "title": "Why is Bluerex Vision 360o eye care for the digital age?",
+                        "content": "<div><p>Bluerex Vision protects the back of the eye with Lutein and Zeaxanthin, which help filter out harmful blue light and promote vision recovery from overexposure to fluorescent light and computer monitors. Bluerex Visionprotects the front of the eye with natural Astaxanthin, which helps reduce eye fatigue and strain, alleviating oxidative stress and symptoms of Computer Vision Syndrome. Bluerex Vision’s Bilberry Extract has demonstrated its efficacy in supporting healthy tears secretion. At the same time, Vitamin E (d-alphatocopherol) helps neutralize oxidation and protect the parts of the eye which are particularly susceptible to oxidative damage.</p></div>"
+                    },
+                    {
+                        "title": "What are the benefits of taking Bluerex Vision?",
+                        "content": "<div><p>Bluerex Vision contains clinically proven ingredients to increase Macular Pigment Optical Density while also providing several other health benefits, including eye protection from harmful blue light. Bluerex Vision supports healthy tear secretion, alleviates oxidative stress in eyes and symptoms of Computer Vision Syndrome, reduces eye fatigue and strain, promotes vision recovery from overexposure to fluorescent lighting and computer monitors, and helps maintain overall eye health.</p></div>"
+                    },
+                    {
+                        "title": "How does Bluerex Vision support the front of the eye?",
+                        "content": "<div><p>Bluerex Vision increases ciliary muscle recovery and endurance, improving the capillary blood flow, and inhibiting inflammation. Astaxanthin inthe Bluerex Vision works to protect the front of the eye to help alleviateoxidative stress and reduce Computer Vision Syndrome symptoms.</p></div>"
+                    },
+                    {
+                        "title": "How does Bluerex Vision support the back of the eye?",
+                        "content": "<p>Bluerex Vision guards the body against the damaging effects of free radicals, working as light filters and as antioxidants in the eye. Lutein &amp;Zeaxanthin in Bluerex Vision’s blend protect eyes from harmful blue light andhelps maintain protection at the back of the eye. Lutein &amp; Zeaxanthin alsopromote vision recovery from overexposure to fluorescent light and computer monitors. </p>"
+                    },
+                    {
+                        "title": "What is in your Bluerex Vision proprietary complex?",
+                        "content": "Bluerex Vision proprietary complex is a powerful combination of clinically proven ingredients verified through more than 130 double-blind studies. Ingredients include Bilberry Extract, Natural Vitamin E(d-alpha-tocopherol), Docosahexaenoic acid (DHA), Natural Astaxanthin, Lutein, and Zeaxanthin"
+                    },
+                    {
+                        "title": "What are Lutein & Zeaxanthin?",
+                        "content": "Our Lutein & Zeaxanthin combo is clinically proven to protect the back of your eyes. These all-natural compounds are harvested from marigold flowers and dramatically increase the macular pigments critical to filtering harmful blue light before it can damage your retina. Lutein & Zeaxanthinare clinically proven partners to help reduce the progression of certain eye issues throughout our lives."
+                    },
+                    {
+                        "title": "Why do we need Lutein & Zeaxanthin?",
+                        "content": "Lutein & Zeaxanthin are not made by the human body and must come from the food we eat. Most people do not eat enough Lutein & Zeaxanthinthrough their diet and need to fill the gap with dietary supplements. Hundreds of studies have shown that nutritional supplements containing Lutein & Zeaxanthin help keep eyes healthy, improve visual performance, and reduce the progression of certain eye conditions as we age."
+                    },
+                    {
+                        "title": "How do Lutein & Zeaxanthin work?",
+                        "content": "<div><p>Lutein &amp; Zeaxanthin work as light filters and antioxidants in the eye. Lutein primarily accumulates where rods are the dominant photoreceptors. Rods allow for low light vision, sensitive motion detection, and peripheralvision. Zeaxanthin primarily accumulates where cones are the dominant photoreceptors. Cones allow for color and the ability to see the contrast between two objects. Working together, Zeaxanthin &amp; Lutein absorb a broader bandwidth of blue light from digital devices, LED lights, and sunlight than either alone. Both support the back of the eye and help filter harmful bluelight, and improve night vision and contrast sensitivity.</p></div>"
+                    },
+                    {
+                        "title": "What does Astaxanthin do?",
+                        "content": "Studies have shown Astaxanthin to increase ciliary muscle recovery andendurance. Additionally, it improves capillary blood flow and blood rheology."
+                    },
+                    {
+                        "title": "What is Natural Astaxanthin?",
+                        "content": "<p>Our Natural Astaxanthin is clinically proven to help shield the front of your eyes: it’s nature’s most potent antioxidant, sourced from special algae called Haematococcus Pluvialis found in temperate regions around the world. The microalgae accumulate astaxanthin in lipid vesicles during periods of nutrient deficiency and environmental stress. Because Haematococcus Pluvialis often grows in places exposed to intense sunlight during its dormant phase,astaxanthin functions to protect the cell nucleus against free radicals generated by UV radiation and strengthen the eye muscles, to reduce eye fatigue that contributes to Computer Vision Syndrome.</p>"
+                    },
+                    {
+                        "title": "Why is Astaxanthin known as a Mitochondrial Nutrient?",
+                        "content": "<p>Astaxanthin is perfectly designed to protect the mitochondria. It protects the inner part of the membrane made by lipids that flows into the center and protects the outside of the membrane made up of hydrophilic protein molecules. Antioxidants like Vitamin C, Vitamin E, and beta carotene can’t do the same job. They don’t have the right shape, the right length, or the rightamphiphilic (compounds possessing both hydrophilic (water-loving, polar) and lipophilic(fat-loving) properties), qualities that allows astaxanthin to both span the hydrophobic center of the membrane and anchor in the hydrophilic molecules. In other words, Bluerex Vision’s Astaxanthin has the ability to span the entirelipid bilayer of the cell membrane, thus providing superior protection from the inside out. </p>"
+                    },
+                    {
+                        "title": "Why does Astaxanthin have the most powerful anti-aging molecule?",
+                        "content": "Astaxanthin has the purest antioxidant molecule because it has no pro-oxidant activity (natural antioxidants can act as pro-oxidants, whichproduce free radicals and cause DNA damage and mutagenesis) even when subjected to an enormous amount of stress from environmental factors and free radicals."
+                    },
+                    {
+                        "title": "Why is Astaxanthin the strongest singlet-oxygen quencher among the anti-aging molecules?",
+                        "content": "<p>Bluerex Vision’s Astaxanthin is more potent than other antioxidants when combating singlet oxygen damage for eye health. Singlet oxygens are active oxygen species generated in human skin by exposure to ultraviolet radiation(UV) that causes eye damage. To give you a measure of the potency of ourproduct, Bluerex Vision’s Astaxanthin is 6,000 times stronger than Vitamin Cand 3,000 times stronger than Resveratrol. </p>"
+                    },
+                    {
+                        "title": "Why Bluerex Vision’s Astaxanthin is superior to the astaxanthin used in other supplements?",
+                        "content": "<div><p>We only use Natural Astaxanthin extracted from the algae Haematococcus Pluvialis because this particular astaxanthin extract is the most potent form of astaxanthin. Most other products opt to use a cheaper synthetic alternative. The main issue with using this synthetic option is that it has a different molecular profile to natural astaxanthin. While the only clinical study on synthetic astaxanthin indicates it may have some health benefits, little clinical research has been done to measure its effectiveness compared to natural astaxanthin. Some research even suggests that Natural Astaxanthin is 20 to 60 times more potent than its synthetic variant. Very few products on the market today use Natural Astaxanthin extracted from the algae H. Pluvialis.</p><p>We cultivate our astaxanthin using proprietary indoor, state-of-the-art photobioreactors, using triple-filtered water and air to eliminate contaminants such as bugs, pollution, and weather. For other brands, cultivation is not conducted indoors and is often subject to contamination.</p><p>Our Natural Astaxanthin is extracted at full maturity and is chlorophyll-free. Chlorophyll can interfere with the stability of astaxanthin. Certain products in other brands contain chlorophyll which can interfere with the stability of astaxanthin.</p><p>Our Natural Astaxanthin is cultivated using sustainable energy sources that minimize energy and water loss due to evaporation and space while protecting against environmental pollutants. </p><p>Our Natural Astaxanthin is a USP verified dietary supplement produced 100% in the USA, from cultivation to extraction.</p><p>Lastly, our Natural Astaxanthin has been third-party tested as free of PAH carcinogens or skin irritants like pheophorbide. Testing guarantees our astaxanthin is safe. Other companies use sources of astaxanthin with low-quality control procedures, which can drastically reduce the efficacy of the product and increase the chances of contamination.</p></div>"
+                    },
+                    {
+                        "title": "Are there any other benefits from the use of Bluerex Vision’s natural astaxanthin?",
+                        "content": "<div><p>- Astaxanthin can help recharge tired eyes. </p><p>- Alleviates oxidative stress in the eye and symptoms of Computer Vision Syndrome.</p><p>- Helps reduce eye fatigue and strains.</p><p>- Has a unique chemical structure that fully spans cell membranes for ultimate protection. </p><p>- Does not disrupt cell membrane structure.</p><p>- Does not convert to Vitamin A. </p><p>- Contains anti-inflammatory properties. </p><p>- Crosses the blood retinal barrier and the blood-brain barrier.</p><p>- Improves capillary blood flow.</p><p>- Reduces inflammation of the capillary muscle.</p><p>- Improves accommodation responsiveness, range, and resilience.</p><p>- Has over 60 human clinical trials for a variety of health benefits, including eye health.</p><p>- Studies have shown that Natural Astaxanthin may provide significant protection to the mitochondria, thus preventing muscle damage.</p><p>- Over 50 human studies, including 23 double-blind, placebo-controlled trials, with more than 1,400 participants undergoing treatments lasting from 2 weeks to 6 months, have been conducted. </p></div>"
+                    },
+                    {
+                        "title": "Why does Bluerex Vision contain Bilberry extracts (Vaccinium myrtillus)?",
+                        "content": "<div><p>Bilberry extracts (Vaccinium myrtillus) are extracted from a fruitcalled ‘Vaccinium Myrtillus,’ grown in the north of central Europe. </p><p>This humble berry packs a potent compound of plant pigments calledanthocyanins shown to promote healthy tear secretion, improve vision, increase retinal sensitivity (including night vision), and may help prevent common eye issues as we mature. More than 50 positive studies, including at least 25 controlled or double-blind studies, have validated the efficacy of vascular health in Bluerex Vision‘s bilberry extract. </p></div>"
+                    },
+                    {
+                        "title": "Why does Bluerex Vision contain Natural Vitamin E (d-alpha tocopherol)?",
+                        "content": "<div><p>Our Vitamin E (d-alpha-tocopherol) is a select type of natural and pure Vitamin E shown to help neutralize oxidative damage that leads to age-related vision problems and help subjects with moderate age-related macular degeneration. The nutrients reduced the risk of developing advanced age-related macular degeneration by 25% for subjects who already demonstrated early signs of macular degeneration.</p><p>Our Vitamin E in natural form is retained better and for a longer time in the body when compared to its synthetic counterpart. As a result, Natural Vitamin E (d-alpha-tocopherol) is more efficiently used by the body than its synthetic counterpart and has higher bioavailability.</p></div>"
+                    },
+                    {
+                        "title": "What is Docosahexaenoic Acid?",
+                        "content": "<div><p>Docosahexaenoic acid, or DHA, is a polyunsaturated omega-3 fatty acid(PUFA) found throughout the body. It is a primary structural fat found in the brain and eye, accounting for up to 97% of the total omega-3 fats in the brain and up to 93% of the omega-3 fats in the retina. It is also a key component ofthe heart. Numerous research studies confirm that everyone, from infants to adults to the elderly, can benefit from a regular intake of dietary DHA. DHAaccounts for up to 97% of the total omega-3 fats in the brain. Our DHA is anutritional oil derived from the marine alga, Schizochytrium sp., a rich source of Omega-3 docosahexaenoic acid (DHA) with rosemary extract (flavoring). It is vegetarian and provides essential brain, eye, and heart health benefits and contributes to the maintenance of normal vision.</p><p>Our Docosahexaenoic Acid is sourced in the United States.</p></div>"
+                    },
+                    {
+                        "title": "How many times a day should I take Bluerex Vision?",
+                        "content": "Take two (2) soft gels daily: 1 in the morning and 1 in the evening, with food, or as directed by your healthcare professional"
+                    },
+                    {
+                        "title": "Is Bluerex Vision vegan?",
+                        "content": "Yes, Bluerex is a vegan dietary supplement. It is made from plant-based ingredients, including the capsules. This allows everyone to take the supplement regardless of personal or religious dietary restrictions."
+                    },
+                    {
+                        "title": "Are the ingredients in Bluerex Vision safe?",
+                        "content": "Yes. All our key ingredients are exclusively sourced from trusted suppliers. Other brands often obtain their key ingredients from multiple untraceable animal sources and often from third-world countries."
+                    },
+                    {
+                        "title": "What does clinically proven ingredients mean?",
+                        "content": "<div><p>- Multiple clinical studies substantiate all advertised health benefits and claims.</p><p>- All clinical trials conducted on our ingredients are randomized, double-blind, placebo-controlled, and published.</p><p>- Clinically proven claims represent the highest medical test for any benefit and are rarely used for nutraceutical products.</p><p>- The efficacy of our clinically proven ingredients is guaranteed.</p><p>- Bluerex Vision undergoes the same rigorous manufacturing and internal regulatory processes as our pharmaceutical drugs.</p></div>"
+                    },
+                    {
+                        "title": "What are the causes of eye fatigue?",
+                        "content": "When ciliary muscle fatigue, they can cause asthenopia or accommodation failure, and poor blood flow struggles to support a metabolically active organ."
+                    },
+                    {
+                        "title": "What is Blue Light?",
+                        "content": "<div><p>High energy blue light can damage our eyes. It is a component of visible light that we are exposed to it without even realizing it. Blue Light is not easily ﬁltered by our eyes, and over exposure can negatively impact vision.</p><p>Nearly every source of light—whether natural or artiﬁcial—emits harmful blue light. Over the last few years, the increasing use of technology anddigital devices means people are subjecting themselves to higher levels of BlueLight and risking harm to their eyes.</p></div>"
+                    },
+                    {
+                        "title": "Who is affected by Blue Light?",
+                        "content": "<p>Everyone who is exposed to digital devices. 60% of Americans use digital devices more than 5 hours daily; 75% of Americans use digital devices in the hour before going to sleep; 70% of Americans use 2 or more digital devices at the same time; 75% of those people report experiencing symptoms of ComputerVision Syndrome. Additionally, 33% of children use devices more than 3 hours daily; 87% of millennials use 2 or more devices simultaneously; 37% of millennials use devices more than 9 hours daily. </p>"
+                    },
+                    {
+                        "title": "Does Blue Light exposure have short-term effects?",
+                        "content": "Yes, it does have short-term effects such as headaches, eye strain, blurred vision, eye fatigue, and dry eye."
+                    },
+                    {
+                        "title": "Does Blue Light exposure have long-term effects?",
+                        "content": "Yes, it does have long-term effects such as retinal damage, reduced visual performance, poor glare recovery, and age-related eye conditions."
+                    },
+                    {
+                        "title": "What is Computer Vision Syndrome?",
+                        "content": "<p>In today’s world, every human being is taking advantage of technology. Technology is everywhere. We are glued to multiple digital devices; screens, phones, tablets, computers, and television. Studies have shown that over a third of adults spend more than half their day using technology, while others have admitted that their technology usage consumes 10–12 hours of their time per day. Adults aren’t the only ones being affected, as kids are becoming more involved with devices and other forms of technology at home and in the classroom. 50-90% of digital device users suffer Computer Vision Syndrome (CVS) or Digital Eye Strain symptoms.</p>"
+                    },
+                    {
+                        "title": "What are common symptoms of Computer Vision Syndrome (CVS) or digital eye strain?",
+                        "content": "<div><p>- 33% report experiencing eye strain </p><p>- 23% report experiencing dry eyes </p><p>- 22% report experiencing blurred vision</p></div>"
+                    },
+                    {
+                        "title": "Why is this happening to your eyes?",
+                        "content": "<p>The eyes are naturally at rest with a view distance of 20 feet away, but by using a phone, tablet, or computer, they are generally 18-24 inches away. This causes a prolonged contraction of ciliary muscles, increasing ROS/free radicals and stressing the eyes. Ciliary muscles spasm to adjust to close proximity viewing—the eyes fatigue, resulting in blurred vision and headaches.</p>"
+                    },
+                    {
+                        "title": "What is the role of the ciliary muscle in the eye?",
+                        "content": "Ciliary muscles adjust lens thickness to change the eye’s focal length. Ciliary muscle provides near point of focus, depth perception, positive accommodation speed, and accommodation amplitude."
+                    },
+                    {
+                        "title": "What is an example of ciliary muscle function?",
+                        "content": "Ciliary muscles can contract, rounding the lens and allow you to focuson near objects. Additionally, ciliary muscles can relax, flattening the lensand enable you to focus on distant objects."
+                    },
+                    {
+                        "title": "What is accommodation of the eye?",
+                        "content": "<div><p>Accommodation is defined as the ability of the eye to change its focusfrom distant to near objects (and vice versa). A human eye can change focus from distance infinity to 7cm in 350 milliseconds. This dramatic change in focal power occurs as a consequence of reduction in the zonular tension induced by the ciliary muscle. Put simply, the circular ciliary muscles inside the eyes contract to focus on near subjects and relax to focus on distant subjects. During a long computer session, the eyes exert substantial energy to focus on the computer screen; therefore, vision can be temporarily blurred after a long computer session.</p></div>"
+                    },
+                    {
+                        "title": "Why should I care about my Mitochondrial health?",
+                        "content": "<p>We should care because healthier mitochondria result in better nourishment for the organelle that fuels all cell activity in the body. Also,an organism’s longevity is directly correlated to the amount of free radical damage created within the mitochondria. Without your mitochondria producing enough Adenosine Tri-Phosphate (ATP), every activity in your body would cease. ATP is a high-energy molecule that stores the energy we need to do just about everything we do. Our mitochondria produce the energy of life. For this reason, we need to secure more antioxidant protection from our diet to supplement the defenses our body makes.</p>"
+                    }
+                ]
+            }
+        ],
+        "newsletter": {
+            "title": "Iscriviti alla newsletter",
+            "portalId": "19647191",
+            "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
+            "desktopImage": "/utility/home-news-desk.avif",
+            "mobileImage": "/utility/home-news-mob.avif"
         }
-    ],
-    "newsletter": {
-        "title": "Iscriviti alla newsletter",
-        "portalId": "19647191",
-        "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
-        "desktopImage":"/utility/home-news-desk.png",
-        "mobileImage":"/utility/home-news-mob.png"
+    },
+    "EU": {
+        "seo":{
+            "title":"Domande Frequenti | BrunoMD",
+            "description":"Leggi le domande frequenti sui prodotti Bruno MD, tra cui: Citrak, Citrak Forte, Citrak Mg., Drop Therapeutic, Neulenic, Nubit."
+        },
+        "masterHead": {
+            "desktopImage": {
+                "src": "/utility/frequenti-desk.avif",
+                "alt": ""
+            },
+            "mobileImage": {
+                "src": "/utility/frequenti-mob.avif",
+                "alt": ""
+            },
+            "title": "Frequently Asked Questions"
+        },
+        "section": [
+            {
+                "title": "Ordini",
+                "content": [
+                    {
+                        "title": "Come posso modificare il mio ordine?",
+                        "content": "<p>Per modificare il metodo di pagamento, le informazioni di spedizione, modificare l'abbonamento (frequenza) o il contenuto dell'ordine, dovrai accedere al tuo account visitando www.brunomd.eu. In alto a destra della home page fai clic sul link 'Accedi' sopra il carrello. Tieni presente che avrai bisogno di un account per apportare modifiche e dovrai crearne uno se non lo hai fatto al momento dell'acquisto. Ti invitiamo a utilizzare lo stesso indirizzo e-mail utilizzato al momento dell'acquisto per collegare l'ordine al tuo account. Se un account è già stato creato, accedi utilizzando il tuo indirizzo e-mail e la password. Puoi farlo facendo clic sul link 'Accedi' sopra l'icona del carrello nella home page (angolo in alto a destra) e accedi. Verrai indirizzato alla pagina della cronologia degli ordini e sulla riga dell'ordine c'è un'opzione per 'cancellare / modificare' il tuo ordine.</p><p>Se hai bisogno di ulteriore assistenza, non esitare a contattarci via e-mail all’indirizzo customerservice@brunopharma.com.</p>"
+                    }
+                ]
+            },
+            {
+                "title": "Cancellazione e Reso",
+                "content": [
+                    {
+                        "title": "Come posso cancellare il mio ordine?",
+                        "content": "<p>1.Se vuoi annullare il tuo primo ordine che non è stato spedito contattaci all’indirizzo customerservice@brunopharma.com. Di solito, le spedizioni vengono spedite lo stesso giorno in cui si riceve l’ordine, quindi non garantiamo che ci sarà abbastanza tempo per fermarlo in tempo. Faremo del nostro meglio per soddisfare la vostra richiesta.   </p><p>2.Se desideri annullare il tuo primo ordine che è stato spedito, segui le istruzioni riportate di seguito:</p><p>• Dovrai creare una richiesta di reso tramite il nostro centro resi ( Vedi &quot;Portale per il Reso&quot; ) Puoi accedervi visitando il nostro sito www.brunomd.eu e navigando nella pagina &quot;Portale per il Reso&quot; situata nella parte inferiore della home page. </p><p>• Clicca su &quot;Portale per il Reso&quot;. Verrai indirizzato alla pagina del centro resi e lì ti verrà richiesto di inserire il numero dell'ordine e l'indirizzo e-mail per avviare il processo. Nota che il contenuto della pagina verra' mostrato in lingua inglese. In alto a destra potrai scegliere la lingua italiana. Poiché non è necessario restituire il primo ordine, ti rimborseremo per intero meno il costo della spedizione, una volta ricevuta la tua richiesta. Il nostro sistema genererà un RMA, si prega di ignorarlo. Sarai rimborsato per intero una volta che la tua richiesta sarà stata elaborata dal nostro servizio clienti.</p><p>3.Se si desidera annullare eventuali ordini successivi, inclusi gli ordini di acquisto periodico, segui le istruzioni riportate qui sotto:</p><p>• Dovrai accedere al tuo ordine visitando <a href='https://www.brunomd.eu' target='_blank' rel='noopener noreferrer' data-testid='external-link'>www.brunomd.eu</a>. Vai su “accedi” (in alto a destra della homepage) per gestire qualsiasi riprogrammazione o cancellazione relativa a qualsiasi ordine successivo o qualsiasi ordine di acquisto periodico.</p><p>• Tuttavia, se non sei in grado di apportare le modifiche necessarie o hai bisogno di ulteriore assistenza, non esitare a contattarci via e-mail all’indirizzo customerservice@brunopharma.com, ed un membro del nostro team di customer service sarà lieto di aiutarti.</p><p>4.Se desideri restituire il tuo ordine, segui le istruzioni riportate di seguito:</p><p>• Non è necessario restituire il tuo primo ordine. Sebbene i nostri sistemi generino un RMA, si prega di ignorarlo. Offriamo un rimborso completo meno il costo della spedizione per il tuo primo ordine. Non dovrai restituire alcun prodotto. Sarai rimborsato per intero meno il costo della spedizione, una volta che la tua richiesta sarà stata elaborata dal nostro servizio clienti.</p><p>• Per ricevere un rimborso completo, tutti gli ordini successivi o tutti gli ordini di acquisto periodico devono essere restituiti non aperti e sigillati.  Non emettiamo rimborsi o crediti su merce danneggiata, aperta o usata dopo il tuo primo ordine e su quelli di acquisto periodico. Il tuo ordine non sarà idoneo per la restituzione se ci contatterai 14 giorni dopo il ricevimento della merce. Se non riesci a completare questo processo o hai bisogno di ulteriore assistenza, non esitare a inviarci un'e-mail all'indirizzo customerservice@brunopharma.com.</p><p>Istruzioni su come restituire il tuo ordine:</p><p>1. Accedi a www.brunomd.eu e vai su &quot;Portale per il Reso&quot; (sotto &quot;Chi Siamo&quot; che si trova in basso della home page).  Nota che il contenuto della pagina verra' mostrato in lingua inglese. In alto a destra potrai scegliere la lingua italiana. Assicurati che il reso non avvenga dopo più di 14 giorni dal ricevimento della merce.</p><p>2. Ti verrà fornito un numero di autorizzazione alla restituzione della merce (RMA). Nessun rimborso sarà dato senza un numero RMA e la spedizione sarà rifiutata. I numeri RMA saranno validi solo per dieci giorni. Un rimborso verrà emesso dopo l'approvazione dell'idoneità.</p><p>3. Scrivi l'RMA# all'esterno della tua scatola di spedizione.</p><p>4. Allega una nota con una copia della fattura originale / bolla di accompagnamento con il motivo del reso e il numero RMA. Imballa accuratamente i prodotti nella scatola di spedizione originale o in qualsiasi cartone di spedizione adatto utilizzando abbondante materiale imbottito per proteggere i prodotti. Assicurati che i prodotti siano ben protetti e confezionati in modo simile al modo in cui li hai ricevuti.</p><p>5. Spedisci la merce a:</p><p>Bruno Pharma Innovations</p><p>c/o Byrd Technologies</p><p>c/o Trasgo S.r.l</p><p>Via Cascina Fabbrica, 27</p><p>27040 Arena Po (PV)</p><p>Italia</p><p>6. Un rimborso sarà emesso dopo l'approvazione dell'idoneità. Conserva i numeri di tracciamento della tua spedizione fino a quando non hai ricevuto il tuo credito o la sostituzione di una nuova spedizione.</p>"
+                    },
+                    {
+                        "title": "Come posso cancellare un acquisto periodico?",
+                        "content": "<div><p>Accedi al tuo account su <a href='https://www.brunomd.eu' target='_blank' rel='noopener noreferrer' data-testid='external-link'>www.brunomd.eu</a>, facendo clic sul link &quot;accedi&quot; nell'angolo in alto a destra della home page sopra il carrello. Tieni presente che avrai bisogno di un account per apportare modifiche e dovrai crearne uno se non lo hai fatto al momento dell'acquisto. Ti invitiamo a utilizzare lo stesso indirizzo e-mail utilizzato al momento dell'acquisto per collegare l'ordine al tuo account. Se un account è già stato creato è sufficiente accedere utilizzando il proprio indirizzo e-mail e password. Puoi farlo facendo clic sul link &quot;accedi&quot; sopra l'icona del carrello nella home page (angolo in alto a destra) e accedi. Verrai indirizzato alla pagina della cronologia degli ordini e sulla riga dell'ordine c'è un'opzione per &quot;cancellare / modificare&quot; il tuo ordine.</p><p>Se hai bisogno di ulteriore assistenza, non esitare a contattarci via e-mail all’indirizzo customerservice@brunopharma.com.</p></div>"
+                    },
+                    {
+                        "title": "Il mio prodotto è arrivato danneggiato, cosa devo fare?",
+                        "content": "<div><p>Non preoccuparti, ti invieremo un nuovo ordine al più presto.</p><p>• È necessario contattarci a customerservice@brunopharma.com entro 72 ore dalla data della merce ricevuta. La tua e-mail deve includere una foto dell'articolo danneggiato. Il tuo caso verrà inviato al nostro servizio clienti e uno dei nostri agenti dell'assistenza clienti ti risponderà con ulteriori istruzioni.</p></div>"
+                    },
+                    {
+                        "title": "Ho ordinato il mio prodotto su Amazon, ma il vostro sito web è più economico, potete rimborsarmi la differenza?",
+                        "content": "<div><p>Amazon ha un sistema diverso rispetto al nostro sito, quindi non siamo in grado di emettere rimborsi per una differenza di prezzo tra il sito <a href='https://www.brunomd.eu' target='_blank' rel='noopener noreferrer' data-testid='external-link'>www.brunomd.eu</a> ed Amazon.</p></div>"
+                    }
+                ]
+            },
+            {
+                "title": "Spedizioni",
+                "content": [
+                    {
+                        "title": "Offrite la spedizione gratuita?",
+                        "content": "<p>Offriamo la spedizione via terra standard gratuita per tutti gli ordini superiori a € 60. Per qualificarsi, il totale del carrello deve essere di € 60 dopo eventuali sconti applicabili e l'ordine deve essere effettuato in Italia. Riceverai la merce entro 3-5 giorni lavorativi dalla data di spedizione. Faremo del nostro meglio per spedire la merce entro 24 ore dal ricevimento dell’ordine. Spediamo dal lunedì al venerdì, weekends e festivi esclusi. Al momento non spediamo alcun prodotto al di fuori dell'Italia.</p>"
+                    },
+                    {
+                        "title": "Come funziona la spedizione?",
+                        "content": "<div><p>Una volta spedita la tua merce, ti invieremo via e-mail le informazioni di tracciamento in modo che tu possa seguire la spedizione durante il transito. Talvolta occorrono 1-2 giorni lavorativi per l'aggiornamento del sito della compagnia di spedizione. Se hai problemi con la consegna o l'indirizzo di spedizione, faccelo sapere. Potremmo essere in grado di cambiare l'indirizzo prima della spedizione dell'ordine, ma non dopo. Quindi, se il tuo ordine non è stato ancora spedito, puoi sempre modificare il metodo di pagamento, le informazioni di spedizione o il contenuto dell'ordine. Accedi al tuo ordine su www.brunomd.eu (in alto a destra della homepage).  Nell'angolo in alto a destra della home page fai clic sul link &quot;Accedi&quot; sopra il carrello. Tieni presente che avrai bisogno di un account per apportare modifiche e dovrai crearne uno se non lo hai fatto al momento dell'acquisto. Ti invitiamo a utilizzare lo stesso indirizzo e-mail utilizzato al momento dell'acquisto per collegare l'ordine al tuo account. Se un account è già stato creato, accedi utilizzando il tuo indirizzo e-mail e la password. Puoi farlo facendo clic sul link &quot;Accedi&quot; sopra l'icona del carrello nella home page (angolo in alto a destra) e accedi. Verrai indirizzato alla pagina della cronologia degli ordini e sulla riga dell'ordine c'è un'opzione per &quot;cancellare / modificare&quot; il tuo ordine.</p><p>Verrai indirizzato alla pagina della cronologia degli ordini e sulla riga dell'ordine c'è un'opzione per &quot;cancellare / modificare&quot; il tuo ordine.</p><p>• In alternativa, puoi contattare il nostro Servizio Clienti all’indirizzo customerservice@brunopharma.com</p></div>1"
+                    },
+                    {
+                        "title": "Dov'è il mio pacco e come posso tracciarlo?",
+                        "content": "<div><p>Nel momento in cui spediamo il tuo ordine, ti invieremo via e-mail il numero di tracciamento e un link in modo da poter seguire tutti gli aggiornamenti di tracciamento via e-mail. Se non riesci a trovare l'e-mail, inviaci un'e-mail all’indirizzo customerservice@brunopharma.com e ti aiuteremo a trovare le tue informazioni. </p><p>Nota: tieni presente che a volte occorrono da 1-2 giorni lavorativi per l'aggiornamento della spedizione nel sito opportuno, e questo non significa che il tuo ordine sia bloccato in una città diversa. Ti consigliamo di controllare il sito della spedizione anche 2-3 giorni dopo. </p></div>"
+                    },
+                    {
+                        "title": "Il monitoraggio della mia spedizione non si aggiorna, dov'è la mia merce?",
+                        "content": "<p>L'aggiornamento del monitoraggio richiede in genere 24 ore, ma non è raro che l'aggiornamento possa richiedere anche 2-3 giorni. Facciamo del nostro meglio per spedire tutti gli ordini entro 1 giorno lavorativo dall'ordine. Se ti abbiamo inviato via e-mail un numero di tracciamento, il tuo ordine è stato spedito dal nostro magazzino.</p>"
+                    },
+                    {
+                        "title": "Il mio pacco viene inviato all'indirizzo sbagliato; come posso correggerlo?",
+                        "content": "<div><p>• Se non ti abbiamo ancora inviato via e-mail il tuo tracking #, significa che il tuo ordine non è stato ancora spedito. Sei ancora in tempo per modificare il tuo indirizzo di spedizione.</p><p>- Accedi al tuo ordine su www.brunomd.eu (in alto a destra della homepage).  Nell'angolo in alto a destra della home page fai clic sul link &quot;accedi&quot; sopra il carrello. Tieni presente che avrai bisogno di un account per apportare modifiche e dovrai crearne uno se non lo hai fatto al momento dell'acquisto. Ti invitiamo a utilizzare lo stesso indirizzo e-mail utilizzato al momento dell'acquisto per collegare l'ordine al tuo account. Se un account è già stato creato, accedi utilizzando il tuo indirizzo e-mail e la password. Puoi farlo facendo clic sul link &quot;Accedi&quot; sopra l'icona del carrello nella home page (angolo in alto a destra) e accedi. Verrai indirizzato alla pagina della cronologia degli ordini e sulla riga dell'ordine c'è un'opzione per &quot;annullare / modificare&quot; il tuo ordine.</p><p>• Se ti abbiamo inviato via e-mail il tuo tracking #, questo significa che il tuo ordine è già stato spedito.</p><p>- Vi preghiamo di contattarci all’indirizzo customerservice@brunopharma.com, utilizzando il nostro &quot;Modulo Contattaci&quot; situato sulla homepage (in basso sotto la scheda informazioni), o utilizzando il &quot;Contattaci in basso&quot;, situato sulla homepage (in basso a destra), e uno dei nostri agenti di assistenza clienti, ti risponderà il più rapidamente possibile.</p></div>"
+                    },
+                    {
+                        "title": "Il mio pacco dice che è stato consegnato ma non riesco a trovarlo. Qual è il prossimo passo?",
+                        "content": "<div><p>Il passo successivo è contattare il corriere locale che ha effettuato la consegna finale. Probabilmente è Poste Italiane o Bartolini. Scoprilo controllando il tuo tracking #, precedentemente inviato via e-mail. Il corriere locale sarà in grado di dirti se si è trattato di un errore durante il processo di scansione e se sono in grado di aiutarti a localizzare il pacco. Se non ricevi supporto, ti preghiamo di contattarci inviando un'e-mail utilizzando il nostro &quot;Modulo Contattaci&quot; situato sulla homepage (in basso sotto la scheda informazioni), o utilizzando il &quot;Contattaci&quot; in basso, situato sulla homepage (in basso a destra), e uno dei nostri agenti di assistenza clienti, ti risponderà il più rapidamente possibile.</p></div>"
+                    }
+                ]
+            },
+            {
+                "title": "Assistenza clienti",
+                "content": [
+                    {
+                        "title": "Come posso contattare l'assistenza clienti?",
+                        "content": "<div><p>Il modo più veloce per ottenere una risposta alla tua domanda è cercarla prima nel nostro sito web sotto &quot;FAQs&quot; (angolo in alto a destra).</p><p>Se non riesci a trovare la risposta, invia un'e-mail al servizio clienti di customerservice@brunopharma.com o contattaci utilizzando la casella di chat situata nell'angolo in basso a sinistra della home page. Se non riceverai una risposta istantanea, condividi il tuo indirizzo e-mail, e riceverai una risposta entro le 24-48 ore.</p></div>"
+                    }
+                ]
+            },
+            {
+                "title": "Problemi relativi all'account",
+                "content": [
+                    {
+                        "title": "Come posso accedere al mio account?",
+                        "content": "<div><p>Puoi accedere al tuo account su <a href='https://www.brunomd.eu' target='_blank' rel='noopener noreferrer' data-testid='external-link'>www.brunomd.eu</a>, facendo clic sul link &quot;Accedi&quot; sopra l'icona del carrello nella home page (angolo in alto a destra) e facendo clic su crea un account. Segui tutti i passaggi e avrai pieno accesso. </p></div>"
+                    },
+                    {
+                        "title": "Hai dei problemi?",
+                        "content": "<div><p>Ci sono alcuni motivi per cui potresti non essere in grado di accedere al tuo account:</p><p>1.La password non è corretta. Per rimpostare la password, click su &quot;<a href='https://www.brunomd.eu/account/forgot-password' target='_blank' rel='noopener noreferrer' data-testid='external-link'>Password dimenticata?</a>&quot;</p><p>3. Il tuo account non è mai stato attivato via e-mail </p><p>4. Il tuo account è sotto un indirizzo e-mail diverso</p><p>6. Il tuo account non è mai stato creato</p></div>"
+                    },
+                    {
+                        "title": "Il problema persiste?",
+                        "content": "<div><p>Non esitare a contattarci, inviando un'e-mail utilizzando il nostro &quot;Modulo Contattaci&quot; situato in homepage (in basso sotto la scheda Informazioni), oppure utilizzando il fondo &quot;Contattaci&quot;, situato sulla homepage (in basso a destra), e uno dei nostri agenti di assistenza clienti, ti risponderà il più rapidamente possibile.</p></div>"
+                    }
+                ]
+            }
+        ],
+        "newsletter": {
+            "title": "Iscriviti alla newsletter",
+            "portalId": "19647191",
+            "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
+            "desktopImage":"/utility/home-news-desk.png",
+            "mobileImage":"/utility/home-news-mob.png"
+        }
     }
 }

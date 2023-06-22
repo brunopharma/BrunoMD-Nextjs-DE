@@ -14,19 +14,19 @@ import SEO from '../../json/SEO.json'
 import PageHead from '@/utilities/Head'
 
 
-export default function Home() {
+export default function Home({version}) {
   return (
     <>
     
       <section>
-        <PageHead content={SEO.home.SEO}/>
-        <WistiaHero id={HomePageData.wistia.id} content={HomePageData.wistia.content} />
+        <PageHead content={SEO[version]?.home?.SEO}/>
+        <WistiaHero id={HomePageData[version].wistia.id} content={HomePageData[version].wistia.content} />
         <MarkqueCarousel image={PatnerData} />
-        <Cards contents={HomePageData.categories} />
-        <TrustBadge contents={TrustBadgeData} />
-        <Purpose contents={HomePageData.purpose} />
-        <HomeGallery id={HomePageData.homeGallery}/>
-        <NewsLetter content={HomePageData.newsletter}/>
+        <Cards contents={HomePageData[version].categories} />
+        <TrustBadge contents={TrustBadgeData[version]} />
+        <Purpose contents={HomePageData[version].purpose} />
+        <HomeGallery id={HomePageData[version].homeGallery.id} galleryId={HomePageData[version].homeGallery.galleryId}/>
+        <NewsLetter content={HomePageData[version].newsletter}/>
       </section>
     </>
   )

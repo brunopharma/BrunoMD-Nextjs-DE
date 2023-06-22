@@ -27,6 +27,17 @@
   line-height: 4rem;
   margin-bottom: 3rem;
 }
+.title  h2{
+  font-size: 62px;
+  animation: styles_scaleIn__Xxf7L 1s cubic-bezier(.25, .46, .45, .94) forwards;
+  animation-delay: .5s;
+  color: var(--bmd-white);
+  font-family: var(--bmd-font-Primary);
+  font-weight: var(--bmd-Gotham-book);
+  line-height: 2rem;
+  margin-bottom: 3rem;
+  margin-top: 3rem;
+}
 
 .subTitle {
   animation: styles_scaleIn__Xxf7L 1s cubic-bezier(.25, .46, .45, .94) forwards;
@@ -59,7 +70,32 @@
   text-transform: uppercase;
   transition: background .25s, color .25s, border .25s;
 }
-
+.buyNow{
+  position: absolute;
+top: 50%;
+right: 5%;
+z-index: 1;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    background-color: #000000;
+    border: 1px solid transparent;
+    padding: 0.7rem 2.5rem;
+    font-size: 1.5rem;
+    border-radius: 0;
+    transition: color .1s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.buyNow:hover{
+  background-color: #e65300;
+}
+@media screen and (max-width: 2500px){
+  .buyNow{
+   top: 32%;
+  }
+}
 @media screen and (max-width: 1810px) {
   .heroButtonAndTextContainer {
     position: absolute;
@@ -68,6 +104,14 @@
     padding-left: 32px;
   }
 }
+@media screen and (max-width: 1025px){
+  .buyNow{
+   font-size: 1rem;
+   padding: 0.5rem 1.25rem;
+   top: 30%;
+  }
+}
+
 @media screen and (max-width: 900px) {
   .heroButtonAndTextContainer {
     top: 170px;
@@ -81,6 +125,12 @@
   .subTitle{
     font-size: 22px;
     line-height: 1em;
+  }
+}
+@media screen and (max-width: 700px){
+  .buyNow{
+   right: 4%;
+ top: 20%;
   }
 }
 @media screen and (max-width: 650px) {

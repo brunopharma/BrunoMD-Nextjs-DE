@@ -1,0 +1,129 @@
+.holder {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    position: fixed;
+    width: 100%;
+    height: 370px;
+    bottom: 0px;
+    z-index: 111;
+    padding: 0.5rem 2rem;
+}
+
+.exitButton {
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 50;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 0;
+}
+
+.box1 {
+    padding-right: 10px;
+}
+
+.box1>div {
+    width: max-content;
+}
+
+.per {
+    appearance: none;
+    background: #000;
+    border: 1px solid #ffbf3c;
+    border-radius: 5px;
+    font-family: Gotham-Book, Arial, serif;
+    font-weight: 500;
+    margin-right: 32px;
+    max-width: 275px;
+    outline: none;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+}
+
+.boxDetails {
+    word-wrap: break-word;
+    color: #fff;
+    font-family: Gotham-Book, Arial, serif;
+    font-size: 10px;
+    font-weight: 500;
+    margin-top: 7px;
+    text-transform: uppercase;
+}
+
+.box7 select, .box6 select {
+    background: none;
+    border: 3px solid #bbb;
+    color: #fff;
+    cursor: pointer;
+    font-family: var(--bmd-font-Secondary);
+    font-size: 15px;
+    max-height: 45px;
+    padding: 10px 30px 10px 10px;
+}
+
+.box6 {
+    grid-row-start: 3;
+    grid-column-start: 2;
+}
+.box7 {
+    grid-row-start: 3;
+    grid-column-start: 3;
+}
+.box8 {
+    grid-row-start: 4;
+    grid-column-start: 2;
+}
+
+.per p {
+    font-size: 24px;
+}
+
+.per .ft12 {
+    font-size: 12px;
+    text-align: center;
+}
+
+.per .strike {
+    text-decoration: line-through;
+    font-size: 18px;
+    padding-left: 10px;
+}
+
+.btn {
+    padding: 1rem 2rem;
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid #000;
+    font-family: var(--bmd-font-Secondary);
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1.2em;
+    text-align: center;
+    text-transform: uppercase;
+    background: #ffbf3c;
+    color: black;
+    transition: background-color 0.3s ease-out;
+    margin-top: 16px;
+    border: 1px solid #ffbf3c;
+    appearance: none;
+    outline: none;
+    padding: 10px 22px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    max-width: 250px;
+    width: 100%;
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+}
+
+.btn:hover {
+    background-color: black;
+    color: #ffbf3c;
+}

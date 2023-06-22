@@ -7,7 +7,7 @@ const Cards = ({ contents }) => {
     return (
         <section className={styles.container}>
             <h3 className={styles.solutionHeader}>
-                <Link href="/">Le nostre soluzioni</Link>
+                <Link href="/">Our Solutions</Link>
             </h3>
             <div className={styles.solutionsContainer}>
                 {contents.map((e, index) => {

@@ -1,4 +1,363 @@
 {
+    "all-products": {
+        "title": "all-products",
+        "item": [
+            {
+                "EXTERNALID": "3526581387339",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzM1MjY1ODEzODczMzk=",
+                "SLUG": "riboflam-90-v-caps-30-servings",
+                "link": "/product/",
+                "title": "RIBOFLAM 90 V-CAPS 30 SERVINGS",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\riboflam\\BRUNOPHARMA1.png"
+                }
+            },
+            {
+                "EXTERNALID": "4329882550347",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQzMjk4ODI1NTAzNDc",
+                "SLUG": "cholestq10-60-v-caps-30-servings",
+                "link": "/product/",
+                "title": "CHOLESTQ10 60 V-CAPS 30 SERVINGS",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\cholestq10\\BRONU6409.png"
+                }
+            },
+            {
+                "EXTERNALID": "1547402084427",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE1NDc0MDIwODQ0Mjc",
+                "SLUG": "royal-collagen-peptides",
+                "link": "/product/",
+                "title": "ROYAL COLLAGEN PEPTIDES 30 Servings Jar-420g",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\rcp\\RCPJarfrontwithoutshadow_86e0fe2f-19f2-45b4-9010-7bc5e91a338c.png"
+                }
+            },
+            {
+                "EXTERNALID": "4586005626955",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQ1ODYwMDU2MjY5NTU",
+                "SLUG": "royal-collagen-peptides-stick-packs-strawberry-acai-20-units",
+                "link": "/product/",
+                "title": "Royal Collagen Peptides Beauty From Within Strawberry Açaí 20 Units",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-StrawberryAcai-01452NR-framed.png"
+                }
+            },
+            {
+                "EXTERNALID": "4586005692491",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQ1ODYwMDU2OTI0OTE=",
+                "SLUG": "royal-collagen-peptides-stick-packs-blood-orange-20-units",
+                "link": "/product/",
+                "title": "Royal Collagen Peptides Beauty From Within Blood Orange 20 Units",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\rcp-blood\\RCP-SP-BloodOrange-01452NR-framed.png"
+                }
+            },
+            {
+                "EXTERNALID": "4586005659723",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQ1ODYwMDU2NTk3MjM=",
+                "SLUG": "royal-collagen-peptides-stick-packs-dragon-fruit-20-units",
+                "link": "/product/",
+                "title": "Royal Collagen Peptides Beauty From Within Dragon Fruit 20 Units",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01452NR-framed.png"
+                }
+            },
+            {
+                "EXTERNALID": "4349604790347",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQzNDk2MDQ3OTAzNDc=",
+                "SLUG": "md6-blood-glucose-meter-test-strips-50-box",
+                "link": "/product/",
+                "title": "MD6  Blood Glucose Meter Test Strips (50/Box)",
+                "btnText": "Shop",
+                "logo": {
+                    "src": null
+                },
+                "hide": true
+            },
+            {
+                "EXTERNALID": "4590756298827",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQ1OTA3NTYyOTg4Mjc=",
+                "SLUG": "md6-blood-ketone-test-strip-10-strips-box",
+                "link": "/product/",
+                "title": "MD6 Blood Ketone Test Strip (10 Strips/box)",
+                "btnText": "Shop",
+                "logo": {
+                    "src": null
+                },
+                "hide": true
+            },
+            {
+                "EXTERNALID": "3526554910795",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzM1MjY1NTQ5MTA3OTU=",
+                "SLUG": "bluerex-vision-60-caps-30-servings",
+                "link": "/product/",
+                "title": "BLUEREX VISION 60 SOFTGELS 30 SERVINGS",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\bluerex\\bruno-md-bluerex_418x_1.png"
+                }
+            }
+        ],
+        "seo": {
+            "title": "BrunoMD | Shop All Products",
+            "description": "Health and wellness products rooted in the heart of Italy, made from all-natural ingredients. Shop our Royal Collagen Peptides and more."
+        }
+    },
+    "skin": {
+        "title": "Skin",
+        "masterHead": {
+            "img": {
+                "desktopImage": {
+                    "src": "/collections/MDskin.avif",
+                    "alt": ""
+                },
+                "mobileImage": {
+                    "src": "/collections/MDskin.avif",
+                    "alt": ""
+                },
+                "title": "Skin"
+            },
+            "wistia": {
+                "id": null
+            }
+        },
+        "item": [
+            {
+                "EXTERNALID": "1547402084427",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE1NDc0MDIwODQ0Mjc",
+                "SLUG": "royal-collagen-peptides",
+                "link": "/product/",
+                "title": "ROYAL COLLAGEN PEPTIDES 30 Servings Jar-420g",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\rcp\\RCPJarfrontwithoutshadow_86e0fe2f-19f2-45b4-9010-7bc5e91a338c.png"
+                }
+            },
+            {
+                "EXTERNALID": "4586005626955",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQ1ODYwMDU2MjY5NTU",
+                "SLUG": "royal-collagen-peptides-stick-packs-strawberry-acai-20-units",
+                "link": "/product/",
+                "title": "Royal Collagen Peptides Beauty From Within Strawberry Açaí 20 Units",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-StrawberryAcai-01452NR-framed.png"
+                }
+            },
+            {
+                "EXTERNALID": "4586005692491",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQ1ODYwMDU2OTI0OTE=",
+                "SLUG": "royal-collagen-peptides-stick-packs-blood-orange-20-units",
+                "link": "/product/",
+                "title": "Royal Collagen Peptides Beauty From Within Blood Orange 20 Units",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\rcp-blood\\RCP-SP-BloodOrange-01452NR-framed.png"
+                }
+            },
+            {
+                "EXTERNALID": "4586005659723",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQ1ODYwMDU2NTk3MjM=",
+                "SLUG": "royal-collagen-peptides-stick-packs-dragon-fruit-20-units",
+                "link": "/product/",
+                "title": "Royal Collagen Peptides Beauty From Within Dragon Fruit 20 Units",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01452NR-framed.png"
+                }
+            }
+        ],
+        "seo": {
+            "title": "BrunoMD | Shop Skin Products",
+            "description": "Health and wellness products rooted in the heart of Italy, made from all-natural ingredients. Shop Royal Collagen Peptides and Collagen Powders."
+        }
+    },
+    "joints": {
+        "title": "Joints",
+        "masterHead": {
+            "img": {
+                "desktopImage": {
+                    "src": "/collections/MDjoints.avif",
+                    "alt": ""
+                },
+                "mobileImage": {
+                    "src": "/collections/MDjoints.avif",
+                    "alt": ""
+                },
+                "title": "Joints"
+            },
+            "wistia": {
+                "id": null
+            }
+        },
+        "item": [
+            {
+                "EXTERNALID": "1547402084427",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE1NDc0MDIwODQ0Mjc",
+                "SLUG": "royal-collagen-peptides",
+                "link": "/product/",
+                "title": "ROYAL COLLAGEN PEPTIDES 30 Servings Jar-420g",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\rcp\\RCPJarfrontwithoutshadow_86e0fe2f-19f2-45b4-9010-7bc5e91a338c.png"
+                }
+            }
+        ],
+        "seo": {
+            "title": "BrunoMD | Shop Joints Products",
+            "description": "Prescription-grade supplements for joints, rooted in the heart of Italy, made from all-natural ingredients. Shop Chondrorex."
+        }
+    },
+    "immunity": {
+        "title": "Immunity",
+        "masterHead": {
+            "img": {
+                "desktopImage": {
+                    "src": "/collections/MDimmunity.avif",
+                    "alt": ""
+                },
+                "mobileImage": {
+                    "src": "/collections/MDimmunity.avif",
+                    "alt": ""
+                },
+                "title": "Immunity"
+            },
+            "wistia": {
+                "id": null
+            }
+        },
+        "item": [
+            {
+                "EXTERNALID": "3526581387339",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzM1MjY1ODEzODczMzk=",
+                "SLUG": "riboflam-90-v-caps-30-servings",
+                "link": "/product/",
+                "title": "RIBOFLAM 90 V-CAPS 30 SERVINGS",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\riboflam\\BRUNOPHARMA1.png"
+                }
+            }
+        ],
+        "seo": {
+            "title": "BrunoMD | Shop Immunity Products",
+            "description": "Prescription-grade supplements for immunity, rooted in the heart of Italy, made from all-natural ingredients. Shop Riboflam."
+        }
+    },
+    "heart": {
+        "title": "Heart",
+        "masterHead": {
+            "img": {
+                "desktopImage": {
+                    "src": "/collections/MDheart.avif",
+                    "alt": ""
+                },
+                "mobileImage": {
+                    "src": "/collections/MDheart.avif",
+                    "alt": ""
+                },
+                "title": "Heart"
+            },
+            "wistia": {
+                "id": null
+            }
+        },
+        "item": [
+            {
+                "EXTERNALID": "4329882550347",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzQzMjk4ODI1NTAzNDc",
+                "SLUG": "cholestq10-60-v-caps-30-servings",
+                "link": "/product/",
+                "title": "CHOLESTQ10 60 V-CAPS 30 SERVINGS",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\cholestq10\\BRONU6409.png"
+                }
+            }
+        ],
+        "seo": {
+            "title": "BrunoMD | Shop Heart Products",
+            "description": "Health and wellness products rooted in the heart of Italy, made from all-natural ingredients. Shop CholestQ10."
+        }
+    },
+    "bone-health": {
+        "title": "Bones",
+        "masterHead": {
+            "img": {
+                "desktopImage": {
+                    "src": "/collections/MDbones.avif",
+                    "alt": ""
+                },
+                "mobileImage": {
+                    "src": "/collections/MDbones.avif",
+                    "alt": ""
+                },
+                "title": "Bones"
+            },
+            "wistia": {
+                "id": null
+            }
+        },
+        "item": [
+            {
+                "EXTERNALID": "1547402084427",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzE1NDc0MDIwODQ0Mjc",
+                "SLUG": "royal-collagen-peptides",
+                "link": "/product/",
+                "title": "ROYAL COLLAGEN PEPTIDES 30 Servings Jar-420g",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\rcp\\RCPJarfrontwithoutshadow_86e0fe2f-19f2-45b4-9010-7bc5e91a338c.png"
+                }
+            }
+        ],
+        "seo": {
+            "title": "BrunoMD | Shop Bone Health Products",
+            "description": "Health and wellness products rooted in the heart of Italy, made from all-natural ingredients. Shop our collection of Keto products."
+        }
+    },
+    "vision": {
+        "title": "Vision",
+        "masterHead": {
+            "img": {
+                "desktopImage": {
+                    "src": "/collections/MDvision.avif",
+                    "alt": ""
+                },
+                "mobileImage": {
+                    "src": "/collections/MDvision.avif",
+                    "alt": ""
+                },
+                "title": "Vision"
+            },
+            "wistia": {
+                "id": null
+            }
+        },
+        "item": [
+            {
+                "EXTERNALID": "3526554910795",
+                "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzM1MjY1NTQ5MTA3OTU=",
+                "SLUG": "bluerex-vision-60-caps-30-servings",
+                "link": "/product/",
+                "title": "BLUEREX VISION 60 SOFTGELS 30 SERVINGS",
+                "btnText": "Shop",
+                "logo": {
+                    "src": "\\utility\\products\\bluerex\\bruno-md-bluerex_418x_1.png"
+                }
+            }
+        ],
+        "seo": {
+            "title": "BrunoMD | Shop Vision Products",
+            "description": "Prescription-grade supplements for vision, rooted in the heart of Italy, made from all-natural ingredients. Shop Bluerex Vision."
+        }
+    },
     "tutti": {
         "title": "tutti",
         "item": [

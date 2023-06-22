@@ -8,9 +8,11 @@ const TrustBadge = ({ contents,productColorTheme }) => {
       <div className={styles.productBadgesCenter}>
         <div className={styles.badgeGroup}>
         {badges && badges.map((e,i)=>{
-          return(
+          return(<>
+            {e.html ? <><div className={styles.svgHolder} dangerouslySetInnerHTML={{ __html: e.html}}/></>:
             <>
             {true ? <img className={styles.p5} src={e.src} alt={e.alt} key={i}/> : <img className={styles.p5} src={e.src} alt={e.alt} height={'125px'} key={i}/>}
+            </>}
             </>
           )
         })}

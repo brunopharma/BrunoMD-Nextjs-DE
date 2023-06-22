@@ -1,34 +1,211 @@
 {
+  "ENG": {
     "wistia": {
       "id": "ile0o2zvsm",
-      "content": { "title": "Benvenuti", "btnText": "shop", "subTitle": "Prodotti per la salute e il benessere radicati nel cuore dell'Italia, realizzati con ingredienti completamente naturali." }
+      "content": {
+        "title": "Benvenuti <br/><h2> to the MDiterranean Life</h2>",
+        "btnText": "SHOP NOW",
+        "subTitle": "Health and wellness products rooted in the heart of Italy, made from all-natural ingredients."
+      }
     },
     "categories": [
-      { "name": "Dolore", "link": "/collezioni/dolore", "logo": { "src": "/logo/Dolore.avif", "alt": "Dolore" } },
-      { "name": "Occhi", "link": "/collezioni/occhi", "logo": { "src": "/logo/Occhi.avif", "alt": "Occhi" } },
-      { "name": "Pre-Diabetic", "link": "/collezioni/pre-diabete", "logo": { "src": "/logo/Pre-diabete.avif", "alt": "Pre-Diabetic" } },
-      { "name": "Pelle", "link": "/collezioni/salute-della-pelle", "logo": { "src": "/logo/Pelle.avif", "alt": "Pelle" } },
-      { "name": "Reverse-aging", "link": "/collezioni/reverse-aging", "logo": { "src": "/logo/Reverse-aging.avif", "alt": "Reverse-aging" } },
-      { "name": "Sali Minerali", "link": "/collezioni/sali-minerali", "logo": { "src": "/logo/sali-minerali.avif", "alt": "Sali Minerali" } }
+      {
+        "name": "Skin",
+        "link": "/collections/skin",
+        "logo": {
+          "src": "/collections/skin.avif",
+          "alt": "Skin"
+        }
+      },
+      {
+        "name": "Joints",
+        "link": "/collections/joints",
+        "logo": {
+          "src": "/collections/joints.avif",
+          "alt": "Joints"
+        }
+      },
+      {
+        "name": "Immunity",
+        "link": "/collections/immunity",
+        "logo": {
+          "src": "/collections/immunity.avif",
+          "alt": "Immunity"
+        }
+      },
+      {
+        "name": "Heart",
+        "link": "/collections/heart",
+        "logo": {
+          "src": "/collections/Heart.avif",
+          "alt": "Heart"
+        }
+      },
+      {
+        "name": "Bone",
+        "link": "/collections/bone-health",
+        "logo": {
+          "src": "/collections/bones.avif",
+          "alt": "Bone"
+        }
+      },
+      {
+        "name": "Vision",
+        "link": "/collections/vision",
+        "logo": {
+          "src": "/collections/vision.avif",
+          "alt": "Vision"
+        }
+      }
     ],
     "trustBages": {
-      "title": "14 Giorni - Soddisfatti o Rimborsati", "theme": null, "badges": [
-        { "src": "/logo/14-giormi.avif", "alt": "14-giormi" },
-        { "src": "/logo/con-ordini.avif", "alt": "con-ordini" },
-        { "src": "/logo/shopify-secure.avif", "alt": "shopify-secure" }
+      "title": "Purchase with complete confidence, with our 30-day money back guarantee.",
+      "theme": null,
+      "badges": [
+        {
+          "src": "/logo/14-giormi.avif",
+          "alt": "14-giormi"
+        },
+        {
+          "src": "/logo/con-ordini.avif",
+          "alt": "con-ordini"
+        },
+        {
+          "src": "/logo/shopify-secure.avif",
+          "alt": "shopify-secure"
+        }
       ]
     },
     "purpose": {
-      "title": "La Nostra Missione", "buttonText": "Leggi di piu'", "buttonUrl": "/scienza", "image": { "src": "/utility/purpose.avif", "alt": "La Nostra Missione" }, "paragraphs": [
-        "Bruno MD permette di vivere la vita in modo più sano grazie ad ingredienti naturali senza compromessi e all'immaginazione scientifica.", "Siamo italiani e a conduzione familiare, quindi mettere in contatto le persone con i trattamenti farmacologici più innovativi ed efficaci e con i migliori ingredienti naturali ci porta gioia, sostenuta dalla sana alimentazione e dalle abitudini sociali tipiche del Mediterraneo. Non è a caso che due delle cinque Zone Blu del mondo si trovino nel Mediterraneo, dove le persone superano regolarmente i 100 anni di vita.", "Il nostro percorso è iniziato come azienda farmaceutica, ma utilizziamo gli stessi principi scientifici per realizzare i nostri prodotti naturali per la salute. Ogni ingrediente che utilizziamo è clinicamente testato per fornire i massimi benefici per la salute. Abbiamo anche reso più biodisponibili gli ingredienti difficili da assorbire grazie alla tecnologia dei fitosomi.", "Bruno MD si trova al crocevia delle tradizioni e della storia che hanno dato vita al mondo moderno. Abbracciamo la semplicità della famiglia, della tavola condivisa e degli ingredienti freschi ad ogni pasto. Abbracciamo la scienza innovativa per offrire questi ingredienti e creare una vita più sana."
+      "title": "Our Purpose",
+      "buttonText": "Learn More",
+      "buttonUrl": "/science",
+      "image": {
+        "src": "/pages/purpose.avif",
+        "alt": "La Nostra Missione"
+      },
+      "paragraphs": [
+        "Bruno MD empowers humans to live their healthiest lives with uncompromising natural ingredients and scientific imagination.",
+        "We're Italian, family owned, so connecting people to the best ingredients brings us joy. It also brings the benefits and purity of the Mediterranean Life to your mind and body. Two of the world's known blue zones are in the Mediterranean where people often live over 100 years.",
+        "Our journey began as a pharmaceutical company. We use the same scientific principles today to make our natural health products. Each ingredient we use is clinically proven to provide the highest health benefits. We've also made hard to absorb ingredients more bioavailable using Phytosome technology.",
+        "Bruno MD sits at the crossroads of the traditions and history that gave birth to the modern world. We embrace the simplicity of family, a shared table and fresh ingredients in every meal. We embrace innovative science to deliver those ingredients for your healthiest life.",
+        "The MDiterranean Life"
       ]
     },
-    "homeGallery":"jEbEI2jY9vvLxI8yyKzuyJz2I0PQz9Mn0SaZJTMJ",
-    "newsletter":{
-      "title":"Iscriviti alla newsletter",
+    "homeGallery": {
+      "id": "ahHyITcI0fkzYo7KejQeWGiBK2CXMKvLvTZ8KUBJ",
+      "galleryId": "5e7cf7950a4044179b4ab843"
+    },
+    "newsletter": {
+      "title": "Join our newsletter",
       "portalId": "19647191",
       "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
-      "desktopImage":"/utility/home-news-desk.avif",
-      "mobileImage":"/utility/home-news-mob.avif"
+      "desktopImage": "/utility/home-news-desk.avif",
+      "mobileImage": "/utility/home-news-mob.avif"
+    }
+  },
+  "EU": {
+    "wistia": {
+      "id": "ile0o2zvsm",
+      "content": {
+        "title": "Benvenuti",
+        "btnText": "shop",
+        "subTitle": "Prodotti per la salute e il benessere radicati nel cuore dell'Italia, realizzati con ingredienti completamente naturali."
+      }
+    },
+    "categories": [
+      {
+        "name": "Dolore",
+        "link": "/collezioni/dolore",
+        "logo": {
+          "src": "/logo/Dolore.avif",
+          "alt": "Dolore"
+        }
+      },
+      {
+        "name": "Occhi",
+        "link": "/collezioni/occhi",
+        "logo": {
+          "src": "/logo/Occhi.avif",
+          "alt": "Occhi"
+        }
+      },
+      {
+        "name": "Pre-Diabetic",
+        "link": "/collezioni/pre-diabete",
+        "logo": {
+          "src": "/logo/Pre-diabete.avif",
+          "alt": "Pre-Diabetic"
+        }
+      },
+      {
+        "name": "Pelle",
+        "link": "/collezioni/salute-della-pelle",
+        "logo": {
+          "src": "/logo/Pelle.avif",
+          "alt": "Pelle"
+        }
+      },
+      {
+        "name": "Reverse-aging",
+        "link": "/collezioni/reverse-aging",
+        "logo": {
+          "src": "/logo/Reverse-aging.avif",
+          "alt": "Reverse-aging"
+        }
+      },
+      {
+        "name": "Sali Minerali",
+        "link": "/collezioni/sali-minerali",
+        "logo": {
+          "src": "/logo/sali-minerali.avif",
+          "alt": "Sali Minerali"
+        }
+      }
+    ],
+    "trustBages": {
+      "title": "14 Giorni - Soddisfatti o Rimborsati",
+      "theme": null,
+      "badges": [
+        {
+          "src": "/logo/14-giormi.avif",
+          "alt": "14-giormi"
+        },
+        {
+          "src": "/logo/con-ordini.avif",
+          "alt": "con-ordini"
+        },
+        {
+          "src": "/logo/shopify-secure.avif",
+          "alt": "shopify-secure"
+        }
+      ]
+    },
+    "purpose": {
+      "title": "La Nostra Missione",
+      "buttonText": "Leggi di piu'",
+      "buttonUrl": "/scienza",
+      "image": {
+        "src": "/utility/purpose.avif",
+        "alt": "La Nostra Missione"
+      },
+      "paragraphs": [
+        "Bruno MD permette di vivere la vita in modo più sano grazie ad ingredienti naturali senza compromessi e all'immaginazione scientifica.",
+        "Siamo italiani e a conduzione familiare, quindi mettere in contatto le persone con i trattamenti farmacologici più innovativi ed efficaci e con i migliori ingredienti naturali ci porta gioia, sostenuta dalla sana alimentazione e dalle abitudini sociali tipiche del Mediterraneo. Non è a caso che due delle cinque Zone Blu del mondo si trovino nel Mediterraneo, dove le persone superano regolarmente i 100 anni di vita.",
+        "Il nostro percorso è iniziato come azienda farmaceutica, ma utilizziamo gli stessi principi scientifici per realizzare i nostri prodotti naturali per la salute. Ogni ingrediente che utilizziamo è clinicamente testato per fornire i massimi benefici per la salute. Abbiamo anche reso più biodisponibili gli ingredienti difficili da assorbire grazie alla tecnologia dei fitosomi.",
+        "Bruno MD si trova al crocevia delle tradizioni e della storia che hanno dato vita al mondo moderno. Abbracciamo la semplicità della famiglia, della tavola condivisa e degli ingredienti freschi ad ogni pasto. Abbracciamo la scienza innovativa per offrire questi ingredienti e creare una vita più sana."
+      ]
+    },
+    "homeGallery": {
+    "id": "jEbEI2jY9vvLxI8yyKzuyJz2I0PQz9Mn0SaZJTMJ",
+    "galleryId": "6411911c72b20e001784b649"
+  },
+    "newsletter": {
+      "title": "Iscriviti alla newsletter",
+      "portalId": "19647191",
+      "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
+      "desktopImage": "/utility/home-news-desk.avif",
+      "mobileImage": "/utility/home-news-mob.avif"
     }
   }
+}

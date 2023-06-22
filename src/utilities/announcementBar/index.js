@@ -10,6 +10,7 @@ const AnnouncementBar = ({ announcement, theme }) => {
       style={{
         color: theme?.textColor,
         backgroundColor: theme?.backgroundColor,
+        position:theme.position
       }}
     >
       <div>

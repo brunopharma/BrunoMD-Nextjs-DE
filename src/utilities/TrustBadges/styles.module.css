@@ -16,6 +16,12 @@
     padding-right: 0.5rem;
     width: 100%;
   }
+
+  .svgHolder{
+    height: 100%;
+    width: 100%;
+    padding: 1em;
+  }
   
   .headline {
     font-family: var(--bmd-font-Primary);

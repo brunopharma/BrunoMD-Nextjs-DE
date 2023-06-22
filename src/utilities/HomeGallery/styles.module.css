@@ -3,6 +3,12 @@
     max-width: 500px;
     
   }
+  .textCenter{
+    font-size: 52px;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+  }
   .homeGalleryContainer{
     margin-bottom: 5rem;
   }

@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import styles from './styles.module.css'
 import { useMatchMedia } from "../Sections/Hooks/useMatchMedia";
 import Blogs from "../Blog";
+import Accordion from "../Accordion";
+import Link from "next/link";
 
 const Tabs = ({ data,productColorTheme }) => {
   const [isTab] = useMatchMedia('(max-width: 800px)', false)
@@ -53,7 +55,7 @@ const Tabs = ({ data,productColorTheme }) => {
                   key={i}
                   className={activeTab == i ? styles.activeContent : styles.content}
                   >
-                     {e?.blog ? <Blogs categories={e.details}/> :
+                     {e?.blog ? <Blogs categories={e.details}/> : e?.faq ?<div style={{padding:'0 3rem'}}><div className={styles.titleContainer}><h2>Questions</h2><Link href="/faqs">View all FAQs</Link></div><Accordion items={e.details}/></div>:
                       <div className={styles.accordDesc} style={{height:'50vh',overflow:'unset'}}>{e.details && <div
                           dangerouslySetInnerHTML={{ __html: e.details }}
                         />}</div>}
@@ -83,7 +85,7 @@ const Tabs = ({ data,productColorTheme }) => {
                           <div className={styles.upArrow} style={{ 'color': productColorTheme }}><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></div>
                         </div>
                       </div>
-                      {e?.blog ? <Blogs categories={e.details}/> :
+                      {e?.blog ? <Blogs categories={e.details}/> : e?.faq ?<div style={{padding:'0 3rem'}}><div className={styles.titleContainer}><h2>Questions</h2><Link href="/faqs">View all FAQs</Link></div><Accordion items={e.details}/></div>:
                       <div className={styles.accordDesc} style={{height:'50vh',width:'85%'}}>{e.details && <div
                           dangerouslySetInnerHTML={{ __html: e.details }}
                         />}</div>}

@@ -1,0 +1,106 @@
+.cartItem {
+    display: flex;
+    padding-bottom: 2rem;
+  }
+  
+  .productImage {
+    object-fit: contain;
+    object-position: top;
+  }
+  
+  .productBody {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .productName {
+    font-weight: bold;
+  
+    font-size: 14px;
+    font-family: var(--bmd-font-Secondary);
+  
+    transition: color 0.2s;
+  }
+  
+  .productName:hover {
+    color: var(--bmd-royal-purple);
+  }
+  
+  .productPrice {
+    font-weight: 700;
+  
+    font-size: 18px;
+    margin: 0.5rem 0;
+  }
+  
+  .productActions {
+    display: flex;
+  
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .productActionsQuantity {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  
+    max-width: 60px;
+  }
+  
+  .productActionsQuantityLabel {
+    font-size: 11px;
+    font-family: var(--bmd-font-Secondary);
+  }
+  
+  .productActionsRemove {
+    font-size: 12px;
+    font-family: var(--bmd-font-Secondary);
+  }
+  
+  .subscribeAndSaveContainer {
+    border-top: 1px solid var(--bmd-light-gray);
+    margin-top: 2rem;
+    padding-top: 1rem;
+    /* display: none; */
+  }
+  
+  .subscribeDeliveryIntervalLabel {
+    font-size: 12px;
+    font-family: var(--bmd-font-Secondary);
+  
+    margin-top: 15px;
+    margin-bottom: 8px;
+  }
+  
+  .inputTime{
+    font-family: Gotham-Book, Arial, serif;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+    color: #fff;
+    box-sizing: border-box;
+    margin-right: 12px;
+  }
+  .inputTime:checked{
+    background: black;
+    appearance: inherit;
+  }
+  .inputTimeContainer{
+    display: flex;
+      margin-bottom: 6px;
+  }
+  @media screen and (max-width: 1280px) {
+    .cartItem {
+      padding-bottom: 1rem;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .productImage {
+      max-width: 100px;
+    }
+  }
+  

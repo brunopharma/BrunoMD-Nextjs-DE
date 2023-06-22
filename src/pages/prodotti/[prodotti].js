@@ -14,7 +14,7 @@ import PageHead from "@/utilities/Head";
 import Loader2 from "@/utilities/Loader/index2";
 import ProductReviews from "@/utilities/ProductReviews";
 
-const Product = () => {
+const Product = ({version}) => {
     const [load, setLoad] = useState(true)
     const [product, setProduct] = useState();
     const [shopifyP, setSProduct] = useState();
@@ -53,7 +53,7 @@ const Product = () => {
             {true && <ProductCard data={{ images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, price,theme ,priceBox } }} base={{client,shopifyP}}/>}
             {benefits && <BenefitCards data={benefits} productColorTheme={theme}/>}
             <Tabs data={details} productColorTheme={theme}/>
-            <TrustBadge contents={TrustBadgeData} productColorTheme={theme}/>
+            <TrustBadge contents={TrustBadgeData[version]} productColorTheme={theme}/>
             <MarkqueCarousel image={PatnerData} />
             <NewsLetter content={newsletter} />
             <ProductReviews product={shopifyP}/>

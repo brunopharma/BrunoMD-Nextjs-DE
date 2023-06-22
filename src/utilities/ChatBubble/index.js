@@ -6,11 +6,11 @@ const RECYCLEChatBubble = () =>{
   React.useEffect(() => {
     setTimeout(() => {
       let bubble = document.getElementById('hubspot-messages-iframe-container')
-      if (bubble) {
+      if (bubble && false) {
         bubble.style =
           'width: 80px; height: 80px; bottom: 100px!important; z-index: 1!important; max-height: 560px;'
       }
-      if (bubble && false === true) {
+      if (bubble) {
         bubble.style = 'width: 100px; height: 80px; bottom: 0px!important'
       }
     }, 1000)

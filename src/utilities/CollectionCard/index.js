@@ -3,6 +3,7 @@ import styles from './styles.module.css'
 import Link from 'next/link'
 import { gsap } from 'gsap'
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
+import StarRatings from '../StarRatings';
 
 export const CollectionList = ({ content }) => {
     gsap.registerPlugin(ScrollTrigger);
@@ -24,6 +25,7 @@ export const CollectionList = ({ content }) => {
     return (
         <div ref={elementRef} className={styles.collectionContainer}>
         {content.map((e,i)=>{
+            if(!e?.hide){
             return(
                 <Link href={e.link+ e?.SLUG} key={i}>
                 <div className={styles.collectionCard}>
@@ -36,10 +38,12 @@ export const CollectionList = ({ content }) => {
                         />
                     </div>
                     <p className={styles.productText}>{e.title}</p>
+                    <StarRatings variantId={e.EXTERNALID} />
                     <button className={styles.buyNowButton}>{e.btnText}</button>
                 </div>
             </Link>
             )
+            }
         })}
         </div>
     )

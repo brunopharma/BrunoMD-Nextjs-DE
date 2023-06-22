@@ -7,10 +7,11 @@ import { useRouter } from 'next/router'
 import MobileNav from '../MobileNav'
 import Image from 'next/image';
 import { useMatchMedia } from '@/utilities/Sections/Hooks/useMatchMedia'
-const MainNav = ({ navMenuLinks }) => {
+const MainNav = ({ navMenuLinks,version }) => {
   const [isMobile] = useMatchMedia('(max-width: 380px)', true)
   const [isSearchOpened, setIsSearchOpened] = useState(false)
   let [isMobileNavOpen, setIsMobileNavOpen] = useState(false)
+  let cartUrl = version == 'EU' ? '/carrello' : '/cart'
   const router = useRouter()
 
   const [logInText, setLogIntext] = useState('Accedi')
@@ -70,7 +71,7 @@ const MainNav = ({ navMenuLinks }) => {
                   <Link href={logInLink}>
                     <span className={styles.loginText}>{logInText}</span>
                   </Link>
-                  <Link href="/carrello">
+                  <Link href={cartUrl}>
                     <CartIcon number={(items.length === 0) ? "" : items.length} />
                   </Link>
                 </div>

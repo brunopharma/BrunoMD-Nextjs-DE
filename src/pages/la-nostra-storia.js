@@ -7,11 +7,11 @@ import { NewsLetter } from '@/utilities/NewsLetter';
 import PageHead from '@/utilities/Head';
 import SEO from '../../json/SEO.json'
 
-export default function Storia() {
+export default function Storia({version}) {
     const {masterHead, section,timeline,newsletter} = storia || {};
     return(
         <section>
-        <PageHead content={SEO.storia.SEO} />
+        <PageHead content={SEO[version].storia.SEO} />
         <MasterHeadImg  data={masterHead}/>
         <TimeLine data={timeline}/>
         <ImgText data={section}/>

@@ -40,6 +40,13 @@
     line-height: 1.5;
     padding-bottom: 1rem;
 }
+.textHolder > ul li{
+    color: var(--bmd-black);
+    font-family: var(--bmd-font-Secondary);
+    font-size: var(--bmd-16px);
+    line-height: 1.5;
+    padding-bottom: 1rem;
+}
 .container p{
     color: var(--bmd-black);
     font-family: var(--bmd-font-Secondary);

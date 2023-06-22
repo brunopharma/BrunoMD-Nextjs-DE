@@ -1433,5 +1433,1203 @@
             "title": "Silverphage Garze | Bruno MD",
             "description": "Silverphage Garze  e’ un dispositivo medico per la detersione dell'area perioculare"
         }
+    },
+    "riboflam-90-v-caps-30-servings": {
+        "EXTERNALID": "3526581387339",
+        "SLUG": "riboflam-90-v-caps-30-servings",
+        "link": "/prodotti/",
+        "theme": "#e65300",
+        "title": "RIBOFLAM",
+        "btnText": "Shop",
+        "price": 62.98,
+        "logo": {
+            "src": "\\utility\\products\\SILVERPHAGE-GARZE\\01-BMD-Silverphage-9O3A5964_1.avif"
+        },
+        "images": [
+            {
+                "src": "\\utility\\products\\riboflam\\BRUNOPHARMA1.png",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\riboflam\\BRUNOPHARMA15001.jpg",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\riboflam\\BMD-Riboflam-Benefit-Card-01b-v3.jpg",
+                "alt": ""
+            }
+        ],
+        "declaimer": {
+            "title": "<h1>RIBOFLAM</h1>",
+            "subTitle": "<strong>RIBOFLAM 90 V-CAPS 30 SERVINGS</strong>",
+            "content": "<p>The only prescription-grade supplement which contains ingredients that enhance the immune system response and support the whole body’s healthy inflammation response.</p>"
+        },
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "servings",
+            "discount": 20,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 30,
+            "subscriptionDetails": "soon"
+        },
+        "newsletter": {
+            "title": "Join our newsletter",
+            "portalId": "19647191",
+            "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
+            "desktopImage": "/utility/home-news-desk.avif",
+            "mobileImage": "/utility/home-news-mob.avif"
+        },
+        "benefits": {
+            "title": "Riboflam Immunity & Inflammation Supplement Benefits",
+            "productColorTheme": "#37246b",
+            "items": [
+                {
+                    "title": "IMMUNE SYSTEM",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\riboflam\\BMD-Riboflam-Benefit-Card-04b.jpg",
+                        "alt": ""
+                    },
+                    "description": "Bruno MD Riboflam supports a healthy, adaptive, and innate immune response and maintains the immune system functionality."
+                },
+                {
+                    "title": "INFLAMMATION",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\riboflam\\BMD-Riboflam-Benefit-Card-03b.jpg",
+                        "alt": ""
+                    },
+                    "description": "Bruno MD Riboflam has been shown to support the whole body's healthy inflammation response."
+                },
+                {
+                    "title": "PAIN",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\riboflam\\BMD-Riboflam-Benefit-Card-02b.jpg",
+                        "alt": ""
+                    },
+                    "description": "Bruno MD Riboflam's proprietary complex promotes relief from exercise-related pain."
+                },
+                {
+                    "title": "PERFORMANCE",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\riboflam\\BMD-Riboflam-Benefit-Card-06b.jpg",
+                        "alt": ""
+                    },
+                    "description": "Bruno MD Riboflam helps to improve performance during physical activity and prevent the loss of lean body mass. Our nucleotides are extracted naturally from yeast and can support the immune system, recovery after athletic activities, and even cognitive function."
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Details",
+                "details": [
+                    "<p>Our Riboflam inflammation supplement</span> response by delivering the maximum dosage of immune-boosting nutrients into your bloodstream using Phytosome technology.</p><p>With Riboflam, you can also stay in the game and discover the secrets of world-class Italian athletes. Bruno MD created Riboflam for everyone who likes to move, at any fitness level at any stage in life.</p><p>It works naturally to soothe aches and pains after an intense workout or a casual stroll in the piazza with friends.</p><p>Riboflam is the only 100% vegan dietary supplement containing 'Nucleoflam', made with nucleotides and nucleosides from Yeast Extract &amp; blended with a potent proprietary Phytosome complex containing Curcumin, Boswellia Serrata, Quercetin &amp; Echinacea Angustifolia.</p>"
+                ]
+            },
+            {
+                "title": "Additional Information",
+                "details": [
+                    "<p>soon.</p>"
+                ]
+            },
+            {
+                "title": "Quality assurance",
+                "details": [
+                    "<p>soon.</p>"
+                ]
+            },
+            {
+                "title": "Ingredients",
+                "details": [
+                    "<p>soon</p>"
+                ]
+            },
+            {
+                "title": "FAQs",
+                "details": [
+                    {
+                        "title": "How many times a day should I take Bruno MD Riboflam?",
+                        "content": "Take three (3) capsules daily: 1 in the morning, 1 in the afternoon, and 1 in the evening, preferably before meals or as directed by your healthcare professional."
+                    },
+                    {
+                        "title": "What is Bruno MD Riboflam Proprietary Phytosome Complex?",
+                        "content": "Bruno MD Riboflam is a powerful combination of clinically proven ingredients that have been validated in more than 180 double-blind, placebo-controlled studies. It has also been proven to have long-term high tolerability in an 18-month clinical trial."
+                    },
+                    {
+                        "title": "What’s in the Riboflam Proprietary Phytosome Complex?",
+                        "content": "Riboflam contains clinically proven flavonoid phytosomes: Turmeric Extract (Curcuma Longa), Indian Frankincense (Boswellia Serrata), and Coneflower Extract (Echinacea Angustifolia)."
+                    },
+                    {
+                        "title": "Is Bruno MD Riboflam vegan?",
+                        "content": "Riboflam is a vegan dietary supplement. It is made from plant-based ingredients right down to the capsules. This allows everyone to take the supplement regardless of personal or religious dietary restrictions."
+                    }
+                ],
+                "faq": true
+            }
+        ],
+        "seo": {
+            "title": "Riboflam | Inflammation & Immunity Supplement | Bruno MD",
+            "description": "Bruno MD Riboflam is shown to improve immune system health &amp; decrease pain caused by exercise, containing nucleotides complex, astaxanthin and curcumin."
+        }
+    },
+    "cholestq10-60-v-caps-30-servings": {
+        "EXTERNALID": "4329882550347",
+        "SLUG": "cholestq10-60-v-caps-30-servings",
+        "link": "/prodotti/",
+        "theme": "#8C92AC",
+        "title": "CHOLESTQ10",
+        "btnText": "Shop",
+        "price": 53.98,
+        "logo": {
+            "src": "\\utility\\products\\cholestq10\\BRONU6409.png"
+        },
+        "images": [
+            {
+                "src": "\\utility\\products\\cholestq10\\BRONU6409.png",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\cholestq10\\BRONU6465.png",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\cholestq10\\CholestQ10-Back-1500x1500.png",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-01b.jpg",
+                "alt": ""
+            }
+        ],
+        "declaimer": {
+            "title": "<h1>CHOLESTQ10</h1>",
+            "subTitle": "<strong>CHOLESTQ10 60 V-CAPS 30 SERVINGS</strong>",
+            "content": "<p>Bruno MD curated centuries of regional food knowledge to create CholestQ10: a supplement designed to support healthy LDL, HDL Cholesterol & Triglycerides levels (already in the healthy range) with benefits that spring from the very heart of Italian soil!.</p>"
+        },
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "servings",
+            "discount": 20,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 30,
+            "subscriptionDetails": "soon"
+        },
+        "newsletter": {
+            "title": "Join our newsletter",
+            "portalId": "19647191",
+            "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
+            "desktopImage": "/utility/home-news-desk.avif",
+            "mobileImage": "/utility/home-news-mob.avif"
+        },
+        "benefits": {
+            "title": "CholestQ10 Benefits",
+            "productColorTheme": "#37246b",
+            "items": [
+                {
+                    "title": "CHOLESTEROL",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-02b.jpg",
+                        "alt": ""
+                    },
+                    "description": "CholestQ10 contains clinically proven ingredients that help reduce cholesterol counts."
+                },
+                {
+                    "title": "EXERCISE",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-07.jpg",
+                        "alt": ""
+                    },
+                    "description": "CoQ10 Phytosome supports all activities involving energetic expenditure."
+                },
+                {
+                    "title": "HEART",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-06b.jpg",
+                        "alt": ""
+                    },
+                    "description": "The CoQ10 Phytosome in CholestQ10 supports healthy blood vessels and cardiovascular functions."
+                },
+                {
+                    "title": "LIVER",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-04b.jpg",
+                        "alt": ""
+                    },
+                    "description": "CholestQ10 can help inhibit fat accumulation in the hepatocytes (liver cells)."
+                },
+                {
+                    "title": "BRAIN",
+                    "icon": "",
+                    "description": "CoQ10 helps ensure that the brain—one of the body’s biggest energy consumers—is well fed.",
+                    "img": {
+                        "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-03b.jpg",
+                        "alt": ""
+                    }
+                },
+                {
+                    "title": "BLOOD",
+                    "icon": "",
+                    "description": "CholestQ10 offers a significant improvement of physiological CoQ10 plasma levels",
+                    "img": {
+                        "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-05.jpg",
+                        "alt": ""
+                    }
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Details",
+                "details": [
+                    "<p>soon</p>"
+                ]
+            },
+            {
+                "title": "Additional Information",
+                "details": [
+                    "<p>soon.</p>"
+                ]
+            },
+            {
+                "title": "Quality assurance",
+                "details": [
+                    "<p>soon.</p>"
+                ]
+            },
+            {
+                "title": "Ingredients",
+                "details": [
+                    "<p>soon</p>"
+                ]
+            },
+            {
+                "title": "FAQs",
+                "details": [
+                    {
+                        "title": "What are the benefits of taking CholestQ10?",
+                        "content": "<p>CholestQ10 contains clinically proven ingredients to help reduce cholesterol counts while also providing several other health benefits, including:</p><p>1. Cholesterol Health</p><p>Supports healthy cholesterol levels</p><p>2. Cholesterol Levels</p><p>Inhibits cholesterol biosynthesis and LDL oxidation already in the healthy range</p><p>3. Cholesterol Inhibition</p><p>Inhibit fat accumulation in the hepatocytes (liver cells)</p><p>4. CoQ10 Boost</p><p>Significant boost of physiological CoQ10. 116% higher CoQ10 levels vs. baseline</p><p>5. Circulatory System Management</p><p>Supports healthy blood vessel function</p>"
+                    },
+                    {
+                        "title": "How many times a day should I take CholestQ10?",
+                        "content": "Take two (2) capsules daily, 1 in the morning, and 1 in the evening, preferably before meals or as directed by your healthcare professional."
+                    },
+                    {
+                        "title": "What is Coenzyme Q10?",
+                        "content": "<p>It is a powerful antioxidant that protects proteins, LDL cholesterol, and mitochondrial DNA from oxidative damage.</p><p>As a participant in cellular energy production, CoQ10 helps ensure the body’s biggest energy consumers, the heart and the brain, are well fed. Thanks to these two functions, CoQ10 can enhance cardiovascular functions.</p><p>CoQ10 Phytosome promotes healthy aging, heart &amp; cardiovascular health, brain health, and all activities involving energetic expenditure. CoQ10 Phytosome is delivered in a crystal-free preparation to maximize absorption.</p>"
+                    },
+                    {
+                        "title": "What does CholestQ10 contain?",
+                        "content": "CholestQ10 is a blend of ingredients that contain Vitamin E (as d-alpha-tocopherol succinate), Bergamot Phytosome, Curcumin Phytosome, Coenzyme Q10 Phytosome, and Cardoon."
+                    },
+                    {
+                        "title": "Why is it important to take CholestQ10 for your heart health?",
+                        "content": "Worldwide, heart-related diseases are at an all-time high. While many countries offer programs to help individuals reduce their cholesterol and blood pressure levels, these efforts simply cannot overcome the effects of poor diet and nutrition."
+                    }
+                ],
+                "faq": true
+            }
+        ],
+        "seo": {
+            "title": "BrunoMD | Heart | CholestQ10 60 V-Caps 30 Servings",
+            "description": "CholestQ10® is the only vegan dietary supplement with bergamot &amp; CoQ10 Phytosomes® designed to support healthy LDL, HDL cholesterol &amp; triglycerides levels."
+        }
+    },
+    "royal-collagen-peptides": {
+        "EXTERNALID": "1547402084427",
+        "SLUG": "royal-collagen-peptides",
+        "link": "/prodotti/",
+        "theme": "#8A1A9B",
+        "title": "ROYAL COLLAGEN PEPTIDES",
+        "btnText": "Shop",
+        "price": 58.98,
+        "logo": {
+            "src": "\\utility\\products\\rcp\\RCPJarfrontwithoutshadow_86e0fe2f-19f2-45b4-9010-7bc5e91a338c.png"
+        },
+        "images": [
+            {
+                "src": "\\utility\\products\\rcp\\RCPJarfrontwithoutshadow_86e0fe2f-19f2-45b4-9010-7bc5e91a338c.png",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\rcp\\RCPJarsupplementfactswithoutshadow.jpg",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\rcp\\NEWBMD-RCP-BenefitCard-01bcopy.jpg",
+                "alt": ""
+            }
+        ],
+        "declaimer": {
+            "title": "<h1>ROYAL COLLAGEN PEPTIDES</h1>",
+            "subTitle": "<strong>ROYAL COLLAGEN PEPTIDES 30 Servings Jar-420g</strong>",
+            "content": "<p>Royal Collagen Peptides®: a 5-in-1 dietary supplement which contains Specific Collagen Peptides and ingredients clinically proven to help improve Skin, Hair, Nails, Joint, and Bone Health.</p>"
+        },
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "servings",
+            "discount": 20,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 30,
+            "subscriptionDetails": "soon"
+        },
+        "newsletter": {
+            "title": "Join our newsletter",
+            "portalId": "19647191",
+            "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
+            "desktopImage": "/utility/home-news-desk.avif",
+            "mobileImage": "/utility/home-news-mob.avif"
+        },
+        "benefits": {
+            "title": "Royal Collagen Peptides Benefits",
+            "productColorTheme": "#37246b",
+            "items": [
+                {
+                    "title": "SKIN",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp\\BMD-RCP-Benefit-Card-02b.jpg",
+                        "alt": ""
+                    },
+                    "description": "Royal Collagen Peptides improve skin texture and elasticity, making skin appear tighter and firmer."
+                },
+                {
+                    "title": "NAILS",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp\\BMD-RCP-Benefit-Card-04b.jpg",
+                        "alt": ""
+                    },
+                    "description": "Royal Collagen Peptides promote faster growth and stronger fingernails with fewer chips and breaks."
+                },
+                {
+                    "title": "HAIR",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp\\BMD-RCP-Benefit-Card-05b.jpg",
+                        "alt": ""
+                    },
+                    "description": "Royal Collagen Peptides promotes more healthy, youthful-looking hair with renewed luster and bounce."
+                },
+                {
+                    "title": "BONES",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp\\BMD-RCP-Benefit-Card-03b.jpg",
+                        "alt": ""
+                    },
+                    "description": "Our Specific Collagen Peptides Complex significantly strengthens bones by increasing bone mineral density. When taken daily, Royal Collagen Peptides are proven to reduce bone fractures in women by 75%."
+                },
+                {
+                    "title": "JOINTS & CARTILAGE",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp\\Jointhealthbenefitcard.jpg",
+                        "alt": ""
+                    },
+                    "description": "Royal Collagen Peptides help reduce symptoms of joint pain associated with strenuous athletic activity and improve joint health by stimulating the production of collagen and hyaluronic acid in cells found in cartilage, called chondrocytes."
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Details",
+                "details": [
+                    "<p>Royal Collagen Peptides® is a scientific marvel that helps rebuild and replenish skin, collagen, and bones with nature’s most potent ingredients! By blending our specific bovine collagen peptides with natural vitamin C, we give your body everything it needs to increase collagen biosynthesis in a natural way.</p><p>BRUNO MD Specific Collagen Peptides are a breakthrough as they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails.</p>"
+                ]
+            },
+            {
+                "title": "Additional Information",
+                "details": [
+                    "<p>soon.</p>"
+                ]
+            },
+            {
+                "title": "Quality assurance",
+                "details": [
+                    "<p>soon.</p>"
+                ]
+            },
+            {
+                "title": "Ingredients",
+                "details": [
+                    "<p>soon</p>"
+                ]
+            },
+            {
+                "title": "FAQs",
+                "details": [
+                    {
+                        "title": "What are the 5 in 1 benefits of Royal Collagen Peptides?",
+                        "content": "<div><p>1. Skin Health Improving - elasticity, hydration, fine lines, wrinkles, ligaments, and tendons</p><p>2. Bone Health Improving - bone stability, flexibility, and density</p><p>3. Nail Health Promoting - growth and health of fingernails </p><p>4. Hair Health Promoting - healthier hair growth</p><p>5. Joint Health Measurable -recovery of joint cartilage</p></div>"
+                    },
+                    {
+                        "title": "How do I take Royal Collagen Peptides?",
+                        "content": "Our proprietary blend contains Vitamin C to increase absorption, so avoid mixing with hot fluids or foods. Add one scoop to at least 8fl oz. of cold or lukewarm liquid and stir well. Royal Collagen peptides® may be consumed with or without food at any time during the day. Do not exceed two servings per day."
+                    },
+                    {
+                        "title": "Why is Collagen Important?",
+                        "content": "<div><p>It is well known that the human body consists mainly of water. Proteinsare the other major component. When referring to the heart, lungs, kidneys,liver, brain, skin, bones, and even most hormones and enzymes that areindispensable for metabolism, it is always the proteins that provide theirstructure and function. Collagen is the most abundant component in the humanbody, and therefore an essential component of human connective tissue. Thisextraordinary protein is also the central building block of the bones, joints,tendons, and many other tissues and structures.  Collagen provides a structure for the body and its many organs and keepsthem “together” in the truest sense of the word. It is present nearlyeverywhere in the body, forming and connecting moving parts, like the bones,and in turn, the muscles, tendons, and ligaments with the bones.</p></div>"
+                    },
+                    {
+                        "title": "What is a Highly Purified Collagen Peptides Complex?",
+                        "content": "<div><p>Specific Collagen Peptides sourced from Italy, Germany, Great Britain,other EU countries.</p><p>Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age. The benefits are many: improved skin texture, glow, and elasticity, stronger nails, and more youthful hair with renewed luster and bounce. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage, so you'll move better, and increase bone density to keep your bones strong.</p></div> "
+                    },
+                    {
+                        "title": "How are Royal Collagen Peptides different from other collagen products?",
+                        "content": "<div><p>The vast majority of collagen products available on the market today do not address the issue of collagen biosynthesis (the body’s ability to create its own collagen.) They combat the problem of collagen degeneration by offering a supplement that focuses on offsetting the loss. Royal Specific Collagen Peptides both offset the loss and maximize stimulation of the human cell types responsible for collagen biosynthesis, giving the body “fuel” to create collagen and improve skin, hair, nail, joints, and bone health.</p></div>"
+                    },
+                    {
+                        "title": "Do Royal Collagen Peptides taste like protein drinks?",
+                        "content": "<div><p>Our Royal Collagen Peptides taste nothing like conventional protein powders and peptides. Because of their neutral taste and excellent dissolution properties, many customers mix theirs with breakfast cereal, yogurt, or cold drinks.</p></div>"
+                    }
+                ],
+                "faq": true
+            }
+        ],
+        "seo": {
+            "title": "BrunoMD | Royal Collagen Peptides",
+            "description": "Royal Collagen Peptides: a 5-in-1 dietary supplement clinically proven to help improve Skin, Hair, Nails, Joint, and Bone Health."
+        }
+    },
+    "royal-collagen-peptides-stick-packs-strawberry-acai-20-units": {
+        "EXTERNALID": "4586005626955",
+        "SLUG": "royal-collagen-peptides-stick-packs-strawberry-acai-20-units",
+        "link": "/prodotti/",
+        "theme": "#E81F76",
+        "title": "Royal Collagen Peptides Beauty From Within Strawberry Açaí",
+        "btnText": "Shop",
+        "price": 58.78,
+        "logo": {
+            "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-StrawberryAcai-01452NR-framed.png"
+        },
+        "images": [
+            {
+                "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-StrawberryAcai-01452NR-framed.png",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-StrawberryAcai-01101NR.png",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\rcp-strawberry\\BMD-RCP-Stickparks-Benefit-Card-01b-Strawberry-Acai.jpg",
+                "alt": ""
+            }
+        ],
+        "declaimer": {
+            "title": "<h1>Royal Collagen Peptides Beauty From Within Strawberry Açaí</h1>",
+            "subTitle": "<strong>Royal Collagen Peptides Beauty From Within Strawberry Açaí 20 Units</strong>",
+            "content": "<p>Royal Collagen Peptides “Beauty from Within® is daily collagen care with 6 in 1 benefits. Rebuild youthful radiance from the inside out with clinically proven ingredients. Help tame inflammation and restart your collagen-producing cells for younger-looking skin.</p>"
+        },
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "servings",
+            "discount": 20,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 20,
+            "subscriptionDetails": "soon"
+        },
+        "fourStepProcess": {
+            "title":"Our Four-Step Process",
+            "buttonTittle":"LEARN MORE",
+            "stepAlignment":false,
+            "content":[
+            {
+                "stepNumber": 1,
+                "title": "Reduce inflammation with Astaxanthin",
+                "body": "From Haematococcus Pluvialis algae to reduce inflammation and restart collagen-producing cells",
+                "expanded": "Astaxanthin is the most potent antioxidant known in nature. Your skin is under constant attack by free radicals, and astaxanthin acts as a defender to preserve collagen production, and lock in the increased elasticity and hydration. A group of 150 healthy women aged 20-55 supplemented with Astaxanthin over six separate studies.* The women taking Astaxanthin demonstrated an 18% improvement in viscoelasticity and a 17X increase in skin hydration over the placebo group after just four weeks. Additionally, skin smoothness improved 16%, and age spots were reduced by an average of 3mm in only eight weeks.",
+                "image": {
+                    "src": "https://f.shgcdn.com/4b2d5084-e743-4325-b1e4-4f76ef23644a/",
+                    "alt": "booo"
+                }
+            },
+            {
+                "stepNumber": 2,
+                "title": "Boost collagen production with Specific Collagen Peptides",
+                "body": "From highly purified collagen peptides to stimulate fibroblasts, reduce wrinkles, and improve overall skin tone",
+                "expanded": "Bruno MD collagen peptides begin with an organic, non-GMO, halal, and kosher certified bovine source, raised exclusively on a plant-based diet by European partners near the Alps. The EU prohibits ranchers from breeding genetically modified bovines or using GMO feed, unlike farmers in the US and Brazil.Three clinical trials* conducted on 250 healthy females, ages 45 to 65, confirm that oral intake of Royal Collagen Specific Peptides Complex significantly reduced eye wrinkle volume by 20.1% on average and up to a maximum of 49.9% vs. the placebo group after only eight weeks of treatment.",
+                "image": {
+                    "src": "https://f.shgcdn.com/ff22235d-27c0-41f1-86b4-52681ab4bb96/",
+                    "alt": "booo"
+                }
+            },
+            {
+                "stepNumber": 3,
+                "title": "Maximize collagen biosynthesis with Red Orange Complex",
+                "body": "Maximize collagen biosynthesis with Red Orange Complex from varieties of Moro, Sanguinello, & Tarocco orange extract to encourage collagen formation and boost the immune system with potent Natural Vitamin-C",
+                "expanded": "We harvest our Vitamin-C from three varieties of blood orange grown for centuries on family farms near Mt. Etna volcano. This mineral-rich soil creates citrus so dense in flavonoids and Vitamin-C that the Romans called it “the miracle of Madre Terra.",
+                "image": {
+                    "src": "https://f.shgcdn.com/e683a4b1-5c37-4264-b36e-181b25503cb6/",
+                    "alt": "booo"
+                }
+            },
+            {
+                "stepNumber": 4,
+                "title": "Lock in hydration with Hyaluronic Acid",
+                "body": "From natural fermentation process which significantly increases skin plumpness, moisture, and glow",
+                "expanded": "Hyaluronic Acid is the sponge that keeps our skin hydrated. Our Hyaluronic Acid is made with organic fermentation and is clinically proven to help reduce wrinkles, smooth skin texture, and deeply hydrate skin cells.A group of 120 healthy women aged 35-60 with dry and sagging skin or wrinkles around their outer canthus supplemented with Bruno MD low molecular weight hyaluronic acid for six weeks and significantly increased skin moisture content and improved the facial aging symptoms such as luster and suppleness. Also, the group showed better levels of the sulcus volume ratio, wrinkle area ratio, and wrinkle volume ratio than the placebo group.",
+                "image": {
+                    "src": "https://f.shgcdn.com/4ed20421-79fb-4b73-a968-888811672ef9/",
+                    "alt": "booo"
+                }
+            }
+        ]},
+        "newsletter": {
+            "title": "Join our newsletter",
+            "portalId": "19647191",
+            "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
+            "desktopImage": "/utility/home-news-desk.avif",
+            "mobileImage": "/utility/home-news-mob.avif"
+        },
+        "benefits": {
+            "title": "Royal Collagen Peptides Benefits",
+            "productColorTheme": "#37246b",
+            "items": [
+                {
+                    "title": "SKIN",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp-strawberry\\BMD-RCP-Stickparks-Benefit-Card-05b_b1225007-2932-4720-abc6-28bb1e27ae91.jpg",
+                        "alt": ""
+                    },
+                    "description": "Royal Collagen Peptides Beauty from Within helps tame inflammation and turn your collagen-producing cells back on to improve skin texture and elasticity, making skin appear tighter and firmer."
+                },
+                {
+                    "title": "NAILS",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp-strawberry\\BMD-RCP-Stickparks-Benefit-Card-06b_aef776c4-f749-4632-8b65-b3572b6bd9b1.jpg",
+                        "alt": ""
+                    },
+                    "description": "Royal Collagen Peptides promote faster growth and stronger fingernails with fewer chips and breaks."
+                },
+                {
+                    "title": "HAIR",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp-strawberry\\BMD-RCP-Stickparks-Benefit-Card-02b_45732765-9b66-4d89-b823-3fe65cc1f3af.jpg",
+                        "alt": ""
+                    },
+                    "description": "Royal Collagen Peptides promotes more healthy, youthful-looking hair with renewed luster and bounce."
+                },
+                {
+                    "title": "THE VISIBLE APPEARANCE OF CELLULITE",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp-strawberry\\BMD-RCP-Stickpacks-Benefit-Card-07b_76e6cac0-b927-481e-9f5b-f7a6c76e74ed.jpg",
+                        "alt": ""
+                    },
+                    "description": "Royal Collagen Peptides Beauty from Within helps increase the elasticity of connective tissue within the dermal matrix to help smooth skin and decrease the appearance of cellulite."
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Details",
+                "details": [
+                    "<p>Improve the microcirculation in roots and nail beds, so hair grows faster and stronger, and nails are less brittle and more resilient. This beauty regimen also increases the elasticity of connective tissue, which helps diminish the appearance of cellulite. Our Red Orange complex even skin tone helps improve skin health and reduce age spots. And even your eyes will look younger with our unique all-natural ingredients, clinically proven to reduce eye wrinkles volume.</p>"
+                ]
+            },
+            {
+                "title": "Additional Information",
+                "details": [
+                    "<p>soon.</p>"
+                ]
+            },
+            {
+                "title": "Quality assurance",
+                "details": [
+                    "<p>soon.</p>"
+                ]
+            },
+            {
+                "title": "Ingredients",
+                "details": [
+                    "<p>soon</p>"
+                ]
+            },
+            {
+                "title": "FAQs",
+                "details": [
+                    {
+                        "title": "Why is Collagen Important?",
+                        "content": "<div><p>It is well known that the human body consists mainly of water. Proteinsare the other major component. When referring to the heart, lungs, kidneys,liver, brain, skin, bones, and even most hormones and enzymes that areindispensable for metabolism, it is always the proteins that provide theirstructure and function. Collagen is the most abundant component in the humanbody, and therefore an essential component of human connective tissue. Thisextraordinary protein is also the central building block of the bones, joints,tendons, and many other tissues and structures.  Collagen provides a structure for the body and its many organs and keepsthem “together” in the truest sense of the word. It is present nearlyeverywhere in the body, forming and connecting moving parts, like the bones,and in turn, the muscles, tendons, and ligaments with the bones.</p></div>"
+                    },
+                    {
+                        "title": "How do I take Royal Collagen Peptides Beauty from Within",
+                        "content": "Add one packet to at least eight fluid ounces of cold water and mix well. Royal Collagen Peptides stick packs may be consumed with or without food at any time during the day. Do not exceed two servings per day."
+                    },
+                    {
+                        "title": "What are the 6 in 1 benefits of Royal Collagen Peptides Beauty from Within?",
+                        "content": "<p>1. Skin Health</p><p>Tames inflammation, restarts collagen-producing cells, and hydrates for younger-looking skin.</p><p>2. Hair Health</p><p>Improves microcirculation in roots, so hair grows faster and stronger.</p><p>3. Nail Health</p><p>Improves microcirculation and stimulates genes in nail beds for resilient, healthy nails.</p><p>4. Cellulite</p><p>Increase elasticity in connective tissue and helps diminish the appearance of cellulite.</p><p>5. Even skin tone</p><p>Significantly improve skin health and skin tone and help reduce age spots</p><p>6. Reduce Eye Wrinkles</p><p>Increases collagen levels. Clinically proven to help reduce eye wrinkle volume</p>"
+                    },
+                    {
+                        "title": "What is a Highly Purified Collagen Peptides Complex?",
+                        "content": "<div><p>Specific Collagen Peptides sourced from Italy, Germany, Great Britain,other EU countries.</p><p>Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age. The benefits are many: improved skin texture, glow, and elasticity, stronger nails, and more youthful hair with renewed luster and bounce. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage, so you'll move better, and increase bone density to keep your bones strong.</p></div> "
+                    },
+                    {
+                        "title": "Why are Royal Collagen Peptides “Beauty from Within” different from other products?",
+                        "content": "The vast majority of collagen products available on the market today do not address the issue of collagen biosynthesis (the body’s ability to create its own collagen.) They combat the issue of collagen degeneration by offering a supplement that focuses on offsetting the loss. Royal Specific Collagen Peptides “Beauty from Within” both offset the loss & maximize stimulation of the human cell types responsible for collagen biosynthesis giving the body fuel to create collagen to improve skin, hair, nail and diminish the appearance of cellulite."
+                    },
+                    {
+                        "title": "Do Royal Collagen Peptides Beauty from Within taste like protein drinks?",
+                        "content": "Not at all, Our Royal Collagen Peptides come in three delicious, natural flavors, Strawberry Acaí, Dragonfruit, and Blood Orange. They taste nothing like conventional protein powders and peptides. Most customers mix it with cold water and add some ice."
+                    }
+                ],
+                "faq": true
+            }
+        ],
+        "seo": {
+            "title": "Royal Collagen Peptides Stick Packs | Strawberry Acai",
+            "description": "Beauty from Within® Strawberry Acai Stick Packs with clinically proven Royal Collagen Peptides® is a 6-in-1 daily beauty boost."
+        }
+    },
+    "royal-collagen-peptides-stick-packs-blood-orange-20-units": {
+        "EXTERNALID": "4586005692491",
+        "SLUG": "royal-collagen-peptides-stick-packs-blood-orange-20-units",
+        "link": "/prodotti/",
+        "theme": "#8D0E57",
+        "title": "Royal Collagen Peptides Beauty From Within Blood Orange",
+        "btnText": "Shop",
+        "price": 58.78,
+        "logo": {
+            "src": "\\utility\\products\\rcp-blood\\RCP-SP-Dragonfruit-01452NR-framed.png"
+        },
+        "images": [
+            {
+                "src": "\\utility\\products\\rcp-blood\\RCP-SP-BloodOrange-01452NR-framed.png",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\rcp-blood\\RCP-SP-BloodOrange-01085NR.png",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\rcp-blood\\BMD-RCP-Stickparks-Benefit-Card-01b-Blood-Orange.jpg",
+                "alt": ""
+            }
+        ],
+        "declaimer": {
+            "title": "<h1>Royal Collagen Peptides Beauty From Within Blood Orange</h1>",
+            "subTitle": "<strong>Royal Collagen Peptides Beauty From Within Blood Orange 20 Units/strong>",
+            "content": "<p>The only prescription-grade supplement which contains ingredients that enhance the immune system response and support the whole body’s healthy inflammation response.</p>"
+        },
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "servings",
+            "discount": 20,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 20,
+            "subscriptionDetails": "soon"
+        },
+        "newsletter": {
+            "title": "Join our newsletter",
+            "portalId": "19647191",
+            "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
+            "desktopImage": "/utility/home-news-desk.avif",
+            "mobileImage": "/utility/home-news-mob.avif"
+        },
+        "benefits": {
+            "title": "Royal Collagen Peptides Benefits",
+            "productColorTheme": "#37246b",
+            "items": [
+                {
+                    "title": "HAIR",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp-blood\\BMD-RCP-Stickparks-Benefit-Card-02b_2729b0c5-51fd-48d4-bed2-fbaac1b61c16.jpg",
+                        "alt": ""
+                    },
+                    "description": "Royal Collagen Peptides promotes more healthy, youthful-looking hair with renewed luster and bounce."
+                },
+                {
+                    "title": "SKIN",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp-blood\\BMD-RCP-Stickparks-Benefit-Card-05b_bc7f5ef9-c34c-4261-9eca-6c8c581c99f9.jpg",
+                        "alt": ""
+                    },
+                    "description": "Royal Collagen Peptides Beauty from Within helps tame inflammation and turn your collagen-producing cells back on to improve skin texture and elasticity, making skin appear tighter and firmer."
+                },
+                {
+                    "title": "NAILS",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp-blood\\BMD-RCP-Stickparks-Benefit-Card-03b.jpg",
+                        "alt": ""
+                    },
+                    "description": "Royal Collagen Peptides promote faster growth and stronger fingernails with fewer chips and breaks."
+                },
+                {
+                    "title": "THE VISIBLE APPEARANCE OF CELLULITE",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp-blood\\BMD-RCP-Stickpacks-Benefit-Card-07b_812f16e3-5fbc-4677-bc91-032c2e54cb75.jpg",
+                        "alt": ""
+                    },
+                    "description": "Royal Collagen Peptides Beauty from Within helps increase the elasticity of connective tissue within the dermal matrix to help smooth skin and decrease the appearance of cellulite."
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Details",
+                "details": [
+                    "<p>Improve the microcirculation in roots and nail beds, so hair grows faster and stronger, and nails are less brittle and more resilient. This beauty regimen also increases the elasticity of connective tissue, which helps diminish the appearance of cellulite. Our Red Orange complex even skin tone helps improve skin health and reduce age spots. And even your eyes will look younger with our unique all-natural ingredients, clinically proven to reduce eye wrinkles volume.</p>"
+                ]
+            },
+            {
+                "title": "Additional Information",
+                "details": [
+                    "<p>soon.</p>"
+                ]
+            },
+            {
+                "title": "Quality assurance",
+                "details": [
+                    "<p>soon.</p>"
+                ]
+            },
+            {
+                "title": "Ingredients",
+                "details": [
+                    "<p>soon</p>"
+                ]
+            },
+            {
+                "title": "FAQs",
+                "details": [
+                    {
+                        "title": "Why is Collagen Important?",
+                        "content": "<div><p>It is well known that the human body consists mainly of water. Proteinsare the other major component. When referring to the heart, lungs, kidneys,liver, brain, skin, bones, and even most hormones and enzymes that areindispensable for metabolism, it is always the proteins that provide theirstructure and function. Collagen is the most abundant component in the humanbody, and therefore an essential component of human connective tissue. Thisextraordinary protein is also the central building block of the bones, joints,tendons, and many other tissues and structures.  Collagen provides a structure for the body and its many organs and keepsthem “together” in the truest sense of the word. It is present nearlyeverywhere in the body, forming and connecting moving parts, like the bones,and in turn, the muscles, tendons, and ligaments with the bones.</p></div>"
+                    },
+                    {
+                        "title": "What is a Highly Purified Collagen Peptides Complex?",
+                        "content": "<div><p>Specific Collagen Peptides sourced from Italy, Germany, Great Britain,other EU countries.</p><p>Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age. The benefits are many: improved skin texture, glow, and elasticity, stronger nails, and more youthful hair with renewed luster and bounce. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage, so you'll move better, and increase bone density to keep your bones strong.</p></div> "
+                    },
+                    {
+                        "title": "What are the 6 in 1 benefits of Royal Collagen Peptides Beauty from Within?",
+                        "content": "<p>1. Skin Health</p><p>Tames inflammation, restarts collagen-producing cells, and hydrates for younger-looking skin.</p><p>2. Hair Health</p><p>Improves microcirculation in roots, so hair grows faster and stronger.</p><p>3. Nail Health</p><p>Improves microcirculation and stimulates genes in nail beds for resilient, healthy nails.</p><p>4. Cellulite</p><p>Increase elasticity in connective tissue and helps diminish the appearance of cellulite.</p><p>5. Even skin tone</p><p>Significantly improve skin health and skin tone and help reduce age spots</p><p>6. Reduce Eye Wrinkles</p><p>Increases collagen levels. Clinically proven to help reduce eye wrinkle volume</p>"
+                    },
+                    {
+                        "title": "How do I take Royal Collagen Peptides Beauty from Within",
+                        "content": "Add one packet to at least eight fluid ounces of cold water and mix well. Royal Collagen Peptides stick packs may be consumed with or without food at any time during the day. Do not exceed two servings per day."
+                    },
+                    {
+                        "title": "Why are Royal Collagen Peptides “Beauty from Within” different from other products?",
+                        "content": "The vast majority of collagen products available on the market today do not address the issue of collagen biosynthesis (the body’s ability to create its own collagen.) They combat the issue of collagen degeneration by offering a supplement that focuses on offsetting the loss. Royal Specific Collagen Peptides “Beauty from Within” both offset the loss & maximize stimulation of the human cell types responsible for collagen biosynthesis giving the body fuel to create collagen to improve skin, hair, nail and diminish the appearance of cellulite."
+                    },
+                    {
+                        "title": "Do Royal Collagen Peptides Beauty from Within taste like protein drinks?",
+                        "content": "Not at all, Our Royal Collagen Peptides come in three delicious, natural flavors, Strawberry Acaí, Dragonfruit, and Blood Orange. They taste nothing like conventional protein powders and peptides. Most customers mix it with cold water and add some ice."
+                    }
+                ],
+                "faq": true
+            }
+        ],
+        "fourStepProcess": {
+            "title":"Our Four-Step Process",
+            "buttonTittle":"LEARN MORE",
+            "stepAlignment":false,
+            "content":[
+            {
+                "stepNumber": 1,
+                "title": "Reduce inflammation with Astaxanthin",
+                "body": "From Haematococcus Pluvialis algae to reduce inflammation and restart collagen-producing cells",
+                "expanded": "Astaxanthin is the most potent antioxidant known in nature. Your skin is under constant attack by free radicals, and astaxanthin acts as a defender to preserve collagen production, and lock in the increased elasticity and hydration. A group of 150 healthy women aged 20-55 supplemented with Astaxanthin over six separate studies.* The women taking Astaxanthin demonstrated an 18% improvement in viscoelasticity and a 17X increase in skin hydration over the placebo group after just four weeks. Additionally, skin smoothness improved 16%, and age spots were reduced by an average of 3mm in only eight weeks.",
+                "image": {
+                    "src": "https://f.shgcdn.com/4b2d5084-e743-4325-b1e4-4f76ef23644a/",
+                    "alt": "booo"
+                }
+            },
+            {
+                "stepNumber": 2,
+                "title": "Boost collagen production with Specific Collagen Peptides",
+                "body": "From highly purified collagen peptides to stimulate fibroblasts, reduce wrinkles, and improve overall skin tone",
+                "expanded": "Bruno MD collagen peptides begin with an organic, non-GMO, halal, and kosher certified bovine source, raised exclusively on a plant-based diet by European partners near the Alps. The EU prohibits ranchers from breeding genetically modified bovines or using GMO feed, unlike farmers in the US and Brazil.Three clinical trials* conducted on 250 healthy females, ages 45 to 65, confirm that oral intake of Royal Collagen Specific Peptides Complex significantly reduced eye wrinkle volume by 20.1% on average and up to a maximum of 49.9% vs. the placebo group after only eight weeks of treatment.",
+                "image": {
+                    "src": "https://f.shgcdn.com/ff22235d-27c0-41f1-86b4-52681ab4bb96/",
+                    "alt": "booo"
+                }
+            },
+            {
+                "stepNumber": 3,
+                "title": "Maximize collagen biosynthesis with Red Orange Complex",
+                "body": "Maximize collagen biosynthesis with Red Orange Complex from varieties of Moro, Sanguinello, & Tarocco orange extract to encourage collagen formation and boost the immune system with potent Natural Vitamin-C",
+                "expanded": "We harvest our Vitamin-C from three varieties of blood orange grown for centuries on family farms near Mt. Etna volcano. This mineral-rich soil creates citrus so dense in flavonoids and Vitamin-C that the Romans called it “the miracle of Madre Terra.",
+                "image": {
+                    "src": "https://f.shgcdn.com/e683a4b1-5c37-4264-b36e-181b25503cb6/",
+                    "alt": "booo"
+                }
+            },
+            {
+                "stepNumber": 4,
+                "title": "Lock in hydration with Hyaluronic Acid",
+                "body": "From natural fermentation process which significantly increases skin plumpness, moisture, and glow",
+                "expanded": "Hyaluronic Acid is the sponge that keeps our skin hydrated. Our Hyaluronic Acid is made with organic fermentation and is clinically proven to help reduce wrinkles, smooth skin texture, and deeply hydrate skin cells.A group of 120 healthy women aged 35-60 with dry and sagging skin or wrinkles around their outer canthus supplemented with Bruno MD low molecular weight hyaluronic acid for six weeks and significantly increased skin moisture content and improved the facial aging symptoms such as luster and suppleness. Also, the group showed better levels of the sulcus volume ratio, wrinkle area ratio, and wrinkle volume ratio than the placebo group.",
+                "image": {
+                    "src": "https://f.shgcdn.com/4ed20421-79fb-4b73-a968-888811672ef9/",
+                    "alt": "booo"
+                }
+            }
+        ]},
+        "seo": {
+            "title": "Royal Collagen Peptides Stick Packs | Blood Orange",
+            "description": "Beauty from Within® Blood Orange Stick Packs with clinically proven Royal Collagen Peptides® is a 6-in-1 daily beauty boost."
+        }
+    },
+    "royal-collagen-peptides-stick-packs-dragon-fruit-20-units": {
+        "EXTERNALID": "4586005659723",
+        "SLUG": "royal-collagen-peptides-stick-packs-dragon-fruit-20-units",
+        "link": "/prodotti/",
+        "theme": "#8A1A9B",
+        "title": "Royal Collagen Peptides Beauty From Within Dragon Fruit 20 Units",
+        "btnText": "Shop",
+        "price": 58.78,
+        "logo": {
+            "src": "\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01452NR-framed.png"
+        },
+        "images": [
+            {
+                "src": "\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01452NR-framed.png",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01114NR.png",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\rcp-dragon\\BMD-RCP-Stickparks-Benefit-Card-01b-Dragon-Fruit.jpg",
+                "alt": ""
+            }
+        ],
+        "declaimer": {
+            "title": "<h1>Royal Collagen Peptides Beauty From Within Dragon Fruit</h1>",
+            "subTitle": "<strong>Royal Collagen Peptides Beauty From Within Dragon Fruit 20 Units 20 Units/strong>",
+            "content": "<p>The only prescription-grade supplement which contains ingredients that enhance the immune system response and support the whole body’s healthy inflammation response.</p>"
+        },
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "servings",
+            "discount": 20,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 20,
+            "subscriptionDetails": "soon"
+        },
+        "newsletter": {
+            "title": "Join our newsletter",
+            "portalId": "19647191",
+            "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
+            "desktopImage": "/utility/home-news-desk.avif",
+            "mobileImage": "/utility/home-news-mob.avif"
+        },
+        "benefits": {
+            "title": "Royal Collagen Peptides Benefits",
+            "productColorTheme": "#37246b",
+            "items": [
+                {
+                    "title": "HAIR",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp-dragon\\BMD-RCP-Stickparks-Benefit-Card-02b.jpg",
+                        "alt": ""
+                    },
+                    "description": "Royal Collagen Peptides promotes more healthy, youthful-looking hair with renewed luster and bounce."
+                },
+                {
+                    "title": "SKIN",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp-dragon\\BMD-RCP-Stickparks-Benefit-Card-04b.jpg",
+                        "alt": ""
+                    },
+                    "description": "Royal Collagen Peptides Beauty from Within helps tame inflammation and turn your collagen-producing cells back on to improve skin texture and elasticity, making skin appear tighter and firmer."
+                },
+                {
+                    "title": "NAILS",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp-dragon\\BMD-RCP-Stickparks-Benefit-Card-06b.jpg",
+                        "alt": ""
+                    },
+                    "description": "Royal Collagen Peptides promote faster growth and stronger fingernails with fewer chips and breaks."
+                },
+                {
+                    "title": "THE VISIBLE APPEARANCE OF CELLULITE",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\rcp-dragon\\BMD-RCP-Stickpacks-Benefit-Card-07b.jpg",
+                        "alt": ""
+                    },
+                    "description": "Royal Collagen Peptides Beauty from Within helps increase the elasticity of connective tissue within the dermal matrix to help smooth skin and decrease the appearance of cellulite."
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Details",
+                "details": [
+                    "<p>Improve the microcirculation in roots and nail beds, so hair grows faster and stronger, and nails are less brittle and more resilient. This beauty regimen also increases the elasticity of connective tissue, which helps diminish the appearance of cellulite. Our Red Orange complex even skin tone helps improve skin health and reduce age spots. And even your eyes will look younger with our unique all-natural ingredients, clinically proven to reduce eye wrinkles volume.</p>"
+                ]
+            },
+            {
+                "title": "Additional Information",
+                "details": [
+                    "<p>soon.</p>"
+                ]
+            },
+            {
+                "title": "Quality assurance",
+                "details": [
+                    "<p>soon.</p>"
+                ]
+            },
+            {
+                "title": "Ingredients",
+                "details": [
+                    "<p>soon</p>"
+                ]
+            },
+            {
+                "title": "FAQs",
+                "details": [
+                    {
+                        "title": "Why is Collagen Important?",
+                        "content": "<div><p>It is well known that the human body consists mainly of water. Proteinsare the other major component. When referring to the heart, lungs, kidneys,liver, brain, skin, bones, and even most hormones and enzymes that areindispensable for metabolism, it is always the proteins that provide theirstructure and function. Collagen is the most abundant component in the humanbody, and therefore an essential component of human connective tissue. Thisextraordinary protein is also the central building block of the bones, joints,tendons, and many other tissues and structures.  Collagen provides a structure for the body and its many organs and keepsthem “together” in the truest sense of the word. It is present nearlyeverywhere in the body, forming and connecting moving parts, like the bones,and in turn, the muscles, tendons, and ligaments with the bones.</p></div>"
+                    },
+                    {
+                        "title": "How do I take Royal Collagen Peptides Beauty from Within",
+                        "content": "Add one packet to at least eight fluid ounces of cold water and mix well. Royal Collagen Peptides stick packs may be consumed with or without food at any time during the day. Do not exceed two servings per day."
+                    },
+                    {
+                        "title": "What are the 6 in 1 benefits of Royal Collagen Peptides Beauty from Within?",
+                        "content": "<p>1. Skin Health</p><p>Tames inflammation, restarts collagen-producing cells, and hydrates for younger-looking skin.</p><p>2. Hair Health</p><p>Improves microcirculation in roots, so hair grows faster and stronger.</p><p>3. Nail Health</p><p>Improves microcirculation and stimulates genes in nail beds for resilient, healthy nails.</p><p>4. Cellulite</p><p>Increase elasticity in connective tissue and helps diminish the appearance of cellulite.</p><p>5. Even skin tone</p><p>Significantly improve skin health and skin tone and help reduce age spots</p><p>6. Reduce Eye Wrinkles</p><p>Increases collagen levels. Clinically proven to help reduce eye wrinkle volume</p>"
+                    },
+                    {
+                        "title": "What is a Highly Purified Collagen Peptides Complex?",
+                        "content": "<div><p>Specific Collagen Peptides sourced from Italy, Germany, Great Britain,other EU countries.</p><p>Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age. The benefits are many: improved skin texture, glow, and elasticity, stronger nails, and more youthful hair with renewed luster and bounce. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage, so you'll move better, and increase bone density to keep your bones strong.</p></div> "
+                    },
+                    {
+                        "title": "How do I take Royal Collagen Peptides Beauty from Within",
+                        "content": "Add one packet to at least eight fluid ounces of cold water and mix well. Royal Collagen Peptides stick packs may be consumed with or without food at any time during the day. Do not exceed two servings per day."
+                    },
+                    {
+                        "title": "Why are Royal Collagen Peptides “Beauty from Within” different from other products?",
+                        "content": "The vast majority of collagen products available on the market today do not address the issue of collagen biosynthesis (the body’s ability to create its own collagen.) They combat the issue of collagen degeneration by offering a supplement that focuses on offsetting the loss. Royal Specific Collagen Peptides “Beauty from Within” both offset the loss & maximize stimulation of the human cell types responsible for collagen biosynthesis giving the body fuel to create collagen to improve skin, hair, nail and diminish the appearance of cellulite."
+                    },
+                    {
+                        "title": "Do Royal Collagen Peptides Beauty from Within taste like protein drinks?",
+                        "content": "Not at all, Our Royal Collagen Peptides come in three delicious, natural flavors, Strawberry Acaí, Dragonfruit, and Blood Orange. They taste nothing like conventional protein powders and peptides. Most customers mix it with cold water and add some ice."
+                    }
+                ],
+                "faq": true
+            }
+        ],
+        "fourStepProcess": {
+            "title":"Our Four-Step Process",
+            "buttonTittle":"LEARN MORE",
+            "stepAlignment":false,
+            "content":[
+            {
+                "stepNumber": 1,
+                "title": "Reduce inflammation with Astaxanthin",
+                "body": "From Haematococcus Pluvialis algae to reduce inflammation and restart collagen-producing cells",
+                "expanded": "Astaxanthin is the most potent antioxidant known in nature. Your skin is under constant attack by free radicals, and astaxanthin acts as a defender to preserve collagen production, and lock in the increased elasticity and hydration. A group of 150 healthy women aged 20-55 supplemented with Astaxanthin over six separate studies.* The women taking Astaxanthin demonstrated an 18% improvement in viscoelasticity and a 17X increase in skin hydration over the placebo group after just four weeks. Additionally, skin smoothness improved 16%, and age spots were reduced by an average of 3mm in only eight weeks.",
+                "image": {
+                    "src": "https://f.shgcdn.com/4b2d5084-e743-4325-b1e4-4f76ef23644a/",
+                    "alt": "booo"
+                }
+            },
+            {
+                "stepNumber": 2,
+                "title": "Boost collagen production with Specific Collagen Peptides",
+                "body": "From highly purified collagen peptides to stimulate fibroblasts, reduce wrinkles, and improve overall skin tone",
+                "expanded": "Bruno MD collagen peptides begin with an organic, non-GMO, halal, and kosher certified bovine source, raised exclusively on a plant-based diet by European partners near the Alps. The EU prohibits ranchers from breeding genetically modified bovines or using GMO feed, unlike farmers in the US and Brazil.Three clinical trials* conducted on 250 healthy females, ages 45 to 65, confirm that oral intake of Royal Collagen Specific Peptides Complex significantly reduced eye wrinkle volume by 20.1% on average and up to a maximum of 49.9% vs. the placebo group after only eight weeks of treatment.",
+                "image": {
+                    "src": "https://f.shgcdn.com/ff22235d-27c0-41f1-86b4-52681ab4bb96/",
+                    "alt": "booo"
+                }
+            },
+            {
+                "stepNumber": 3,
+                "title": "Maximize collagen biosynthesis with Red Orange Complex",
+                "body": "Maximize collagen biosynthesis with Red Orange Complex from varieties of Moro, Sanguinello, & Tarocco orange extract to encourage collagen formation and boost the immune system with potent Natural Vitamin-C",
+                "expanded": "We harvest our Vitamin-C from three varieties of blood orange grown for centuries on family farms near Mt. Etna volcano. This mineral-rich soil creates citrus so dense in flavonoids and Vitamin-C that the Romans called it “the miracle of Madre Terra.",
+                "image": {
+                    "src": "https://f.shgcdn.com/e683a4b1-5c37-4264-b36e-181b25503cb6/",
+                    "alt": "booo"
+                }
+            },
+            {
+                "stepNumber": 4,
+                "title": "Lock in hydration with Hyaluronic Acid",
+                "body": "From natural fermentation process which significantly increases skin plumpness, moisture, and glow",
+                "expanded": "Hyaluronic Acid is the sponge that keeps our skin hydrated. Our Hyaluronic Acid is made with organic fermentation and is clinically proven to help reduce wrinkles, smooth skin texture, and deeply hydrate skin cells.A group of 120 healthy women aged 35-60 with dry and sagging skin or wrinkles around their outer canthus supplemented with Bruno MD low molecular weight hyaluronic acid for six weeks and significantly increased skin moisture content and improved the facial aging symptoms such as luster and suppleness. Also, the group showed better levels of the sulcus volume ratio, wrinkle area ratio, and wrinkle volume ratio than the placebo group.",
+                "image": {
+                    "src": "https://f.shgcdn.com/4ed20421-79fb-4b73-a968-888811672ef9/",
+                    "alt": "booo"
+                }
+            }
+        ]},
+        "seo": {
+            "title": "Royal Collagen Peptides Stick Packs | Dragon Fruit",
+            "description": "Beauty from Within® Dragon Fruit Stick Packs with clinically proven Royal Collagen Peptides® is a 6-in-1 daily beauty boost."
+        }
+    },
+    "bluerex-vision-60-caps-30-servings": {
+        "EXTERNALID": "3526554910795",
+        "SLUG": "riboflam-90-v-caps-30-servings",
+        "link": "/prodotti/",
+        "theme": "#0075c9",
+        "title": "BLUEREX VISION",
+        "btnText": "Shop",
+        "price": 54.98,
+        "logo": {
+            "src": "\\utility\\products\\bluerex\\bruno-md-bluerex_418x_1.png"
+        },
+        "images": [
+            {
+                "src": "\\utility\\products\\bluerex\\bruno-md-bluerex_418x_1.png",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\bluerex\\BronuPharma943591.jpg",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\bluerex\\BronuPharma9406b.jpg",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\bluerex\\BMD-Bluerex-Vision-Benefit-Card-01b.jpg",
+                "alt": ""
+            }
+        ],
+        "declaimer": {
+            "title": "<h1>BLUEREX VISION</h1>",
+            "subTitle": "<strong>BLUEREX VISION 60 SOFTGELS 30 SERVINGS</strong>",
+            "content": "<p>Bluerex Vision contains clinically proven ingredients to help protect your eyes from harmful blue light and alleviate Computer Vision Syndrome symptoms.</p>"
+        },
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "servings",
+            "discount": 20,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 30,
+            "subscriptionDetails": "soon"
+        },
+        "newsletter": {
+            "title": "Join our newsletter",
+            "portalId": "19647191",
+            "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
+            "desktopImage": "/utility/home-news-desk.avif",
+            "mobileImage": "/utility/home-news-mob.avif"
+        },
+        "benefits": {
+            "title": "Riboflam Immunity & Inflammation Supplement Benefits",
+            "productColorTheme": "#37246b",
+            "items": [
+                {
+                    "title": "360 EYE PROTECTION",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\bluerex\\BMD-Bluerex-Vision-Benefit-Card-06b.jpg",
+                        "alt": ""
+                    },
+                    "description": "Total eye care from the front to the back of the eye"
+                },
+                {
+                    "title": "FRONT EYE PROTECTION",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\bluerex\\BMD-Bluerex-Vision-Benefit-Card-03b_246cfdd1-1f67-42a8-8cd0-e83f988ae726.jpg",
+                        "alt": ""
+                    },
+                    "description": "Protects the front of the eye, lens and strengthens ciliary muscles"
+                },
+                {
+                    "title": "BLUE LIGHT PROTECTION",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\bluerex\\BMD-Bluerex-Vision-Benefit-Card-02b_e7349929-fa12-41b2-8174-3835f702f6c0.jpg",
+                        "alt": ""
+                    },
+                    "description": "Protects the macula from blue light damage and oxidative stress"
+                },
+                {
+                    "title": "COMPUTER VISION SYNDROME",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\bluerex\\BMD-Bluerex-Vision-Benefit-Card-05b_27d501ac-485c-46a8-baa8-6376690cdb5c.jpg",
+                        "alt": ""
+                    },
+                    "description": "Manages symptoms of Computer Vision Syndrome"
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Details",
+                "details": [
+                    "<p>The unique two-step process in our vision supplement helps reduce eye strain, improves focus recovery, and increases natural tear production for dry, itchy eyes.  Next, Bluerex Vision builds natural pigments that help protect your eyes from blue light before it can damage the retina/macula.</p>"
+                ]
+            },
+            {
+                "title": "Additional Information",
+                "details": [
+                    "<p>soon.</p>"
+                ]
+            },
+            {
+                "title": "Quality assurance",
+                "details": [
+                    "<p>soon.</p>"
+                ]
+            },
+            {
+                "title": "Ingredients",
+                "details": [
+                    "<p>soon</p>"
+                ]
+            },
+            {
+                "title": "FAQs",
+                "details": [
+                    {
+                        "title": "What are the benefits of taking Bluerex?",
+                        "content": "<p>1. Blue Light Damage</p><p>Proven eye protection from harmful blue light</p><p>2. Dry, Itchy Eyes</p><p>Supports healthy tear secretion</p><p>3. Digital Eye Strain Support</p><p>Alleviates oxidative stress in eyes and symptoms of (CVS) computer vision syndrome</p><p>4. Eye Pain from prolonged screen time</p><p>Reduces eye fatigue and strain. Promotes vision recovery from digital overexposure.</p><p>6. Total Eye Care</p><p>Helps maintain overall eye health</p>"
+                    },
+                    {
+                        "title": "How many times a day should I take Bluerex Vision?",
+                        "content": "Take two (2) soft gels daily: 1 in the morning and 1 in the evening, with food, or as directed by your healthcare professional."
+                    },
+                    {
+                        "title": "Why is Bluerex Vision unique?",
+                        "content": "Bluerex Vision is the front-to-back eye health supplement that helps provide Blue Light Protection and Relief from Computer Vision Syndrome (CVS). It contains clinically proven ingredients to increase Macular Pigment Optical Density (MPOD) and protects eyes from front to back."
+                    },
+                    {
+                        "title": "What is in your Bluerex Vision proprietary complex?",
+                        "content": "Bluerex Vision proprietary complex is a powerful combination of clinically proven ingredients verified through more than 130 double-blind studies. Ingredients include Bilberry Extract, Natural Vitamin E (d-alpha-tocopherol), Docosahexaenoic acid (DHA), Natural Astaxanthin, Lutein, and Zeaxanthin."
+                    },
+                    {
+                        "title": "Why is Bluerex Vision 360° eye care for the digital age?",
+                        "content": "Bluerex Vision protects the back of the eye with Lutein and Zeaxanthin, which help build pigments that filter out harmful blue light and promote vision recovery from overexposure to fluorescent light and computer monitors. Bluerex Vision protects the front of the eye with natural Astaxanthin, which helps reduce eye fatigue and strain, alleviates oxidative stress and symptoms of Computer Vision Syndrome. Bluerex Vision’s Bilberry Extract has demonstrated its efficacy in supporting healthy tear secretion. At the same time, Vitamin E (d-alpha tocopherol) helps neutralize oxidation and protect the parts of the eye which are particularly susceptible to oxidative damage."
+                    },
+                    {
+                        "title": "How does Bluerex Vision support the front of the eye?",
+                        "content": "Bluerex Vision increases ciliary muscle recovery and endurance, improving the capillary blood flow, and inhibiting inflammation. Astaxanthin in the Bluerex Vision works to protect the front of the eye to help alleviate oxidative stress and reduce Computer Vision Syndrome symptoms."
+                    },
+                    {
+                        "title": "How does Bluerex Vision support the back of the eye?",
+                        "content": "Bluerex Vision guards the body against the damaging effects of free radicals, working as light filters and as antioxidants in the eye. Lutein & Zeaxanthin in Bluerex Vision’s blend protect eyes from harmful blue light and help maintain protection at the back of the eye. Lutein & Zeaxanthin also promote vision recovery from over exposure to fluorescent light and computer monitors"
+                    }
+                ],
+                "faq": true
+            }
+        ],
+        "seo": {
+            "title": "Bluerex Vision Supplements for Blue Light | Bruno MD",
+            "description": "Bluerex Vision Supplements are clinically proven to protect the front &amp; back of the eye against harmful blue light and to relieve computer vision syndrome."
+        }
     }
 }

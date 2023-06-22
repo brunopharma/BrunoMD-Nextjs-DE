@@ -1,11 +1,6 @@
 .navContainer {
     background-color: var(--bmd-black);
     padding: 20px;
-    /* position: fixed;
-    top:0;
-    z-index: 1000; */
-    width: 100%;
-
   }
   .navItemsContainer {
     max-width: 1380px;

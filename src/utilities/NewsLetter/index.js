@@ -27,6 +27,24 @@ const [isDesktop] = useMatchMedia('(min-width: 768px)', true)
     if (!content) return null
     const { title, portalId, formId,titleFont,formWidth } = content || undefined;
     if (!portalId || !formId) return null
+    if(content.landing){
+        return (
+            <section className={styles.newsletterSection} id="NewLetterFrom">
+                <div className={styles.container}>
+                    <img className={styles.imgHolder} src={image} alt="..." />
+    
+                    <div className={styles.formContainer}>
+                        <div className={styles.form}>
+                            <div className={styles.headingContainer}>
+                                {title}
+                            </div>
+                            <div id="hubspotForm"><div class="center-body" style={{ height: '200px' }}><div class="loader-circle-2"></div></div> </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        )
+    }else{
     return(
         <section>
         <div className={styles.container}>
@@ -48,20 +66,5 @@ const [isDesktop] = useMatchMedia('(min-width: 768px)', true)
         </div>
       </section>
     )
-    if(false) return (
-        <section className={styles.newsletterSection} id="NewLetterFrom">
-            <div className={styles.container}>
-                <img className={styles.imgHolder} src="/utility/home-news-desk.png" alt="..." />
-
-                <div className={styles.formContainer}>
-                    <div className={styles.form}>
-                        <div className={styles.headingContainer}>
-                            {title}
-                        </div>
-                        <div id="hubspotForm"><div class="center-body" style={{ height: '200px' }}><div class="loader-circle-2"></div></div> </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-    )
+    }
 }

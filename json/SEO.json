@@ -1,4 +1,5 @@
 {
+   "EU":{
     "home":{
      "title":"Pagina iniziale",
      "SEO":{
@@ -35,4 +36,34 @@
            "image":"https://f.shgcdn.com/02637cbd-350e-4b4a-bae7-dad2bce66981/"
         }
        }
+      },
+      "ENG":{
+         "home":{
+            "title":"Home",
+            "SEO":{
+               "title":"BrunoMD | Health and Wellness Products | Beauty Supplements",
+               "description":"Health and wellness products rooted in the heart of Italy, made from all-natural ingredients. Pharmaceutical grade supplements to fuel your future.",
+               "image":"https://f.shgcdn.com/6286ec90-a238-44d5-9de3-84512c082591/",
+               "siteName":"© 2022 brunomd.com. All Rights Reserved"
+            }
+         },
+         "storia":{
+            "title":"our story",
+            "SEO":{
+               "title":"BrunoMD | Collagen Powders | Prescription Grade Supplements",
+               "description":"For 25 years, BrunoMD has been offering some of the most innovative and effective prescription grade supplements available. Read our story.",
+               "image":"https://f.shgcdn.com/6286ec90-a238-44d5-9de3-84512c082591/",
+               "siteName":"© 2022 brunomd.com. All Rights Reserved"
+            }
+         },
+         "science":{
+            "title":"science",
+            "SEO":{
+               "title":"BrunoMD | Royal Collagen Peptides | Phytosome Technology",
+               "description":"As Italians, we take enormous pride in perfecting things. The MDiterranean Life begins by using science to perfect the best in Nature. Learn about our science.",
+               "image":"https://f.shgcdn.com/6286ec90-a238-44d5-9de3-84512c082591/",
+               "siteName":"© 2022 brunomd.com. All Rights Reserved"
+            }
+         }
+      }
 }

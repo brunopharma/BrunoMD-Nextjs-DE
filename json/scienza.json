@@ -1,12 +1,16 @@
 {
     "masterHead": {
         "id": "wjbv2ss2xt",
+        "desktopImage": {
+            "src": "/pages/science.avif",
+            "alt": ""
+        },
+        "title": "Science",
         "content": { "title": "Scienza" }
     },
     "sectionOne":{
         "sectionContent":[
-            "Bruno Farmaceutici S.p.A e attiva nella Ricerca e Sviluppo di nuovi farmaci e formulazioni che aiutano il corpo a guarire. negli ultimi anni, l'azienda ha lanciato formulazioni innovative in cardiologia per aiutare a controllare la fibrillazione atriale, l'ipertensione secondaria, il dolore cronico, il diabete, il trattamento dell'obesità e l'osteoporosi.",
-            "Bruno MD inizia con la stessa missione di utilizzare la scienza per perfezionare il meglio che la natura offre. Se i nostri ingredienti non possono essere coltivati sul suolo italiano, cerchiamo in tutto il mondo ingredienti all'altezza degli stessi standard e li trasformiamo in prodotti che offrono una composizione alimentare al 100% e la massima biodisponibilità e benefici che si possono ottenere senza prescrizione medica."
+            "As Italians, we take enormous pride in perfecting things. The MDiterranean Life begins by using science to perfect the best in Nature. If our ingredients can’t be grown on Italian soil, Bruno MD searches the world for ingredients that live up to the same standards then transforms them into products that deliver 100% food-grade composition and the highest bioavailability and benefits you can achieve without a prescription."
         ],
         "sectionImage":{
             "src":"https://f.shgcdn.com/7a2fe5be-0bf9-41d2-9820-a5fbfcbc0f41/"
@@ -14,19 +18,19 @@
     },
     "sectionTwo":[{
         "title": null,
-        "contentTitle": "La tecnologia fitosomica",
+        "contentTitle": "Phytosome Technology",
         "sectionImg": {
-            "src": "https://res.cloudinary.com/shogun-frontend/image/fetch/f_auto,q_auto,c_limit,w_2048/https://f.shgcdn.com/065978c6-52ea-4b29-971d-c4ebf47dbef7/",
+            "src": "https://f.shgcdn.com/065978c6-52ea-4b29-971d-c4ebf47dbef7/",
             "alt": "",
             "imgPostion": "left"
         },
         "sectionContent": [
-            "La nostra passione è aiutare la prossima generazione di scienziati che condividono la nostra missione di migliorare la vita umana con la Fondazione Bruno Farmaceutici, che ha lo scopo di promuovere attività che sostengono lo sviluppo della ricerca scientifica nelle università. La Fondazione è un'istituzione indipendente e condivide i valori etici collettivi di Bruno Farmaceutici S.p.A. e Bruno MD e la loro passione e impegno per la responsabilità sociale."
+            "Phytosome technology is biomimicry. Our bodies have evolved to view beneficialplant-based polyphenols as useless or dangerous. For this reason, nutrients like curcumin are blocked by your gut before they can enter your bloodstream. No matter how much curcumin you take, the benefits are limited without Phytosome technology. Phytosome uses biomimicry to wrap polyphenols in a fatty lipid, like a delivery truck. With the curcumin molecule hidden inside, the lipid can pass through the gut and into your bloodstream with 3000% more bioavailability. Phytosome sets the new standard in prescription-grade natural ingredients."
         ]
     }],
     "quote":{
-        "title":"I nostri esperti",
-        "content":"Quando si tratta di farmaci, non c'è niente che posso prescrivere per proteggere la retina dalla luce visibile ad alta energia che funziona bene come Bluerex",
+        "title":"Our Experts",
+        "content":"When it comes to medications, there is nothing I can prescribe to protect the retina from high energy visible light that works as well as Bluerex",
         "author":{
             "name":"Dr. Paul Karpecki, O.D., FAAO",
             "img":{
@@ -39,7 +43,7 @@
         "title": "Iscriviti alla newsletter",
         "portalId": "19647191",
         "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
-        "desktopImage":"/utility/home-news-desk.png",
-        "mobileImage":"/utility/home-news-mob.png"
+        "desktopImage":"/utility/home-news-desk.avif",
+        "mobileImage":"/utility/home-news-mob.avif"
     }
 }

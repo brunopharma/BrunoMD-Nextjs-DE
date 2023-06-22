@@ -1,7 +1,7 @@
-/* .newsletterSection {
+.newsletterSection {
     width: 100%;
 }
-#hubspotForm label{
+.newsletterSection #hubspotForm label{
     font-family: var(--bmd-font-Secondary)!important;
     font-size: 13px!important;
     font-weight: 600!important;
@@ -9,18 +9,18 @@
     color: #37246b;
 }
 
-.container {
+.newsletterSection .container {
     margin-left: auto;
     margin-right: auto;
     max-width: 1380px;
     width: 100%;
     position: relative;
 }
-.imgHolder{
+.newsletterSection .imgHolder{
     width: 100%;
     min-height: 325px;
 }
-.formContainer{
+.newsletterSection .formContainer{
     position: absolute;
     top: 0;
     right: 0;
@@ -28,38 +28,38 @@
     place-content: center;
     height: 100%;
 }
-.form{
+.newsletterSection .form{
     background-color: #ffffffa1;
     padding: 2rem;
 }
-.headingContainer{
+.newsletterSection .headingContainer{
     font-size: 50px;
     line-height: 54px;
     padding: 1rem 0;
 }
 
 @media screen and (max-width: 900px) {
-    .headingContainer {
+   .newsletterSection .headingContainer {
         font-size: 28px;
         font-weight: 400;
         line-height: 1.1;
         padding-bottom: 1rem;
     }
-    .form{
+    .newsletterSection .form{
         padding: 1rem 1.5rem;
     }
   }
   @media screen and (max-width: 800px) {
-    .headingContainer {
+    .newsletterSection .headingContainer {
         font-size: 24px;
         font-weight: 400;
         line-height: 0.2;
         padding-bottom: 1rem;
     }
-    .form{
+    .newsletterSection .form{
         padding: 0.5;
     }
-  } */
+  }
 
 /* false */
 .container {

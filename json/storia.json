@@ -8,7 +8,7 @@
             "src": "/utility/storia-mob.avif",
             "alt": ""
         },
-        "title": "La Nostra Storia"
+        "title": "Our Story"
     },
     "timeline": [
         {
@@ -90,17 +90,16 @@
     ],
     "section": [
         {
-            "title": "La nostra compagnia",
+            "title": "Our Company",
             "sectionImg": {
                 "src": "\\pages\\La-nostra-compagnia.avif",
                 "alt": "",
                 "imgPostion": "left"
             },
             "sectionContent": [
-                "BRUNO MD nasce in Italia sotto la direzione di Bruno Farmaceutici S.p.A., una dinamica azienda farmaceutica la cui missione è il miglioramento della salute delle persone attraverso lo sviluppo, la produzione e la distribuzione di soluzioni sanitarie su prescrizione medica formulate con i più alti standard di qualità, sicurezza ed efficacia. Oggi seguiamo gli stessi standard per i nostri integratori, che sono allo stesso livello dei farmaci da prescrizione.",
-                " Siamo immensamente orgogliosi del nostro contributo alla salute umana e incarniamo i principi di duro lavoro e dedizione che ci si può aspettare da un'azienda di seconda generazione. Ma ci stringiamo attorno alla nostra famiglia professionale di scienziati, medici e ricercatori come se fosse la nostra, in quanto condividono la stessa passione per il miglioramento della salute umana.",
-                " Il dott. Antonio Bruno, fondatore della Bruno Farmaceutici, è cresciuto in una piccola città della provincia di Avellino, una regione agricola ricca di montagne, pianure ondulate e fiumi cristallini.",
-                " Dopo essersi laureato con lode in Chimica all'Università di Napoli, il dottor Bruno lavorò per molti anni presso l'azienda farmaceutica milanese Lepetit S.p.A., specializzata in corticosteroidi, fino all'acquisizione da parte di una multinazionale."
+                "We are a 2nd generation, family-owned business made up of scientists, doctors, and researchers. At our core, though, we are promoters of health, science, and wellness, sharing a passion for improving human health. Our philosophy is rooted in Italy and informed by the Mediterranean lifestyle of healthy living, family, friends, love, beauty, and feeling great, which has now been embraced worldwide.",
+                "Dr. Antonio Bruno, the founder of Bruno Farmaceutici, grew up in a small southern town in the Italian province of Avellino, a region with rich, fertile soil, mountains, vast plains, and crystal-clear rivers.",
+                "Graduating with honors in Chemistry from the University of Naples, Dr. Bruno worked for the Milanese pharmaceutical company Lepetit S.p.A., which specialized in corticosteroids for many years until a multinational corporation acquired them."
             ]
         },
         {
@@ -111,20 +110,19 @@
                 "imgPostion": "right"
             },
             "sectionContent": [
-                "Il dott. Bruno si rivolse quindi all'azienda e fece un'offerta per un ramo d'azienda che comprendeva dodici farmaci da prescrizione. L'azienda accettò la proposta e nel luglio 1996 nacque Bruno Farmaceutici.",
-                "Poco dopo entrarono in azienda anche il figlio Vincenzo e la figlia Mariolina.",
-                "Nel decennio successivo, il dott. Bruno concluse preziose acquisizioni che contribuirono ad alimentare la capacità di crescita dell'azienda.",
-                "Nel 2012 Bruno acquisì Safilens, un'azienda leader nel settore oftalmico con prodotti dal design rivoluzionario e un'elevata soddisfazione dei clienti, e ottenne una linea cardiometabolica da Merck per stabilire saldamente la sua leadership nel trattamento del diabete. Oggi, Bruno Farmaceutici è la terza azienda farmaceutica leader in Italia.",
-                "Bruno MD è più di un marchio di Bruno Farmaceutici S.p.A. È parte del nostro patrimonio familiare! I nostri ingredienti sono i migliori, sempre supportati da studi clinici e da informazioni affidabili e concrete.",
-                "La nostra missione è celebrare la vostra buona salute e la gioia di fornire ai clienti gli strumenti necessari per vivere una vita straordinariamente sana."
+                "Dr. Bruno then approached the company and made an offer for a branch of the business that encompassed twelve prescription drugs. They accepted his proposal, and Bruno Farmaceutici was born in July 1996.",
+                "Soon after, Dr. Bruno’s son, Vincenzo, and daughter Mariolina joined.",
+                "Bruno Farmaceutici is the 3rd leading pharmaceutical company in Italy.",
+                "Because of that family legacy and to honor our family name and legacy, Bruno MD will always provide you with reliable, factual information and complete transparency for our ingredients and processes. We will help you cut through the misinformation, misleading claims, and naivete of other supplement companies because, to us, Bruno MD is more than a business. Our mission is to celebrate good health, deep roots, and the joys of an extraordinary life to make the world a better place.",
+                "That is our promise to you. And that is the MDiterranean Life."
             ]
         }
     ],
     "newsletter": {
-        "title": "Iscriviti alla newsletter",
+        "title": "Join our newsletter",
         "portalId": "19647191",
         "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
-        "desktopImage":"/utility/home-news-desk.png",
-        "mobileImage":"/utility/home-news-mob.png"
+        "desktopImage":"/utility/home-news-desk.avif",
+        "mobileImage":"/utility/home-news-mob.avif"
     }
 } 

@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import Slider from "../Slider";
 import styles from "./styles.module.css";
 import PurchaseBox from "../PurchaseBox";
+import StarRatings from "../StarRatings";
 const ProductCard = ({ data, base }) => {
   const { images, declaimer, priceDescription } = data || {};
 
@@ -14,6 +15,7 @@ const ProductCard = ({ data, base }) => {
       </div>
       <div className={styles.textHolder}>
         <div dangerouslySetInnerHTML={{ __html: declaimer?.title }} className={styles.title}></div>
+        <StarRatings variantId={priceDescription.EXTERNALID}/>
         <div dangerouslySetInnerHTML={{ __html: declaimer?.subTitle }} className={styles.subTitle}></div>
         <div dangerouslySetInnerHTML={{ __html: declaimer?.content }} className={styles.content}></div>
       </div>

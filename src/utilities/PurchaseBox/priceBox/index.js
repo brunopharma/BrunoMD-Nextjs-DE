@@ -11,9 +11,9 @@ const PriceBox = ({ isActive, data, base }) => {
   const [isAddingToCart, setIsAddingToCart] = useState(false);
   const [currentShippingInterval, setCurrentShippingInterval] = useState(null)
   useEffect(() => {
-    setVariantId(false||shopifyP?.variants[0]?.id);
-    console.log({data});
-  }, [data,base]);
+    setVariantId(false || shopifyP?.variants[0]?.id);
+    console.log({ data });
+  }, [data, base]);
   if (!data) return null
   const QUANTITY_OPTIONS = [...Array(data?.priceBox.maxQty).keys()].map(n => n + 1)
   const buttonText = isActive == 2 ? 'Acquisto periodico' : 'Aggiungi al carrello'
@@ -29,14 +29,26 @@ const PriceBox = ({ isActive, data, base }) => {
     setCurrentShippingInterval(parseInt(value));
   }
   const CreateCart = () => {
-    alert("soon.")
+    // alert("soon.")
+    if (quantity && variantId) {
+      let cId = localStorage.getItem('e6S4JJM9G');
+      if (!cId) {
+        client.checkout.create().then((checkout) => {
+          let checkOutId = checkout.id;
+          localStorage.setItem('e6S4JJM9G', checkOutId);
+          AddToCart(checkOutId);
+        });
+      } else {
+        AddToCart(cId);
+      }
+    }
   };
 
   const AddToCart = (checkOutId) => {
     const lineItemsToAdd = [
       {
         variantId,
-        quantity,
+        quantity
       },
     ];
     client.checkout
@@ -64,8 +76,8 @@ const PriceBox = ({ isActive, data, base }) => {
         <div style={styles.row}>
           {isActive == 2 && <>
             <div className={styles.section2} id="section2">
-              <p>Non perdere l&apos;opportunita&apos; di risparmiare il <b>{data.priceBox.discount}%</b> su quest&apos;ordine e sulle successive consegne automatiche</p>
-              <ul><li className={styles.liDecore}>Nessun costo</li><li className={styles.liDecore}>Cancella quando vuoi</li></ul>
+              {data.priceBox.subscriptionDetails ? <div dangerouslySetInnerHTML={{ __html: data.priceBox.subscriptionDetails }} /> : <><p>Non perdere l&apos;opportunita&apos; di risparmiare il <b>{data.priceBox.discount}%</b> su quest&apos;ordine e sulle successive consegne automatiche</p>
+                <ul><li className={styles.liDecore}>Nessun costo</li><li className={styles.liDecore}>Cancella quando vuoi</li></ul></>}
             </div>
             <div className={styles.section3} style={{ 'color': data.theme }} onClick={() => setLearnMore(!learnMore)}>Maggiori informazioni <div className={learnMore ? styles.upArrow : styles.downArrow}><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></div>
             </div>
@@ -103,8 +115,8 @@ const PriceBox = ({ isActive, data, base }) => {
                 <option>45 giormi</option>
               </select>
             </div>}
-          {/* onClick={CreateCart} */}
-          <div className={styles.flex}><div className={styles.buyNowBtn}><p>{isAddingToCart ? <Spinner className={styles.spinner} size={20} /> : buttonText}</p></div></div>
+          {/*  onClick={CreateCart} */}
+          <div className={styles.flex}><div className={styles.buyNowBtn} onClick={CreateCart}><p>{isAddingToCart ? <Spinner className={styles.spinner} size={20} /> : buttonText}</p></div></div>
         </div>
       </div>
     </div>
