@@ -28,7 +28,7 @@ const Testimonial = ({ content }) => {
     <section className={styles.container}>
       <div class={styles.testimonialSliderTrack} style={{ transform: 'translateX(200px)' }} id='transformContainer'>
         {slides.map((e, i) => {
-          return (<div class={styles.testimonialSlide}>
+          return (<div class={styles.testimonialSlide} key={i}>
             {i == currentSlide &&<div class={styles.slideInfo}>
               <div class={styles.slideInfoWidth}>
                 <div class={styles.slideInfoQuote} style={invertDesign ? { color: theme }:{}}>

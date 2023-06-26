@@ -2,14 +2,13 @@ import styles from './styles.module.css'
 import NavLink from './Helper/navLink'
 import Link from 'next/link'
 export default function Home({ data }) {
-    console.log({ data });
     return (
         <footer className={styles.footer}>
             <div className={styles.container}>
                 <div className={styles.wrapper}>
                     <div>
-                    <Link href={'/'}>
-                        <img className={styles.logo} src='/logo/Bruno-White.avif' alt='...' />
+                        <Link href={'/'}>
+                            <img className={styles.logo} src='/logo/Bruno-White.avif' alt='...' />
                         </Link>
                     </div>
                     <div className={styles.socialLinkHolder}>
@@ -45,7 +44,7 @@ export default function Home({ data }) {
 
                                 © 2022 brunomd.com. Diritti riservati</p>
                         </div> */}
-                        <div className={styles.textContainer}><p>Esclusione di responsabilità.</p><p>Per quanto gli autori si sforzino di fornire informazioni corrette e attendibili, le stesse non hanno lo scopo di fornire consigli medici individuali e in nessun caso possono costituire la prescrizione di un trattamento, la visita specialistica o il rapporto diretto con il proprio medico curante.</p><p>Si invitano e consigliano gli utenti a chiedere il parere di un medico o di altro specialista prima di prendere qualsiasi iniziativa. Si invitano e consigliano gli utenti a chiedere il parere di un medico o di altro specialista prima di prendere qualsiasi iniziativa. </p><p>Tutte le informazioni fornite: </p><ul><li>non devono essere interpretate come alternative alla consultazione, valutazione o trattamento di un medico ovvero di altro specialista.                                                         </li></ul><ul><li>non sono pensate per fornire specifica consulenza in materia di salute fisica, o qualsiasi altra sorta di consulenza. Pertanto tutto il materiale, le informazioni e i piani alimentari sono elaborati soltanto a scopo informativo.</li></ul><p>© 2023 brunomd.com. Diritti riservati</p></div>
+                        <div className={styles.textContainer} dangerouslySetInnerHTML={{ __html: data?.text }} />
                     </div>
                 </div>
             </div>
