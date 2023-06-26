@@ -7,6 +7,7 @@ import {
     AccordionIcon,
     AccordionPanel,
 } from '../accordion'
+import VideoPlayer from '@/utilities/Video';
 
 const ProcessCard = ({
     stepNumber,
@@ -14,6 +15,7 @@ const ProcessCard = ({
     imageAltText,
     title,
     bodyCopy,
+    video,
     expandedCopy,
     titleColor,
     stepAlignment,
@@ -32,13 +34,14 @@ const ProcessCard = ({
     return (
         <div className={styles.processCard}>
             {stepAlignment ? (<div className={styles.stepNumber} style={{ color: titleColor, left: 'auto', right: '30px' }}> {stepNumber} </div>) : (<div className={styles.stepNumber} style={{ color: titleColor }}> {stepNumber} </div>)}
+            {video ? <VideoPlayer video={{video:{src:image,alt:imageAltText}}} id={title}/>:
             <img
                 src={image}
                 className={styles.processImage}
                 alt={imageAltText}
                 width={400}
                 height={264}
-            />
+            />}
             <h3 className={styles.processTitle} style={{ color: titleColor }}>{title}</h3>
             <p className={styles.processBody}>{bodyCopy}</p>
             <Accordion allowMultiple className={styles.accordion}>

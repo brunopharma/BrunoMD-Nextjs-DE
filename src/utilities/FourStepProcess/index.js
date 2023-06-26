@@ -16,9 +16,10 @@ const FourStepProcess = ({ processCards, header, theme,stepAlignment,buttonTittl
             return (
               <ProcessCard
                 stepNumber={el.stepNumber}
-                image={el.image?.src}
+                image={el?.video?.src || el.image?.src}
                 title={el.title}
-                imageAltText = {el.image?.alt}
+                imageAltText = {el?.video?.alt || el.image?.alt}
+                video={el?.video && true}
                 bodyCopy={el.body}
                 expandedCopy={el.expanded}
                 key={idx}
