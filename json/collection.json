@@ -291,11 +291,11 @@
         "masterHead": {
             "img": {
                 "desktopImage": {
-                    "src": "/collections/MDbones.avif",
+                    "src": "/collections/MDBones.avif",
                     "alt": ""
                 },
                 "mobileImage": {
-                    "src": "/collections/MDbones.avif",
+                    "src": "/collections/MDBones.avif",
                     "alt": ""
                 },
                 "title": "Bones"

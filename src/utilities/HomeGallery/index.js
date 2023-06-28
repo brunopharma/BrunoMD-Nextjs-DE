@@ -2,11 +2,16 @@ import React,{useEffect} from 'react'
 import styles from './styles.module.css'
 
 export const HomeGallery = ({ galleryId,id,isreviews,title }) => {
+    // const [, updateState] = React.useState();
+    // const forceUpdate = React.useCallback(() => updateState({}), []);
     useEffect(() => {
         if(id){
             (function e() { var e = document.createElement("script"); e.type = "text/javascript", e.async = true, e.src = `//staticw2.yotpo.com/${id}/widget.js`; var t = document.getElementsByTagName("script")[0]; t.parentNode.insertBefore(e, t) })();
         }
     }, [])
+    setInterval(() => {
+
+    }, 5000);
     if(!id) return null
 
     return (

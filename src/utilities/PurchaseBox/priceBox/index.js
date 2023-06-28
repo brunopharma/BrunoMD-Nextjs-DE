@@ -12,16 +12,14 @@ const PriceBox = ({ isActive, data, base }) => {
   const [currentShippingInterval, setCurrentShippingInterval] = useState(null)
   useEffect(() => {
     setVariantId(false || shopifyP?.variants[0]?.id);
-    console.log({ data });
   }, [data, base]);
   if (!data) return null
   const QUANTITY_OPTIONS = [...Array(data?.priceBox.maxQty).keys()].map(n => n + 1)
-  const buttonText = isActive == 2 ? 'Acquisto periodico' : 'Aggiungi al carrello'
+  const buttonText = isActive == 2 ? data.priceBox?.subscribe?.btnText : data.priceBox?.oneTime?.btnText
 
   const handleQuantityChange = e => {
     const { value } = e.target
     setQuantity(+value);
-    console.log({ quantity });
   }
 
   const handleFreqChange = e => {
@@ -79,17 +77,17 @@ const PriceBox = ({ isActive, data, base }) => {
               {data.priceBox.subscriptionDetails ? <div dangerouslySetInnerHTML={{ __html: data.priceBox.subscriptionDetails }} /> : <><p>Non perdere l&apos;opportunita&apos; di risparmiare il <b>{data.priceBox.discount}%</b> su quest&apos;ordine e sulle successive consegne automatiche</p>
                 <ul><li className={styles.liDecore}>Nessun costo</li><li className={styles.liDecore}>Cancella quando vuoi</li></ul></>}
             </div>
-            <div className={styles.section3} style={{ 'color': data.theme }} onClick={() => setLearnMore(!learnMore)}>Maggiori informazioni <div className={learnMore ? styles.upArrow : styles.downArrow}><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></div>
+            <div className={styles.section3} style={{ 'color': data.theme }} onClick={() => setLearnMore(!learnMore)}>{data?.priceBox.moreInfoBtnText ? data?.priceBox.moreInfoBtnText: 'Maggiori informazioni'}<div className={learnMore ? styles.upArrow : styles.downArrow}><svg class="flickity-button-icon" viewBox="0 0 100 100"><path d="M 10,50 L 60,100 L 70,90 L 30,50  L 70,10 L 60,0 Z" class="arrow" transform="translate(100, 100) rotate(180) "></path></svg></div>
             </div>
             {learnMore &&
               <div className={styles.m5}>
-                <SupplementalInfo />
+                <SupplementalInfo moneyBackInfo={data?.priceBox.moneyBackInfo} termPurchase={data?.priceBox?.termPurchase}/>
               </div>}
           </>}
           <div className={styles.section4}>Disponibilita&apos; immediata.</div>
           <div className={styles.flex}>
             <div className={styles.selectDiv}>
-              <div className={styles.quntity}>Quantita&apos;:</div>
+              <div className={styles.quntity}>{data.priceBox?.qtyLabelText ? data.priceBox?.qtyLabelText : "Quantita'"}:</div>
               <select className={styles.selectNon} onChange={handleQuantityChange}>
                 {QUANTITY_OPTIONS.map(val => (
                   <option key={val} value={val}>
@@ -103,16 +101,16 @@ const PriceBox = ({ isActive, data, base }) => {
           </div>
           {isActive == 2 &&
             <div className={styles.section6_2}>
-              <b className={styles.freqLabel}>Consegna ogni:</b>
+              <b className={styles.freqLabel}>{data.priceBox?.freqLabelText ? data.priceBox?.freqLabelText : 'Consegna ogni'}:</b>
               <select className={styles.freq} onChange={handleFreqChange}>
                 {/* {recharge?.shippingIntervalFrequency?.map(val => (
                     <option key={val} value={val}>
                       {`${val}`} {recharge.shippingIntervalUnitType == 'day' ? 'giorni' : recharge.shippingIntervalUnitType}
                     </option>
                   ))} */}
-                <option>15 giormi</option>
-                <option>30 giormi</option>
-                <option>45 giormi</option>
+                <option>15 {data.priceBox?.subscribe?.interval ? data.priceBox?.subscribe.interval :'giormi'}</option>
+                <option>30 {data.priceBox?.subscribe?.interval ? data.priceBox?.subscribe.interval :'giormi'}</option>
+                <option>45 {data.priceBox?.subscribe?.interval ? data.priceBox?.subscribe.interval :'giormi'}</option>
               </select>
             </div>}
           {/*  onClick={CreateCart} */}

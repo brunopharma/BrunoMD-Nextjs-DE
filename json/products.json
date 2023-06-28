@@ -19,7 +19,27 @@
             "defaultQtyMultiplayer": 25,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "compresse",
-            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
+            "moreInfoBtnText":"Maggiori informazioni",
+            "qtyLabelText":"Quantita'",
+            "freqLabelText":"Consegna ogni",
+            "oneTime":{
+                "title":"Acquisto singolo",
+                "btnText":"Aggiungi al carrello"
+            },
+            "subscribe":{
+                "title":"Acquisto periodico",
+                "btnText":"Acquisto periodico",
+                "interval":"giorni"
+            },
+            "moneyBackInfo":{
+                "title":"14 Giorni - Soddisfatti o Rimborsati ",
+                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            },
+            "termPurchase":{
+                "title":"Modalita' per l'acquisto periodico",
+                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            }
         },
         "declaimer": {
             "title": "<h1>CRONOS</h1>",
@@ -175,7 +195,27 @@
             "defaultQtyMultiplayer": 30,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Bustine",
-            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
+            "moreInfoBtnText":"Maggiori informazioni",
+            "qtyLabelText":"Quantita'",
+            "freqLabelText":"Consegna ogni",
+            "oneTime":{
+                "title":"Acquisto singolo",
+                "btnText":"Aggiungi al carrello"
+            },
+            "subscribe":{
+                "title":"Acquisto periodico",
+                "btnText":"Acquisto periodico",
+                "interval":"giorni"
+            },
+            "moneyBackInfo":{
+                "title":"14 Giorni - Soddisfatti o Rimborsati ",
+                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            },
+            "termPurchase":{
+                "title":"Modalita' per l'acquisto periodico",
+                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            }
         },
         "declaimer": {
             "title": "<h1>CITRAK FORTE 4G.</h1>",
@@ -355,7 +395,27 @@
             "defaultQtyMultiplayer": 1,
             "qtyMultiplierShowOnExtraDesc": false,
             "qtyExtraDesc": "Flacone 10ml",
-            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
+            "moreInfoBtnText":"Maggiori informazioni",
+            "qtyLabelText":"Quantita'",
+            "freqLabelText":"Consegna ogni",
+            "oneTime":{
+                "title":"Acquisto singolo",
+                "btnText":"Aggiungi al carrello"
+            },
+            "subscribe":{
+                "title":"Acquisto periodico",
+                "btnText":"Acquisto periodico",
+                "interval":"giorni"
+            },
+            "moneyBackInfo":{
+                "title":"14 Giorni - Soddisfatti o Rimborsati ",
+                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            },
+            "termPurchase":{
+                "title":"Modalita' per l'acquisto periodico",
+                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            }
         },
         "benefits": {
             "title": "Scheda Prodotto",
@@ -531,7 +591,27 @@
             "defaultQtyMultiplayer": 30,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Bustine",
-            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
+            "moreInfoBtnText":"Maggiori informazioni",
+            "qtyLabelText":"Quantita'",
+            "freqLabelText":"Consegna ogni",
+            "oneTime":{
+                "title":"Acquisto singolo",
+                "btnText":"Aggiungi al carrello"
+            },
+            "subscribe":{
+                "title":"Acquisto periodico",
+                "btnText":"Acquisto periodico",
+                "interval":"giorni"
+            },
+            "moneyBackInfo":{
+                "title":"14 Giorni - Soddisfatti o Rimborsati ",
+                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            },
+            "termPurchase":{
+                "title":"Modalita' per l'acquisto periodico",
+                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            }
         },
         "benefits": {
             "title": "Scheda Prodotto",
@@ -692,7 +772,27 @@
             "defaultQtyMultiplayer": 20,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Bustine",
-            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
+            "moreInfoBtnText":"Maggiori informazioni",
+            "qtyLabelText":"Quantita'",
+            "freqLabelText":"Consegna ogni",
+            "oneTime":{
+                "title":"Acquisto singolo",
+                "btnText":"Aggiungi al carrello"
+            },
+            "subscribe":{
+                "title":"Acquisto periodico",
+                "btnText":"Acquisto periodico",
+                "interval":"giorni"
+            },
+            "moneyBackInfo":{
+                "title":"14 Giorni - Soddisfatti o Rimborsati ",
+                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            },
+            "termPurchase":{
+                "title":"Modalita' per l'acquisto periodico",
+                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            }
         },
         "benefits": {
             "title": "Scheda Prodotto",
@@ -853,7 +953,27 @@
             "defaultQtyMultiplayer": 25,
             "qtyMultiplierShowOnExtraDesc": false,
             "qtyExtraDesc": "compresse",
-            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
+            "moreInfoBtnText":"Maggiori informazioni",
+            "qtyLabelText":"Quantita'",
+            "freqLabelText":"Consegna ogni",
+            "oneTime":{
+                "title":"Acquisto singolo",
+                "btnText":"Aggiungi al carrello"
+            },
+            "subscribe":{
+                "title":"Acquisto periodico",
+                "btnText":"Acquisto periodico",
+                "interval":"giorni"
+            },
+            "moneyBackInfo":{
+                "title":"14 Giorni - Soddisfatti o Rimborsati ",
+                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            },
+            "termPurchase":{
+                "title":"Modalita' per l'acquisto periodico",
+                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            }
         },
         "benefits": {
             "title": "Scheda Prodotto",
@@ -1014,7 +1134,27 @@
             "defaultQtyMultiplayer": 15,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "compresse",
-            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 10 giorni e riceverai il prodotto a pagamento effettuato"
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
+            "moreInfoBtnText":"Maggiori informazioni",
+            "qtyLabelText":"Quantita'",
+            "freqLabelText":"Consegna ogni",
+            "oneTime":{
+                "title":"Acquisto singolo",
+                "btnText":"Aggiungi al carrello"
+            },
+            "subscribe":{
+                "title":"Acquisto periodico",
+                "btnText":"Acquisto periodico",
+                "interval":"giorni"
+            },
+            "moneyBackInfo":{
+                "title":"14 Giorni - Soddisfatti o Rimborsati ",
+                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            },
+            "termPurchase":{
+                "title":"Modalita' per l'acquisto periodico",
+                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            }
         },
         "benefits": {
             "title": "Scheda Prodotto",
@@ -1175,7 +1315,27 @@
             "defaultQtyMultiplayer": 1,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "tubo crema gel 50 ml",
-            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
+            "moreInfoBtnText":"Maggiori informazioni",
+            "qtyLabelText":"Quantita'",
+            "freqLabelText":"Consegna ogni",
+            "oneTime":{
+                "title":"Acquisto singolo",
+                "btnText":"Aggiungi al carrello"
+            },
+            "subscribe":{
+                "title":"Acquisto periodico",
+                "btnText":"Acquisto periodico",
+                "interval":"giorni"
+            },
+            "moneyBackInfo":{
+                "title":"14 Giorni - Soddisfatti o Rimborsati ",
+                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            },
+            "termPurchase":{
+                "title":"Modalita' per l'acquisto periodico",
+                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            }
         },
         "benefits": {
             "title": "Scheda Prodotto",
@@ -1336,7 +1496,27 @@
             "defaultQtyMultiplayer": 14,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Garze Monouso",
-            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
+            "moreInfoBtnText":"Maggiori informazioni",
+            "qtyLabelText":"Quantita'",
+            "freqLabelText":"Consegna ogni",
+            "oneTime":{
+                "title":"Acquisto singolo",
+                "btnText":"Aggiungi al carrello"
+            },
+            "subscribe":{
+                "title":"Acquisto periodico",
+                "btnText":"Acquisto periodico",
+                "interval":"giorni"
+            },
+            "moneyBackInfo":{
+                "title":"14 Giorni - Soddisfatti o Rimborsati ",
+                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            },
+            "termPurchase":{
+                "title":"Modalita' per l'acquisto periodico",
+                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            }
         },
         "benefits": {
             "title": "Scheda Prodotto",
@@ -1451,25 +1631,45 @@
                 "alt": ""
             },
             {
-                "src": "\\utility\\products\\riboflam\\BRUNOPHARMA15001.jpg",
+                "src": "\\utility\\products\\riboflam\\BRUNO PHARMA 15008-Riboflam-2500x2500.png",
                 "alt": ""
             },
             {
-                "src": "\\utility\\products\\riboflam\\BMD-Riboflam-Benefit-Card-01b-v3.jpg",
+                "src": "\\utility\\products\\riboflam\\BRUNO PHARMA 15000-Riboflam-2500x2500.png",
                 "alt": ""
+            },
+            {
+                "src":"\\utility\\products\\riboflam\\BRUNO PHARMA 15001-Riboflam-2500x2500.png"
             }
         ],
         "declaimer": {
             "title": "<h1>RIBOFLAM</h1>",
             "subTitle": "<strong>RIBOFLAM 90 V-CAPS 30 SERVINGS</strong>",
-            "content": "<p>The only prescription-grade supplement which contains ingredients that enhance the immune system response and support the whole body’s healthy inflammation response.</p>"
+            "content": "<p>Riboflam helps cool inflammation by support­ing the whole body's healthy inflammation response with Curcumin Phytosome + maintains full-spectrum immune system functionality with Echinacea and Quercetin Phytosomes</p>"
         },
         "priceBox": {
             "qtyUnitMultiplierLabel": "servings",
             "discount": 20,
             "maxQty": 10,
             "defaultQtyMultiplayer": 30,
-            "subscriptionDetails": "soon"
+            "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
+            "moreInfoBtnText":"Learn more",
+            "qtyLabelText":"QTY",
+            "freqLabelText":"Delivery every",
+            "oneTime":{
+                "title":"One time",
+                "btnText":"Add to cart"
+            },
+            "subscribe":{
+                "title":"Subscribe",
+                "btnText":"Subscribe",
+                "interval":"Days"
+            },
+            "moneyBackInfo":{
+                "title":"HOW SUBSCRIBE & SAVE WORKS",
+                "desc":"30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
+            },
+            "termPurchase":null
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -1483,7 +1683,7 @@
             "productColorTheme": "#37246b",
             "items": [
                 {
-                    "title": "IMMUNE SYSTEM",
+                    "title": "Exercise Pain Relief",
                     "icon": "",
                     "img": {
                         "src": "\\utility\\products\\riboflam\\BMD-Riboflam-Benefit-Card-04b.jpg",
@@ -1612,7 +1812,24 @@
             "discount": 20,
             "maxQty": 10,
             "defaultQtyMultiplayer": 30,
-            "subscriptionDetails": "soon"
+            "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
+            "moreInfoBtnText":"Learn more",
+            "qtyLabelText":"QTY",
+            "freqLabelText":"Delivery every",
+            "oneTime":{
+                "title":"One time",
+                "btnText":"Add to cart"
+            },
+            "subscribe":{
+                "title":"Subscribe",
+                "btnText":"Subscribe",
+                "interval":"Days"
+            },
+            "moneyBackInfo":{
+                "title":"HOW SUBSCRIBE & SAVE WORKS",
+                "desc":"30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
+            },
+            "termPurchase":null
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -1759,6 +1976,10 @@
                 "alt": ""
             },
             {
+                "src":"\\utility\\products\\rcp\\Bruno-Pharma17271.avif",
+                "alt":""
+            },
+            {
                 "src": "\\utility\\products\\rcp\\NEWBMD-RCP-BenefitCard-01bcopy.jpg",
                 "alt": ""
             }
@@ -1766,14 +1987,31 @@
         "declaimer": {
             "title": "<h1>ROYAL COLLAGEN PEPTIDES</h1>",
             "subTitle": "<strong>ROYAL COLLAGEN PEPTIDES 30 Servings Jar-420g</strong>",
-            "content": "<p>Royal Collagen Peptides®: a 5-in-1 dietary supplement which contains Specific Collagen Peptides and ingredients clinically proven to help improve Skin, Hair, Nails, Joint, and Bone Health.</p>"
+            "content": "<p>Royal Collagen Peptides contain Specific Collagen Peptides formulated to target and stimulate specific types of collagen throughout your body. These three types of collagen are found in the skin, called Fibroblasts; bone, called Osteoblasts; and Joints, called Chondrocytes.</p>"
         },
         "priceBox": {
-            "qtyUnitMultiplierLabel": "servings",
+            "qtyUnitMultiplierLabel": "Unit",
             "discount": 20,
             "maxQty": 10,
-            "defaultQtyMultiplayer": 30,
-            "subscriptionDetails": "soon"
+            "defaultQtyMultiplayer": 1,
+            "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
+            "moreInfoBtnText":"Learn more",
+            "qtyLabelText":"QTY",
+            "freqLabelText":"Delivery every",
+            "oneTime":{
+                "title":"One time",
+                "btnText":"Add to cart"
+            },
+            "subscribe":{
+                "title":"Subscribe",
+                "btnText":"Subscribe",
+                "interval":"Days"
+            },
+            "moneyBackInfo":{
+                "title":"HOW SUBSCRIBE & SAVE WORKS",
+                "desc":"30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
+            },
+            "termPurchase":null
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -1787,49 +2025,40 @@
             "productColorTheme": "#37246b",
             "items": [
                 {
-                    "title": "SKIN",
+                    "title": "Youthful Skin, Hair & Nails",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\rcp\\BMD-RCP-Benefit-Card-02b.jpg",
+                        "src": "\\utility\\products\\rcp\\BMD-RCP-Benefit-Card-04c.avif",
                         "alt": ""
                     },
-                    "description": "Royal Collagen Peptides improve skin texture and elasticity, making skin appear tighter and firmer."
+                    "description": "Stimulates collagen production in fibroblasts to help reduce wrinkles and promote growth and health of hair and nails."
                 },
                 {
-                    "title": "NAILS",
+                    "title": "Stronger bones",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\rcp\\BMD-RCP-Benefit-Card-04b.jpg",
+                        "src": "\\utility\\products\\rcp\\BMD-RCP-Benefit-Card-03c.avif",
                         "alt": ""
                     },
-                    "description": "Royal Collagen Peptides promote faster growth and stronger fingernails with fewer chips and breaks."
+                    "description": "Stimulates collagen production in osteoblasts & reduces bone fractures in women by 75%"
                 },
                 {
-                    "title": "HAIR",
+                    "title": "Joints and Cartilage",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\rcp\\BMD-RCP-Benefit-Card-05b.jpg",
+                        "src": "\\utility\\products\\rcp\\BMD-RCP-Benefit-Card-08-v3c.avif",
                         "alt": ""
                     },
-                    "description": "Royal Collagen Peptides promotes more healthy, youthful-looking hair with renewed luster and bounce."
+                    "description": "Stimulates collagen production in chondrocytes to support joint and collagen function"
                 },
                 {
-                    "title": "BONES",
+                    "title": "Reduces inflammation & boosts immunity",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\rcp\\BMD-RCP-Benefit-Card-03b.jpg",
+                        "src": "\\utility\\products\\rcp\\BMD-RCP-Benefit-Card-07c.avif",
                         "alt": ""
                     },
-                    "description": "Our Specific Collagen Peptides Complex significantly strengthens bones by increasing bone mineral density. When taken daily, Royal Collagen Peptides are proven to reduce bone fractures in women by 75%."
-                },
-                {
-                    "title": "JOINTS & CARTILAGE",
-                    "icon": "",
-                    "img": {
-                        "src": "\\utility\\products\\rcp\\Jointhealthbenefitcard.jpg",
-                        "alt": ""
-                    },
-                    "description": "Royal Collagen Peptides help reduce symptoms of joint pain associated with strenuous athletic activity and improve joint health by stimulating the production of collagen and hyaluronic acid in cells found in cartilage, called chondrocytes."
+                    "description": "Contains natural vitamin C and Red Orange Complex with over 278% daily recommended value of Vitamin C."
                 }
             ]
         },
@@ -1837,26 +2066,70 @@
             {
                 "title": "Details",
                 "details": [
-                    "<p>Royal Collagen Peptides® is a scientific marvel that helps rebuild and replenish skin, collagen, and bones with nature’s most potent ingredients! By blending our specific bovine collagen peptides with natural vitamin C, we give your body everything it needs to increase collagen biosynthesis in a natural way.</p><p>BRUNO MD Specific Collagen Peptides are a breakthrough as they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails.</p>"
+                    "<p>Royal Collagen Peptides®: a 5-in-1 dietary supplement which contains Specific Collagen Peptides and ingredients clinically proven to help improve Skin, Hair, Nails, Joint, and Bone Health. Royal Collagen Peptides® is a scientific marvel that helps rebuild and replenish skin, collagen, and bones with nature’s most potent ingredients! By blending our specific bovine collagen peptides with natural vitamin C, we give your body everything it needs to increase collagen biosynthesis in a natural way.</p>",
+                    "<p>BRUNO MD Specific Collagen Peptides are a breakthrough as they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails.</p>",
+                    "<b>Direction to use</b>",
+                    "<p>Add 1 scoop to at least 8 fl oz of liquid, preferably cold or lukewarm, and mix well. Royal Collagen Peptides® may be consumed on an empty stomach, at any time during the day. </p>",
+                    "<b>Warnings</b>",
+                    "<p>Do not exceed 3 servings per day.</p>",
+                    "<b>Caution</b>",
+                    "<p>As with any supplement, consult your healthcare professional before using this product, If you are pregnant, nursing, taking any medication, or under medical supervision.</p>",
+                    "<p>KEEP OUT OF REACH OF CHILDREN. Do not use if safety seal is broken or missing.</p>",
+                    "<b>Side effects</b>",
+                    "<p>None</p>",
+                    "<b>Storage and Packaging</b>",
+                    "<p>Protect from heat, light and moisture. Store in cool, dry plate at 15°-30°C (59°-86°F)</p>"
                 ]
             },
             {
-                "title": "Additional Information",
+                "title": "Additional Info",
                 "details": [
                     "<p>soon.</p>"
                 ]
             },
             {
-                "title": "Quality assurance",
-                "details": [
-                    "<p>soon.</p>"
-                ]
+                "title": "Pasture Raised",
+                "details": []
             },
             {
-                "title": "Ingredients",
-                "details": [
-                    "<p>soon</p>"
-                ]
+                "title": "Paleo Friendly",
+                "details": []
+            },
+            {
+                "title": "Non-GMO",
+                "details": []
+            },
+            {
+                "title": "EU Source",
+                "details": []
+            },
+            {
+                "title": "Low-Carb",
+                "details": []
+            },
+            {
+                "title": "Clinically-proven",
+                "details": []
+            },
+            {
+                "title": "Gluten Free",
+                "details": []
+            },
+            {
+                "title": "Ketosis",
+                "details": []
+            },
+            {
+                "title": "Made in USA",
+                "details": []
+            },
+            {
+                "title":"BioAvailable",
+                "details":[]
+            },
+            {
+                "title":"Quality Assurance",
+                "details":[ "cGMP Facility"]
             },
             {
                 "title": "FAQs",
@@ -1887,6 +2160,18 @@
                     }
                 ],
                 "faq": true
+            },
+            {
+                "title":"NATURAL VITAMIN C (FROM ASCORBIC ACID)",
+                "details":["Scotland, United Kingdom"]
+            },
+            {
+                "title":"HIGHLY PURIFIED COLLAGEN PEPTIDES COMPLEX (SPECIFIC COLLAGEN PEPTIDES)",
+                "details":[ "Italy, Germany, Great Britain, other EU countries. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage; so, you’ll move better, and increase bone density; to keep your bones strong."]
+            },
+            {
+                "title":"RED ORANGE COMPLEX",
+                "details":[ "Sicily, Italy. Red Orange Complex is a standardized extract locally sourced from the juice of three pigmented varieties of Sicilian Blood Orange (Citrus Sinensis - Varieties Moro, Sanguinello, Tarocco) grown on the side of Mt. Etna volcano where climate and soil are perfect for this kind of tree. No one else in the world has access to it. Sicilians call this orange “the ultimate healthy fruit,” but Bruno MD calls it a miracle of Madre Terra."]
             }
         ],
         "seo": {
@@ -1929,7 +2214,24 @@
             "discount": 20,
             "maxQty": 10,
             "defaultQtyMultiplayer": 20,
-            "subscriptionDetails": "soon"
+            "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
+            "moreInfoBtnText":"Learn more",
+            "qtyLabelText":"QTY",
+            "freqLabelText":"Delivery every",
+            "oneTime":{
+                "title":"One time",
+                "btnText":"Add to cart"
+            },
+            "subscribe":{
+                "title":"Subscribe",
+                "btnText":"Subscribe",
+                "interval":"Days"
+            },
+            "moneyBackInfo":{
+                "title":"HOW SUBSCRIBE & SAVE WORKS",
+                "desc":"30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
+            },
+            "termPurchase":null
         },
         "fourStepProcess": {
             "title":"Our Four-Step Process",
@@ -2096,33 +2398,62 @@
         "btnText": "Shop",
         "price": 58.78,
         "logo": {
-            "src": "\\utility\\products\\rcp-blood\\RCP-SP-Dragonfruit-01452NR-framed.png"
+            "src": "\\utility\\products\\rcp-blood\\RCP-SP-Blood_Orange-01074NR.png"
         },
         "images": [
             {
-                "src": "\\utility\\products\\rcp-blood\\RCP-SP-BloodOrange-01452NR-framed.png",
+                "src": "\\utility\\products\\rcp-blood\\RCP-SP-Blood_Orange-01074NR.png",
                 "alt": ""
             },
             {
-                "src": "\\utility\\products\\rcp-blood\\RCP-SP-BloodOrange-01085NR.png",
+                "src": "\\utility\\products\\rcp-blood\\RCP-SP-Blood_Orange-01276NR.png",
                 "alt": ""
             },
             {
-                "src": "\\utility\\products\\rcp-blood\\BMD-RCP-Stickparks-Benefit-Card-01b-Blood-Orange.jpg",
+                "src": "\\utility\\products\\rcp-blood\\RCP-SP-Blood_Orange-01469NR.png",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\rcp-blood\\RCP-SP-Blood_Orange-01479NR.png",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\rcp-blood\\RCP-SP-Blood_Orange-01085NR.png",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\rcp-blood\\RCP-SP-Blood_Orange-01098NR.png",
                 "alt": ""
             }
         ],
         "declaimer": {
             "title": "<h1>Royal Collagen Peptides Beauty From Within Blood Orange</h1>",
             "subTitle": "<strong>Royal Collagen Peptides Beauty From Within Blood Orange 20 Units/strong>",
-            "content": "<p>The only prescription-grade supplement which contains ingredients that enhance the immune system response and support the whole body’s healthy inflammation response.</p>"
+            "content": "<p>Royal Collagen Peptides 'Beauty from Within' helps tame inflammation and restart your collagen-producing cells for younger-looking skin. Improves the microcirculation in hair roots and nail beds and increases the elasticity of connective tissue, which helps diminish the appearance of cellulite. Red Orange complex evens skin tone, helps improve skin health reduces age spots, and is clinically proven to reduce eye wrinkles volume.</p>"
         },
         "priceBox": {
             "qtyUnitMultiplierLabel": "servings",
             "discount": 20,
             "maxQty": 10,
             "defaultQtyMultiplayer": 20,
-            "subscriptionDetails": "soon"
+            "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
+            "moreInfoBtnText":"Learn more",
+            "qtyLabelText":"QTY",
+            "freqLabelText":"Delivery every",
+            "oneTime":{
+                "title":"One time",
+                "btnText":"Add to cart"
+            },
+            "subscribe":{
+                "title":"Subscribe",
+                "btnText":"Subscribe",
+                "interval":"Days"
+            },
+            "moneyBackInfo":{
+                "title":"HOW SUBSCRIBE & SAVE WORKS",
+                "desc":"30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
+            },
+            "termPurchase":null
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -2136,40 +2467,40 @@
             "productColorTheme": "#37246b",
             "items": [
                 {
-                    "title": "HAIR",
+                    "title": "Reduce inflammation",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\rcp-blood\\BMD-RCP-Stickparks-Benefit-Card-02b_2729b0c5-51fd-48d4-bed2-fbaac1b61c16.jpg",
+                        "src": "\\utility\\products\\rcp-blood\\BMD-RCP-Stickpacks-Benefit-Card-07c.jpg",
                         "alt": ""
                     },
-                    "description": "Royal Collagen Peptides promotes more healthy, youthful-looking hair with renewed luster and bounce."
+                    "description": "Astaxanthin, from Haematococcus Pluvialis algae, reduces inflammation and helps restart collagen-producing cells"
                 },
                 {
-                    "title": "SKIN",
+                    "title": "Boost collagen production ",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\rcp-blood\\BMD-RCP-Stickparks-Benefit-Card-05b_bc7f5ef9-c34c-4261-9eca-6c8c581c99f9.jpg",
+                        "src": "\\utility\\products\\rcp-blood\\BMD-RCP-Stickparks-Benefit-Card-02c.jpg",
                         "alt": ""
                     },
-                    "description": "Royal Collagen Peptides Beauty from Within helps tame inflammation and turn your collagen-producing cells back on to improve skin texture and elasticity, making skin appear tighter and firmer."
+                    "description": "Specific Collagen Peptides, from highly purified collagen peptides, help stimulate fibroblasts, reduce wrinkles, and improve overall skin tone"
                 },
                 {
-                    "title": "NAILS",
+                    "title": "Maximize collagen biosynthesis",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\rcp-blood\\BMD-RCP-Stickparks-Benefit-Card-03b.jpg",
+                        "src": "\\utility\\products\\rcp-blood\\BMD-RCP-Stickparks-Benefit-Card-04c.jpg",
                         "alt": ""
                     },
-                    "description": "Royal Collagen Peptides promote faster growth and stronger fingernails with fewer chips and breaks."
+                    "description": "Maximize collagen biosynthesis with Red Orange Complex from varieties of Moro, Sanguinello, & Tarocco orange extract to encourage collagen formation and boost the immune system with potent Natural Vitamin-C"
                 },
                 {
-                    "title": "THE VISIBLE APPEARANCE OF CELLULITE",
+                    "title": "Lock in hydration",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\rcp-blood\\BMD-RCP-Stickpacks-Benefit-Card-07b_812f16e3-5fbc-4677-bc91-032c2e54cb75.jpg",
+                        "src": "\\utility\\products\\rcp-blood\\BMD-RCP-Stickparks-Benefit-Card-05c.jpg",
                         "alt": ""
                     },
-                    "description": "Royal Collagen Peptides Beauty from Within helps increase the elasticity of connective tissue within the dermal matrix to help smooth skin and decrease the appearance of cellulite."
+                    "description": "Hyaluronic acid from natural fermentation process significantly increases skin plumpness, moisture, and glow"
                 }
             ]
         },
@@ -2177,26 +2508,60 @@
             {
                 "title": "Details",
                 "details": [
-                    "<p>Improve the microcirculation in roots and nail beds, so hair grows faster and stronger, and nails are less brittle and more resilient. This beauty regimen also increases the elasticity of connective tissue, which helps diminish the appearance of cellulite. Our Red Orange complex even skin tone helps improve skin health and reduce age spots. And even your eyes will look younger with our unique all-natural ingredients, clinically proven to reduce eye wrinkles volume.</p>"
+                    "<p>Royal Collagen Peptides “Beauty from Within is daily collagen care with 6 in 1 benefits. Rebuild youthful radiance from the inside out with clinically proven ingredients. Help tame inflammation and restart your collagen-producing cells for younger-looking skin. Improve the microcirculation in roots and nail beds, so hair grows faster and stronger, and nails are less brittle and more resilient. This beauty regimen also increases the elasticity of connective tissue, which helps diminish the appearance of cellulite. Our Red Orange complex even skin tone helps improve skin health and reduce age spots. And even your eyes will look younger with our unique all-natural ingredients, clinically proven to reduce eye wrinkles volume.</p>",
+                    "<b>Direction to use</b>",
+                    "<p>Add 1 scoop to at least 8 fl oz of liquid, preferably cold or lukewarm, and mix well. Royal Collagen Peptides® may be consumed on an empty stomach, at any time during the day. Warnings:Do not exceed 3 servings per day.</p>",
+                    "<b>Caution</b>",
+                    "<p>As with any supplement, consult your healthcare professional before using this product, If you are pregnant, nursing, taking any medication, or under medical supervision. <b>KEEP OUT OF REACH OF CHILDREN</b>. Do not use if safety seal is broken or missing</p>",
+                    "<b>Side effects</b>",
+                    "<p>none</p>",
+                    "<b>Storage and Packaging</b>",
+                    "Protect from heat, light and moisture. Store in cool, dry plate at 15°-30°C (59°-86°F)"
                 ]
             },
             {
-                "title": "Additional Information",
-                "details": [
-                    "<p>soon.</p>"
-                ]
+                "title": "Pasture Raised",
+                "details": []
             },
             {
-                "title": "Quality assurance",
-                "details": [
-                    "<p>soon.</p>"
-                ]
+                "title": "Paleo Friendly",
+                "details": []
             },
             {
-                "title": "Ingredients",
-                "details": [
-                    "<p>soon</p>"
-                ]
+                "title": "Non-GMO",
+                "details": []
+            },
+            {
+                "title": "EU Source",
+                "details": []
+            },
+            {
+                "title": "Low-Carb",
+                "details": []
+            },
+            {
+                "title": "Clinically-proven",
+                "details": []
+            },
+            {
+                "title": "Gluten Free",
+                "details": []
+            },
+            {
+                "title": "Ketosis",
+                "details": []
+            },
+            {
+                "title": "Made in USA",
+                "details": []
+            },
+            {
+                "title": "BioAvailable",
+                "details": []
+            },
+            {
+                "title": "Quality Assurance",
+                "details": []
             },
             {
                 "title": "FAQs",
@@ -2227,6 +2592,61 @@
                     }
                 ],
                 "faq": true
+            },
+            {
+                "title": "NATURAL VITAMIN C (FROM ASCORBIC ACID)",
+                "details": [ "Scotland, United Kingdom"]
+            },
+            {
+                "title": "HIGHLY PURIFIED COLLAGEN PEPTIDES COMPLEX (SPECIFIC COLLAGEN PEPTIDES)",
+                "details": [ "Italy, Germany, Great Britain, other EU countries. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage; so, you’ll move better, and increase bone density; to keep your bones strong."]
+            },
+            {
+                "title": "RED ORANGE COMPLEX",
+                "details": ["Sicily, Italy. Red Orange Complex is a standardized extract locally sourced from the juice of three pigmented varieties of Sicilian Blood Orange (Citrus Sinensis - Varieties Moro, Sanguinello, Tarocco) grown on the side of Mt. Etna volcano where climate and soil are perfect for this kind of tree. No one else in the world has access to it. Sicilians call this orange “the ultimate healthy fruit,” but Bruno MD calls it a miracle of Madre Terra."]
+            },
+            {
+                "title": "HYALURONIC ACID (SODIUM HYALURONATE)",
+                "details": [ "Japan.",
+                "Hyaluronic Acid binds water in your skin like a sponge to support long-lasting hydration, and combined with Royal Collagen Peptides and Astaxanthin, it assures the highest level of bioavailability in collagen care."]
+            },
+            {
+                "title": "NATURAL ASTAXANTHIN EXTRACT (HAEMATOCOCCUS PLUVIALIS) (ALGAE)",
+                "details": ["Sweden & Japan.",
+                "Astaxanthin is the most potent anti-inflammatory known in nature. Natural astaxanthin, has a strong ability to both balance and strengthen the immune system, enhance antibody production, hence improving the defense against inflammation, and outside invaders (pathogens) Astaxanthin can also help reduce high blood pressure, improve heart health, prevent type II diabetes, and decrease the risk of brain damage from a stroke. Over 95% of commercial Astaxanthin is synthetic. Worse, it’s harvested using petrochemicals. Bruno MD Astaxanthin is naturally derived from Haematococcus Pluvialis algae, found in temperate environments around the world to produce the highest concentrations of Astaxanthin with the highest bioavailability."]
+            },
+            {
+                "title": "Blog",
+                "details": []
+            }
+        ],
+        "ProductTrustBadges": [
+            {
+                "src": "\\utility\\trust\\Pasture_Raised-Icon-v1-Black-300x300.png"
+            },
+            {
+                "src": "\\utility\\trust\\Paleo-Friendly-Icon-v1-Black.png"
+            },
+            {
+                "src": "\\utility\\trust\\Non-GMO-Icon-v1-Black-300x300 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\EU_Certified-Icon-v1-Black-300x300.png"
+            },
+            {
+                "src": "\\utility\\trust\\Low-Carb-Icon-V1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Clinically_Proven-Icon-v1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Gluten-Free-Icon-v2-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Ketosis-Icon-v2-Black.png"
+            },
+            {
+                "src": "\\utility\\trust\\Made-In-USA-Icon-V1-Black.png"
             }
         ],
         "fourStepProcess": {
@@ -2315,7 +2735,24 @@
             "discount": 20,
             "maxQty": 10,
             "defaultQtyMultiplayer": 20,
-            "subscriptionDetails": "soon"
+            "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
+            "moreInfoBtnText":"Learn more",
+            "qtyLabelText":"QTY",
+            "freqLabelText":"Delivery every",
+            "oneTime":{
+                "title":"One time",
+                "btnText":"Add to cart"
+            },
+            "subscribe":{
+                "title":"Subscribe",
+                "btnText":"Subscribe",
+                "interval":"Days"
+            },
+            "moneyBackInfo":{
+                "title":"HOW SUBSCRIBE & SAVE WORKS",
+                "desc":"30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
+            },
+            "termPurchase":null
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -2516,7 +2953,24 @@
             "discount": 20,
             "maxQty": 10,
             "defaultQtyMultiplayer": 30,
-            "subscriptionDetails": "soon"
+            "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
+            "moreInfoBtnText":"Learn more",
+            "qtyLabelText":"QTY",
+            "freqLabelText":"Delivery every",
+            "oneTime":{
+                "title":"One time",
+                "btnText":"Add to cart"
+            },
+            "subscribe":{
+                "title":"Subscribe",
+                "btnText":"Subscribe",
+                "interval":"Days"
+            },
+            "moneyBackInfo":{
+                "title":"HOW SUBSCRIBE & SAVE WORKS",
+                "desc":"30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
+            },
+            "termPurchase":null
         },
         "newsletter": {
             "title": "Join our newsletter",

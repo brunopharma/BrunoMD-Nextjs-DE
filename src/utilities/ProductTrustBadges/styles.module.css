@@ -38,6 +38,8 @@
   }
   .badgeGroup img{
     margin:0 1em;
+    max-width: 110px;
+    height: auto;
   }
   
   .badgeContainer {

@@ -12,6 +12,23 @@
   width: 100%;
   height: 60px;
 }
+.contents::-webkit-scrollbar-track,.box1::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+.box1::-webkit-scrollbar,.contents::-webkit-scrollbar
+{
+	height: 6px;
+  width: 6px;
+	background-color: #F5F5F5;
+}
+
+.box1::-webkit-scrollbar-thumb,.contents::-webkit-scrollbar-thumb
+{
+	background-color: #000000;
+}
 
 .box2 {
   margin: auto;
@@ -95,7 +112,9 @@
   height: 360px;
   margin-bottom: 35px;
 }
-
+.detailHolder p{
+  margin: 0 0 1em;
+}
 .content {
   display: none;
   position: relative;

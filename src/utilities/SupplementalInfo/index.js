@@ -1,12 +1,12 @@
 import React, { useState } from "react";
 import styles from './styles.module.css'
 
-const SupplementalInfo = () => {
+const SupplementalInfo = ({ moneyBackInfo, termPurchase }) => {
+    console.log({ termPurchase });
     const [isAdditionalInfoVisible, setAdditionalInfoVisibility] = useState(false)
-    const moneyBackInfo = "Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell&apos;ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio.";
-    const subscriptionDetails = "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato";
+    // const subscriptionDetails = "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato";
     let regex = /\d\d giorni/gi
-    let newText = subscriptionDetails.replaceAll(regex, `2 giorni`,);
+    let newText = termPurchase?.desc ? termPurchase.desc.replaceAll(regex, `2 giorni`,) : undefined;
     let [text, setText] = useState(newText)
     // React.useEffect(() => {
     //     if (selectedSubscriptionInterval) {
@@ -25,17 +25,17 @@ const SupplementalInfo = () => {
         <div className={styles.supplementalInfoWrapper}>
             {text && (
                 <>
-                    <p className={styles.subscribeAndSave}>Modalita&apos; per l&apos;acquisto periodico</p>
+                    <p className={styles.subscribeAndSave}>{termPurchase.title}</p>
                     <div className={styles.frequencyDisclaimer}>
                         {text}
                     </div>
                 </>
             )}
 
-            {moneyBackInfo && (
+            {moneyBackInfo.title && (
                 <>
                     <div className={styles.informationContainer}>
-                        <p>14 Giorni - Soddisfatti o Rimborsati </p>
+                        <p>{moneyBackInfo.title}</p>
                         <img
                             onClick={() => setAdditionalInfoVisibility(prev => !prev)}
                             className={styles.infoGraphic}
@@ -45,9 +45,7 @@ const SupplementalInfo = () => {
                             alt="Information button"
                         />
                     </div>
-                    <div className={`${styles.additionalInfo} ${styles.visible}`}>
-                        {moneyBackInfo}
-                    </div>
+                    {isAdditionalInfoVisible && <div className={`${styles.additionalInfo} ${styles.visible}`} dangerouslySetInnerHTML={{ __html: moneyBackInfo.desc }} />}
                 </>
             )}
         </div>
