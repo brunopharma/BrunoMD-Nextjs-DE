@@ -42,7 +42,7 @@ const Product = ({version}) => {
             let product = ProductsData[splitUrl[1]];
             if (product?.EXTERNALID) {
                 const productId = `gid://shopify/Product/${product.EXTERNALID}`;
-                client.product.fetch(productId).then((product) => {
+                client.product?.fetch(productId).then((product) => {
                     if (product) {
                         setSProduct(product)
                         setLoad(false)

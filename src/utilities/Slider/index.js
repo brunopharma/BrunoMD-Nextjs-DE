@@ -31,7 +31,7 @@ const Slider = ({ data }) => {
     setStyle({ ...style, display: "none" });
   };
   return (
-    <section onmouseout={handleMouveOut}>
+    <section onmouseout={handleMouveOut} style={{maxWidth:'500px'}}>
       {/* <div style={style}></div> */}
       <div className="carousel-wrapper">
         <Carousel

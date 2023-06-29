@@ -1,6 +1,6 @@
 {
     "all-products": {
-        "title": "all-products",
+        "title": "Shop Products",
         "item": [
             {
                 "EXTERNALID": "3526581387339",
@@ -43,7 +43,7 @@
                 "title": "Royal Collagen Peptides Beauty From Within Strawberry Açaí 20 Units",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-StrawberryAcai-01452NR-framed.png"
+                    "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01100NR.png"
                 }
             },
             {
@@ -54,7 +54,7 @@
                 "title": "Royal Collagen Peptides Beauty From Within Blood Orange 20 Units",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\rcp-blood\\RCP-SP-BloodOrange-01452NR-framed.png"
+                    "src": "\\utility\\products\\rcp-blood\\RCP-SP-Blood_Orange-01074NR.png"
                 }
             },
             {
@@ -147,7 +147,7 @@
                 "title": "Royal Collagen Peptides Beauty From Within Strawberry Açaí 20 Units",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-StrawberryAcai-01452NR-framed.png"
+                    "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01100NR.png"
                 }
             },
             {
@@ -158,7 +158,7 @@
                 "title": "Royal Collagen Peptides Beauty From Within Blood Orange 20 Units",
                 "btnText": "Shop",
                 "logo": {
-                    "src": "\\utility\\products\\rcp-blood\\RCP-SP-BloodOrange-01452NR-framed.png"
+                    "src": "\\utility\\products\\rcp-blood\\RCP-SP-Blood_Orange-01074NR.png"
                 }
             },
             {
@@ -173,6 +173,7 @@
                 }
             }
         ],
+        "details":"<h2>How Do I Make My Skin Glow?</h2><p>Collagen is incredibly important for skin texture, glow and elasticity. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age. Royal Specific Collagen Peptides both offset the loss of collagen and maximize stimulation of the human cell types responsible for collagen biosynthesis.</p><h3>Benefits of Bruno MD’s Collagen for Skin </h3><p>Bruno MD uses a special kind of collagen called Specific Collagen Peptides in all of their collagen products. Specific Collagen Peptides are formulated to target and stimulate specific types of collagen throughout your body. These three types of collagen are found in skin, called Fibroblasts, bone, called Osteoblasts and Joints called Chondrocytes. Bruno MD’s Beauty from Within is formulated with Specific Collagen Peptides that stimulate Fibroblasts, the collagen in your skin, hair and nails. This works in two ways: first, they stimulate the activity of the fibroblasts. Fibroblasts are cell types that build fibers and molecular components of the connective tissue, giving the skin its structure and firmness. Activating the fibroblasts encourages the production of new collagen structures as well as the ones from hyaluronic acid. Hyaluronic acid can bind a great deal of water and is indispensable for tight, firmer-looking skin. This process takes some time, but with consistency and determination, your skin regains its natural tone and improves its moisture-storing capacity.</p><p>Bruno MD’s Specific Collagen Peptides are carefully blended with a potent and completely natural form of Vitamin C. Clinical research has proven that skin health is significantly improved when taking a collagen supplement combined with Vitamin C.</p>",
         "seo": {
             "title": "BrunoMD | Shop Skin Products",
             "description": "Health and wellness products rooted in the heart of Italy, made from all-natural ingredients. Shop Royal Collagen Peptides and Collagen Powders."
@@ -180,6 +181,7 @@
     },
     "joints": {
         "title": "Joints",
+        "align":"left",
         "masterHead": {
             "img": {
                 "desktopImage": {
@@ -209,6 +211,7 @@
                 }
             }
         ],
+        "details":"<h2>How Can I Promote Joint Health?</h2><p>Cartilage is a fundamental constituent of our joints. It acts as a shock absorber when two bones meet at the joint, allowing frictionless, smooth movement while protecting the bones and joints. Since cartilage is not connected to the bloodstream, it receives its nutrients via synovial fluid that acts like a lubricant film and supplies the sponge-like cartilage with nutrients. This works through movement and pressure. Exercise is essential for providing the cartilage with nutrients. Royal Collagen Peptides stimulate the activity of the chondrocytes. Chondrocytes are cell types responsible for the collagen biosynthesis in the cartilage. They produce and maintain cartilage matrices.</p><h3>Benefits of Bruno MD’s Collagen for Joints</h3><p>Connective tissue includes the skin, ligaments, tendons, cartilage, and joint cartilage, as well as the fasciae and blood vessels. Collagen is the main component of connective tissue and structural tissue and is found everywhere in the body. It gives bones, joints, tendons, ligaments, and muscles strength and flexibility. If the collagenous structures are degraded by heavy stress, like working out, or by the normal aging process, the function of all organs and tissues that depend on collagen are impaired. Ligaments and tendons weaken, muscle mass decreases, and the loss of vital cartilage tissue at the joints can lead to painful symptoms. </p><p>Fibroblasts are cell types responsible for collagen biosynthesis in the connective tissue. They build fibers and molecular components of the connective tissue, giving the skin structure and firmness. Activating the fibroblasts encourages the production of new collagen structures as well as the ones from hyaluronic acid.</p>",
         "seo": {
             "title": "BrunoMD | Shop Joints Products",
             "description": "Prescription-grade supplements for joints, rooted in the heart of Italy, made from all-natural ingredients. Shop Chondrorex."
@@ -216,6 +219,7 @@
     },
     "immunity": {
         "title": "Immunity",
+        "align":"left",
         "masterHead": {
             "img": {
                 "desktopImage": {
@@ -245,6 +249,7 @@
                 }
             }
         ],
+        "details":"<h2>Benefits of Bruno MD for Immunity</h2><p>Our body’s ability to fight infection and disease depends on our immune systems. The immune system is composed of cells, tissues, and organs that work together to protect your body from illness and infection. Since the immune system is not just a single entity, there isn’t a single food that you can eat or add to your diet to support it. </p><p>Riboflam’s formula supports a healthy, adaptive, and innate immune response while helping to reduce inflammation and promoting relief from exercise-related pain.</p><h3>What Are the Best Ways to Help My Immune System?</h3><p>The best way to keep your immune system running smoothly is to follow healthy living strategies that include:</p><p><strong>Good Nutrition</strong> - Follow a plant-based, heart-healthy menu that incorporates a variety of vegetables and fruits, whole grains, lean protein, and healthy fats.</p><p><strong>Phytochemicals</strong> - Fruits, vegetables, and other plants contain a naturally occurring compound known as phytochemicals.</p><p><strong>Dietary Supplements</strong> - Dietary supplements help you get adequate amounts of essential nutrients if you don’t eat a nutritious variety of foods or if these nutrients cannot be taken from the food itself.</p><p><strong>Get Enough Sleep </strong>- Sleep is an essential aspect of health. Our bodies need sleep to recharge and heal. The Centers for Disease Control and Prevention (CDC) recommends that adults get seven hours or more of sleep every night.</p><p><strong>Minimize Stress</strong> - Try to reduce stress by taking time to do things you enjoy, such as spending time with family, spending time outdoors, or reading. If your feelings of anxiety or depression make it difficult for you to complete daily tasks, talk to your healthcare professional.</p><p><strong>Exercise Regularly </strong>- Leading an active lifestyle can also support your immune system by promoting good circulation, allowing the cells and substances of the immune system to move through the body freely and do their job efficiently. Regular exercise promotes good cardiovascular (heart) health, too.</p><p><strong>Enjoy Life</strong> - Enjoy family, entertaining old friends, and making new ones; turn the simplest occasion into a social gathering for the entire neighborhood.</p>",
         "seo": {
             "title": "BrunoMD | Shop Immunity Products",
             "description": "Prescription-grade supplements for immunity, rooted in the heart of Italy, made from all-natural ingredients. Shop Riboflam."
@@ -252,6 +257,7 @@
     },
     "heart": {
         "title": "Heart",
+        "align":"left",
         "masterHead": {
             "img": {
                 "desktopImage": {
@@ -281,6 +287,7 @@
                 }
             }
         ],
+        "details":"<h2>What is Coenzyme Q10 (CoQ10) Phytosome?</h2><p>Coenzyme Q10 (CoQ10) is a powerful antioxidant that protects proteins, LDL cholesterol, and mitochondrial DNA from oxidative damage. CholestQ10 is formulated with Phytosome proprietary technology, a revolutionary ingredient transport system that delivers 100% food-grade composition of vital nutrients in their most potent form, where your body needs them. Coenzyme Q10 is delivered in a crystal-free liquid solution to maximize absorption. CoQ10 Phytosome promotes healthy aging, heart and cardiovascular health, brain health, and all activities involving energetic expenditure. Our Coenzyme Q10 Phytosome is sourced in Lombardia, Italy.</p><p>We combine Coenzyme Q10 and natural Vitamin E. Together, they are a heart-healthy duo that stays active in the body longer and creates a paving shield to protect proteins, LDL cholesterol, and mitochondrial DNA against the oxidative damage that leads to heart disease.</p><h3>Benefits of Bruno MD for Heart Health</h3><p>Worldwide, heart-related diseases are at an all-time high. While many countries offer programs to help individuals reduce their cholesterol and blood pressure levels, these efforts simply cannot overcome the effects of poor diet and nutrition.</p><p>As a participant in cellular energy production, CoQ10 helps ensure the body’s biggest energy consumers, the heart and the brain, are well fed. Thanks to these two functions, CoQ10 can enhance cardiovascular functions.</p>",
         "seo": {
             "title": "BrunoMD | Shop Heart Products",
             "description": "Health and wellness products rooted in the heart of Italy, made from all-natural ingredients. Shop CholestQ10."
@@ -288,6 +295,7 @@
     },
     "bone-health": {
         "title": "Bones",
+        "align":"left",
         "masterHead": {
             "img": {
                 "desktopImage": {
@@ -317,6 +325,7 @@
                 }
             }
         ],
+        "details":"<h2>Why is Bone Health Important?</h2><p>Collagen is the main component of connective tissue and structural tissue, and is found everywhere in the body. Connective tissue includes the skin, ligaments, tendons, cartilage and joint cartilage, but also the fasciae and blood vessels.</p><p>It gives bones, joints, tendons, ligaments, and muscles strengths and flexibility. If the collagenous structures are degraded by heavy stress, for example by working out, or by the normal aging process, the function of all organs and tissues that depend on collagen are impaired. Ligaments and tendons weaken, muscle mass decreases, and above all, the loss of highly important cartilage tissue at the joints can lead to painful symptoms. Fibroblasts are cell types responsible for collagen biosynthesis in the connective tissue. They build fibers and molecular components of the connective tissue, thus giving the skin structure and firmness. Activating the fibroblasts encourages the production of new collagen structures as well as the ones from the hyaluronic acid.</p><h3>Benefits of Bruno MD’s Collagen for Bone Health</h3><p>Bruno MD uses a special kind of collagen called Specific Collagen Peptides in all of their collagen products. Specific Collagen Peptides are formulated to target and stimulate specific types of collagen throughout your body. These three types of collagen are found in bones, called Osteoblasts, skin, called Fibroblasts, and Joints called Chondrocytes. Bruno MD’s Royal Collagen Peptides is formulated with Specific Collagen Peptides that stimulate Osteoblasts, the collagen that creates the structure in your bones. About 70% of our bones are made of inorganic minerals and 10% of water. Collagen makes up the remaining 20% and forms the basic framework of the bone to which calcium “attaches.” Imagine calcium as the concrete bridge and collagen as the steel core. Calcium, a mineral, provides strength to the overall structure. Royal Collagen Peptides are so effective at strengthening bones that clinical studies found that women who use it daily experienced a 75% reduction in bone fractures.</p>",
         "seo": {
             "title": "BrunoMD | Shop Bone Health Products",
             "description": "Health and wellness products rooted in the heart of Italy, made from all-natural ingredients. Shop our collection of Keto products."
@@ -324,6 +333,7 @@
     },
     "vision": {
         "title": "Vision",
+        "align":"left",
         "masterHead": {
             "img": {
                 "desktopImage": {
@@ -353,6 +363,7 @@
                 }
             }
         ],
+        "details":"<h2>How Can Supplements Improve Healthy Vision?</h2><p>Lutein and Zeaxanthin work as light filters and antioxidants in the eye. Both support the back of the eye and help filter harmful blue light, and improve night vision and contrast sensitivity. Lutein primarily accumulates where rods are the dominant photoreceptors. Rods allow for low light vision, sensitive motion detection, and peripheral vision. Zeaxanthin primarily accumulates where cones are the dominant photoreceptors. Cones allow for color and the ability to see the contrast between two objects. Working together, Zeaxanthin and Lutein absorb a broader bandwidth of blue light from digital devices, LED lights, and sunlight than either alone.  Astaxanthin, a potent antioxidant, powers the mitochondria inside the microscopic muscles in the front of our eye responsible for close focus. “Astaxanthin is clinically proven to help alleviate the symptoms of eye strain, headaches, blurry vision, or slow focus recovery that we associate with overuse,” Dr. Karpecki confirms, “Studies have shown an almost 22% increase in the ability to focus in patients who have had this supplement.”</p><h3>Benefits of Bruno MD for Vision</h3><p>Bruno MD’s Bluerex Vision is the only eye health dietary supplement that helps with blue light protection and relief from Computer Vision Syndrome (CVS). CVS symptoms include eye strain, general fatigue, dry eyes, poor night vision and slow focus recovery. “Exposure to digital devices has increased more than 80% worldwide in the past three years and the overuse of digital devices is a serious risk,” says Dr. Paul Karpeki, OD, a leader and pioneer in the field of Dry Eye Disease for more than 20 years, “Research has shown that overexposure to high energy blue light can physically damage the cells of the retina.”  Blurex contains clinically proven ingredients to increase Macular Pigment Optical Density (MPOD) and support your eyes from front to back.</p>",
         "seo": {
             "title": "BrunoMD | Shop Vision Products",
             "description": "Prescription-grade supplements for vision, rooted in the heart of Italy, made from all-natural ingredients. Shop Bluerex Vision."

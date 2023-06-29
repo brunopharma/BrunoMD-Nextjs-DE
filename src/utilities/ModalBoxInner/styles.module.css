@@ -22,7 +22,10 @@
     max-width: 70%;
     margin: auto;
 }
-
+.boxHide{
+    display: none;
+    flex: 1 0 100%;
+}
 .boxOne{
     flex: 1 0 50%;
 }
@@ -58,8 +61,30 @@
     justify-content: center;
 }
 
+.boxTen{
+    color: #ffbf3c;
+    font-family: Gotham-Book,Arial,serif;
+    font-size: 12px;
+    font-weight: 700;
+    width: 150px;
+
+}
+.boxTen div{
+    display: inline-block;
+    margin-right: 6px;
+}
+.boxTen p span{
+    text-decoration: underline;
+}
+.boxTen {
+    margin: auto 0 auto 2rem;
+}
+
 .freqHolder{
     padding-right: 6rem;
+}
+.conHolder{
+    margin: 0px 30px;
 }
 
 .boxFive p,.boxFive li ,.boxSix p, .selectLabel {
@@ -88,9 +113,10 @@
     outline: none;
     padding: 10px 20px;
     text-transform: uppercase;
-    width: 100%;
+    width: 90%;
     text-align: center;
     display: block;
+    height: 100%;
 }
 .hide{
     display: none;
@@ -157,4 +183,61 @@
 .btn:hover {
     background-color: black;
     color: #ffbf3c;
+}
+@media (max-width: 1440px) {
+    .boxSeven .freqHolder{
+        padding-right: 1rem;
+    }
+}
+
+@media (max-width: 1024px) {
+    .container{
+        max-width: 70%;
+    }
+    .boxOne{
+        flex: 1 0 100%;
+        display: grid;
+        place-content: center;
+    }
+    .boxHide{
+        display: grid;
+        place-items: center;
+        margin: 1em auto;
+    }
+    .boxFour{
+        display: none;
+    }
+    .boxTwo, .boxThree, .boxFive, .boxSix, .boxSeven ,.boxEight{
+        flex: 1 0 50%;
+        margin: 0.5rem 0;
+    }
+    .boxSeven{
+        display: inline-block;
+    }
+    .boxSeven .freqHolder{
+        padding: 0;
+    }
+}
+
+@media (max-width: 767px) {
+    .container{
+        max-width: 90%;
+    }
+    .conHolder{
+        margin: 0;
+    }
+}
+@media (max-width: 600px) {
+    .container{
+        max-width: 100%;
+    }
+}
+@media (max-width: 520px) {
+    .qtyHolder, .freqHolder{
+        display: flex;
+        flex-direction: column;
+    }
+    .qtyHolder select, .freqHolder select{
+    width: 90%;
+    }
 }

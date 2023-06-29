@@ -20,25 +20,25 @@
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "compresse",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
-            "moreInfoBtnText":"Maggiori informazioni",
-            "qtyLabelText":"Quantita'",
-            "freqLabelText":"Consegna ogni",
-            "oneTime":{
-                "title":"Acquisto singolo",
-                "btnText":"Aggiungi al carrello"
+            "moreInfoBtnText": "Maggiori informazioni",
+            "qtyLabelText": "Quantita'",
+            "freqLabelText": "Consegna ogni",
+            "oneTime": {
+                "title": "Acquisto singolo",
+                "btnText": "Aggiungi al carrello"
             },
-            "subscribe":{
-                "title":"Acquisto periodico",
-                "btnText":"Acquisto periodico",
-                "interval":"giorni"
+            "subscribe": {
+                "title": "Acquisto periodico",
+                "btnText": "Acquisto periodico",
+                "interval": "giorni"
             },
-            "moneyBackInfo":{
-                "title":"14 Giorni - Soddisfatti o Rimborsati ",
-                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            "moneyBackInfo": {
+                "title": "14 Giorni - Soddisfatti o Rimborsati ",
+                "desc": "Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
             },
-            "termPurchase":{
-                "title":"Modalita' per l'acquisto periodico",
-                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "termPurchase": {
+                "title": "Modalita' per l'acquisto periodico",
+                "desc": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
             }
         },
         "declaimer": {
@@ -196,25 +196,25 @@
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Bustine",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
-            "moreInfoBtnText":"Maggiori informazioni",
-            "qtyLabelText":"Quantita'",
-            "freqLabelText":"Consegna ogni",
-            "oneTime":{
-                "title":"Acquisto singolo",
-                "btnText":"Aggiungi al carrello"
+            "moreInfoBtnText": "Maggiori informazioni",
+            "qtyLabelText": "Quantita'",
+            "freqLabelText": "Consegna ogni",
+            "oneTime": {
+                "title": "Acquisto singolo",
+                "btnText": "Aggiungi al carrello"
             },
-            "subscribe":{
-                "title":"Acquisto periodico",
-                "btnText":"Acquisto periodico",
-                "interval":"giorni"
+            "subscribe": {
+                "title": "Acquisto periodico",
+                "btnText": "Acquisto periodico",
+                "interval": "giorni"
             },
-            "moneyBackInfo":{
-                "title":"14 Giorni - Soddisfatti o Rimborsati ",
-                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            "moneyBackInfo": {
+                "title": "14 Giorni - Soddisfatti o Rimborsati ",
+                "desc": "Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
             },
-            "termPurchase":{
-                "title":"Modalita' per l'acquisto periodico",
-                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "termPurchase": {
+                "title": "Modalita' per l'acquisto periodico",
+                "desc": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
             }
         },
         "declaimer": {
@@ -396,25 +396,25 @@
             "qtyMultiplierShowOnExtraDesc": false,
             "qtyExtraDesc": "Flacone 10ml",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
-            "moreInfoBtnText":"Maggiori informazioni",
-            "qtyLabelText":"Quantita'",
-            "freqLabelText":"Consegna ogni",
-            "oneTime":{
-                "title":"Acquisto singolo",
-                "btnText":"Aggiungi al carrello"
+            "moreInfoBtnText": "Maggiori informazioni",
+            "qtyLabelText": "Quantita'",
+            "freqLabelText": "Consegna ogni",
+            "oneTime": {
+                "title": "Acquisto singolo",
+                "btnText": "Aggiungi al carrello"
             },
-            "subscribe":{
-                "title":"Acquisto periodico",
-                "btnText":"Acquisto periodico",
-                "interval":"giorni"
+            "subscribe": {
+                "title": "Acquisto periodico",
+                "btnText": "Acquisto periodico",
+                "interval": "giorni"
             },
-            "moneyBackInfo":{
-                "title":"14 Giorni - Soddisfatti o Rimborsati ",
-                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            "moneyBackInfo": {
+                "title": "14 Giorni - Soddisfatti o Rimborsati ",
+                "desc": "Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
             },
-            "termPurchase":{
-                "title":"Modalita' per l'acquisto periodico",
-                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "termPurchase": {
+                "title": "Modalita' per l'acquisto periodico",
+                "desc": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
             }
         },
         "benefits": {
@@ -592,25 +592,25 @@
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Bustine",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
-            "moreInfoBtnText":"Maggiori informazioni",
-            "qtyLabelText":"Quantita'",
-            "freqLabelText":"Consegna ogni",
-            "oneTime":{
-                "title":"Acquisto singolo",
-                "btnText":"Aggiungi al carrello"
+            "moreInfoBtnText": "Maggiori informazioni",
+            "qtyLabelText": "Quantita'",
+            "freqLabelText": "Consegna ogni",
+            "oneTime": {
+                "title": "Acquisto singolo",
+                "btnText": "Aggiungi al carrello"
             },
-            "subscribe":{
-                "title":"Acquisto periodico",
-                "btnText":"Acquisto periodico",
-                "interval":"giorni"
+            "subscribe": {
+                "title": "Acquisto periodico",
+                "btnText": "Acquisto periodico",
+                "interval": "giorni"
             },
-            "moneyBackInfo":{
-                "title":"14 Giorni - Soddisfatti o Rimborsati ",
-                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            "moneyBackInfo": {
+                "title": "14 Giorni - Soddisfatti o Rimborsati ",
+                "desc": "Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
             },
-            "termPurchase":{
-                "title":"Modalita' per l'acquisto periodico",
-                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "termPurchase": {
+                "title": "Modalita' per l'acquisto periodico",
+                "desc": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
             }
         },
         "benefits": {
@@ -773,25 +773,25 @@
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Bustine",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
-            "moreInfoBtnText":"Maggiori informazioni",
-            "qtyLabelText":"Quantita'",
-            "freqLabelText":"Consegna ogni",
-            "oneTime":{
-                "title":"Acquisto singolo",
-                "btnText":"Aggiungi al carrello"
+            "moreInfoBtnText": "Maggiori informazioni",
+            "qtyLabelText": "Quantita'",
+            "freqLabelText": "Consegna ogni",
+            "oneTime": {
+                "title": "Acquisto singolo",
+                "btnText": "Aggiungi al carrello"
             },
-            "subscribe":{
-                "title":"Acquisto periodico",
-                "btnText":"Acquisto periodico",
-                "interval":"giorni"
+            "subscribe": {
+                "title": "Acquisto periodico",
+                "btnText": "Acquisto periodico",
+                "interval": "giorni"
             },
-            "moneyBackInfo":{
-                "title":"14 Giorni - Soddisfatti o Rimborsati ",
-                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            "moneyBackInfo": {
+                "title": "14 Giorni - Soddisfatti o Rimborsati ",
+                "desc": "Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
             },
-            "termPurchase":{
-                "title":"Modalita' per l'acquisto periodico",
-                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "termPurchase": {
+                "title": "Modalita' per l'acquisto periodico",
+                "desc": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
             }
         },
         "benefits": {
@@ -954,25 +954,25 @@
             "qtyMultiplierShowOnExtraDesc": false,
             "qtyExtraDesc": "compresse",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
-            "moreInfoBtnText":"Maggiori informazioni",
-            "qtyLabelText":"Quantita'",
-            "freqLabelText":"Consegna ogni",
-            "oneTime":{
-                "title":"Acquisto singolo",
-                "btnText":"Aggiungi al carrello"
+            "moreInfoBtnText": "Maggiori informazioni",
+            "qtyLabelText": "Quantita'",
+            "freqLabelText": "Consegna ogni",
+            "oneTime": {
+                "title": "Acquisto singolo",
+                "btnText": "Aggiungi al carrello"
             },
-            "subscribe":{
-                "title":"Acquisto periodico",
-                "btnText":"Acquisto periodico",
-                "interval":"giorni"
+            "subscribe": {
+                "title": "Acquisto periodico",
+                "btnText": "Acquisto periodico",
+                "interval": "giorni"
             },
-            "moneyBackInfo":{
-                "title":"14 Giorni - Soddisfatti o Rimborsati ",
-                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            "moneyBackInfo": {
+                "title": "14 Giorni - Soddisfatti o Rimborsati ",
+                "desc": "Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
             },
-            "termPurchase":{
-                "title":"Modalita' per l'acquisto periodico",
-                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "termPurchase": {
+                "title": "Modalita' per l'acquisto periodico",
+                "desc": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
             }
         },
         "benefits": {
@@ -1135,25 +1135,25 @@
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "compresse",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
-            "moreInfoBtnText":"Maggiori informazioni",
-            "qtyLabelText":"Quantita'",
-            "freqLabelText":"Consegna ogni",
-            "oneTime":{
-                "title":"Acquisto singolo",
-                "btnText":"Aggiungi al carrello"
+            "moreInfoBtnText": "Maggiori informazioni",
+            "qtyLabelText": "Quantita'",
+            "freqLabelText": "Consegna ogni",
+            "oneTime": {
+                "title": "Acquisto singolo",
+                "btnText": "Aggiungi al carrello"
             },
-            "subscribe":{
-                "title":"Acquisto periodico",
-                "btnText":"Acquisto periodico",
-                "interval":"giorni"
+            "subscribe": {
+                "title": "Acquisto periodico",
+                "btnText": "Acquisto periodico",
+                "interval": "giorni"
             },
-            "moneyBackInfo":{
-                "title":"14 Giorni - Soddisfatti o Rimborsati ",
-                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            "moneyBackInfo": {
+                "title": "14 Giorni - Soddisfatti o Rimborsati ",
+                "desc": "Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
             },
-            "termPurchase":{
-                "title":"Modalita' per l'acquisto periodico",
-                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "termPurchase": {
+                "title": "Modalita' per l'acquisto periodico",
+                "desc": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
             }
         },
         "benefits": {
@@ -1316,25 +1316,25 @@
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "tubo crema gel 50 ml",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
-            "moreInfoBtnText":"Maggiori informazioni",
-            "qtyLabelText":"Quantita'",
-            "freqLabelText":"Consegna ogni",
-            "oneTime":{
-                "title":"Acquisto singolo",
-                "btnText":"Aggiungi al carrello"
+            "moreInfoBtnText": "Maggiori informazioni",
+            "qtyLabelText": "Quantita'",
+            "freqLabelText": "Consegna ogni",
+            "oneTime": {
+                "title": "Acquisto singolo",
+                "btnText": "Aggiungi al carrello"
             },
-            "subscribe":{
-                "title":"Acquisto periodico",
-                "btnText":"Acquisto periodico",
-                "interval":"giorni"
+            "subscribe": {
+                "title": "Acquisto periodico",
+                "btnText": "Acquisto periodico",
+                "interval": "giorni"
             },
-            "moneyBackInfo":{
-                "title":"14 Giorni - Soddisfatti o Rimborsati ",
-                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            "moneyBackInfo": {
+                "title": "14 Giorni - Soddisfatti o Rimborsati ",
+                "desc": "Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
             },
-            "termPurchase":{
-                "title":"Modalita' per l'acquisto periodico",
-                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "termPurchase": {
+                "title": "Modalita' per l'acquisto periodico",
+                "desc": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
             }
         },
         "benefits": {
@@ -1497,25 +1497,25 @@
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Garze Monouso",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
-            "moreInfoBtnText":"Maggiori informazioni",
-            "qtyLabelText":"Quantita'",
-            "freqLabelText":"Consegna ogni",
-            "oneTime":{
-                "title":"Acquisto singolo",
-                "btnText":"Aggiungi al carrello"
+            "moreInfoBtnText": "Maggiori informazioni",
+            "qtyLabelText": "Quantita'",
+            "freqLabelText": "Consegna ogni",
+            "oneTime": {
+                "title": "Acquisto singolo",
+                "btnText": "Aggiungi al carrello"
             },
-            "subscribe":{
-                "title":"Acquisto periodico",
-                "btnText":"Acquisto periodico",
-                "interval":"giorni"
+            "subscribe": {
+                "title": "Acquisto periodico",
+                "btnText": "Acquisto periodico",
+                "interval": "giorni"
             },
-            "moneyBackInfo":{
-                "title":"14 Giorni - Soddisfatti o Rimborsati ",
-                "desc":"Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            "moneyBackInfo": {
+                "title": "14 Giorni - Soddisfatti o Rimborsati ",
+                "desc": "Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
             },
-            "termPurchase":{
-                "title":"Modalita' per l'acquisto periodico",
-                "desc":"Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            "termPurchase": {
+                "title": "Modalita' per l'acquisto periodico",
+                "desc": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
             }
         },
         "benefits": {
@@ -1639,7 +1639,7 @@
                 "alt": ""
             },
             {
-                "src":"\\utility\\products\\riboflam\\BRUNO PHARMA 15001-Riboflam-2500x2500.png"
+                "src": "\\utility\\products\\riboflam\\BRUNO PHARMA 15001-Riboflam-2500x2500.png"
             }
         ],
         "declaimer": {
@@ -1653,23 +1653,23 @@
             "maxQty": 10,
             "defaultQtyMultiplayer": 30,
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
-            "moreInfoBtnText":"Learn more",
-            "qtyLabelText":"QTY",
-            "freqLabelText":"Delivery every",
-            "oneTime":{
-                "title":"One time",
-                "btnText":"Add to cart"
+            "moreInfoBtnText": "Learn more",
+            "qtyLabelText": "QTY",
+            "freqLabelText": "Delivery every",
+            "oneTime": {
+                "title": "One time",
+                "btnText": "Add to cart"
             },
-            "subscribe":{
-                "title":"Subscribe",
-                "btnText":"Subscribe",
-                "interval":"Days"
+            "subscribe": {
+                "title": "Subscribe",
+                "btnText": "Subscribe",
+                "interval": "Days"
             },
-            "moneyBackInfo":{
-                "title":"HOW SUBSCRIBE & SAVE WORKS",
-                "desc":"30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
+            "moneyBackInfo": {
+                "title": "HOW SUBSCRIBE & SAVE WORKS",
+                "desc": "30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
             },
-            "termPurchase":null
+            "termPurchase": null
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -1686,37 +1686,37 @@
                     "title": "Exercise Pain Relief",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\riboflam\\BMD-Riboflam-Benefit-Card-04b.jpg",
+                        "src": "\\utility\\products\\riboflam\\BMD-Riboflam-Benefit-Card-02c.jpg",
                         "alt": ""
                     },
-                    "description": "Bruno MD Riboflam supports a healthy, adaptive, and innate immune response and maintains the immune system functionality."
+                    "description": "Clinically-proven ingredients help relieve post-exercise pain naturally."
                 },
                 {
-                    "title": "INFLAMMATION",
+                    "title": "Multisystem Health",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\riboflam\\BMD-Riboflam-Benefit-Card-03b.jpg",
+                        "src": "\\utility\\products\\riboflam\\BMD-Riboflam-Benefit-Card-03c.jpg",
                         "alt": ""
                     },
-                    "description": "Bruno MD Riboflam has been shown to support the whole body's healthy inflammation response."
+                    "description": "Clinically-proven ingredients help maintain a healthy heart and vascular system, help manage bad cholesterol levels by increasing bile production, which traps cholesterol for elimination, helps reduce inflammation in the gut, improve colon health and decrease gas and bloating and balance gut flora."
                 },
                 {
-                    "title": "PAIN",
+                    "title": "Immunity",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\riboflam\\BMD-Riboflam-Benefit-Card-02b.jpg",
+                        "src": "\\utility\\products\\riboflam\\BMD-Riboflam-Benefit-Card-04c.jpg",
                         "alt": ""
                     },
-                    "description": "Bruno MD Riboflam's proprietary complex promotes relief from exercise-related pain."
+                    "description": "Stimulates overall immune health, which is directly linked to your body’s ability to fight inflammation and work better, and longer. "
                 },
                 {
-                    "title": "PERFORMANCE",
+                    "title": "Mental Health",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\riboflam\\BMD-Riboflam-Benefit-Card-06b.jpg",
+                        "src": "\\utility\\products\\riboflam\\BMD-Riboflam-Benefit-Card-06c.jpg",
                         "alt": ""
                     },
-                    "description": "Bruno MD Riboflam helps to improve performance during physical activity and prevent the loss of lean body mass. Our nucleotides are extracted naturally from yeast and can support the immune system, recovery after athletic activities, and even cognitive function."
+                    "description": "Clinically-proven ingredients support mental clarity, focus, and cognition."
                 }
             ]
         },
@@ -1724,26 +1724,27 @@
             {
                 "title": "Details",
                 "details": [
-                    "<p>Our Riboflam inflammation supplement</span> response by delivering the maximum dosage of immune-boosting nutrients into your bloodstream using Phytosome technology.</p><p>With Riboflam, you can also stay in the game and discover the secrets of world-class Italian athletes. Bruno MD created Riboflam for everyone who likes to move, at any fitness level at any stage in life.</p><p>It works naturally to soothe aches and pains after an intense workout or a casual stroll in the piazza with friends.</p><p>Riboflam is the only 100% vegan dietary supplement containing 'Nucleoflam', made with nucleotides and nucleosides from Yeast Extract &amp; blended with a potent proprietary Phytosome complex containing Curcumin, Boswellia Serrata, Quercetin &amp; Echinacea Angustifolia.</p>"
+                    "<p>The only prescription-grade supplement which contains ingredients that enhance the immune system response and support the whole body’s healthy inflammation response.</p>",
+                    "<p>Our Riboflam inflammation supplement response by delivering the maximum dosage of immune-boosting nutrients into your bloodstream using Phytosome technology.</p>",
+                    "<p>With Riboflam, you can also stay in the game and discover the secrets of world-class Italian athletes. Bruno MD created Riboflam for everyone who likes to move, at any fitness level at any stage in life.</p>",
+                    "<p>It works naturally to soothe aches and pains after an intense workout or a casual stroll in the piazza with friends.</p>",
+                    "<p>It works naturally to soothe aches and pains after an intense workout or a casual stroll in the piazza with friends.</p>",
+                    "<p>Riboflam is the only 100% vegan dietary supplement containing 'Nucleoflam', made with nucleotides and nucleosides from Yeast Extract & blended with a potent proprietary Phytosome complex containing Curcumin, Boswellia Serrata, Quercetin & Echinacea Angustifolia.</p>",
+                    "<b>Direction to use</b>",
+                    "<p>Take 3 capsules daily with water with food</p>",
+                    "<b>Warnings</b>",
+                    "<p>Do not exceed daily recommended dose.</p>",
+                    "<b>Side effects</b>",
+                    "<p>None</p>",
+                    "<b>Caution</b>",
+                    "<p>As with any supplement, consult your healthcare professional before using this product, If you are pregnant, nursing, taking any medication, or under medical supervision. <b>KEEP OUT OF REACH OF CHILDREN</b>. Do not use if safety seal is broken or missing.</p>",
+                    "<b>Storage and Packaging</b>",
+                    "<p>Protect from heat, light and moisture. Store in cool, dry plate at 15°-25°C (59°-77°F)</p>"
                 ]
             },
             {
-                "title": "Additional Information",
-                "details": [
-                    "<p>soon.</p>"
-                ]
-            },
-            {
-                "title": "Quality assurance",
-                "details": [
-                    "<p>soon.</p>"
-                ]
-            },
-            {
-                "title": "Ingredients",
-                "details": [
-                    "<p>soon</p>"
-                ]
+                "title": "Quality Assurance",
+                "details": []
             },
             {
                 "title": "FAQs",
@@ -1766,6 +1767,71 @@
                     }
                 ],
                 "faq": true
+            },
+            {
+                "title": "CURCUMIN PHYTOSOME (TURMERIC EXTRACT - CURCUMA LONGA)",
+                "details": [
+                    "Lombardia, Italy.",
+                    "#1 Doctors Recommended and endorsed by Cleveland Clinic. Curcumin Phytosome is the most studied compound curcumin compound in the world. It is the formulation of choice for leading practitioners and their patients. It was independently endorsed by the prestigious Cleveland Clinic in the US as the curcumin formulation of choice in the turmeric market. Part of the ginger family, curcumin is sourced from turmeric and has been used for thousands of years in Southeast Asia, China, and India for cooking and medicinal uses. Our Curcumin Phytosome is clinically proven in 35 randomized, double-blind, placebo-controlled, published clinical trials to promote a healthy inflammatory response, boost immune response, and provide relief from exercise-related pain. It works through multiple pathways on multiple targets to provide complete relief throughout the entire body. The extract has been standardized and contains the full bouquet of curcuminoids, not just curcumin (Curcuminoids are polyphenolic pigments and include 77% curcumin, 17% demethoxycurcumin, and 3% bisdemethoxycurcumin). It has been called a “Life Guardian” because it helps control chronic inflammation and boost immune response at any age."
+                ]
+            },
+            {
+                "title": "ECHINACEA ANGUSTIFOLIA PHYTOSOME (NARROW-LEAVED CONEFLOWER EXTRACT-ECHINACEA ANGUSTIFOLIA ROOT)",
+                "details": [
+                    "Lombardia, Italy. The use of Echinacea is traced back to Native Americans who used it as a natural anti-inflammatory. Major disorder targets of these treatments were related to: sore mouth, toothache, colds, tonsillitis, septic diseases, cough and general inflammatory conditions. Bruno MD cultivates our coneflower from a variety located in Italy. Our plants guarantee high polysaccharide and low cross contamination between Echinacea species. Echinacea Angustifolia Phytosome is optimized for maximum absorption. Results in clinical trials conducted using our triple-standardized Echinacea Phytosome, have shown a statistically significant tendency to be more efficacious than flu vaccination alone, suggesting that E. Phytosome has the potential to act synergistically with influenza vaccination."
+                ]
+            },
+            {
+                "title": "NUCLEOFLAM PROPRIETARY NUCLEOTIDES AND NUCLEOSIDES YEAST EXTRACT COMPLEX",
+                "details": [
+                    "Lombardia, Italy. Our formulation begins at the cellular base level with a unique Nucleoflam Proprietary Nucleotide & Nucleotides Yeast Extract Complex. These nucleotides are vital to maintaining essential cell functions and supporting a healthy immune system, digestive system, and brain function. Nucleotides also enhance the anti-inflammatory activity of Vitamin C, Vitamin D3, and Zinc. They are gluten-free and suitable for vegans and both kosher & halal. BRUNO MD combines Nucleoflam with Astaxanthin, the most potent anti-inflammatory known in nature. Together they create a powerful shield against chronic inflammation."
+                ]
+            },
+            {
+                "title": "NATURAL ASTAXANTHIN EXTRACT (HAEMATOCOCCUS PLUVIALIS) (ALGAE)",
+                "details": [
+                    "Sweden & Japan.",
+                    "Our Astaxanthin is clinically proven to help shield the front of your eyes: it’s nature’s most potent antioxidant-sourced from special algae found in temperate regions around the world. Astaxanthin protects your eyes against free radicals generated by UV radiation and actually strengthens eye muscles to reduce eye fatigue that contributes to Computer Vision Syndrome."
+                ]
+            },
+            {
+                "title": "QUERCETIN PHYTOSOME (SOPHORA JAPONICA FLOWER)",
+                "details": [
+                    "Lombardia, Italy.",
+                    "Quercetin is a powerful plant-based antioxidant that can help maintain a healthy immune system. Plus, BRUNO MD uses Quercetin Phytosome making our Quercetin 2000% more bioavailable than the standard form to significantly enhance performance and accelerate fitness recovery."
+                ]
+            }
+        ],
+        "ProductTrustBadges": [
+            {
+                "src": "\\utility\\trust\\Vegan-Icon-v1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Paleo-Friendly-Icon-v1-Black.png"
+            },
+            {
+                "src": "\\utility\\trust\\Non-GMO-Icon-v1-Black-300x300 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\EU_Certified-Icon-v1-Black-300x300.png"
+            },
+            {
+                "src": "\\utility\\trust\\Low-Carb-Icon-V1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Clinically_Proven-Icon-v1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Gluten-Free-Icon-v2-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Clean+Pure-Icon-v1-Black-300x300 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Made-In-USA-Icon-V1-Black.png"
+            },
+            {
+                "src": "\\utility\\trust\\BioAvailable-icon-v1-Black-300x300.png"
             }
         ],
         "seo": {
@@ -1796,16 +1862,12 @@
             {
                 "src": "\\utility\\products\\cholestq10\\CholestQ10-Back-1500x1500.png",
                 "alt": ""
-            },
-            {
-                "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-01b.jpg",
-                "alt": ""
             }
         ],
         "declaimer": {
             "title": "<h1>CHOLESTQ10</h1>",
             "subTitle": "<strong>CHOLESTQ10 60 V-CAPS 30 SERVINGS</strong>",
-            "content": "<p>Bruno MD curated centuries of regional food knowledge to create CholestQ10: a supplement designed to support healthy LDL, HDL Cholesterol & Triglycerides levels (already in the healthy range) with benefits that spring from the very heart of Italian soil!.</p>"
+            "content": "<p>CholestQ10 helps support healthy LDL, HDL Cholesterol & Triglycerides levels and helps reduce cholesterol counts in addition to supporting blood vessel function.</p>"
         },
         "priceBox": {
             "qtyUnitMultiplierLabel": "servings",
@@ -1813,23 +1875,23 @@
             "maxQty": 10,
             "defaultQtyMultiplayer": 30,
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
-            "moreInfoBtnText":"Learn more",
-            "qtyLabelText":"QTY",
-            "freqLabelText":"Delivery every",
-            "oneTime":{
-                "title":"One time",
-                "btnText":"Add to cart"
+            "moreInfoBtnText": "Learn more",
+            "qtyLabelText": "QTY",
+            "freqLabelText": "Delivery every",
+            "oneTime": {
+                "title": "One time",
+                "btnText": "Add to cart"
             },
-            "subscribe":{
-                "title":"Subscribe",
-                "btnText":"Subscribe",
-                "interval":"Days"
+            "subscribe": {
+                "title": "Subscribe",
+                "btnText": "Subscribe",
+                "interval": "Days"
             },
-            "moneyBackInfo":{
-                "title":"HOW SUBSCRIBE & SAVE WORKS",
-                "desc":"30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
+            "moneyBackInfo": {
+                "title": "HOW SUBSCRIBE & SAVE WORKS",
+                "desc": "30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
             },
-            "termPurchase":null
+            "termPurchase": null
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -1843,58 +1905,40 @@
             "productColorTheme": "#37246b",
             "items": [
                 {
-                    "title": "CHOLESTEROL",
+                    "title": "Support Cardiovascular Health",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-02b.jpg",
+                        "src": "",
                         "alt": ""
                     },
-                    "description": "CholestQ10 contains clinically proven ingredients that help reduce cholesterol counts."
+                    "description": "Clinically-proven ingredients help support healthy cholesterol levels"
                 },
                 {
-                    "title": "EXERCISE",
+                    "title": "Fatty Lipids",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-07.jpg",
+                        "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-06c.jpg",
                         "alt": ""
                     },
-                    "description": "CoQ10 Phytosome supports all activities involving energetic expenditure."
+                    "description": "Clinically-proven ingredients inhibit the creation of fatty lipids in the liver"
                 },
                 {
-                    "title": "HEART",
+                    "title": "Oxidative Damage and CoQ10",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-06b.jpg",
+                        "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-05c.jpg",
                         "alt": ""
                     },
-                    "description": "The CoQ10 Phytosome in CholestQ10 supports healthy blood vessels and cardiovascular functions."
+                    "description": "Clinically-proven ingredients help protect mitochondrial DNA against oxidative damage that can lead to heart disease and significantly boost CoQ10 116% over baseline"
                 },
                 {
-                    "title": "LIVER",
+                    "title": "Vegan-Friendly",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-04b.jpg",
+                        "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-03c.jpg",
                         "alt": ""
                     },
-                    "description": "CholestQ10 can help inhibit fat accumulation in the hepatocytes (liver cells)."
-                },
-                {
-                    "title": "BRAIN",
-                    "icon": "",
-                    "description": "CoQ10 helps ensure that the brain—one of the body’s biggest energy consumers—is well fed.",
-                    "img": {
-                        "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-03b.jpg",
-                        "alt": ""
-                    }
-                },
-                {
-                    "title": "BLOOD",
-                    "icon": "",
-                    "description": "CholestQ10 offers a significant improvement of physiological CoQ10 plasma levels",
-                    "img": {
-                        "src": "\\utility\\products\\cholestq10\\BMD-CholestQ10-Benefit-Card-05.jpg",
-                        "alt": ""
-                    }
+                    "description": "All ingredients in CholestQ10 are certified vegan, including the capsules"
                 }
             ]
         },
@@ -1902,25 +1946,17 @@
             {
                 "title": "Details",
                 "details": [
-                    "<p>soon</p>"
-                ]
-            },
-            {
-                "title": "Additional Information",
-                "details": [
-                    "<p>soon.</p>"
-                ]
-            },
-            {
-                "title": "Quality assurance",
-                "details": [
-                    "<p>soon.</p>"
-                ]
-            },
-            {
-                "title": "Ingredients",
-                "details": [
-                    "<p>soon</p>"
+                    "<p>Bruno MD curated centuries of regional food knowledge to create CholestQ10: a supplement designed to support healthy LDL, HDL Cholesterol & Triglycerides levels (already in the healthy range) with benefits that spring from the very heart of Italian soil!.</p>",
+                    "<b>Direction to use</b>",
+                    "<p>Take 2 capsules daily with water with food.</p>",
+                    "<b>Warnings</b>",
+                    "<p>Do not exceed daily recommended dose</p>.",
+                    "<b>Side effects</b>",
+                    "<p>None</p>",
+                    "<b>Caution</b>",
+                    "<p>As with any supplement, consult your healthcare professional before using this product, If you are pregnant, nursing, taking any medication, or under medical supervision. <b>KEEP OUT OF REACH OF CHILDREN</b>. Do not use if safety seal is broken or missing.</p>",
+                    "<b>Storage and Packaging</b>",
+                    "<p>Protect from heat, light and moisture. Store in cool, dry plate at 15°-25°C (59°-77°F)</p>"
                 ]
             },
             {
@@ -1948,6 +1984,67 @@
                     }
                 ],
                 "faq": true
+            },
+            {
+                "title": "NATURAL VITAMIN E (D-ALPHA TOCOPHERYL SUCCINATE)",
+                "details": [
+                    "Italy",
+                    "All-natural Vitamin E (d-alpha tocopheryl succinate) stays active in the body longer and creates a living shield to protect proteins, LDL cholesterol, and mitochondrial DNA against oxidative damage that leads to heart disease. It is a must-take nutrient for your heart. It helps prevent oxidation of LDL Cholesterol. Research has shown that when our natural Vitamin E is combined with CoQ10 it helps maintain its antioxidant state. It also reduces levels of lipid peroxidation — the pivotal reaction in the cause of atherosclerosis — and thus reduces the risk of cardiovascular disease."
+                ]
+            },
+            {
+                "title": "BERGAMOT ORANGE EXTRACT PHYTOSOME (CITRUS BERGAMIA)",
+                "details": [
+                    "Calabria, Italy",
+                    "Bergamot Orange Extract (Citrus Bergamia) is hand-harvested in Calabria. Bergamot Phytosome® is clinically proven to protect against cardiovascular issues by supporting healthy cholesterol levels. It also helps govern metabolic conditions that increase the risk of heart disease, and TYPE II diabetes. It’s the green “gold standard” of heart health.",
+                    "Bergamot Phytosome® optimizes the biological absorption of polyphenols, which are normally characterized by poor solubility in both water and organic solvents."
+                ]
+            },
+            {
+                "title": "CURCUMIN PHYTOSOME (TURMERIC EXTRACT - CURCUMA LONGA)",
+                "details": [
+                    "Lombardia, Italy",
+                    "#1 Doctors Recommended and endorsed by Cleveland Clinic.Curcumin Phytosome is the most studied compound curcumin compound in the world. It is the formulation of choice for leading practitioners and their patients. It was independently endorsed by the prestigious Cleveland Clinic in the US as the curcumin formulation of choice in the turmeric market. Part of the ginger family, curcumin is sourced from turmeric and has been used for thousands of years in Southeast Asia, China, and India for cooking and medicinal uses. Our Curcumin Phytosome is clinically proven in 35 randomized, double-blind, placebo-controlled, published clinical trials to promote a healthy inflammatory response, boost immune response, and provide relief from exercise-related pain. It works through multiple pathways on multiple targets to provide complete relief throughout the entire body. The extract has been standardized and contains the full bouquet of curcuminoids, not just curcumin (Curcuminoids are polyphenolic pigments and include 77% curcumin, 17% demethoxycurcumin, and 3% bisdemethoxycurcumin). It has been called a “Life Guardian” because it helps control chronic inflammation and boost immune response at any age."
+                ]
+            },
+            {
+                "title": "CARDOON LEAF EXTRACT (CYNARA CARDUNCULUS L. - VARIETY ALTILIS DC. AND SCOLYMUS)",
+                "details": [
+                    "Catania, Italy",
+                    "Farmers have grown an artichoke called the Cardoon in Sicily for millennia. Bruno MD scientists discovered that active biophenols and flavonoids from an endemic variety of Cardoon leaf are among the most potent found in nature! Importantly, these compounds inhibit the creation of fatty lipids in the liver. “Secret” health benefits the farmers knew all along!"
+                ]
+            }
+        ],
+        "ProductTrustBadges": [
+            {
+                "src": "\\utility\\trust\\Vegan-Icon-v1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Paleo-Friendly-Icon-v1-Black.png"
+            },
+            {
+                "src": "\\utility\\trust\\Non-GMO-Icon-v1-Black-300x300 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\EU_Certified-Icon-v1-Black-300x300.png"
+            },
+            {
+                "src": "\\utility\\trust\\Low-Carb-Icon-V1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Clinically_Proven-Icon-v1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Gluten-Free-Icon-v2-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Clean+Pure-Icon-v1-Black-300x300 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Made-In-USA-Icon-V1-Black.png"
+            },
+            {
+                "src": "\\utility\\trust\\BioAvailable-icon-v1-Black-300x300.png"
             }
         ],
         "seo": {
@@ -1976,8 +2073,8 @@
                 "alt": ""
             },
             {
-                "src":"\\utility\\products\\rcp\\Bruno-Pharma17271.avif",
-                "alt":""
+                "src": "\\utility\\products\\rcp\\Bruno-Pharma17271.avif",
+                "alt": ""
             },
             {
                 "src": "\\utility\\products\\rcp\\NEWBMD-RCP-BenefitCard-01bcopy.jpg",
@@ -1995,23 +2092,23 @@
             "maxQty": 10,
             "defaultQtyMultiplayer": 1,
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
-            "moreInfoBtnText":"Learn more",
-            "qtyLabelText":"QTY",
-            "freqLabelText":"Delivery every",
-            "oneTime":{
-                "title":"One time",
-                "btnText":"Add to cart"
+            "moreInfoBtnText": "Learn more",
+            "qtyLabelText": "QTY",
+            "freqLabelText": "Delivery every",
+            "oneTime": {
+                "title": "One time",
+                "btnText": "Add to cart"
             },
-            "subscribe":{
-                "title":"Subscribe",
-                "btnText":"Subscribe",
-                "interval":"Days"
+            "subscribe": {
+                "title": "Subscribe",
+                "btnText": "Subscribe",
+                "interval": "Days"
             },
-            "moneyBackInfo":{
-                "title":"HOW SUBSCRIBE & SAVE WORKS",
-                "desc":"30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
+            "moneyBackInfo": {
+                "title": "HOW SUBSCRIBE & SAVE WORKS",
+                "desc": "30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
             },
-            "termPurchase":null
+            "termPurchase": null
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -2124,12 +2221,14 @@
                 "details": []
             },
             {
-                "title":"BioAvailable",
-                "details":[]
+                "title": "BioAvailable",
+                "details": []
             },
             {
-                "title":"Quality Assurance",
-                "details":[ "cGMP Facility"]
+                "title": "Quality Assurance",
+                "details": [
+                    "cGMP Facility"
+                ]
             },
             {
                 "title": "FAQs",
@@ -2162,16 +2261,22 @@
                 "faq": true
             },
             {
-                "title":"NATURAL VITAMIN C (FROM ASCORBIC ACID)",
-                "details":["Scotland, United Kingdom"]
+                "title": "NATURAL VITAMIN C (FROM ASCORBIC ACID)",
+                "details": [
+                    "Scotland, United Kingdom"
+                ]
             },
             {
-                "title":"HIGHLY PURIFIED COLLAGEN PEPTIDES COMPLEX (SPECIFIC COLLAGEN PEPTIDES)",
-                "details":[ "Italy, Germany, Great Britain, other EU countries. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage; so, you’ll move better, and increase bone density; to keep your bones strong."]
+                "title": "HIGHLY PURIFIED COLLAGEN PEPTIDES COMPLEX (SPECIFIC COLLAGEN PEPTIDES)",
+                "details": [
+                    "Italy, Germany, Great Britain, other EU countries. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage; so, you’ll move better, and increase bone density; to keep your bones strong."
+                ]
             },
             {
-                "title":"RED ORANGE COMPLEX",
-                "details":[ "Sicily, Italy. Red Orange Complex is a standardized extract locally sourced from the juice of three pigmented varieties of Sicilian Blood Orange (Citrus Sinensis - Varieties Moro, Sanguinello, Tarocco) grown on the side of Mt. Etna volcano where climate and soil are perfect for this kind of tree. No one else in the world has access to it. Sicilians call this orange “the ultimate healthy fruit,” but Bruno MD calls it a miracle of Madre Terra."]
+                "title": "RED ORANGE COMPLEX",
+                "details": [
+                    "Sicily, Italy. Red Orange Complex is a standardized extract locally sourced from the juice of three pigmented varieties of Sicilian Blood Orange (Citrus Sinensis - Varieties Moro, Sanguinello, Tarocco) grown on the side of Mt. Etna volcano where climate and soil are perfect for this kind of tree. No one else in the world has access to it. Sicilians call this orange “the ultimate healthy fruit,” but Bruno MD calls it a miracle of Madre Terra."
+                ]
             }
         ],
         "seo": {
@@ -2188,20 +2293,36 @@
         "btnText": "Shop",
         "price": 58.78,
         "logo": {
-            "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-StrawberryAcai-01452NR-framed.png"
+            "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01100NR.png"
         },
         "images": [
             {
-                "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-StrawberryAcai-01452NR-framed.png",
+                "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01100NR.png",
                 "alt": ""
             },
             {
-                "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-StrawberryAcai-01101NR.png",
+                "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01236NR.png",
                 "alt": ""
             },
             {
-                "src": "\\utility\\products\\rcp-strawberry\\BMD-RCP-Stickparks-Benefit-Card-01b-Strawberry-Acai.jpg",
+                "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01102NR.png",
                 "alt": ""
+            },
+            {
+                "src":"\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01452NR.png",
+                "alt":""
+            },
+            {
+                "src":"\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01481NR.png",
+                "alt":""
+            },
+            {
+                "src":"\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01101NR.png",
+                "alt":""
+            },
+            {
+                "src":"\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01102NR.png",
+                "alt":""
             }
         ],
         "declaimer": {
@@ -2215,70 +2336,71 @@
             "maxQty": 10,
             "defaultQtyMultiplayer": 20,
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
-            "moreInfoBtnText":"Learn more",
-            "qtyLabelText":"QTY",
-            "freqLabelText":"Delivery every",
-            "oneTime":{
-                "title":"One time",
-                "btnText":"Add to cart"
+            "moreInfoBtnText": "Learn more",
+            "qtyLabelText": "QTY",
+            "freqLabelText": "Delivery every",
+            "oneTime": {
+                "title": "One time",
+                "btnText": "Add to cart"
             },
-            "subscribe":{
-                "title":"Subscribe",
-                "btnText":"Subscribe",
-                "interval":"Days"
+            "subscribe": {
+                "title": "Subscribe",
+                "btnText": "Subscribe",
+                "interval": "Days"
             },
-            "moneyBackInfo":{
-                "title":"HOW SUBSCRIBE & SAVE WORKS",
-                "desc":"30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
+            "moneyBackInfo": {
+                "title": "HOW SUBSCRIBE & SAVE WORKS",
+                "desc": "30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
             },
-            "termPurchase":null
+            "termPurchase": null
         },
         "fourStepProcess": {
-            "title":"Our Four-Step Process",
-            "buttonTittle":"LEARN MORE",
-            "stepAlignment":false,
-            "content":[
-            {
-                "stepNumber": 1,
-                "title": "Reduce inflammation with Astaxanthin",
-                "body": "From Haematococcus Pluvialis algae to reduce inflammation and restart collagen-producing cells",
-                "expanded": "Astaxanthin is the most potent antioxidant known in nature. Your skin is under constant attack by free radicals, and astaxanthin acts as a defender to preserve collagen production, and lock in the increased elasticity and hydration. A group of 150 healthy women aged 20-55 supplemented with Astaxanthin over six separate studies.* The women taking Astaxanthin demonstrated an 18% improvement in viscoelasticity and a 17X increase in skin hydration over the placebo group after just four weeks. Additionally, skin smoothness improved 16%, and age spots were reduced by an average of 3mm in only eight weeks.",
-                "image": {
-                    "src": "https://f.shgcdn.com/4b2d5084-e743-4325-b1e4-4f76ef23644a/",
-                    "alt": "booo"
+            "title": "Our Four-Step Process",
+            "buttonTittle": "LEARN MORE",
+            "stepAlignment": false,
+            "content": [
+                {
+                    "stepNumber": 1,
+                    "title": "Reduce inflammation with Astaxanthin",
+                    "body": "From Haematococcus Pluvialis algae to reduce inflammation and restart collagen-producing cells",
+                    "expanded": "Astaxanthin is the most potent antioxidant known in nature. Your skin is under constant attack by free radicals, and astaxanthin acts as a defender to preserve collagen production, and lock in the increased elasticity and hydration. A group of 150 healthy women aged 20-55 supplemented with Astaxanthin over six separate studies.* The women taking Astaxanthin demonstrated an 18% improvement in viscoelasticity and a 17X increase in skin hydration over the placebo group after just four weeks. Additionally, skin smoothness improved 16%, and age spots were reduced by an average of 3mm in only eight weeks.",
+                    "image": {
+                        "src": "https://f.shgcdn.com/4b2d5084-e743-4325-b1e4-4f76ef23644a/",
+                        "alt": "booo"
+                    }
+                },
+                {
+                    "stepNumber": 2,
+                    "title": "Boost collagen production with Specific Collagen Peptides",
+                    "body": "From highly purified collagen peptides to stimulate fibroblasts, reduce wrinkles, and improve overall skin tone",
+                    "expanded": "Bruno MD collagen peptides begin with an organic, non-GMO, halal, and kosher certified bovine source, raised exclusively on a plant-based diet by European partners near the Alps. The EU prohibits ranchers from breeding genetically modified bovines or using GMO feed, unlike farmers in the US and Brazil.Three clinical trials* conducted on 250 healthy females, ages 45 to 65, confirm that oral intake of Royal Collagen Specific Peptides Complex significantly reduced eye wrinkle volume by 20.1% on average and up to a maximum of 49.9% vs. the placebo group after only eight weeks of treatment.",
+                    "image": {
+                        "src": "https://f.shgcdn.com/ff22235d-27c0-41f1-86b4-52681ab4bb96/",
+                        "alt": "booo"
+                    }
+                },
+                {
+                    "stepNumber": 3,
+                    "title": "Maximize collagen biosynthesis with Red Orange Complex",
+                    "body": "Maximize collagen biosynthesis with Red Orange Complex from varieties of Moro, Sanguinello, & Tarocco orange extract to encourage collagen formation and boost the immune system with potent Natural Vitamin-C",
+                    "expanded": "We harvest our Vitamin-C from three varieties of blood orange grown for centuries on family farms near Mt. Etna volcano. This mineral-rich soil creates citrus so dense in flavonoids and Vitamin-C that the Romans called it “the miracle of Madre Terra.",
+                    "image": {
+                        "src": "https://f.shgcdn.com/e683a4b1-5c37-4264-b36e-181b25503cb6/",
+                        "alt": "booo"
+                    }
+                },
+                {
+                    "stepNumber": 4,
+                    "title": "Lock in hydration with Hyaluronic Acid",
+                    "body": "From natural fermentation process which significantly increases skin plumpness, moisture, and glow",
+                    "expanded": "Hyaluronic Acid is the sponge that keeps our skin hydrated. Our Hyaluronic Acid is made with organic fermentation and is clinically proven to help reduce wrinkles, smooth skin texture, and deeply hydrate skin cells.A group of 120 healthy women aged 35-60 with dry and sagging skin or wrinkles around their outer canthus supplemented with Bruno MD low molecular weight hyaluronic acid for six weeks and significantly increased skin moisture content and improved the facial aging symptoms such as luster and suppleness. Also, the group showed better levels of the sulcus volume ratio, wrinkle area ratio, and wrinkle volume ratio than the placebo group.",
+                    "image": {
+                        "src": "https://f.shgcdn.com/4ed20421-79fb-4b73-a968-888811672ef9/",
+                        "alt": "booo"
+                    }
                 }
-            },
-            {
-                "stepNumber": 2,
-                "title": "Boost collagen production with Specific Collagen Peptides",
-                "body": "From highly purified collagen peptides to stimulate fibroblasts, reduce wrinkles, and improve overall skin tone",
-                "expanded": "Bruno MD collagen peptides begin with an organic, non-GMO, halal, and kosher certified bovine source, raised exclusively on a plant-based diet by European partners near the Alps. The EU prohibits ranchers from breeding genetically modified bovines or using GMO feed, unlike farmers in the US and Brazil.Three clinical trials* conducted on 250 healthy females, ages 45 to 65, confirm that oral intake of Royal Collagen Specific Peptides Complex significantly reduced eye wrinkle volume by 20.1% on average and up to a maximum of 49.9% vs. the placebo group after only eight weeks of treatment.",
-                "image": {
-                    "src": "https://f.shgcdn.com/ff22235d-27c0-41f1-86b4-52681ab4bb96/",
-                    "alt": "booo"
-                }
-            },
-            {
-                "stepNumber": 3,
-                "title": "Maximize collagen biosynthesis with Red Orange Complex",
-                "body": "Maximize collagen biosynthesis with Red Orange Complex from varieties of Moro, Sanguinello, & Tarocco orange extract to encourage collagen formation and boost the immune system with potent Natural Vitamin-C",
-                "expanded": "We harvest our Vitamin-C from three varieties of blood orange grown for centuries on family farms near Mt. Etna volcano. This mineral-rich soil creates citrus so dense in flavonoids and Vitamin-C that the Romans called it “the miracle of Madre Terra.",
-                "image": {
-                    "src": "https://f.shgcdn.com/e683a4b1-5c37-4264-b36e-181b25503cb6/",
-                    "alt": "booo"
-                }
-            },
-            {
-                "stepNumber": 4,
-                "title": "Lock in hydration with Hyaluronic Acid",
-                "body": "From natural fermentation process which significantly increases skin plumpness, moisture, and glow",
-                "expanded": "Hyaluronic Acid is the sponge that keeps our skin hydrated. Our Hyaluronic Acid is made with organic fermentation and is clinically proven to help reduce wrinkles, smooth skin texture, and deeply hydrate skin cells.A group of 120 healthy women aged 35-60 with dry and sagging skin or wrinkles around their outer canthus supplemented with Bruno MD low molecular weight hyaluronic acid for six weeks and significantly increased skin moisture content and improved the facial aging symptoms such as luster and suppleness. Also, the group showed better levels of the sulcus volume ratio, wrinkle area ratio, and wrinkle volume ratio than the placebo group.",
-                "image": {
-                    "src": "https://f.shgcdn.com/4ed20421-79fb-4b73-a968-888811672ef9/",
-                    "alt": "booo"
-                }
-            }
-        ]},
+            ]
+        },
         "newsletter": {
             "title": "Join our newsletter",
             "portalId": "19647191",
@@ -2291,40 +2413,40 @@
             "productColorTheme": "#37246b",
             "items": [
                 {
-                    "title": "SKIN",
+                    "title": "Reduce inflammation",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\rcp-strawberry\\BMD-RCP-Stickparks-Benefit-Card-05b_b1225007-2932-4720-abc6-28bb1e27ae91.jpg",
+                        "src": "\\utility\\products\\rcp-strawberry\\BMD-RCP-Stickpacks-Benefit-Card-07c.jpg",
                         "alt": ""
                     },
-                    "description": "Royal Collagen Peptides Beauty from Within helps tame inflammation and turn your collagen-producing cells back on to improve skin texture and elasticity, making skin appear tighter and firmer."
+                    "description": "Astaxanthin, from Haematococcus Pluvialis algae, reduces inflammation and helps restart collagen-producing cells"
                 },
                 {
-                    "title": "NAILS",
+                    "title": "Boost collagen production ",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\rcp-strawberry\\BMD-RCP-Stickparks-Benefit-Card-06b_aef776c4-f749-4632-8b65-b3572b6bd9b1.jpg",
+                        "src": "\\utility\\products\\rcp-strawberry\\BMD-RCP-Stickparks-Benefit-Card-02c.jpg",
                         "alt": ""
                     },
-                    "description": "Royal Collagen Peptides promote faster growth and stronger fingernails with fewer chips and breaks."
+                    "description": "Specific Collagen Peptides, from highly purified collagen peptides, help stimulate fibroblasts, reduce wrinkles, and improve overall skin tone"
                 },
                 {
-                    "title": "HAIR",
+                    "title": "Maximize collagen biosynthesis",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\rcp-strawberry\\BMD-RCP-Stickparks-Benefit-Card-02b_45732765-9b66-4d89-b823-3fe65cc1f3af.jpg",
+                        "src": "\\utility\\products\\rcp-strawberry\\BMD-RCP-Stickparks-Benefit-Card-04c.jpg",
                         "alt": ""
                     },
-                    "description": "Royal Collagen Peptides promotes more healthy, youthful-looking hair with renewed luster and bounce."
+                    "description": "Maximize collagen biosynthesis with Red Orange Complex from varieties of Moro, Sanguinello, & Tarocco orange extract to encourage collagen formation and boost the immune system with potent Natural Vitamin-C"
                 },
                 {
-                    "title": "THE VISIBLE APPEARANCE OF CELLULITE",
+                    "title": "Lock in hydration",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\rcp-strawberry\\BMD-RCP-Stickpacks-Benefit-Card-07b_76e6cac0-b927-481e-9f5b-f7a6c76e74ed.jpg",
+                        "src": "\\utility\\products\\rcp-strawberry\\BMD-RCP-Stickparks-Benefit-Card-05c.jpg",
                         "alt": ""
                     },
-                    "description": "Royal Collagen Peptides Beauty from Within helps increase the elasticity of connective tissue within the dermal matrix to help smooth skin and decrease the appearance of cellulite."
+                    "description": "Hyaluronic acid from natural fermentation process significantly increases skin plumpness, moisture, and glow"
                 }
             ]
         },
@@ -2332,25 +2454,15 @@
             {
                 "title": "Details",
                 "details": [
-                    "<p>Improve the microcirculation in roots and nail beds, so hair grows faster and stronger, and nails are less brittle and more resilient. This beauty regimen also increases the elasticity of connective tissue, which helps diminish the appearance of cellulite. Our Red Orange complex even skin tone helps improve skin health and reduce age spots. And even your eyes will look younger with our unique all-natural ingredients, clinically proven to reduce eye wrinkles volume.</p>"
-                ]
-            },
-            {
-                "title": "Additional Information",
-                "details": [
-                    "<p>soon.</p>"
-                ]
-            },
-            {
-                "title": "Quality assurance",
-                "details": [
-                    "<p>soon.</p>"
-                ]
-            },
-            {
-                "title": "Ingredients",
-                "details": [
-                    "<p>soon</p>"
+                    "<p>Royal Collagen Peptides “Beauty from Within is daily collagen care with 6 in 1 benefits. Rebuild youthful radiance from the inside out with clinically proven ingredients. Help tame inflammation and restart your collagen-producing cells for younger-looking skin. Improve the microcirculation in roots and nail beds, so hair grows faster and stronger, and nails are less brittle and more resilient. This beauty regimen also increases the elasticity of connective tissue, which helps diminish the appearance of cellulite. Our Red Orange complex even skin tone helps improve skin health and reduce age spots. And even your eyes will look younger with our unique all-natural ingredients, clinically proven to reduce eye wrinkles volume.</p>",
+                    "<b>Direction to use</b>",
+                    "<p>Add 1 scoop to at least 8 fl oz of liquid, preferably cold or lukewarm, and mix well. Royal Collagen Peptides® may be consumed on an empty stomach, at any time during the day. Warnings:Do not exceed 3 servings per day.</p>",
+                    "<b>Caution</b>",
+                    "<p>As with any supplement, consult your healthcare professional before using this product, If you are pregnant, nursing, taking any medication, or under medical supervision. <b>KEEP OUT OF REACH OF CHILDREN</b>. Do not use if safety seal is broken or missing</p>",
+                    "<b>Side effects</b>",
+                    "<p>none</p>",
+                    "<b>Storage and Packaging</b>",
+                    "Protect from heat, light and moisture. Store in cool, dry plate at 15°-30°C (59°-86°F)"
                 ]
             },
             {
@@ -2382,6 +2494,70 @@
                     }
                 ],
                 "faq": true
+            },
+            {
+                "title": "NATURAL VITAMIN C (FROM ASCORBIC ACID)",
+                "details": [
+                    "Scotland, United Kingdom"
+                ]
+            },
+            {
+                "title": "HIGHLY PURIFIED COLLAGEN PEPTIDES COMPLEX (SPECIFIC COLLAGEN PEPTIDES)",
+                "details": [
+                    "Italy, Germany, Great Britain, other EU countries. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage; so, you’ll move better, and increase bone density; to keep your bones strong."
+                ]
+            },
+            {
+                "title": "RED ORANGE COMPLEX",
+                "details": [
+                    "Sicily, Italy. Red Orange Complex is a standardized extract locally sourced from the juice of three pigmented varieties of Sicilian Blood Orange (Citrus Sinensis - Varieties Moro, Sanguinello, Tarocco) grown on the side of Mt. Etna volcano where climate and soil are perfect for this kind of tree. No one else in the world has access to it. Sicilians call this orange “the ultimate healthy fruit,” but Bruno MD calls it a miracle of Madre Terra."
+                ]
+            },
+            {
+                "title": "HYALURONIC ACID (SODIUM HYALURONATE)",
+                "details": [
+                    "Japan.",
+                    "Hyaluronic Acid binds water in your skin like a sponge to support long-lasting hydration, and combined with Royal Collagen Peptides and Astaxanthin, it assures the highest level of bioavailability in collagen care."
+                ]
+            },
+            {
+                "title": "NATURAL ASTAXANTHIN EXTRACT (HAEMATOCOCCUS PLUVIALIS) (ALGAE)",
+                "details": [
+                    "Sweden & Japan.",
+                    "Astaxanthin is the most potent anti-inflammatory known in nature. Natural astaxanthin, has a strong ability to both balance and strengthen the immune system, enhance antibody production, hence improving the defense against inflammation, and outside invaders (pathogens) Astaxanthin can also help reduce high blood pressure, improve heart health, prevent type II diabetes, and decrease the risk of brain damage from a stroke. Over 95% of commercial Astaxanthin is synthetic. Worse, it’s harvested using petrochemicals. Bruno MD Astaxanthin is naturally derived from Haematococcus Pluvialis algae, found in temperate environments around the world to produce the highest concentrations of Astaxanthin with the highest bioavailability."
+                ]
+            }
+        ],
+        "ProductTrustBadges": [
+            {
+                "src": "\\utility\\trust\\Pasture_Raised-Icon-v1-Black-300x300.png"
+            },
+            {
+                "src": "\\utility\\trust\\Paleo-Friendly-Icon-v1-Black.png"
+            },
+            {
+                "src": "\\utility\\trust\\Non-GMO-Icon-v1-Black-300x300 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\EU_Certified-Icon-v1-Black-300x300.png"
+            },
+            {
+                "src": "\\utility\\trust\\Low-Carb-Icon-V1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Clinically_Proven-Icon-v1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Gluten-Free-Icon-v2-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Ketosis-Icon-v2-Black.png"
+            },
+            {
+                "src": "\\utility\\trust\\Made-In-USA-Icon-V1-Black.png"
+            },
+            {
+                "src": "\\utility\\trust\\BioAvailable-icon-v1-Black-300x300.png"
             }
         ],
         "seo": {
@@ -2437,23 +2613,23 @@
             "maxQty": 10,
             "defaultQtyMultiplayer": 20,
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
-            "moreInfoBtnText":"Learn more",
-            "qtyLabelText":"QTY",
-            "freqLabelText":"Delivery every",
-            "oneTime":{
-                "title":"One time",
-                "btnText":"Add to cart"
+            "moreInfoBtnText": "Learn more",
+            "qtyLabelText": "QTY",
+            "freqLabelText": "Delivery every",
+            "oneTime": {
+                "title": "One time",
+                "btnText": "Add to cart"
             },
-            "subscribe":{
-                "title":"Subscribe",
-                "btnText":"Subscribe",
-                "interval":"Days"
+            "subscribe": {
+                "title": "Subscribe",
+                "btnText": "Subscribe",
+                "interval": "Days"
             },
-            "moneyBackInfo":{
-                "title":"HOW SUBSCRIBE & SAVE WORKS",
-                "desc":"30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
+            "moneyBackInfo": {
+                "title": "HOW SUBSCRIBE & SAVE WORKS",
+                "desc": "30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
             },
-            "termPurchase":null
+            "termPurchase": null
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -2595,25 +2771,35 @@
             },
             {
                 "title": "NATURAL VITAMIN C (FROM ASCORBIC ACID)",
-                "details": [ "Scotland, United Kingdom"]
+                "details": [
+                    "Scotland, United Kingdom"
+                ]
             },
             {
                 "title": "HIGHLY PURIFIED COLLAGEN PEPTIDES COMPLEX (SPECIFIC COLLAGEN PEPTIDES)",
-                "details": [ "Italy, Germany, Great Britain, other EU countries. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage; so, you’ll move better, and increase bone density; to keep your bones strong."]
+                "details": [
+                    "Italy, Germany, Great Britain, other EU countries. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage; so, you’ll move better, and increase bone density; to keep your bones strong."
+                ]
             },
             {
                 "title": "RED ORANGE COMPLEX",
-                "details": ["Sicily, Italy. Red Orange Complex is a standardized extract locally sourced from the juice of three pigmented varieties of Sicilian Blood Orange (Citrus Sinensis - Varieties Moro, Sanguinello, Tarocco) grown on the side of Mt. Etna volcano where climate and soil are perfect for this kind of tree. No one else in the world has access to it. Sicilians call this orange “the ultimate healthy fruit,” but Bruno MD calls it a miracle of Madre Terra."]
+                "details": [
+                    "Sicily, Italy. Red Orange Complex is a standardized extract locally sourced from the juice of three pigmented varieties of Sicilian Blood Orange (Citrus Sinensis - Varieties Moro, Sanguinello, Tarocco) grown on the side of Mt. Etna volcano where climate and soil are perfect for this kind of tree. No one else in the world has access to it. Sicilians call this orange “the ultimate healthy fruit,” but Bruno MD calls it a miracle of Madre Terra."
+                ]
             },
             {
                 "title": "HYALURONIC ACID (SODIUM HYALURONATE)",
-                "details": [ "Japan.",
-                "Hyaluronic Acid binds water in your skin like a sponge to support long-lasting hydration, and combined with Royal Collagen Peptides and Astaxanthin, it assures the highest level of bioavailability in collagen care."]
+                "details": [
+                    "Japan.",
+                    "Hyaluronic Acid binds water in your skin like a sponge to support long-lasting hydration, and combined with Royal Collagen Peptides and Astaxanthin, it assures the highest level of bioavailability in collagen care."
+                ]
             },
             {
                 "title": "NATURAL ASTAXANTHIN EXTRACT (HAEMATOCOCCUS PLUVIALIS) (ALGAE)",
-                "details": ["Sweden & Japan.",
-                "Astaxanthin is the most potent anti-inflammatory known in nature. Natural astaxanthin, has a strong ability to both balance and strengthen the immune system, enhance antibody production, hence improving the defense against inflammation, and outside invaders (pathogens) Astaxanthin can also help reduce high blood pressure, improve heart health, prevent type II diabetes, and decrease the risk of brain damage from a stroke. Over 95% of commercial Astaxanthin is synthetic. Worse, it’s harvested using petrochemicals. Bruno MD Astaxanthin is naturally derived from Haematococcus Pluvialis algae, found in temperate environments around the world to produce the highest concentrations of Astaxanthin with the highest bioavailability."]
+                "details": [
+                    "Sweden & Japan.",
+                    "Astaxanthin is the most potent anti-inflammatory known in nature. Natural astaxanthin, has a strong ability to both balance and strengthen the immune system, enhance antibody production, hence improving the defense against inflammation, and outside invaders (pathogens) Astaxanthin can also help reduce high blood pressure, improve heart health, prevent type II diabetes, and decrease the risk of brain damage from a stroke. Over 95% of commercial Astaxanthin is synthetic. Worse, it’s harvested using petrochemicals. Bruno MD Astaxanthin is naturally derived from Haematococcus Pluvialis algae, found in temperate environments around the world to produce the highest concentrations of Astaxanthin with the highest bioavailability."
+                ]
             },
             {
                 "title": "Blog",
@@ -2650,51 +2836,52 @@
             }
         ],
         "fourStepProcess": {
-            "title":"Our Four-Step Process",
-            "buttonTittle":"LEARN MORE",
-            "stepAlignment":false,
-            "content":[
-            {
-                "stepNumber": 1,
-                "title": "Reduce inflammation with Astaxanthin",
-                "body": "From Haematococcus Pluvialis algae to reduce inflammation and restart collagen-producing cells",
-                "expanded": "Astaxanthin is the most potent antioxidant known in nature. Your skin is under constant attack by free radicals, and astaxanthin acts as a defender to preserve collagen production, and lock in the increased elasticity and hydration. A group of 150 healthy women aged 20-55 supplemented with Astaxanthin over six separate studies.* The women taking Astaxanthin demonstrated an 18% improvement in viscoelasticity and a 17X increase in skin hydration over the placebo group after just four weeks. Additionally, skin smoothness improved 16%, and age spots were reduced by an average of 3mm in only eight weeks.",
-                "image": {
-                    "src": "https://f.shgcdn.com/4b2d5084-e743-4325-b1e4-4f76ef23644a/",
-                    "alt": "booo"
+            "title": "Our Four-Step Process",
+            "buttonTittle": "LEARN MORE",
+            "stepAlignment": false,
+            "content": [
+                {
+                    "stepNumber": 1,
+                    "title": "Reduce inflammation with Astaxanthin",
+                    "body": "From Haematococcus Pluvialis algae to reduce inflammation and restart collagen-producing cells",
+                    "expanded": "Astaxanthin is the most potent antioxidant known in nature. Your skin is under constant attack by free radicals, and astaxanthin acts as a defender to preserve collagen production, and lock in the increased elasticity and hydration. A group of 150 healthy women aged 20-55 supplemented with Astaxanthin over six separate studies.* The women taking Astaxanthin demonstrated an 18% improvement in viscoelasticity and a 17X increase in skin hydration over the placebo group after just four weeks. Additionally, skin smoothness improved 16%, and age spots were reduced by an average of 3mm in only eight weeks.",
+                    "image": {
+                        "src": "https://f.shgcdn.com/4b2d5084-e743-4325-b1e4-4f76ef23644a/",
+                        "alt": "booo"
+                    }
+                },
+                {
+                    "stepNumber": 2,
+                    "title": "Boost collagen production with Specific Collagen Peptides",
+                    "body": "From highly purified collagen peptides to stimulate fibroblasts, reduce wrinkles, and improve overall skin tone",
+                    "expanded": "Bruno MD collagen peptides begin with an organic, non-GMO, halal, and kosher certified bovine source, raised exclusively on a plant-based diet by European partners near the Alps. The EU prohibits ranchers from breeding genetically modified bovines or using GMO feed, unlike farmers in the US and Brazil.Three clinical trials* conducted on 250 healthy females, ages 45 to 65, confirm that oral intake of Royal Collagen Specific Peptides Complex significantly reduced eye wrinkle volume by 20.1% on average and up to a maximum of 49.9% vs. the placebo group after only eight weeks of treatment.",
+                    "image": {
+                        "src": "https://f.shgcdn.com/ff22235d-27c0-41f1-86b4-52681ab4bb96/",
+                        "alt": "booo"
+                    }
+                },
+                {
+                    "stepNumber": 3,
+                    "title": "Maximize collagen biosynthesis with Red Orange Complex",
+                    "body": "Maximize collagen biosynthesis with Red Orange Complex from varieties of Moro, Sanguinello, & Tarocco orange extract to encourage collagen formation and boost the immune system with potent Natural Vitamin-C",
+                    "expanded": "We harvest our Vitamin-C from three varieties of blood orange grown for centuries on family farms near Mt. Etna volcano. This mineral-rich soil creates citrus so dense in flavonoids and Vitamin-C that the Romans called it “the miracle of Madre Terra.",
+                    "image": {
+                        "src": "https://f.shgcdn.com/e683a4b1-5c37-4264-b36e-181b25503cb6/",
+                        "alt": "booo"
+                    }
+                },
+                {
+                    "stepNumber": 4,
+                    "title": "Lock in hydration with Hyaluronic Acid",
+                    "body": "From natural fermentation process which significantly increases skin plumpness, moisture, and glow",
+                    "expanded": "Hyaluronic Acid is the sponge that keeps our skin hydrated. Our Hyaluronic Acid is made with organic fermentation and is clinically proven to help reduce wrinkles, smooth skin texture, and deeply hydrate skin cells.A group of 120 healthy women aged 35-60 with dry and sagging skin or wrinkles around their outer canthus supplemented with Bruno MD low molecular weight hyaluronic acid for six weeks and significantly increased skin moisture content and improved the facial aging symptoms such as luster and suppleness. Also, the group showed better levels of the sulcus volume ratio, wrinkle area ratio, and wrinkle volume ratio than the placebo group.",
+                    "image": {
+                        "src": "https://f.shgcdn.com/4ed20421-79fb-4b73-a968-888811672ef9/",
+                        "alt": "booo"
+                    }
                 }
-            },
-            {
-                "stepNumber": 2,
-                "title": "Boost collagen production with Specific Collagen Peptides",
-                "body": "From highly purified collagen peptides to stimulate fibroblasts, reduce wrinkles, and improve overall skin tone",
-                "expanded": "Bruno MD collagen peptides begin with an organic, non-GMO, halal, and kosher certified bovine source, raised exclusively on a plant-based diet by European partners near the Alps. The EU prohibits ranchers from breeding genetically modified bovines or using GMO feed, unlike farmers in the US and Brazil.Three clinical trials* conducted on 250 healthy females, ages 45 to 65, confirm that oral intake of Royal Collagen Specific Peptides Complex significantly reduced eye wrinkle volume by 20.1% on average and up to a maximum of 49.9% vs. the placebo group after only eight weeks of treatment.",
-                "image": {
-                    "src": "https://f.shgcdn.com/ff22235d-27c0-41f1-86b4-52681ab4bb96/",
-                    "alt": "booo"
-                }
-            },
-            {
-                "stepNumber": 3,
-                "title": "Maximize collagen biosynthesis with Red Orange Complex",
-                "body": "Maximize collagen biosynthesis with Red Orange Complex from varieties of Moro, Sanguinello, & Tarocco orange extract to encourage collagen formation and boost the immune system with potent Natural Vitamin-C",
-                "expanded": "We harvest our Vitamin-C from three varieties of blood orange grown for centuries on family farms near Mt. Etna volcano. This mineral-rich soil creates citrus so dense in flavonoids and Vitamin-C that the Romans called it “the miracle of Madre Terra.",
-                "image": {
-                    "src": "https://f.shgcdn.com/e683a4b1-5c37-4264-b36e-181b25503cb6/",
-                    "alt": "booo"
-                }
-            },
-            {
-                "stepNumber": 4,
-                "title": "Lock in hydration with Hyaluronic Acid",
-                "body": "From natural fermentation process which significantly increases skin plumpness, moisture, and glow",
-                "expanded": "Hyaluronic Acid is the sponge that keeps our skin hydrated. Our Hyaluronic Acid is made with organic fermentation and is clinically proven to help reduce wrinkles, smooth skin texture, and deeply hydrate skin cells.A group of 120 healthy women aged 35-60 with dry and sagging skin or wrinkles around their outer canthus supplemented with Bruno MD low molecular weight hyaluronic acid for six weeks and significantly increased skin moisture content and improved the facial aging symptoms such as luster and suppleness. Also, the group showed better levels of the sulcus volume ratio, wrinkle area ratio, and wrinkle volume ratio than the placebo group.",
-                "image": {
-                    "src": "https://f.shgcdn.com/4ed20421-79fb-4b73-a968-888811672ef9/",
-                    "alt": "booo"
-                }
-            }
-        ]},
+            ]
+        },
         "seo": {
             "title": "Royal Collagen Peptides Stick Packs | Blood Orange",
             "description": "Beauty from Within® Blood Orange Stick Packs with clinically proven Royal Collagen Peptides® is a 6-in-1 daily beauty boost."
@@ -2709,20 +2896,36 @@
         "btnText": "Shop",
         "price": 58.78,
         "logo": {
-            "src": "\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01452NR-framed.png"
+            "src": "\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01106NR.png"
         },
         "images": [
+            {
+                "src": "\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01106NR.png",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01370NR.png",
+                "alt": ""
+            },
             {
                 "src": "\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01452NR-framed.png",
                 "alt": ""
             },
             {
-                "src": "\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01114NR.png",
-                "alt": ""
+                "src":"\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01482NR.png",
+                "alt":""
             },
             {
-                "src": "\\utility\\products\\rcp-dragon\\BMD-RCP-Stickparks-Benefit-Card-01b-Dragon-Fruit.jpg",
-                "alt": ""
+                "src":"\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01223NR.png",
+                "alt":""
+            },
+            {
+                "src":"\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01115NR.png",
+                "alt":""
+            },
+            {
+                "src":"\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01114NR.png",
+                "alt":""
             }
         ],
         "declaimer": {
@@ -2736,23 +2939,23 @@
             "maxQty": 10,
             "defaultQtyMultiplayer": 20,
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
-            "moreInfoBtnText":"Learn more",
-            "qtyLabelText":"QTY",
-            "freqLabelText":"Delivery every",
-            "oneTime":{
-                "title":"One time",
-                "btnText":"Add to cart"
+            "moreInfoBtnText": "Learn more",
+            "qtyLabelText": "QTY",
+            "freqLabelText": "Delivery every",
+            "oneTime": {
+                "title": "One time",
+                "btnText": "Add to cart"
             },
-            "subscribe":{
-                "title":"Subscribe",
-                "btnText":"Subscribe",
-                "interval":"Days"
+            "subscribe": {
+                "title": "Subscribe",
+                "btnText": "Subscribe",
+                "interval": "Days"
             },
-            "moneyBackInfo":{
-                "title":"HOW SUBSCRIBE & SAVE WORKS",
-                "desc":"30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
+            "moneyBackInfo": {
+                "title": "HOW SUBSCRIBE & SAVE WORKS",
+                "desc": "30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
             },
-            "termPurchase":null
+            "termPurchase": null
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -2766,40 +2969,40 @@
             "productColorTheme": "#37246b",
             "items": [
                 {
-                    "title": "HAIR",
+                    "title": "Reduce inflammation",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\rcp-dragon\\BMD-RCP-Stickparks-Benefit-Card-02b.jpg",
+                        "src": "\\utility\\products\\rcp-dragon\\BMD-RCP-Stickpacks-Benefit-Card-07c.jpg",
                         "alt": ""
                     },
-                    "description": "Royal Collagen Peptides promotes more healthy, youthful-looking hair with renewed luster and bounce."
+                    "description": "Astaxanthin, from Haematococcus Pluvialis algae, reduces inflammation and helps restart collagen-producing cells"
                 },
                 {
-                    "title": "SKIN",
+                    "title": "Boost collagen production ",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\rcp-dragon\\BMD-RCP-Stickparks-Benefit-Card-04b.jpg",
+                        "src": "\\utility\\products\\rcp-dragon\\BMD-RCP-Stickparks-Benefit-Card-02c.jpg",
                         "alt": ""
                     },
-                    "description": "Royal Collagen Peptides Beauty from Within helps tame inflammation and turn your collagen-producing cells back on to improve skin texture and elasticity, making skin appear tighter and firmer."
+                    "description": "Specific Collagen Peptides, from highly purified collagen peptides, help stimulate fibroblasts, reduce wrinkles, and improve overall skin tone"
                 },
                 {
-                    "title": "NAILS",
+                    "title": "Maximize collagen biosynthesis",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\rcp-dragon\\BMD-RCP-Stickparks-Benefit-Card-06b.jpg",
+                        "src": "\\utility\\products\\rcp-dragon\\BMD-RCP-Stickparks-Benefit-Card-04c.jpg",
                         "alt": ""
                     },
-                    "description": "Royal Collagen Peptides promote faster growth and stronger fingernails with fewer chips and breaks."
+                    "description": "Maximize collagen biosynthesis with Red Orange Complex from varieties of Moro, Sanguinello, & Tarocco orange extract to encourage collagen formation and boost the immune system with potent Natural Vitamin-C"
                 },
                 {
-                    "title": "THE VISIBLE APPEARANCE OF CELLULITE",
+                    "title": "Lock in hydration",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\rcp-dragon\\BMD-RCP-Stickpacks-Benefit-Card-07b.jpg",
+                        "src": "\\utility\\products\\rcp-dragon\\BMD-RCP-Stickparks-Benefit-Card-05c.jpg",
                         "alt": ""
                     },
-                    "description": "Royal Collagen Peptides Beauty from Within helps increase the elasticity of connective tissue within the dermal matrix to help smooth skin and decrease the appearance of cellulite."
+                    "description": "Hyaluronic acid from natural fermentation process significantly increases skin plumpness, moisture, and glow"
                 }
             ]
         },
@@ -2807,25 +3010,15 @@
             {
                 "title": "Details",
                 "details": [
-                    "<p>Improve the microcirculation in roots and nail beds, so hair grows faster and stronger, and nails are less brittle and more resilient. This beauty regimen also increases the elasticity of connective tissue, which helps diminish the appearance of cellulite. Our Red Orange complex even skin tone helps improve skin health and reduce age spots. And even your eyes will look younger with our unique all-natural ingredients, clinically proven to reduce eye wrinkles volume.</p>"
-                ]
-            },
-            {
-                "title": "Additional Information",
-                "details": [
-                    "<p>soon.</p>"
-                ]
-            },
-            {
-                "title": "Quality assurance",
-                "details": [
-                    "<p>soon.</p>"
-                ]
-            },
-            {
-                "title": "Ingredients",
-                "details": [
-                    "<p>soon</p>"
+                    "<p>Royal Collagen Peptides “Beauty from Within is daily collagen care with 6 in 1 benefits. Rebuild youthful radiance from the inside out with clinically proven ingredients. Help tame inflammation and restart your collagen-producing cells for younger-looking skin. Improve the microcirculation in roots and nail beds, so hair grows faster and stronger, and nails are less brittle and more resilient. This beauty regimen also increases the elasticity of connective tissue, which helps diminish the appearance of cellulite. Our Red Orange complex even skin tone helps improve skin health and reduce age spots. And even your eyes will look younger with our unique all-natural ingredients, clinically proven to reduce eye wrinkles volume.</p>",
+                    "<b>Direction to use</b>",
+                    "<p>Add 1 scoop to at least 8 fl oz of liquid, preferably cold or lukewarm, and mix well. Royal Collagen Peptides® may be consumed on an empty stomach, at any time during the day. Warnings:Do not exceed 3 servings per day.</p>",
+                    "<b>Caution</b>",
+                    "<p>As with any supplement, consult your healthcare professional before using this product, If you are pregnant, nursing, taking any medication, or under medical supervision. <b>KEEP OUT OF REACH OF CHILDREN</b>. Do not use if safety seal is broken or missing</p>",
+                    "<b>Side effects</b>",
+                    "<p>none</p>",
+                    "<b>Storage and Packaging</b>",
+                    "Protect from heat, light and moisture. Store in cool, dry plate at 15°-30°C (59°-86°F)"
                 ]
             },
             {
@@ -2861,54 +3054,116 @@
                     }
                 ],
                 "faq": true
+            },
+            {
+                "title": "NATURAL VITAMIN C (FROM ASCORBIC ACID)",
+                "details": [
+                    "Scotland, United Kingdom"
+                ]
+            },
+            {
+                "title": "HIGHLY PURIFIED COLLAGEN PEPTIDES COMPLEX (SPECIFIC COLLAGEN PEPTIDES)",
+                "details": [
+                    "Italy, Germany, Great Britain, other EU countries. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage; so, you’ll move better, and increase bone density; to keep your bones strong."
+                ]
+            },
+            {
+                "title": "RED ORANGE COMPLEX",
+                "details": [
+                    "Sicily, Italy. Red Orange Complex is a standardized extract locally sourced from the juice of three pigmented varieties of Sicilian Blood Orange (Citrus Sinensis - Varieties Moro, Sanguinello, Tarocco) grown on the side of Mt. Etna volcano where climate and soil are perfect for this kind of tree. No one else in the world has access to it. Sicilians call this orange “the ultimate healthy fruit,” but Bruno MD calls it a miracle of Madre Terra."
+                ]
+            },
+            {
+                "title": "HYALURONIC ACID (SODIUM HYALURONATE)",
+                "details": [
+                    "Japan.",
+                    "Hyaluronic Acid binds water in your skin like a sponge to support long-lasting hydration, and combined with Royal Collagen Peptides and Astaxanthin, it assures the highest level of bioavailability in collagen care."
+                ]
+            },
+            {
+                "title": "NATURAL ASTAXANTHIN EXTRACT (HAEMATOCOCCUS PLUVIALIS) (ALGAE)",
+                "details": [
+                    "Sweden & Japan.",
+                    "Astaxanthin is the most potent anti-inflammatory known in nature. Natural astaxanthin, has a strong ability to both balance and strengthen the immune system, enhance antibody production, hence improving the defense against inflammation, and outside invaders (pathogens) Astaxanthin can also help reduce high blood pressure, improve heart health, prevent type II diabetes, and decrease the risk of brain damage from a stroke. Over 95% of commercial Astaxanthin is synthetic. Worse, it’s harvested using petrochemicals. Bruno MD Astaxanthin is naturally derived from Haematococcus Pluvialis algae, found in temperate environments around the world to produce the highest concentrations of Astaxanthin with the highest bioavailability."
+                ]
             }
         ],
         "fourStepProcess": {
-            "title":"Our Four-Step Process",
-            "buttonTittle":"LEARN MORE",
-            "stepAlignment":false,
-            "content":[
-            {
-                "stepNumber": 1,
-                "title": "Reduce inflammation with Astaxanthin",
-                "body": "From Haematococcus Pluvialis algae to reduce inflammation and restart collagen-producing cells",
-                "expanded": "Astaxanthin is the most potent antioxidant known in nature. Your skin is under constant attack by free radicals, and astaxanthin acts as a defender to preserve collagen production, and lock in the increased elasticity and hydration. A group of 150 healthy women aged 20-55 supplemented with Astaxanthin over six separate studies.* The women taking Astaxanthin demonstrated an 18% improvement in viscoelasticity and a 17X increase in skin hydration over the placebo group after just four weeks. Additionally, skin smoothness improved 16%, and age spots were reduced by an average of 3mm in only eight weeks.",
-                "image": {
-                    "src": "https://f.shgcdn.com/4b2d5084-e743-4325-b1e4-4f76ef23644a/",
-                    "alt": "booo"
+            "title": "Our Four-Step Process",
+            "buttonTittle": "LEARN MORE",
+            "stepAlignment": false,
+            "content": [
+                {
+                    "stepNumber": 1,
+                    "title": "Reduce inflammation with Astaxanthin",
+                    "body": "From Haematococcus Pluvialis algae to reduce inflammation and restart collagen-producing cells",
+                    "expanded": "Astaxanthin is the most potent antioxidant known in nature. Your skin is under constant attack by free radicals, and astaxanthin acts as a defender to preserve collagen production, and lock in the increased elasticity and hydration. A group of 150 healthy women aged 20-55 supplemented with Astaxanthin over six separate studies.* The women taking Astaxanthin demonstrated an 18% improvement in viscoelasticity and a 17X increase in skin hydration over the placebo group after just four weeks. Additionally, skin smoothness improved 16%, and age spots were reduced by an average of 3mm in only eight weeks.",
+                    "image": {
+                        "src": "https://f.shgcdn.com/4b2d5084-e743-4325-b1e4-4f76ef23644a/",
+                        "alt": "booo"
+                    }
+                },
+                {
+                    "stepNumber": 2,
+                    "title": "Boost collagen production with Specific Collagen Peptides",
+                    "body": "From highly purified collagen peptides to stimulate fibroblasts, reduce wrinkles, and improve overall skin tone",
+                    "expanded": "Bruno MD collagen peptides begin with an organic, non-GMO, halal, and kosher certified bovine source, raised exclusively on a plant-based diet by European partners near the Alps. The EU prohibits ranchers from breeding genetically modified bovines or using GMO feed, unlike farmers in the US and Brazil.Three clinical trials* conducted on 250 healthy females, ages 45 to 65, confirm that oral intake of Royal Collagen Specific Peptides Complex significantly reduced eye wrinkle volume by 20.1% on average and up to a maximum of 49.9% vs. the placebo group after only eight weeks of treatment.",
+                    "image": {
+                        "src": "https://f.shgcdn.com/ff22235d-27c0-41f1-86b4-52681ab4bb96/",
+                        "alt": "booo"
+                    }
+                },
+                {
+                    "stepNumber": 3,
+                    "title": "Maximize collagen biosynthesis with Red Orange Complex",
+                    "body": "Maximize collagen biosynthesis with Red Orange Complex from varieties of Moro, Sanguinello, & Tarocco orange extract to encourage collagen formation and boost the immune system with potent Natural Vitamin-C",
+                    "expanded": "We harvest our Vitamin-C from three varieties of blood orange grown for centuries on family farms near Mt. Etna volcano. This mineral-rich soil creates citrus so dense in flavonoids and Vitamin-C that the Romans called it “the miracle of Madre Terra.",
+                    "image": {
+                        "src": "https://f.shgcdn.com/e683a4b1-5c37-4264-b36e-181b25503cb6/",
+                        "alt": "booo"
+                    }
+                },
+                {
+                    "stepNumber": 4,
+                    "title": "Lock in hydration with Hyaluronic Acid",
+                    "body": "From natural fermentation process which significantly increases skin plumpness, moisture, and glow",
+                    "expanded": "Hyaluronic Acid is the sponge that keeps our skin hydrated. Our Hyaluronic Acid is made with organic fermentation and is clinically proven to help reduce wrinkles, smooth skin texture, and deeply hydrate skin cells.A group of 120 healthy women aged 35-60 with dry and sagging skin or wrinkles around their outer canthus supplemented with Bruno MD low molecular weight hyaluronic acid for six weeks and significantly increased skin moisture content and improved the facial aging symptoms such as luster and suppleness. Also, the group showed better levels of the sulcus volume ratio, wrinkle area ratio, and wrinkle volume ratio than the placebo group.",
+                    "image": {
+                        "src": "https://f.shgcdn.com/4ed20421-79fb-4b73-a968-888811672ef9/",
+                        "alt": "booo"
+                    }
                 }
+            ]
+        },
+        "ProductTrustBadges": [
+            {
+                "src": "\\utility\\trust\\Pasture_Raised-Icon-v1-Black-300x300.png"
             },
             {
-                "stepNumber": 2,
-                "title": "Boost collagen production with Specific Collagen Peptides",
-                "body": "From highly purified collagen peptides to stimulate fibroblasts, reduce wrinkles, and improve overall skin tone",
-                "expanded": "Bruno MD collagen peptides begin with an organic, non-GMO, halal, and kosher certified bovine source, raised exclusively on a plant-based diet by European partners near the Alps. The EU prohibits ranchers from breeding genetically modified bovines or using GMO feed, unlike farmers in the US and Brazil.Three clinical trials* conducted on 250 healthy females, ages 45 to 65, confirm that oral intake of Royal Collagen Specific Peptides Complex significantly reduced eye wrinkle volume by 20.1% on average and up to a maximum of 49.9% vs. the placebo group after only eight weeks of treatment.",
-                "image": {
-                    "src": "https://f.shgcdn.com/ff22235d-27c0-41f1-86b4-52681ab4bb96/",
-                    "alt": "booo"
-                }
+                "src": "\\utility\\trust\\Paleo-Friendly-Icon-v1-Black.png"
             },
             {
-                "stepNumber": 3,
-                "title": "Maximize collagen biosynthesis with Red Orange Complex",
-                "body": "Maximize collagen biosynthesis with Red Orange Complex from varieties of Moro, Sanguinello, & Tarocco orange extract to encourage collagen formation and boost the immune system with potent Natural Vitamin-C",
-                "expanded": "We harvest our Vitamin-C from three varieties of blood orange grown for centuries on family farms near Mt. Etna volcano. This mineral-rich soil creates citrus so dense in flavonoids and Vitamin-C that the Romans called it “the miracle of Madre Terra.",
-                "image": {
-                    "src": "https://f.shgcdn.com/e683a4b1-5c37-4264-b36e-181b25503cb6/",
-                    "alt": "booo"
-                }
+                "src": "\\utility\\trust\\Non-GMO-Icon-v1-Black-300x300 1.png"
             },
             {
-                "stepNumber": 4,
-                "title": "Lock in hydration with Hyaluronic Acid",
-                "body": "From natural fermentation process which significantly increases skin plumpness, moisture, and glow",
-                "expanded": "Hyaluronic Acid is the sponge that keeps our skin hydrated. Our Hyaluronic Acid is made with organic fermentation and is clinically proven to help reduce wrinkles, smooth skin texture, and deeply hydrate skin cells.A group of 120 healthy women aged 35-60 with dry and sagging skin or wrinkles around their outer canthus supplemented with Bruno MD low molecular weight hyaluronic acid for six weeks and significantly increased skin moisture content and improved the facial aging symptoms such as luster and suppleness. Also, the group showed better levels of the sulcus volume ratio, wrinkle area ratio, and wrinkle volume ratio than the placebo group.",
-                "image": {
-                    "src": "https://f.shgcdn.com/4ed20421-79fb-4b73-a968-888811672ef9/",
-                    "alt": "booo"
-                }
+                "src": "\\utility\\trust\\EU_Certified-Icon-v1-Black-300x300.png"
+            },
+            {
+                "src": "\\utility\\trust\\Low-Carb-Icon-V1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Clinically_Proven-Icon-v1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Gluten-Free-Icon-v2-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Ketosis-Icon-v2-Black.png"
+            },
+            {
+                "src": "\\utility\\trust\\Made-In-USA-Icon-V1-Black.png"
             }
-        ]},
+        ],
         "seo": {
             "title": "Royal Collagen Peptides Stick Packs | Dragon Fruit",
             "description": "Beauty from Within® Dragon Fruit Stick Packs with clinically proven Royal Collagen Peptides® is a 6-in-1 daily beauty boost."
@@ -2937,16 +3192,12 @@
             {
                 "src": "\\utility\\products\\bluerex\\BronuPharma9406b.jpg",
                 "alt": ""
-            },
-            {
-                "src": "\\utility\\products\\bluerex\\BMD-Bluerex-Vision-Benefit-Card-01b.jpg",
-                "alt": ""
             }
         ],
         "declaimer": {
             "title": "<h1>BLUEREX VISION</h1>",
             "subTitle": "<strong>BLUEREX VISION 60 SOFTGELS 30 SERVINGS</strong>",
-            "content": "<p>Bluerex Vision contains clinically proven ingredients to help protect your eyes from harmful blue light and alleviate Computer Vision Syndrome symptoms.</p>"
+            "content": "<p>Bluerex Vision is a dietary supplement recommended to help protect your eyes from harmful blue light and alleviate Computer Vision Syndrome symptoms. Helps reduce eye strain, improves focus recovery, and increases natural tear production for dry, itchy eyes and builds natural pigments that help protect the retina/macula.</p>"
         },
         "priceBox": {
             "qtyUnitMultiplierLabel": "servings",
@@ -2954,23 +3205,23 @@
             "maxQty": 10,
             "defaultQtyMultiplayer": 30,
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
-            "moreInfoBtnText":"Learn more",
-            "qtyLabelText":"QTY",
-            "freqLabelText":"Delivery every",
-            "oneTime":{
-                "title":"One time",
-                "btnText":"Add to cart"
+            "moreInfoBtnText": "Learn more",
+            "qtyLabelText": "QTY",
+            "freqLabelText": "Delivery every",
+            "oneTime": {
+                "title": "One time",
+                "btnText": "Add to cart"
             },
-            "subscribe":{
-                "title":"Subscribe",
-                "btnText":"Subscribe",
-                "interval":"Days"
+            "subscribe": {
+                "title": "Subscribe",
+                "btnText": "Subscribe",
+                "interval": "Days"
             },
-            "moneyBackInfo":{
-                "title":"HOW SUBSCRIBE & SAVE WORKS",
-                "desc":"30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
+            "moneyBackInfo": {
+                "title": "HOW SUBSCRIBE & SAVE WORKS",
+                "desc": "30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
             },
-            "termPurchase":null
+            "termPurchase": null
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -2984,40 +3235,40 @@
             "productColorTheme": "#37246b",
             "items": [
                 {
-                    "title": "360 EYE PROTECTION",
+                    "title": "Shields the front of the Eye",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\bluerex\\BMD-Bluerex-Vision-Benefit-Card-06b.jpg",
-                        "alt": ""
-                    },
-                    "description": "Total eye care from the front to the back of the eye"
-                },
-                {
-                    "title": "FRONT EYE PROTECTION",
-                    "icon": "",
-                    "img": {
-                        "src": "\\utility\\products\\bluerex\\BMD-Bluerex-Vision-Benefit-Card-03b_246cfdd1-1f67-42a8-8cd0-e83f988ae726.jpg",
+                        "src": "\\utility\\products\\bluerex\\BMD-Bluerex-Vision-Benefit-Card-04c.jpg",
                         "alt": ""
                     },
                     "description": "Protects the front of the eye, lens and strengthens ciliary muscles"
                 },
                 {
-                    "title": "BLUE LIGHT PROTECTION",
+                    "title": "Shields the back of the Eye",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\bluerex\\BMD-Bluerex-Vision-Benefit-Card-02b_e7349929-fa12-41b2-8174-3835f702f6c0.jpg",
+                        "src": "\\utility\\products\\bluerex\\BMD-Bluerex-Vision-Benefit-Card-03c.jpg",
                         "alt": ""
                     },
-                    "description": "Protects the macula from blue light damage and oxidative stress"
+                    "description": "Protects the retina from blue light damage and oxidative stress"
                 },
                 {
-                    "title": "COMPUTER VISION SYNDROME",
+                    "title": "Clinically proven ingredients",
                     "icon": "",
                     "img": {
-                        "src": "\\utility\\products\\bluerex\\BMD-Bluerex-Vision-Benefit-Card-05b_27d501ac-485c-46a8-baa8-6376690cdb5c.jpg",
+                        "src": "\\utility\\products\\bluerex\\BMD-Bluerex-Vision-Benefit-Card-02c.jpg",
                         "alt": ""
                     },
-                    "description": "Manages symptoms of Computer Vision Syndrome"
+                    "description": "Ingredients that deliver clinically proven results to ease symptoms of CVS (Computer Vision Syndrome)"
+                },
+                {
+                    "title": "Antioxidant Protection",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\bluerex\\BMD-Bluerex-Vision-Benefit-Card-05c.jpg",
+                        "alt": ""
+                    },
+                    "description": "Protects the eye from damaging free radicals"
                 }
             ]
         },
@@ -3025,25 +3276,17 @@
             {
                 "title": "Details",
                 "details": [
-                    "<p>The unique two-step process in our vision supplement helps reduce eye strain, improves focus recovery, and increases natural tear production for dry, itchy eyes.  Next, Bluerex Vision builds natural pigments that help protect your eyes from blue light before it can damage the retina/macula.</p>"
-                ]
-            },
-            {
-                "title": "Additional Information",
-                "details": [
-                    "<p>soon.</p>"
-                ]
-            },
-            {
-                "title": "Quality assurance",
-                "details": [
-                    "<p>soon.</p>"
-                ]
-            },
-            {
-                "title": "Ingredients",
-                "details": [
-                    "<p>soon</p>"
+                    "<p>Bluerex Vision contains clinically proven ingredients to help protect your eyes from harmful blue light and alleviate Computer Vision Syndrome symptoms. The unique two-step process in our vision supplement helps reduce eye strain, improves focus recovery, and increases natural tear production for dry, itchy eyes.  Next, Bluerex Vision builds natural pigments that help protect your eyes from blue light before it can damage the retina/macula.</p>",
+                    "<b>Direction to use</b>",
+                    "<p>Take 2 soft gels daily with water.</p>",
+                    "<b>Warnings</b>",
+                    "<p>Do not exceed daily recommended dose.</p>",
+                    "<b>Side effects</b>",
+                    "<p>None</p>",
+                    "<b>Caution</b>",
+                    "<p>As with any supplement, consult your healthcare professional before using this product, If you are pregnant, nursing, taking any medication, or under medical supervision. KEEP OUT OF REACH OF CHILDREN. Do not use if safety seal is broken or missing.</p>",
+                    "<b>Storage and Packaging</b>",
+                    "<p>Protect from heat, light and moisture. Store in cool, dry plate at 15°-25°C (59°-77°F)</p>"
                 ]
             },
             {
@@ -3079,6 +3322,73 @@
                     }
                 ],
                 "faq": true
+            },
+            {
+                "title": "NATURAL VITAMIN E (D-ALPHA TOCOPHERYL SUCCINATE)",
+                "details": [
+                    "Scotland",
+                    "A select type of natural and pure Vitamin E, shown to help neutralize oxidative damage that leads to age-related vision problems. Has shown to help subjects with moderate age-related macular degeneration. The nutrients reduced the risk of developing advanced age-related macular degeneration by 25% for subjects who already demonstrated evidence of early signs of macular degeneration."
+                ]
+            },
+            {
+                "title": "BILBERRY (VACCINIUM MYRTILLUS FRUIT EXTRACT)",
+                "details": [
+                    "United Kingdom",
+                    "Our Bilberry Fruit extract packs a potent compound of plant pigments called anthocyanins shown to promote healthy tear secretion, improve vision, increase retinal sensitivity (night vision!), and may help prevent common eye issues as we mature."
+                ]
+            },
+            {
+                "title": "DOCOSAHEXAENOIC ACID (DHA)",
+                "details": [
+                    "United States of America",
+                    "Docosahexaenoic acid, or DHA, is a polyunsaturated omega-3 fatty acid (PUFA) found throughout the body. It is a major structural fat found in the brain and eye accounting for up to 97% of the total omega-3 fats in the brain and up to 93% of the omega-3 fats in a specific part of the eye, called the retina. It is also a key component of the heart. Numerous research studies confirm that everyone, from infants to adults to the elderly, can benefit from a regular intake of dietary DHA. DHA accounts for up to 97% of the total omega-3 fats in the brain. Our DHA is a nutritional oil derived from the marine alga, Schizochytrium sp., a rich source of Omega-3 docosahexaenoic acid (DHA) with rosemary extract (flavoring). It is vegetarian and provides important brain, eye, and heart health benefits. It contributes to the maintenance of normal vision."
+                ]
+            },
+            {
+                "title": "LUTEIN AND ZEAXANTHIN (TAGETES ERECTA FLOWER EXTRACT)",
+                "details": [
+                    "United States of America",
+                    "Our Lutein & Zeaxanthin combo is clinically proven to protect the back of your eyes. These all-natural compounds are harvested from marigold flowers and dramatically increase the macular pigments critical to filtering harmful blue light before it can damage your retina. Lutein & Zeaxanthin are clinically proven partners to help reduce the progression of certain eye issues throughout our lives."
+                ]
+            },
+            {
+                "title": "NATURAL ASTAXANTHIN EXTRACT (HAEMATOCOCCUS PLUVIALIS) (ALGAE)",
+                "details": [
+                    "Sweden & Japan",
+                    "Our Astaxanthin is clinically proven to help shield the front of your eyes: it’s nature’s most potent antioxidant-sourced from special algae found in temperate regions around the world. Astaxanthin protects your eyes against free radicals generated by UV radiation and actually strengthens eye muscles to reduce eye fatigue that contributes to Computer Vision Syndrome."
+                ]
+            }
+        ],
+        "ProductTrustBadges": [
+            {
+                "src": "\\utility\\trust\\Vegan-Icon-v1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Paleo-Friendly-Icon-v1-Black.png"
+            },
+            {
+                "src": "\\utility\\trust\\Non-GMO-Icon-v1-Black-300x300 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\EU_Certified-Icon-v1-Black-300x300.png"
+            },
+            {
+                "src": "\\utility\\trust\\Low-Carb-Icon-V1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Clinically_Proven-Icon-v1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Gluten-Free-Icon-v2-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Clean+Pure-Icon-v1-Black-300x300 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Made-In-USA-Icon-V1-Black.png"
+            },
+            {
+                "src": "\\utility\\trust\\BioAvailable-icon-v1-Black-300x300.png"
             }
         ],
         "seo": {

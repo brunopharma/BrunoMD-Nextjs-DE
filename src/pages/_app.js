@@ -2,7 +2,7 @@ import '@/styles/globals.css'
 import Layout from "@/componets/Layout"
 import { RouteGuard } from '@/componets/RouteGuard'
 export default function App({ Component, pageProps }) {
-  const version = 'ENG'
+  const version = 'EU'
   if (Component?.hideLayout) {
     return (
       <RouteGuard version={version}>

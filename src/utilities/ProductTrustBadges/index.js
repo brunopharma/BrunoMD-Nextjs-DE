@@ -57,7 +57,7 @@ const ProductTrustBadges = ({ images }) => {
                 {images.map((element, index) => {
                   return (
                     <div className={styles.productBadgeslist} key={`image-${index}`}>
-                      <img src={element.src} alt={element.alt} />
+                      <img src={element.src} alt={element.alt} className={styles.imgMax}/>
                     </div>
                   )
                 })}
@@ -69,7 +69,7 @@ const ProductTrustBadges = ({ images }) => {
             keyBoardControl={true} responsive={responsive}>
             {images.map((element,i1) => {
               return (
-                  <img src={element.src} alt={element.alt}  key={i1}/>
+                  <img src={element.src} alt={element.alt} className={styles.imgMax}  key={i1}/>
               )
             })}
           </Carousel>
