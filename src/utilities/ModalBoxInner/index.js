@@ -47,7 +47,13 @@ const ModalBoxInner = ({ isOpen, content, ModalHandler }) => {
                             </div>
                             <div className={styles.boxSeven}>
                                 {type == 'Subscribe' ? <div className={styles.freqHolder}><label className={styles.selectLabel}>Delivery every:</label>
-                                    <select className="styles_select__xqdkO"><option value="30">30 days</option><option value="60">60 days</option><option value="90">90 days</option></select></div> : <></>}
+                                    <select className="styles_select__xqdkO"><option value="30">30 days</option><option value="60">60 days</option><option value="90">90 days</option></select></div> : <div className={styles.boxTen}>
+                                        <div>
+                                            <p>Buy 2 Get</p>
+                                            <p><span>FREE SHIPPING</span></p>
+                                        </div>
+                                        <img src='\utility\free-shipping-32.png' />
+                                    </div>}
                             </div>
                             <div className={styles.boxEight}>
                                 <div className={styles.qtyHolder}>
@@ -55,13 +61,18 @@ const ModalBoxInner = ({ isOpen, content, ModalHandler }) => {
                                     <select class="styles_select__sBd98"><option value="1">1</option><option value="2">2</option></select>
                                 </div>
                             </div>
-                            <div className={styles.boxNight}><p className={styles.btn}>{type == 'Subscribe' ? 'Subscribe' : 'Checkout'}</p>                            <div className={styles.boxTen}>
-                                <div>
-                                    <p>Buy 2 Get</p>
-                                    <p><span>FREE SHIPPING</span></p>
+                            <div className={styles.boxNight}>
+                                <div className={styles.mobHide}></div>
+                                <div className={styles.btnContainer}>
+                                    <p className={styles.btn}>{type == 'Subscribe' ? 'Subscribe' : 'Checkout'}</p>
+                                    <div className={styles.boxTen}>
+                                        <div>
+                                            <p>Buy 2 Get</p>
+                                            <p><span>FREE SHIPPING</span></p>
+                                        </div>
+                                        <img src='\utility\free-shipping-32.png' />
+                                    </div>
                                 </div>
-                                <img src='\utility\free-shipping-32.png' />
-                            </div>
                             </div>
                         </div>
                     </div>

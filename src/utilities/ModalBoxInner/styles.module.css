@@ -184,9 +184,20 @@
     background-color: black;
     color: #ffbf3c;
 }
+.btnContainer{
+    display: -webkit-box;
+    margin-left: 20rem;
+    margin-top: 1rem;
+}
+.boxSeven .boxTen{
+    display: none;
+}
 @media (max-width: 1440px) {
     .boxSeven .freqHolder{
         padding-right: 1rem;
+    }
+    .container{
+        max-width: 90%;
     }
 }
 
@@ -217,6 +228,9 @@
     .boxSeven .freqHolder{
         padding: 0;
     }
+    .btnContainer{
+        margin-left: 3rem;
+    }
 }
 
 @media (max-width: 767px) {
@@ -231,6 +245,9 @@
     .container{
         max-width: 100%;
     }
+    .btnContainer{
+        margin-left: 0;
+    }
 }
 @media (max-width: 520px) {
     .qtyHolder, .freqHolder{
@@ -240,4 +257,17 @@
     .qtyHolder select, .freqHolder select{
     width: 90%;
     }
+}
+@media (max-width: 490px) {
+.boxNight .boxTen{
+    display: none;
+}
+.boxSeven .boxTen{
+    display: block;
+    margin: 0;
+}
+.boxSeven{
+    display: block;
+    margin: auto;
+}
 }
