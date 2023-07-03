@@ -23,6 +23,7 @@
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
             "freqLabelText": "Consegna ogni",
+            "stock":"Disponibilita' immediata.",
             "oneTime": {
                 "title": "Acquisto singolo",
                 "btnText": "Aggiungi al carrello"
@@ -30,7 +31,9 @@
             "subscribe": {
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
-                "interval": "giorni"
+                "interval": "giorni",
+                "saveLabel":"Risparmia subito",
+                "extraLabel":"acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -195,6 +198,7 @@
             "defaultQtyMultiplayer": 30,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Bustine",
+            "stock":"Disponibilita' immediata.",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
@@ -206,7 +210,9 @@
             "subscribe": {
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
-                "interval": "giorni"
+                "interval": "giorni",
+                "saveLabel":"Risparmia subito",
+                "extraLabel":"acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -395,6 +401,7 @@
             "defaultQtyMultiplayer": 1,
             "qtyMultiplierShowOnExtraDesc": false,
             "qtyExtraDesc": "Flacone 10ml",
+            "stock":"Disponibilita' immediata.",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
@@ -406,7 +413,9 @@
             "subscribe": {
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
-                "interval": "giorni"
+                "interval": "giorni",
+                "saveLabel":"Risparmia subito",
+                "extraLabel":"acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -591,6 +600,7 @@
             "defaultQtyMultiplayer": 30,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Bustine",
+            "stock":"Disponibilita' immediata.",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
@@ -602,7 +612,9 @@
             "subscribe": {
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
-                "interval": "giorni"
+                "interval": "giorni",
+                "saveLabel":"Risparmia subito",
+                "extraLabel":"acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -772,6 +784,7 @@
             "defaultQtyMultiplayer": 20,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Bustine",
+            "stock":"Disponibilita' immediata.",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
@@ -783,7 +796,9 @@
             "subscribe": {
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
-                "interval": "giorni"
+                "interval": "giorni",
+                "saveLabel":"Risparmia subito",
+                "extraLabel":"acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -953,6 +968,7 @@
             "defaultQtyMultiplayer": 25,
             "qtyMultiplierShowOnExtraDesc": false,
             "qtyExtraDesc": "compresse",
+            "stock":"Disponibilita' immediata.",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
@@ -964,7 +980,9 @@
             "subscribe": {
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
-                "interval": "giorni"
+                "interval": "giorni",
+                "saveLabel":"Risparmia subito",
+                "extraLabel":"acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -1134,6 +1152,7 @@
             "defaultQtyMultiplayer": 15,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "compresse",
+            "stock":"Disponibilita' immediata.",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
@@ -1145,7 +1164,9 @@
             "subscribe": {
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
-                "interval": "giorni"
+                "interval": "giorni",
+                "saveLabel":"Risparmia subito",
+                "extraLabel":"acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -1315,6 +1336,7 @@
             "defaultQtyMultiplayer": 1,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "tubo crema gel 50 ml",
+            "stock":"Disponibilita' immediata.",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
@@ -1326,7 +1348,9 @@
             "subscribe": {
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
-                "interval": "giorni"
+                "interval": "giorni",
+                "saveLabel":"Risparmia subito",
+                "extraLabel":"acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -1496,6 +1520,7 @@
             "defaultQtyMultiplayer": 14,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Garze Monouso",
+            "stock":"Disponibilita' immediata.",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
@@ -1507,7 +1532,9 @@
             "subscribe": {
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
-                "interval": "giorni"
+                "interval": "giorni",
+                "saveLabel":"Risparmia subito",
+                "extraLabel":"acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -1663,7 +1690,9 @@
             "subscribe": {
                 "title": "Subscribe",
                 "btnText": "Subscribe",
-                "interval": "Days"
+                "interval": "Days",
+                "saveLabel":"SUBSCRIBE & SAVE",
+                "extraLabel":null
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
@@ -1885,7 +1914,9 @@
             "subscribe": {
                 "title": "Subscribe",
                 "btnText": "Subscribe",
-                "interval": "Days"
+                "interval": "Days",
+                "saveLabel":"SUBSCRIBE & SAVE",
+                "extraLabel":null
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
@@ -2102,7 +2133,9 @@
             "subscribe": {
                 "title": "Subscribe",
                 "btnText": "Subscribe",
-                "interval": "Days"
+                "interval": "Days",
+                "saveLabel":"SUBSCRIBE & SAVE",
+                "extraLabel":null
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
@@ -2279,6 +2312,38 @@
                 ]
             }
         ],
+        "ProductTrustBadges": [
+            {
+                "src": "\\utility\\trust\\Pasture_Raised-Icon-v1-Black-300x300.png"
+            },
+            {
+                "src": "\\utility\\trust\\Paleo-Friendly-Icon-v1-Black.png"
+            },
+            {
+                "src": "\\utility\\trust\\Non-GMO-Icon-v1-Black-300x300 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\EU_Certified-Icon-v1-Black-300x300.png"
+            },
+            {
+                "src": "\\utility\\trust\\Low-Carb-Icon-V1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Clinically_Proven-Icon-v1-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Gluten-Free-Icon-v2-Black 1.png"
+            },
+            {
+                "src": "\\utility\\trust\\Ketosis-Icon-v2-Black.png"
+            },
+            {
+                "src": "\\utility\\trust\\Made-In-USA-Icon-V1-Black.png"
+            },
+            {
+                "src": "\\utility\\trust\\BioAvailable-icon-v1-Black-300x300.png"
+            }
+        ],
         "seo": {
             "title": "BrunoMD | Royal Collagen Peptides",
             "description": "Royal Collagen Peptides: a 5-in-1 dietary supplement clinically proven to help improve Skin, Hair, Nails, Joint, and Bone Health."
@@ -2346,7 +2411,9 @@
             "subscribe": {
                 "title": "Subscribe",
                 "btnText": "Subscribe",
-                "interval": "Days"
+                "interval": "Days",
+                "saveLabel":"SUBSCRIBE & SAVE",
+                "extraLabel":null
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
@@ -2623,7 +2690,9 @@
             "subscribe": {
                 "title": "Subscribe",
                 "btnText": "Subscribe",
-                "interval": "Days"
+                "interval": "Days",
+                "saveLabel":"SUBSCRIBE & SAVE",
+                "extraLabel":null
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
@@ -2949,7 +3018,9 @@
             "subscribe": {
                 "title": "Subscribe",
                 "btnText": "Subscribe",
-                "interval": "Days"
+                "interval": "Days",
+                "saveLabel":"SUBSCRIBE & SAVE",
+                "extraLabel":null
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
@@ -3215,7 +3286,9 @@
             "subscribe": {
                 "title": "Subscribe",
                 "btnText": "Subscribe",
-                "interval": "Days"
+                "interval": "Days",
+                "saveLabel":"SUBSCRIBE & SAVE",
+                "extraLabel":null
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",

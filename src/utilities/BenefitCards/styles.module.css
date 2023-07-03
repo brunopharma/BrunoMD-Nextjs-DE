@@ -11,9 +11,10 @@
      max-width: 241px;
      max-height: 241px;
  }
- .boxImage:hover{
+ 
+ /* .boxImage:hover{
     transform: skew(-5deg, -5deg);
- }
+ } */
 
  .row {
      width: 50%;

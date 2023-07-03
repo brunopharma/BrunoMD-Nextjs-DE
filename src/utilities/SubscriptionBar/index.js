@@ -1,6 +1,6 @@
 import React from "react";
 import styles from './styles.module.css'
-const SubscriptionBar = () => {
+const SubscriptionBar = ({ModalHandler}) => {
     return (
         <section className={styles.SubscriptionBar}>
             <div className={styles.SubscriptoionInner}>
@@ -14,19 +14,19 @@ const SubscriptionBar = () => {
                         </div>
                         <div className={styles.colxl5}>
                             <div className={styles.SubOneTime}>
-                                <div className={styles.button01}>
-                                    <div >
-                                        <p className={styles.priceCross}>50.38</p>
+                                <div className={styles.button01} onClick={ModalHandler} data-value="Subscribe">
+                                    <div data-value="Subscribe">
+                                        <p className={styles.priceCross} data-value="Subscribe">50.38</p>
                                     </div>
-                                    <div className={styles.btnText}>
-                                        <div>
-                                            <p>SUBSCRIBE </p>
-                                            <p>& SAVE</p>
+                                    <div className={styles.btnText} data-value="Subscribe">
+                                        <div data-value="Subscribe">
+                                            <p data-value="Subscribe">SUBSCRIBE </p>
+                                            <p data-value="Subscribe">& SAVE</p>
                                         </div>
                                     </div>
                                 </div>
-                                <div className={styles.button02}>
-                                    <div >
+                                <div className={styles.button02} onClick={ModalHandler}>
+                                    <div>
                                         <p className={styles.priceCross}>40.09</p>
                                     </div>
                                     <div className={styles.btnText}>

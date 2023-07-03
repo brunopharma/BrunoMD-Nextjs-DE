@@ -11,30 +11,34 @@ import { NewsLetter } from "@/utilities/NewsLetter";
 import ProductReviews from "@/utilities/ProductReviews";
 import ImageAside from "@/utilities/Sections/ImageAside";
 import ModalBoxInner from "@/utilities/ModalBoxInner";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import ProductArticleModal from "@/utilities/Sections/ProductArticleModal";
 import ProductTrustBadges from "@/utilities/ProductTrustBadges";
 import Testimonial from "@/utilities/Testimonial";
 import FourStepProcess from "@/utilities/FourStepProcess";
 import ReasonsToBelieve from "@/utilities/ReasonsToBelieve";
 import SubscriptionBar from "@/utilities/SubscriptionBar";
+import ProductSlideAccordion from "@/utilities/productSlideAccordion";
 
 const Run = ({ version }) => {
   const [isOpen, setIsOpen] = useState(false)
-  const ModalHandler = () => {
-    console.log("booo");
+  const [ clickedType, setClickedType] = useState('Onetime');
+  const ModalHandler = (e) => {
+    const {value} = e.target.dataset;
+    if(value) {setClickedType(value)}else{setClickedType('Onetime')}
     setIsOpen(!isOpen)
   }
   const pageData = landingData['run'] || {}
   return (
     <>
       <PageHead content={pageData.seo} />
-      <AnnouncementBar announcement={pageData.announcement.title} theme={pageData.announcement.theme} />
+      <AnnouncementBar announcement={pageData.announcement.title} theme={pageData.announcement.theme} ModalHandler={ModalHandler}/>
       <WistiaHero id={pageData.wistiaVideoId} content={{ buyNow: true, ModalHandler }} />
-      <ModalBoxInner isOpen={isOpen} ModalHandler={ModalHandler} />
+      <ModalBoxInner isOpen={isOpen} ModalHandler={ModalHandler} clickedType={clickedType}/>
       <MarkqueCarousel image={PatnerData} />
       <ImageAside content={pageData.ImageAside} />
       <ProductArticleModal content={pageData.ProductArticleModal} ModalHandler={ModalHandler} />
+      <ProductSlideAccordion content={pageData.ProductSlideAccordion} theme={pageData.theme}/>
       <ProductTrustBadges images={pageData.ProductTrustBadges} />
       <Testimonial content={{ slides: pageData.testimonial, theme: pageData.theme, invertDesign: false }} />
       <FourStepProcess processCards={pageData.FourStepProcess.items} theme={pageData.theme} header={pageData.FourStepProcess.title} />
@@ -43,7 +47,7 @@ const Run = ({ version }) => {
       <NewsLetter content={pageData.NewsLetter} />
       <Chat />
       <Footer data={data[version].footer} />
-      <SubscriptionBar />
+      {!isOpen &&<SubscriptionBar ModalHandler={ModalHandler} />}
     </>
   )
 }

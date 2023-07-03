@@ -2,22 +2,39 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import styles from './styles.module.css'
 
-const AnnouncementBar = ({ announcement, theme }) => {
-
+const AnnouncementBar = ({ announcement, theme,ModalHandler }) => {
+if(ModalHandler){
   return (
     <section
-      className={styles.announcementBar}
-      style={{
-        color: theme?.textColor,
-        backgroundColor: theme?.backgroundColor,
-        position:theme.position
-      }}
+    className={styles.announcementBar}
+    style={{
+      color: theme?.textColor,
+      backgroundColor: theme?.backgroundColor,
+      position:theme.position
+    }}
+    onClick={ModalHandler}
     >
       <div>
         <p>{announcement}</p>
       </div>
     </section>
   )
+}else{
+  return (
+    <section
+    className={styles.announcementBar}
+    style={{
+      color: theme?.textColor,
+      backgroundColor: theme?.backgroundColor,
+      position:theme.position
+    }}
+    >
+      <div>
+        <p>{announcement}</p>
+      </div>
+    </section>
+  )
+}
 }
 
 AnnouncementBar.propTypes = {

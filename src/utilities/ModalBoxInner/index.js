@@ -1,11 +1,22 @@
 import React, { useEffect, useState } from 'react'
 import styles from './styles.module.css'
 
-const ModalBoxInner = ({ isOpen, content, ModalHandler }) => {
-    const [type, setType] = useState('Onetime')
+const ModalBoxInner = ({ isOpen, content, ModalHandler,clickedType  }) => {
+    const [type, setType] = useState(clickedType);
+    const [ quantity, setQuantity] = useState(1);
+    useEffect(()=>{setType(clickedType)},[clickedType])
+    console.warn({clickedType,type});
     const QtyHandler = e => {
         const { name, value } = e.target
         setType(value)
+        setQuantity(1)
+    }
+    const autoQtyHandler = ()=>{
+        setQuantity(2);
+    }
+    const QtyIncrement = (e)=>{
+        const {value} = e.target;
+        setQuantity(value);
     }
     return (
         <section>
@@ -58,20 +69,23 @@ const ModalBoxInner = ({ isOpen, content, ModalHandler }) => {
                             <div className={styles.boxEight}>
                                 <div className={styles.qtyHolder}>
                                     <label class={styles.selectLabel}>QTY:</label>
-                                    <select class="styles_select__sBd98"><option value="1">1</option><option value="2">2</option></select>
+                                    <select class="styles_select__sBd98" onChange={QtyIncrement}>
+                                        <option value="1" selected={quantity == 1 ? true : false}>1</option>
+                                        <option value="2" selected={quantity == 2 ? true : false}>2</option>
+                                    </select>
                                 </div>
                             </div>
                             <div className={styles.boxNight}>
                                 <div className={styles.mobHide}></div>
                                 <div className={styles.btnContainer}>
                                     <p className={styles.btn}>{type == 'Subscribe' ? 'Subscribe' : 'Checkout'}</p>
-                                    <div className={styles.boxTen}>
+                                    {type == 'Onetime' &&<div className={styles.boxTen} onClick={autoQtyHandler} value='2'>
                                         <div>
                                             <p>Buy 2 Get</p>
                                             <p><span>FREE SHIPPING</span></p>
                                         </div>
                                         <img src='\utility\free-shipping-32.png' />
-                                    </div>
+                                    </div>}
                                 </div>
                             </div>
                         </div>

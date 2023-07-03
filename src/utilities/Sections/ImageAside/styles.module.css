@@ -25,6 +25,11 @@
    font-family: ivypresto-display,Times New Roman,Times,serif;
     
   }
+  .titleDescription{
+    font-family: var(--bmd-font-Secondary);
+    font-size: 18px;
+    font-weight: 400;
+  }
   .headingContainer h2{
     font-size: 34px;
       font-weight: 400;

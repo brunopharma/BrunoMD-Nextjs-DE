@@ -84,7 +84,7 @@ const PriceBox = ({ isActive, data, base }) => {
                 <SupplementalInfo moneyBackInfo={data?.priceBox.moneyBackInfo} termPurchase={data?.priceBox?.termPurchase}/>
               </div>}
           </>}
-          <div className={styles.section4}>Disponibilita&apos; immediata.</div>
+          <div className={styles.section4}>{data?.priceBox?.stock}</div>
           <div className={styles.flex}>
             <div className={styles.selectDiv}>
               <div className={styles.quntity}>{data.priceBox?.qtyLabelText ? data.priceBox?.qtyLabelText : "Quantita'"}:</div>

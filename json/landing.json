@@ -205,6 +205,33 @@
                 }
             ]
         },
+        "ProductSlideAccordion":{
+            "heading":"Riboflam",
+            "subHeading":"Clinically Proven Benefits",
+            "subtitle":"From Pharma-grade ingredients",
+            "items":[
+                {
+                    "title":"Exercise Pain Relief",
+                    "description":"Clinically-proven ingredients help relieve post-exercise pain naturally"
+                },
+                {
+                    "title":"Cardio Health",
+                    "description":"Clinically-proven ingredients help maintain a healthy heart and vascular system"
+                },
+                {
+                    "title":"Mental Health",
+                    "description":"Clinically-proven ingredients support cognition, mental clarity and focus"
+                },
+                {
+                    "title":"Liver Health",
+                    "description":"Clinically-proven ingredients help manage bad cholesterol levels by increasing bile production which traps cholesterol for elimination"
+                },
+                {
+                    "title":"Digestive Health",
+                    "description":"Clinically-proven ingredients reduce inflammation in the gut, improve colon health and reduce gas and bloating and balance gut flora"
+                }
+            ]
+        },
         "NewsLetter":{
             "title": "Join Our Newsletter",
             "portalId": "19647191",

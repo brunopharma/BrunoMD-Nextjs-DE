@@ -9,7 +9,7 @@
   .accordionButton {
     padding: 0.5rem 0rem;
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
     margin-bottom: 1rem;
   }
   .accordion {
@@ -129,7 +129,8 @@
   @media screen and (max-width: 1000px) {
     .reasonsContainer {
       grid-template-columns: 100%;
-      padding-left: 2rem;
+      margin: auto;
+      width: 90%;
       flex-direction: column;
     }
     .clinicalHeadline {
