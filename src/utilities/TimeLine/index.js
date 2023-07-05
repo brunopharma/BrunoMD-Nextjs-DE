@@ -2,9 +2,8 @@ import React, { useState } from 'react'
 import styles from './styles.module.css'
 
 const TimeLine = ({ data, layout }) => {
-    if (!data) return null
     if (!layout) layout = false
-    let lengthOfSlider = data.length
+    let lengthOfSlider = data?.length
     let [count, setCount] = useState(0)
     let [isForward, setIsForward] = useState(true)
     let [right, setRight] = useState(0)
@@ -34,6 +33,7 @@ const TimeLine = ({ data, layout }) => {
             }
         }
     }
+    if (!data) return null
     return (
         <section>
             {layout ? <div className={styles.TimeLineL1}>
