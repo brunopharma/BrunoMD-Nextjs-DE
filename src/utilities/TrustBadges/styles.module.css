@@ -101,10 +101,20 @@
     justify-content: center;
   }
 }
+@media screen and (max-width: 500px) {
+  .badgeGroup img{
+    max-width: 150px;
+    height: auto;
+  }
+}
 
 @media screen and (max-width: 400px) {
   .p5 {
     height: 100px;
+  }
+  .badgeGroup img{
+    max-width: 100px;
+    height: auto;
   }
 }
 

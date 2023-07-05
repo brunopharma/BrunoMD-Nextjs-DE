@@ -56,3 +56,8 @@
     font-weight: var(--bmd-Gotham-book);
     margin: 1rem 0;
 }
+@media screen and (max-width: 580px) {
+    .DetailsHolder h2{
+        font-size: 39px;
+    }
+  }

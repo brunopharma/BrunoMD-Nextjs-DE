@@ -23,7 +23,7 @@ export const CollectionList = ({ content }) => {
         }, []);
         if(!content || !content.length) return null
     return (
-        <div ref={elementRef} className={styles.collectionContainer}>
+        <div ref={elementRef} className={styles.collectionContainer} style={content.length != 1 ?{  gridTemplateColumns: 'repeat(auto-fill, 190px)'}:{}}>
         {content.map((e,i)=>{
             if(!e?.hide){
             return(

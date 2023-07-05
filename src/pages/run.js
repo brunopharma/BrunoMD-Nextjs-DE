@@ -11,7 +11,7 @@ import { NewsLetter } from "@/utilities/NewsLetter";
 import ProductReviews from "@/utilities/ProductReviews";
 import ImageAside from "@/utilities/Sections/ImageAside";
 import ModalBoxInner from "@/utilities/ModalBoxInner";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import ProductArticleModal from "@/utilities/Sections/ProductArticleModal";
 import ProductTrustBadges from "@/utilities/ProductTrustBadges";
 import Testimonial from "@/utilities/Testimonial";
@@ -19,22 +19,39 @@ import FourStepProcess from "@/utilities/FourStepProcess";
 import ReasonsToBelieve from "@/utilities/ReasonsToBelieve";
 import SubscriptionBar from "@/utilities/SubscriptionBar";
 import ProductSlideAccordion from "@/utilities/productSlideAccordion";
+import { initRecharge, loginShopifyAppProxy,getCDNProduct  } from '@rechargeapps/storefront-client';
 
 const Run = ({ version }) => {
   const [isOpen, setIsOpen] = useState(false)
   const [ clickedType, setClickedType] = useState('Onetime');
+
   const ModalHandler = (e) => {
     const {value} = e.target.dataset;
     if(value) {setClickedType(value)}else{setClickedType('Onetime')}
     setIsOpen(!isOpen)
   }
+
   const pageData = landingData['run'] || {}
+
+  // initRecharge({
+  //   storeIdentifier: 'storeIdentifier',
+  //   storefrontAccessToken: null,
+  //   loginRetryFn: async () => {
+  //     const session = await loginShopifyAppProxy();
+  //     return session;
+  //   }
+  // });
+  // let rech = async ()=>{
+  //   let oooo = await getCDNProduct(pageData.variantId)
+  //   console.log({oooo});
+  // };
+
   return (
     <>
       <PageHead content={pageData.seo} />
       <AnnouncementBar announcement={pageData.announcement.title} theme={pageData.announcement.theme} ModalHandler={ModalHandler}/>
       <WistiaHero id={pageData.wistiaVideoId} content={{ buyNow: true, ModalHandler }} />
-      <ModalBoxInner isOpen={isOpen} ModalHandler={ModalHandler} clickedType={clickedType}/>
+      <ModalBoxInner isOpen={isOpen} ModalHandler={ModalHandler} externalId={pageData.variantId} clickedType={clickedType} version={version}/>
       <MarkqueCarousel image={PatnerData} />
       <ImageAside content={pageData.ImageAside} />
       <ProductArticleModal content={pageData.ProductArticleModal} ModalHandler={ModalHandler} />

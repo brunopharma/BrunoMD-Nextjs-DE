@@ -1,9 +1,15 @@
-import React, { useState } from "react";
+import React, { useState,useEffect } from "react";
 import "./styles.module.css";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
+import { useMatchMedia } from "../Sections/Hooks/useMatchMedia";
 
 const Slider = ({ data }) => {
+  const [isDesktop] = useMatchMedia('(min-width: 520px)', true)
+  const [windowWidth, setWindowWidth] = useState(false)
+  useEffect(() => {
+      setWindowWidth(window.innerWidth - 50)
+  }, [windowWidth])
   const [style, setStyle] = useState({
     backgroundPosition: "0% 0%",
     position: "absolute",
@@ -31,7 +37,7 @@ const Slider = ({ data }) => {
     setStyle({ ...style, display: "none" });
   };
   return (
-    <section onmouseout={handleMouveOut} style={{maxWidth:'500px'}}>
+    <section onmouseout={handleMouveOut} style={isDesktop ? {maxWidth:'500px'}:{maxWidth:`${windowWidth}px`}}>
       {/* <div style={style}></div> */}
       <div className="carousel-wrapper">
         <Carousel

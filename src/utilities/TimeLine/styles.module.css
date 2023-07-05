@@ -1,18 +1,21 @@
-.TimeLine{
+.TimeLineL1 {
     width: 100vw;
     overflow: scroll;
 }
-.TimeLineContainer {
+
+.TimeLineL1 .TimeLineContainer {
     width: 2500px;
     font-size: 16px;
     line-height: 1.75;
     display: flex;
     background-color: #031625;
 }
-.TimeLineContainer:hover .tlItem {
+
+.TimeLineL1 .TimeLineContainer:hover .tlItem {
     width: 23.3333%;
 }
-.tlItem {
+
+.TimeLineL1 .tlItem {
     transform: translate3d(0, 0, 0);
     position: relative;
     width: 25%;
@@ -21,7 +24,9 @@
     overflow: hidden;
     transition: width 0.5s ease;
 }
-.tlItem:before, .tlItem:after {
+
+.TimeLineL1 .tlItem:before,
+.tlItem:after {
     transform: translate3d(0, 0, 0);
     content: '';
     position: absolute;
@@ -30,13 +35,15 @@
     width: 100%;
     height: 100%;
 }
-.tlItem:after {
+
+.TimeLineL1 .tlItem:after {
     /* background: rgba(3, 22, 37, 0.85); */
     background: #000;
     opacity: 0.4;
     transition: opacity 0.5s ease;
 }
-.tlItem:before {
+
+.TimeLineL1 .tlItem:before {
     /* background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 1) 75%); */
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgb(0 0 0 / 62%) 75%);
     z-index: 1;
@@ -44,29 +51,35 @@
     transform: translate3d(0, 0, 0) translateY(50%);
     transition: opacity 0.5s ease, transform 0.5s ease;
 }
-.tlItem:hover {
+
+.TimeLineL1 .tlItem:hover {
     width: 60% !important;
 }
-.tlItem:hover:after {
+
+.TimeLineL1 .tlItem:hover:after {
     opacity: 0;
 }
-.tlItem:hover:before {
+
+.TimeLineL1 .tlItem:hover:before {
     opacity: 1;
     transform: translate3d(0, 0, 0) translateY(0);
     transition: opacity 1s ease, transform 1s ease 0.25s;
 }
-.tlItem:hover .tlContent {
+
+.TimeLineL1 .tlItem:hover .tlContent {
     opacity: 1;
     transform: translateY(0);
     transition: all 0.75s ease 0.5s;
 }
-.tlItem:hover .tlBg {
+
+.TimeLineL1 .tlItem:hover .tlBg {
     filter: grayscale(0);
 }
+
 /* .tlItem:hover .tlTitle{
     color: #56008c;
 } */
-.tlContent {
+.TimeLineL1 .tlContent {
     transform: translate3d(0, 0, 0) translateY(25px);
     position: relative;
     z-index: 1;
@@ -75,14 +88,16 @@
     top: 55%;
     opacity: 0;
 }
-.tlContent h1{
+
+.TimeLineL1 .tlContent h1 {
     font-family: var(--bmd-font-Primary);
     text-transform: uppercase;
     color: #fff;
     font-size: 1.44rem;
     font-weight: normal;
 }
-.tlYear {
+
+.TimeLineL1 .tlYear {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -91,12 +106,14 @@
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
 }
-.tlYear p {
+
+.TimeLineL1 .tlYear p {
     font-family: var(--bmd-font-Secondary);
     font-size: 1.728rem;
     line-height: 1.5;
 }
-.tlBg {
+
+.TimeLineL1 .tlBg {
     transform: translate3d(0, 0, 0);
     position: absolute;
     width: 100%;
@@ -107,4 +124,73 @@
     background-position: center center;
     transition: filter 0.5s ease;
     filter: grayscale(100%);
+}
+
+.TimeLineL2 {
+    overflow-x: hidden;
+    padding: 0 16px;
+}
+
+.TimeLineL2 .sliderContainer {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1380px;
+    width: 100%;
+}
+
+.TimeLineL2 .sliderCard {
+    overflow: hidden;
+    position: relative;
+    width: 350px;
+    display: block;
+    min-width: 350px;
+}
+
+.TimeLineL2 .sliderCardInner {
+    height: 150px;
+    width: 250px;
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.TimeLineL2 .backButton {
+    transform: scaleX(-1);
+    margin-right: 10px;
+}
+
+.TimeLineL2 .sliderButtonsContainer {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 16px;
+}
+
+.TimeLineL2 .sliderCardYear {
+    font-family: ivypresto-display, 'Times New Roman', Times, serif;
+    color: #56008c;
+    font-size: 24px;
+    line-height: 37px;
+}
+
+.TimeLineL2 .sliderCardMilestone {
+    font-family: Gotham-Book, Arial, serif;
+    color: #000;
+    font-size: 12px;
+    line-height: 16px;
+    max-width: 170px;
+    transition: opacity 1s linear;
+}
+
+.TimeLineL2 .sliderContainer {
+    overflow-x: hidden;
+    padding: 0px 16px;
+}
+
+.TimeLineL2 .sliderHeader {
+    max-width: 400px;
+    line-height: 1.5rem;
+    font-family: ivypresto-display, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0;
+    padding-bottom: 32px;
 }
