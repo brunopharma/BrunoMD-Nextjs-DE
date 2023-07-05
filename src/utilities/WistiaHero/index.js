@@ -3,7 +3,6 @@ import styles from './styles.module.css'
 import Link from 'next/link'
 import Image from 'next/image';
 export const WistiaHero = ({ id, content }) => {
-    console.log({content});
     const [windowWidth, setWindowWidth] = useState(false)
     useEffect(() => {
         setWindowWidth(window.innerWidth - 15)

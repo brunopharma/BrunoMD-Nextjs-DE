@@ -1,11 +1,44 @@
 import React, { useEffect, useState } from 'react'
 import styles from './styles.module.css'
+import Client from 'shopify-buy';
 
-const ModalBoxInner = ({ isOpen, content, ModalHandler,clickedType  }) => {
+const ModalBoxInner = ({ isOpen, content, ModalHandler,clickedType,externalId ,version }) => {
+    //get subscription id of a shopify product in nextjs?
     const [type, setType] = useState(clickedType);
     const [ quantity, setQuantity] = useState(1);
-    useEffect(()=>{setType(clickedType)},[clickedType])
-    console.warn({clickedType,type});
+    const [variantId, setVariantId] = useState();
+    let client = undefined
+    const [shopifyP, setSProduct] = useState();
+    if(version == 'EU'){
+        client = Client.buildClient({
+            domain: 'bruno-md-europe.myshopify.com',
+            storefrontAccessToken: 'a51b71098dff9f7cfd68456c464991bb'
+        });
+    }
+    if(version == 'ENG'){
+        client = Client.buildClient({
+            domain: 'brunomd.myshopify.com',
+            storefrontAccessToken: '4233f2f4417f089c3d28dbd476de595c'
+        });
+    }
+    useEffect(()=>{
+        if (externalId) {
+            const productId = `gid://shopify/Product/${externalId}`;
+            fetchProduct(productId)
+        } else {
+            window.location.href = '/';
+        }
+        setType(clickedType)
+    },[clickedType])
+    const fetchProduct =async (productId)=>{
+        await client.product?.fetch(productId).then((product) => {
+            if (product) {
+                console.warn({product});
+                setSProduct(product)
+                setVariantId(shopifyP?.variants[0]?.id)
+            }
+        });
+    }
     const QtyHandler = e => {
         const { name, value } = e.target
         setType(value)
@@ -16,8 +49,39 @@ const ModalBoxInner = ({ isOpen, content, ModalHandler,clickedType  }) => {
     }
     const QtyIncrement = (e)=>{
         const {value} = e.target;
-        setQuantity(value);
+        setQuantity(parseInt(value));
     }
+    const CreateCart = () => {
+        // alert("soon.")
+        console.warn({quantity , variantId});
+        if (quantity && variantId) {
+          let cId = localStorage.getItem('e6S4JJM9G');
+          if (!cId) {
+            client.checkout.create().then((checkout) => {
+              let checkOutId = checkout.id;
+              localStorage.setItem('e6S4JJM9G', checkOutId);
+              AddToCart(checkOutId);
+            });
+          } else {
+            AddToCart(cId);
+          }
+        }
+      };
+    
+      const AddToCart = (checkOutId) => {
+        const lineItemsToAdd = [
+          {
+            variantId,
+            quantity
+          },
+        ];
+        client.checkout
+          .addLineItems(checkOutId, lineItemsToAdd)
+          .then((checkout) => {
+            // Do something with the updated checkout
+            // window.location.href = checkout.webUrl;
+          });
+      };
     return (
         <section>
             {isOpen === true && (

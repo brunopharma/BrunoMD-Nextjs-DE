@@ -3,6 +3,7 @@ import Slider from "../Slider";
 import styles from "./styles.module.css";
 import PurchaseBox from "../PurchaseBox";
 import StarRatings from "../StarRatings";
+
 const ProductCard = ({ data, base }) => {
   const { images, declaimer, priceDescription } = data || {};
 

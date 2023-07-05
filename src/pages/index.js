@@ -13,12 +13,12 @@ import HomePageData from '../../json/home.json'
 import SEO from '../../json/SEO.json'
 import PageHead from '@/utilities/Head'
 
-
 export default function Home({version}) {
   return (
     <>
     
       <section>
+        
         <PageHead content={SEO[version]?.home?.SEO}/>
         <WistiaHero id={HomePageData[version].wistia.id} content={HomePageData[version].wistia.content} />
         <MarkqueCarousel image={PatnerData} />
