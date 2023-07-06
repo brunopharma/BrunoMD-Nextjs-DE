@@ -451,7 +451,7 @@ https://flickity.metafizzy.co
   animation: loader-circle-2-animation 0.85s linear infinite;
 }
 .xyz{
-	margin:0;
+margin:100%;
 }
 @keyframes loader-circle-2-animation {
   0% {
