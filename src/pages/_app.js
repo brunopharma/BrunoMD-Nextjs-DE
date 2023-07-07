@@ -12,7 +12,7 @@ export default function App({ Component, pageProps }) {
       }
       let docTitle = document.title
       window.addEventListener("blur",()=>{
-        document.title = "Come Back ;(";
+        document.title = "Come Back 😊😊";
       })
       window.addEventListener("focus",()=>{
         document.title = docTitle;

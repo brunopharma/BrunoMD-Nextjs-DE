@@ -9,7 +9,7 @@ const PriceBox = ({ isActive, data, base }) => {
   const [learnMore, setLearnMore] = useState(false);
   const [quantity, setQuantity] = useState(1);
   const [isAddingToCart, setIsAddingToCart] = useState(false);
-  const [currentShippingInterval, setCurrentShippingInterval] = useState(null)
+  const [currentShippingInterval, setCurrentShippingInterval] = useState(15)
   useEffect(() => {
     setVariantId(false || shopifyP?.variants[0]?.id);
   }, [data, base]);
@@ -81,7 +81,7 @@ const PriceBox = ({ isActive, data, base }) => {
             </div>
             {learnMore &&
               <div className={styles.m5}>
-                <SupplementalInfo moneyBackInfo={data?.priceBox.moneyBackInfo} termPurchase={data?.priceBox?.termPurchase}/>
+                <SupplementalInfo moneyBackInfo={data?.priceBox.moneyBackInfo} termPurchase={data?.priceBox?.termPurchase} interval={currentShippingInterval}/>
               </div>}
           </>}
           <div className={styles.section4}>{data?.priceBox?.stock}</div>

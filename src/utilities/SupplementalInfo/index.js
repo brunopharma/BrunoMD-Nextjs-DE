@@ -1,26 +1,16 @@
 import React, { useState } from "react";
 import styles from './styles.module.css'
 
-const SupplementalInfo = ({ moneyBackInfo, termPurchase }) => {
+const SupplementalInfo = ({ moneyBackInfo, termPurchase ,interval}) => {
     console.log({ termPurchase });
     const [isAdditionalInfoVisible, setAdditionalInfoVisibility] = useState(false)
-    // const subscriptionDetails = "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato";
+
     let regex = /\d\d giorni/gi
-    let newText = termPurchase?.desc ? termPurchase.desc.replaceAll(regex, `2 giorni`,) : undefined;
-    let [text, setText] = useState(newText)
-    // React.useEffect(() => {
-    //     if (selectedSubscriptionInterval) {
-    //       for (let i = 0; i < subscriptionDetails.length; i++) {
-    //         tArray.push(
-    //           subscriptionDetails[i].children[0].text.replaceAll(
-    //             regex,
-    //             `${String(selectedSubscriptionInterval)} giorni`,
-    //           ),
-    //         )
-    //       }
-    //       setText(tArray)
-    //     }
-    //   }, [selectedSubscriptionInterval])
+    let text = termPurchase?.desc ? termPurchase.desc.replaceAll(regex, interval ? interval + ' giorni' : '15 giorni',) : undefined;
+
+    let engV = /\d\d days/gi
+    let engVmoneyBackInfo = moneyBackInfo.desc.replaceAll(engV, interval ? interval + ' days' : '30 days',);
+    
     return (
         <div className={styles.supplementalInfoWrapper}>
             {text && (
@@ -45,7 +35,7 @@ const SupplementalInfo = ({ moneyBackInfo, termPurchase }) => {
                             alt="Information button"
                         />
                     </div>
-                    {isAdditionalInfoVisible && <div className={`${styles.additionalInfo} ${styles.visible}`} dangerouslySetInnerHTML={{ __html: moneyBackInfo.desc }} />}
+                    {isAdditionalInfoVisible && <div className={`${styles.additionalInfo} ${styles.visible}`} dangerouslySetInnerHTML={{ __html: engVmoneyBackInfo }} />}
                 </>
             )}
         </div>

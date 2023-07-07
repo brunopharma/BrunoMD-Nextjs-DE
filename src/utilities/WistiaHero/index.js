@@ -23,7 +23,7 @@ export const WistiaHero = ({ id, content }) => {
                                     {content.subTitle}
                                 </div>}
                             </div>
-                            {content?.btnText && <Link href="/collezioni/tutti">
+                            {content?.btnText && <Link href={content.btnLink || '/collezioni/tutti'}>
                                 <span className={styles.btn}>{content.btnText}</span>
                             </Link>}
                         </div>
