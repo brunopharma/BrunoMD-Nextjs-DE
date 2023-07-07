@@ -197,7 +197,7 @@
             ]
         },
         "ReasonsToBelieve": {
-            "ingredients": "https://f.shgcdn.com/b54cf21c-9b62-4925-a26d-f9f06f376de3",
+            "ingredients": {"src":"https://f.shgcdn.com/b54cf21c-9b62-4925-a26d-f9f06f376de3/"},
             "items": [
                 {
                     "note": "title",

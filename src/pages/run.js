@@ -45,7 +45,6 @@ const Run = ({ version }) => {
   //   let oooo = await getCDNProduct(pageData.variantId)
   //   console.log({oooo});
   // };
-
   return (
     <>
       <PageHead content={pageData.seo} />
@@ -59,7 +58,7 @@ const Run = ({ version }) => {
       <ProductTrustBadges images={pageData.ProductTrustBadges} />
       <Testimonial content={{ slides: pageData.testimonial, theme: pageData.theme, invertDesign: false }} />
       <FourStepProcess processCards={pageData.FourStepProcess.items} theme={pageData.theme} header={pageData.FourStepProcess.title} />
-      <ReasonsToBelieve ingredients={pageData.FourStepProcess.ingredients} content={pageData.ReasonsToBelieve.items} theme={pageData.theme} product={pageData.product} />
+      <ReasonsToBelieve ingredients={pageData.ReasonsToBelieve.ingredients} content={pageData.ReasonsToBelieve.items} theme={pageData.theme} product={pageData.product} />
       <ProductReviews variantId={pageData.variantId} />
       <NewsLetter content={pageData.NewsLetter} />
       <Chat />

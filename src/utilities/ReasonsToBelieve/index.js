@@ -9,13 +9,15 @@ import {
 } from '../FourStepProcess/accordion'
 
 const ReasonsToBelieve = ({ content, ingredients, theme,product }) => {
-  
+  console.log({ingredients});
   const [modal, setModal] = React.useState(false)
   const [imageSource, setImageSource] = React.useState('/')
   if (!content) return null
   const handleClick = e => {
-    setImageSource(ingredients.src)
-    setModal(true)
+    if(ingredients?.src){
+      setImageSource(ingredients.src)
+      setModal(true)
+    }
   }
   return (
     <section id="ingredients">
