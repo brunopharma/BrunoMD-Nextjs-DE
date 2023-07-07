@@ -5,6 +5,7 @@
       "content": {
         "title": "Benvenuti <br/><h2> to the MDiterranean Life</h2>",
         "btnText": "SHOP NOW",
+        "btnLink":"/collections/all-products",
         "subTitle": "Health and wellness products rooted in the heart of Italy, made from all-natural ingredients."
       }
     },

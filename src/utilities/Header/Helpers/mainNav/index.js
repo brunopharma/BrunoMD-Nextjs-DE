@@ -14,7 +14,7 @@ const MainNav = ({ navMenuLinks,version }) => {
   let cartUrl = version == 'EU' ? '/carrello' : '/cart'
   const router = useRouter()
 
-  const [logInText, setLogIntext] = useState('Accedi')
+  const [logInText, setLogIntext] = useState(version == 'EU' ? 'Accedi' : 'Log in')
   const [logInLink, setLogInLink] = useState('/login')
   const items = [];
 
