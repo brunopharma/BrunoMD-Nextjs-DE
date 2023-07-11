@@ -1,6 +1,7 @@
 import Head from 'next/head';
 
 function PageHead({ content }) {
+    // og image meta tag with Next.js is not working?
     return (
         <Head>
             <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -12,8 +13,7 @@ function PageHead({ content }) {
             <meta property="og:type" content="website" />
             <meta property="og:locale" content="en-EU" />
             <meta property="og:url" content="/" />
-            <meta property="og:image" content={'https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/xGN4CvUH3Nz.png'} />
-            
+            <meta property="og:image" content="https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/xGN4CvUH3Nz.png" />
             <meta property="og:site_name" content={'© 2023 brunomd.com. Diritti riservati'} key="ogsitename" />
             <meta property="og:title" content={content?.title} key="ogtitle" />
             <meta property="og:description" content={content?.description} key="ogdesc" />
