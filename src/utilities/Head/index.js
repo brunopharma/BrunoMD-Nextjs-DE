@@ -13,6 +13,7 @@ function PageHead({ content }) {
             <meta property="og:locale" content="en-EU" />
             <meta property="og:url" content="/" />
             <meta property="og:image" content={'https://static.xx.fbcdn.net/rsrc.php/v3/y1/r/xGN4CvUH3Nz.png'} />
+            
             <meta property="og:site_name" content={'© 2023 brunomd.com. Diritti riservati'} key="ogsitename" />
             <meta property="og:title" content={content?.title} key="ogtitle" />
             <meta property="og:description" content={content?.description} key="ogdesc" />
