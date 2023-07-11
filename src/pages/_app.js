@@ -6,6 +6,7 @@ import { RouteGuard } from '@/componets/RouteGuard'
 export default function App({ Component, pageProps }) {
   const version = 'ENG'
   useEffect(() => {
+    
     if (typeof window !== 'undefined') {
       const loader = document.getElementById('globalLoader');
       if (loader) {
