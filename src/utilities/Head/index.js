@@ -13,6 +13,11 @@ function PageHead({ content }) {
             <meta property="og:locale" content="en-EU" />
             <meta property="og:url" content="/" />
             <meta property="og:image" content={'/utility/purpose.jpg'} key="ogimage" />
+                <meta name="twitter:card" content="summary_large_image" />
+            <meta name="twitter:site" content="Bruno MD" />
+            <meta name="twitter:title" content={content?.title} />
+            <meta name="twitter:description" content={content?.description} />
+            <meta name="twitter:image" content="/utility/purpose.jpg" />
             <meta property="og:site_name" content={'© 2023 brunomd.com. Diritti riservati'} key="ogsitename" />
             <meta property="og:title" content={content?.title} key="ogtitle" />
             <meta property="og:description" content={content?.description} key="ogdesc" />
