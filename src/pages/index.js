@@ -12,13 +12,18 @@ import TrustBadgeData from '../../json/trustBages.json'
 import HomePageData from '../../json/home.json'
 import SEO from '../../json/SEO.json'
 import PageHead from '@/utilities/Head'
+import {NextSeo } from "next-seo";
 
 export default function Home({version}) {
+  // best way to integrate seo title and image in nextjs?
   return (
     <>
-    
       <section>
-        
+      <NextSeo
+        title="My Website"
+        description="This is my website."
+        image="https://f.shgcdn.com/02637cbd-350e-4b4a-bae7-dad2bce66981/"
+      />
         <PageHead content={SEO[version]?.home?.SEO}/>
         <WistiaHero id={HomePageData[version].wistia.id} content={HomePageData[version].wistia.content} />
         <MarkqueCarousel image={PatnerData} />
