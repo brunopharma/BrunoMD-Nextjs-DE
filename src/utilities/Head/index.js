@@ -1,6 +1,8 @@
 import Head from 'next/head';
 
 function PageHead({ content }) {
+    if(!content) return null
+    console.warn({content});
     return (
         <Head>
             <meta name="viewport" content="width=device-width, initial-scale=1" />

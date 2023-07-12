@@ -1,5 +1,4 @@
 import Header from '@/utilities/Header/';
-import PageHead from "@/utilities/Head";
 import Footer from '@/utilities/Footer/';
 import AnnouncementBar from '@/utilities/announcementBar';
 import Chat from '@/utilities/ChatBubble'
@@ -9,7 +8,6 @@ import data from '../../../json/layout.json'
 export default function Layout({ children,version }) {
     return (
         <>
-        <PageHead/>
             <AnnouncementBar announcement={data[version].announcementBar.title} theme={{ textColor: data[version].announcementBar.textColor, backgroundColor: data[version].announcementBar.backgroundColor }} />
             <Header link={data[version].links} version={version}/>
             <main>{children}</main>
