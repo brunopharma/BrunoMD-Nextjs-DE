@@ -1,10 +1,11 @@
 import Head from 'next/head';
+import { Helmet } from 'react-helmet';
 
 function PageHead({ content }) {
     if(!content) return null
     console.warn({content});
     return (
-        <Head>
+        <Helmet>
             <meta name="viewport" content="width=device-width, initial-scale=1" />
             <meta charSet="utf-8" />
             <link rel="canonical" href="https://brunomd.eu/" />
@@ -30,7 +31,7 @@ function PageHead({ content }) {
             <meta name="apple-mobile-web-app-status-bar-style" content="default" />
             <meta name="apple-mobile-web-app-title" content="Store" />
             <meta name="msapplication-TileColor" content="#000" />
-        </Head>
+        </Helmet>
     );
 }
 
