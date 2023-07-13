@@ -3,7 +3,7 @@ import React from 'react'
 import MarkqueCarousel from '@/utilities/MarkqueCarousel'
 import { WistiaHero } from '@/utilities/WistiaHero'
 import Cards from '@/utilities/CategoriesCards'
-import TrustBadge from '@/utilities/TrustBadges'
+import TrustBadge from '@/utilities/TrustBadges'``
 import Purpose from '@/utilities/Purpose'
 import { HomeGallery } from '@/utilities/HomeGallery'
 import { NewsLetter } from '@/utilities/NewsLetter'
@@ -14,11 +14,10 @@ import SEO from '../../json/SEO.json'
 import PageHead from '@/utilities/Head'
 
 export default function Home({version}) {
-  // best way to integrate seo title and image in nextjs?
   return (
     <>
       <section>
-        {/* <PageHead content={SEO[version]?.home?.SEO}/> */}
+        <PageHead content={SEO[version]?.home?.SEO}/>
         <WistiaHero id={HomePageData[version].wistia.id} content={HomePageData[version].wistia.content} />
         <MarkqueCarousel image={PatnerData} />
         <Cards contents={HomePageData[version].categories} />
