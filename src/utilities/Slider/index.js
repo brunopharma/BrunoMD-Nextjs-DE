@@ -46,6 +46,7 @@ const Slider = ({ data }) => {
           autoPlay
           showArrows
           showIndicators={false}
+          showStatus={false}
         >
           {data?.length &&
             data.map((e,i) => {

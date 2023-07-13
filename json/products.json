@@ -1682,6 +1682,7 @@
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
             "moreInfoBtnText": "Learn more",
             "qtyLabelText": "QTY",
+            "stock":"In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
                 "title": "One time",
@@ -1773,7 +1774,7 @@
             },
             {
                 "title": "Quality Assurance",
-                "details": []
+                "details": [ "cGMP Facility" ]
             },
             {
                 "title": "FAQs",
@@ -1798,36 +1799,21 @@
                 "faq": true
             },
             {
-                "title": "CURCUMIN PHYTOSOME (TURMERIC EXTRACT - CURCUMA LONGA)",
+                "title": "Ingredients",
                 "details": [
+                    "<h3>CURCUMIN PHYTOSOME (TURMERIC EXTRACT - CURCUMA LONGA)</h3>",
                     "Lombardia, Italy.",
-                    "#1 Doctors Recommended and endorsed by Cleveland Clinic. Curcumin Phytosome is the most studied compound curcumin compound in the world. It is the formulation of choice for leading practitioners and their patients. It was independently endorsed by the prestigious Cleveland Clinic in the US as the curcumin formulation of choice in the turmeric market. Part of the ginger family, curcumin is sourced from turmeric and has been used for thousands of years in Southeast Asia, China, and India for cooking and medicinal uses. Our Curcumin Phytosome is clinically proven in 35 randomized, double-blind, placebo-controlled, published clinical trials to promote a healthy inflammatory response, boost immune response, and provide relief from exercise-related pain. It works through multiple pathways on multiple targets to provide complete relief throughout the entire body. The extract has been standardized and contains the full bouquet of curcuminoids, not just curcumin (Curcuminoids are polyphenolic pigments and include 77% curcumin, 17% demethoxycurcumin, and 3% bisdemethoxycurcumin). It has been called a “Life Guardian” because it helps control chronic inflammation and boost immune response at any age."
-                ]
-            },
-            {
-                "title": "ECHINACEA ANGUSTIFOLIA PHYTOSOME (NARROW-LEAVED CONEFLOWER EXTRACT-ECHINACEA ANGUSTIFOLIA ROOT)",
-                "details": [
-                    "Lombardia, Italy. The use of Echinacea is traced back to Native Americans who used it as a natural anti-inflammatory. Major disorder targets of these treatments were related to: sore mouth, toothache, colds, tonsillitis, septic diseases, cough and general inflammatory conditions. Bruno MD cultivates our coneflower from a variety located in Italy. Our plants guarantee high polysaccharide and low cross contamination between Echinacea species. Echinacea Angustifolia Phytosome is optimized for maximum absorption. Results in clinical trials conducted using our triple-standardized Echinacea Phytosome, have shown a statistically significant tendency to be more efficacious than flu vaccination alone, suggesting that E. Phytosome has the potential to act synergistically with influenza vaccination."
-                ]
-            },
-            {
-                "title": "NUCLEOFLAM PROPRIETARY NUCLEOTIDES AND NUCLEOSIDES YEAST EXTRACT COMPLEX",
-                "details": [
-                    "Lombardia, Italy. Our formulation begins at the cellular base level with a unique Nucleoflam Proprietary Nucleotide & Nucleotides Yeast Extract Complex. These nucleotides are vital to maintaining essential cell functions and supporting a healthy immune system, digestive system, and brain function. Nucleotides also enhance the anti-inflammatory activity of Vitamin C, Vitamin D3, and Zinc. They are gluten-free and suitable for vegans and both kosher & halal. BRUNO MD combines Nucleoflam with Astaxanthin, the most potent anti-inflammatory known in nature. Together they create a powerful shield against chronic inflammation."
-                ]
-            },
-            {
-                "title": "NATURAL ASTAXANTHIN EXTRACT (HAEMATOCOCCUS PLUVIALIS) (ALGAE)",
-                "details": [
+                    "<p>#1 Doctors Recommended and endorsed by Cleveland Clinic. Curcumin Phytosome is the most studied compound curcumin compound in the world. It is the formulation of choice for leading practitioners and their patients. It was independently endorsed by the prestigious Cleveland Clinic in the US as the curcumin formulation of choice in the turmeric market. Part of the ginger family, curcumin is sourced from turmeric and has been used for thousands of years in Southeast Asia, China, and India for cooking and medicinal uses. Our Curcumin Phytosome is clinically proven in 35 randomized, double-blind, placebo-controlled, published clinical trials to promote a healthy inflammatory response, boost immune response, and provide relief from exercise-related pain. It works through multiple pathways on multiple targets to provide complete relief throughout the entire body. The extract has been standardized and contains the full bouquet of curcuminoids, not just curcumin (Curcuminoids are polyphenolic pigments and include 77% curcumin, 17% demethoxycurcumin, and 3% bisdemethoxycurcumin). It has been called a “Life Guardian” because it helps control chronic inflammation and boost immune response at any age.</p>",
+                    "<h3>ECHINACEA ANGUSTIFOLIA PHYTOSOME (NARROW-LEAVED CONEFLOWER EXTRACT-ECHINACEA ANGUSTIFOLIA ROOT)</h3>",
+                    "<p>Lombardia, Italy. The use of Echinacea is traced back to Native Americans who used it as a natural anti-inflammatory. Major disorder targets of these treatments were related to: sore mouth, toothache, colds, tonsillitis, septic diseases, cough and general inflammatory conditions. Bruno MD cultivates our coneflower from a variety located in Italy. Our plants guarantee high polysaccharide and low cross contamination between Echinacea species. Echinacea Angustifolia Phytosome is optimized for maximum absorption. Results in clinical trials conducted using our triple-standardized Echinacea Phytosome, have shown a statistically significant tendency to be more efficacious than flu vaccination alone, suggesting that E. Phytosome has the potential to act synergistically with influenza vaccination.</p>",
+                    "<h3>NUCLEOFLAM PROPRIETARY NUCLEOTIDES AND NUCLEOSIDES YEAST EXTRACT COMPLEX</h3>",
+                    "<p>Lombardia, Italy. Our formulation begins at the cellular base level with a unique Nucleoflam Proprietary Nucleotide & Nucleotides Yeast Extract Complex. These nucleotides are vital to maintaining essential cell functions and supporting a healthy immune system, digestive system, and brain function. Nucleotides also enhance the anti-inflammatory activity of Vitamin C, Vitamin D3, and Zinc. They are gluten-free and suitable for vegans and both kosher & halal. BRUNO MD combines Nucleoflam with Astaxanthin, the most potent anti-inflammatory known in nature. Together they create a powerful shield against chronic inflammation.</p>",
+                    "<h3>CURCUMIN PHYTOSOME (TURMERIC EXTRACT - CURCUMA LONGA)</h3>",
                     "Sweden & Japan.",
-                    "Our Astaxanthin is clinically proven to help shield the front of your eyes: it’s nature’s most potent antioxidant-sourced from special algae found in temperate regions around the world. Astaxanthin protects your eyes against free radicals generated by UV radiation and actually strengthens eye muscles to reduce eye fatigue that contributes to Computer Vision Syndrome."
-                ]
-            },
-            {
-                "title": "QUERCETIN PHYTOSOME (SOPHORA JAPONICA FLOWER)",
-                "details": [
+                    "<p>Our Astaxanthin is clinically proven to help shield the front of your eyes: it’s nature’s most potent antioxidant-sourced from special algae found in temperate regions around the world. Astaxanthin protects your eyes against free radicals generated by UV radiation and actually strengthens eye muscles to reduce eye fatigue that contributes to Computer Vision Syndrome.</p>",
+                    "<h3>QUERCETIN PHYTOSOME (SOPHORA JAPONICA FLOWER)</h3>",
                     "Lombardia, Italy.",
-                    "Quercetin is a powerful plant-based antioxidant that can help maintain a healthy immune system. Plus, BRUNO MD uses Quercetin Phytosome making our Quercetin 2000% more bioavailable than the standard form to significantly enhance performance and accelerate fitness recovery."
+                    "<p>Quercetin is a powerful plant-based antioxidant that can help maintain a healthy immune system. Plus, BRUNO MD uses Quercetin Phytosome making our Quercetin 2000% more bioavailable than the standard form to significantly enhance performance and accelerate fitness recovery.</p>"
                 ]
             }
         ],
@@ -1906,6 +1892,7 @@
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
             "moreInfoBtnText": "Learn more",
             "qtyLabelText": "QTY",
+            "stock":"In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
                 "title": "One time",
@@ -1991,6 +1978,10 @@
                 ]
             },
             {
+                "title": "Quality Assurance",
+                "details": [ "cGMP Facility" ]
+            },
+            {
                 "title": "FAQs",
                 "details": [
                     {
@@ -2017,32 +2008,21 @@
                 "faq": true
             },
             {
-                "title": "NATURAL VITAMIN E (D-ALPHA TOCOPHERYL SUCCINATE)",
+                "title": "Ingredients",
                 "details": [
+                    "<h3>NATURAL VITAMIN E (D-ALPHA TOCOPHERYL SUCCINATE)</h3>",
                     "Italy",
-                    "All-natural Vitamin E (d-alpha tocopheryl succinate) stays active in the body longer and creates a living shield to protect proteins, LDL cholesterol, and mitochondrial DNA against oxidative damage that leads to heart disease. It is a must-take nutrient for your heart. It helps prevent oxidation of LDL Cholesterol. Research has shown that when our natural Vitamin E is combined with CoQ10 it helps maintain its antioxidant state. It also reduces levels of lipid peroxidation — the pivotal reaction in the cause of atherosclerosis — and thus reduces the risk of cardiovascular disease."
-                ]
-            },
-            {
-                "title": "BERGAMOT ORANGE EXTRACT PHYTOSOME (CITRUS BERGAMIA)",
-                "details": [
+                    "<p>All-natural Vitamin E (d-alpha tocopheryl succinate) stays active in the body longer and creates a living shield to protect proteins, LDL cholesterol, and mitochondrial DNA against oxidative damage that leads to heart disease. It is a must-take nutrient for your heart. It helps prevent oxidation of LDL Cholesterol. Research has shown that when our natural Vitamin E is combined with CoQ10 it helps maintain its antioxidant state. It also reduces levels of lipid peroxidation — the pivotal reaction in the cause of atherosclerosis — and thus reduces the risk of cardiovascular disease.</p>",
+                    "<h3>BERGAMOT ORANGE EXTRACT PHYTOSOME (CITRUS BERGAMIA)</h3>",
                     "Calabria, Italy",
-                    "Bergamot Orange Extract (Citrus Bergamia) is hand-harvested in Calabria. Bergamot Phytosome® is clinically proven to protect against cardiovascular issues by supporting healthy cholesterol levels. It also helps govern metabolic conditions that increase the risk of heart disease, and TYPE II diabetes. It’s the green “gold standard” of heart health.",
-                    "Bergamot Phytosome® optimizes the biological absorption of polyphenols, which are normally characterized by poor solubility in both water and organic solvents."
-                ]
-            },
-            {
-                "title": "CURCUMIN PHYTOSOME (TURMERIC EXTRACT - CURCUMA LONGA)",
-                "details": [
+                    "<p>Bergamot Orange Extract (Citrus Bergamia) is hand-harvested in Calabria. Bergamot Phytosome® is clinically proven to protect against cardiovascular issues by supporting healthy cholesterol levels. It also helps govern metabolic conditions that increase the risk of heart disease, and TYPE II diabetes. It’s the green “gold standard” of heart health.",
+                    "Bergamot Phytosome® optimizes the biological absorption of polyphenols, which are normally characterized by poor solubility in both water and organic solvents.</p>",
+                    "<h3>CURCUMIN PHYTOSOME (TURMERIC EXTRACT - CURCUMA LONGA)</h3>",
                     "Lombardia, Italy",
-                    "#1 Doctors Recommended and endorsed by Cleveland Clinic.Curcumin Phytosome is the most studied compound curcumin compound in the world. It is the formulation of choice for leading practitioners and their patients. It was independently endorsed by the prestigious Cleveland Clinic in the US as the curcumin formulation of choice in the turmeric market. Part of the ginger family, curcumin is sourced from turmeric and has been used for thousands of years in Southeast Asia, China, and India for cooking and medicinal uses. Our Curcumin Phytosome is clinically proven in 35 randomized, double-blind, placebo-controlled, published clinical trials to promote a healthy inflammatory response, boost immune response, and provide relief from exercise-related pain. It works through multiple pathways on multiple targets to provide complete relief throughout the entire body. The extract has been standardized and contains the full bouquet of curcuminoids, not just curcumin (Curcuminoids are polyphenolic pigments and include 77% curcumin, 17% demethoxycurcumin, and 3% bisdemethoxycurcumin). It has been called a “Life Guardian” because it helps control chronic inflammation and boost immune response at any age."
-                ]
-            },
-            {
-                "title": "CARDOON LEAF EXTRACT (CYNARA CARDUNCULUS L. - VARIETY ALTILIS DC. AND SCOLYMUS)",
-                "details": [
+                    "<p>#1 Doctors Recommended and endorsed by Cleveland Clinic.Curcumin Phytosome is the most studied compound curcumin compound in the world. It is the formulation of choice for leading practitioners and their patients. It was independently endorsed by the prestigious Cleveland Clinic in the US as the curcumin formulation of choice in the turmeric market. Part of the ginger family, curcumin is sourced from turmeric and has been used for thousands of years in Southeast Asia, China, and India for cooking and medicinal uses. Our Curcumin Phytosome is clinically proven in 35 randomized, double-blind, placebo-controlled, published clinical trials to promote a healthy inflammatory response, boost immune response, and provide relief from exercise-related pain. It works through multiple pathways on multiple targets to provide complete relief throughout the entire body. The extract has been standardized and contains the full bouquet of curcuminoids, not just curcumin (Curcuminoids are polyphenolic pigments and include 77% curcumin, 17% demethoxycurcumin, and 3% bisdemethoxycurcumin). It has been called a “Life Guardian” because it helps control chronic inflammation and boost immune response at any age.</p>",
+                    "<h3>CARDOON LEAF EXTRACT (CYNARA CARDUNCULUS L. - VARIETY ALTILIS DC. AND SCOLYMUS)</h3>",
                     "Catania, Italy",
-                    "Farmers have grown an artichoke called the Cardoon in Sicily for millennia. Bruno MD scientists discovered that active biophenols and flavonoids from an endemic variety of Cardoon leaf are among the most potent found in nature! Importantly, these compounds inhibit the creation of fatty lipids in the liver. “Secret” health benefits the farmers knew all along!"
+                    "<p>Farmers have grown an artichoke called the Cardoon in Sicily for millennia. Bruno MD scientists discovered that active biophenols and flavonoids from an endemic variety of Cardoon leaf are among the most potent found in nature! Importantly, these compounds inhibit the creation of fatty lipids in the liver. “Secret” health benefits the farmers knew all along!</p>"
                 ]
             }
         ],
@@ -2125,6 +2105,7 @@
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
             "moreInfoBtnText": "Learn more",
             "qtyLabelText": "QTY",
+            "stock":"In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
                 "title": "One time",
@@ -2212,52 +2193,6 @@
                 ]
             },
             {
-                "title": "Additional Info",
-                "details": [
-                    "<p>soon.</p>"
-                ]
-            },
-            {
-                "title": "Pasture Raised",
-                "details": []
-            },
-            {
-                "title": "Paleo Friendly",
-                "details": []
-            },
-            {
-                "title": "Non-GMO",
-                "details": []
-            },
-            {
-                "title": "EU Source",
-                "details": []
-            },
-            {
-                "title": "Low-Carb",
-                "details": []
-            },
-            {
-                "title": "Clinically-proven",
-                "details": []
-            },
-            {
-                "title": "Gluten Free",
-                "details": []
-            },
-            {
-                "title": "Ketosis",
-                "details": []
-            },
-            {
-                "title": "Made in USA",
-                "details": []
-            },
-            {
-                "title": "BioAvailable",
-                "details": []
-            },
-            {
                 "title": "Quality Assurance",
                 "details": [
                     "cGMP Facility"
@@ -2294,20 +2229,13 @@
                 "faq": true
             },
             {
-                "title": "NATURAL VITAMIN C (FROM ASCORBIC ACID)",
+                "title": "Ingredients",
                 "details": [
-                    "Scotland, United Kingdom"
-                ]
-            },
-            {
-                "title": "HIGHLY PURIFIED COLLAGEN PEPTIDES COMPLEX (SPECIFIC COLLAGEN PEPTIDES)",
-                "details": [
-                    "Italy, Germany, Great Britain, other EU countries. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage; so, you’ll move better, and increase bone density; to keep your bones strong."
-                ]
-            },
-            {
-                "title": "RED ORANGE COMPLEX",
-                "details": [
+                    "<h3>NATURAL VITAMIN C (FROM ASCORBIC ACID)</h3>",
+                    "<p>Scotland, United Kingdom</p>",
+                    "<h3>HIGHLY PURIFIED COLLAGEN PEPTIDES COMPLEX (SPECIFIC COLLAGEN PEPTIDES)</h3>",
+                    "<p>Italy, Germany, Great Britain, other EU countries. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage; so, you’ll move better, and increase bone density; to keep your bones strong.</p>",
+                    "<h3>RED ORANGE COMPLEX</h3>",
                     "Sicily, Italy. Red Orange Complex is a standardized extract locally sourced from the juice of three pigmented varieties of Sicilian Blood Orange (Citrus Sinensis - Varieties Moro, Sanguinello, Tarocco) grown on the side of Mt. Etna volcano where climate and soil are perfect for this kind of tree. No one else in the world has access to it. Sicilians call this orange “the ultimate healthy fruit,” but Bruno MD calls it a miracle of Madre Terra."
                 ]
             }
@@ -2403,6 +2331,7 @@
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
             "moreInfoBtnText": "Learn more",
             "qtyLabelText": "QTY",
+            "stock":"In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
                 "title": "One time",
@@ -2533,6 +2462,10 @@
                 ]
             },
             {
+                "title": "Quality Assurance",
+                "details": [ "cGMP Facility" ]
+            },
+            {
                 "title": "FAQs",
                 "details": [
                     {
@@ -2563,35 +2496,20 @@
                 "faq": true
             },
             {
-                "title": "NATURAL VITAMIN C (FROM ASCORBIC ACID)",
+                "title": "Ingredients",
                 "details": [
-                    "Scotland, United Kingdom"
-                ]
-            },
-            {
-                "title": "HIGHLY PURIFIED COLLAGEN PEPTIDES COMPLEX (SPECIFIC COLLAGEN PEPTIDES)",
-                "details": [
-                    "Italy, Germany, Great Britain, other EU countries. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage; so, you’ll move better, and increase bone density; to keep your bones strong."
-                ]
-            },
-            {
-                "title": "RED ORANGE COMPLEX",
-                "details": [
-                    "Sicily, Italy. Red Orange Complex is a standardized extract locally sourced from the juice of three pigmented varieties of Sicilian Blood Orange (Citrus Sinensis - Varieties Moro, Sanguinello, Tarocco) grown on the side of Mt. Etna volcano where climate and soil are perfect for this kind of tree. No one else in the world has access to it. Sicilians call this orange “the ultimate healthy fruit,” but Bruno MD calls it a miracle of Madre Terra."
-                ]
-            },
-            {
-                "title": "HYALURONIC ACID (SODIUM HYALURONATE)",
-                "details": [
+                    "<h3>NATURAL VITAMIN C (FROM ASCORBIC ACID)</h3>",
+                    "<p>Scotland, United Kingdom</p>",
+                    "<h3>HIGHLY PURIFIED COLLAGEN PEPTIDES COMPLEX (SPECIFIC COLLAGEN PEPTIDES)</h3>",
+                    "<p>Italy, Germany, Great Britain, other EU countries. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage; so, you’ll move better, and increase bone density; to keep your bones strong.</p>",
+                    "<h3>RED ORANGE COMPLEX</h3>",
+                    "<p>Sicily, Italy. Red Orange Complex is a standardized extract locally sourced from the juice of three pigmented varieties of Sicilian Blood Orange (Citrus Sinensis - Varieties Moro, Sanguinello, Tarocco) grown on the side of Mt. Etna volcano where climate and soil are perfect for this kind of tree. No one else in the world has access to it. Sicilians call this orange “the ultimate healthy fruit,” but Bruno MD calls it a miracle of Madre Terra.</p>",
+                    "<h3>HYALURONIC ACID (SODIUM HYALURONATE)</h3>",
                     "Japan.",
-                    "Hyaluronic Acid binds water in your skin like a sponge to support long-lasting hydration, and combined with Royal Collagen Peptides and Astaxanthin, it assures the highest level of bioavailability in collagen care."
-                ]
-            },
-            {
-                "title": "NATURAL ASTAXANTHIN EXTRACT (HAEMATOCOCCUS PLUVIALIS) (ALGAE)",
-                "details": [
+                    "<p>Hyaluronic Acid binds water in your skin like a sponge to support long-lasting hydration, and combined with Royal Collagen Peptides and Astaxanthin, it assures the highest level of bioavailability in collagen care.</p>",
+                    "<h3>NATURAL ASTAXANTHIN EXTRACT (HAEMATOCOCCUS PLUVIALIS) (ALGAE)</h3>",
                     "Sweden & Japan.",
-                    "Astaxanthin is the most potent anti-inflammatory known in nature. Natural astaxanthin, has a strong ability to both balance and strengthen the immune system, enhance antibody production, hence improving the defense against inflammation, and outside invaders (pathogens) Astaxanthin can also help reduce high blood pressure, improve heart health, prevent type II diabetes, and decrease the risk of brain damage from a stroke. Over 95% of commercial Astaxanthin is synthetic. Worse, it’s harvested using petrochemicals. Bruno MD Astaxanthin is naturally derived from Haematococcus Pluvialis algae, found in temperate environments around the world to produce the highest concentrations of Astaxanthin with the highest bioavailability."
+                    "<p>Astaxanthin is the most potent anti-inflammatory known in nature. Natural astaxanthin, has a strong ability to both balance and strengthen the immune system, enhance antibody production, hence improving the defense against inflammation, and outside invaders (pathogens) Astaxanthin can also help reduce high blood pressure, improve heart health, prevent type II diabetes, and decrease the risk of brain damage from a stroke. Over 95% of commercial Astaxanthin is synthetic. Worse, it’s harvested using petrochemicals. Bruno MD Astaxanthin is naturally derived from Haematococcus Pluvialis algae, found in temperate environments around the world to produce the highest concentrations of Astaxanthin with the highest bioavailability.</p>"
                 ]
             }
         ],
@@ -2682,6 +2600,7 @@
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
             "moreInfoBtnText": "Learn more",
             "qtyLabelText": "QTY",
+            "stock":"In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
                 "title": "One time",
@@ -2765,48 +2684,8 @@
                 ]
             },
             {
-                "title": "Pasture Raised",
-                "details": []
-            },
-            {
-                "title": "Paleo Friendly",
-                "details": []
-            },
-            {
-                "title": "Non-GMO",
-                "details": []
-            },
-            {
-                "title": "EU Source",
-                "details": []
-            },
-            {
-                "title": "Low-Carb",
-                "details": []
-            },
-            {
-                "title": "Clinically-proven",
-                "details": []
-            },
-            {
-                "title": "Gluten Free",
-                "details": []
-            },
-            {
-                "title": "Ketosis",
-                "details": []
-            },
-            {
-                "title": "Made in USA",
-                "details": []
-            },
-            {
-                "title": "BioAvailable",
-                "details": []
-            },
-            {
                 "title": "Quality Assurance",
-                "details": []
+                "details": ["cGMP Facility"]
             },
             {
                 "title": "FAQs",
@@ -2839,40 +2718,21 @@
                 "faq": true
             },
             {
-                "title": "NATURAL VITAMIN C (FROM ASCORBIC ACID)",
+                "title": "Ingredients",
                 "details": [
-                    "Scotland, United Kingdom"
-                ]
-            },
-            {
-                "title": "HIGHLY PURIFIED COLLAGEN PEPTIDES COMPLEX (SPECIFIC COLLAGEN PEPTIDES)",
-                "details": [
-                    "Italy, Germany, Great Britain, other EU countries. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage; so, you’ll move better, and increase bone density; to keep your bones strong."
-                ]
-            },
-            {
-                "title": "RED ORANGE COMPLEX",
-                "details": [
-                    "Sicily, Italy. Red Orange Complex is a standardized extract locally sourced from the juice of three pigmented varieties of Sicilian Blood Orange (Citrus Sinensis - Varieties Moro, Sanguinello, Tarocco) grown on the side of Mt. Etna volcano where climate and soil are perfect for this kind of tree. No one else in the world has access to it. Sicilians call this orange “the ultimate healthy fruit,” but Bruno MD calls it a miracle of Madre Terra."
-                ]
-            },
-            {
-                "title": "HYALURONIC ACID (SODIUM HYALURONATE)",
-                "details": [
+                    "<h3>NATURAL VITAMIN C (FROM ASCORBIC ACID)</h3>",
+                    "<p>Scotland, United Kingdom</p>",
+                    "<h3>HIGHLY PURIFIED COLLAGEN PEPTIDES COMPLEX (SPECIFIC COLLAGEN PEPTIDES)</h3>",
+                    "<p>Italy, Germany, Great Britain, other EU countries. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage; so, you’ll move better, and increase bone density; to keep your bones strong.</p>",
+                    "<h3>RED ORANGE COMPLEX</h3>",
+                    "<p>Sicily, Italy. Red Orange Complex is a standardized extract locally sourced from the juice of three pigmented varieties of Sicilian Blood Orange (Citrus Sinensis - Varieties Moro, Sanguinello, Tarocco) grown on the side of Mt. Etna volcano where climate and soil are perfect for this kind of tree. No one else in the world has access to it. Sicilians call this orange “the ultimate healthy fruit,” but Bruno MD calls it a miracle of Madre Terra.</p>",
+                    "<h3>HYALURONIC ACID (SODIUM HYALURONATE)</h3>",
                     "Japan.",
-                    "Hyaluronic Acid binds water in your skin like a sponge to support long-lasting hydration, and combined with Royal Collagen Peptides and Astaxanthin, it assures the highest level of bioavailability in collagen care."
-                ]
-            },
-            {
-                "title": "NATURAL ASTAXANTHIN EXTRACT (HAEMATOCOCCUS PLUVIALIS) (ALGAE)",
-                "details": [
+                    "<p>Hyaluronic Acid binds water in your skin like a sponge to support long-lasting hydration, and combined with Royal Collagen Peptides and Astaxanthin, it assures the highest level of bioavailability in collagen care.</p>",
+                    "<h3>NATURAL ASTAXANTHIN EXTRACT (HAEMATOCOCCUS PLUVIALIS) (ALGAE)</h3>",
                     "Sweden & Japan.",
-                    "Astaxanthin is the most potent anti-inflammatory known in nature. Natural astaxanthin, has a strong ability to both balance and strengthen the immune system, enhance antibody production, hence improving the defense against inflammation, and outside invaders (pathogens) Astaxanthin can also help reduce high blood pressure, improve heart health, prevent type II diabetes, and decrease the risk of brain damage from a stroke. Over 95% of commercial Astaxanthin is synthetic. Worse, it’s harvested using petrochemicals. Bruno MD Astaxanthin is naturally derived from Haematococcus Pluvialis algae, found in temperate environments around the world to produce the highest concentrations of Astaxanthin with the highest bioavailability."
+                    "<p>Astaxanthin is the most potent anti-inflammatory known in nature. Natural astaxanthin, has a strong ability to both balance and strengthen the immune system, enhance antibody production, hence improving the defense against inflammation, and outside invaders (pathogens) Astaxanthin can also help reduce high blood pressure, improve heart health, prevent type II diabetes, and decrease the risk of brain damage from a stroke. Over 95% of commercial Astaxanthin is synthetic. Worse, it’s harvested using petrochemicals. Bruno MD Astaxanthin is naturally derived from Haematococcus Pluvialis algae, found in temperate environments around the world to produce the highest concentrations of Astaxanthin with the highest bioavailability.</p>"
                 ]
-            },
-            {
-                "title": "Blog",
-                "details": []
             }
         ],
         "ProductTrustBadges": [
@@ -2999,7 +2859,7 @@
         ],
         "declaimer": {
             "title": "<h1>Royal Collagen Peptides Beauty From Within Dragon Fruit</h1>",
-            "subTitle": "<strong>Royal Collagen Peptides Beauty From Within Dragon Fruit 20 Units 20 Units/strong>",
+            "subTitle": "<strong>Royal Collagen Peptides Beauty From Within Dragon Fruit 20 Units 20 Units</strong>",
             "content": "<p>The only prescription-grade supplement which contains ingredients that enhance the immune system response and support the whole body’s healthy inflammation response.</p>"
         },
         "priceBox": {
@@ -3010,6 +2870,7 @@
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
             "moreInfoBtnText": "Learn more",
             "qtyLabelText": "QTY",
+            "stock":"In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
                 "title": "One time",
@@ -3127,35 +2988,24 @@
                 "faq": true
             },
             {
-                "title": "NATURAL VITAMIN C (FROM ASCORBIC ACID)",
-                "details": [
-                    "Scotland, United Kingdom"
-                ]
+                "title":"Quality Assurance",
+                "details":["cGMP Facility"]
             },
             {
-                "title": "HIGHLY PURIFIED COLLAGEN PEPTIDES COMPLEX (SPECIFIC COLLAGEN PEPTIDES)",
+                "title": "Ingredients",
                 "details": [
-                    "Italy, Germany, Great Britain, other EU countries. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage; so, you’ll move better, and increase bone density; to keep your bones strong."
-                ]
-            },
-            {
-                "title": "RED ORANGE COMPLEX",
-                "details": [
-                    "Sicily, Italy. Red Orange Complex is a standardized extract locally sourced from the juice of three pigmented varieties of Sicilian Blood Orange (Citrus Sinensis - Varieties Moro, Sanguinello, Tarocco) grown on the side of Mt. Etna volcano where climate and soil are perfect for this kind of tree. No one else in the world has access to it. Sicilians call this orange “the ultimate healthy fruit,” but Bruno MD calls it a miracle of Madre Terra."
-                ]
-            },
-            {
-                "title": "HYALURONIC ACID (SODIUM HYALURONATE)",
-                "details": [
+                    "<h3>NATURAL VITAMIN C (FROM ASCORBIC ACID)</h3>",
+                    "<p>Scotland, United Kingdom</p>",
+                    "<h3>HIGHLY PURIFIED COLLAGEN PEPTIDES COMPLEX (SPECIFIC COLLAGEN PEPTIDES)</h3>",
+                    "<p>Italy, Germany, Great Britain, other EU countries. Our Specific Collagen Peptides are a breakthrough because they are proven to stimulate the creation of new collagen at any age! The benefits are astonishing: improved skin texture, glow, and elasticity, more youthful hair with renewed luster and bounce and stronger nails. The advantages are not merely cosmetic. Specific Collagen Peptides increase collagen levels throughout the body to restore cartilage; so, you’ll move better, and increase bone density; to keep your bones strong.</p>",
+                    "<h3>RED ORANGE COMPLEX</h3>",
+                    "<p>Sicily, Italy. Red Orange Complex is a standardized extract locally sourced from the juice of three pigmented varieties of Sicilian Blood Orange (Citrus Sinensis - Varieties Moro, Sanguinello, Tarocco) grown on the side of Mt. Etna volcano where climate and soil are perfect for this kind of tree. No one else in the world has access to it. Sicilians call this orange “the ultimate healthy fruit,” but Bruno MD calls it a miracle of Madre Terra.</p>",
+                    "<h3>HYALURONIC ACID (SODIUM HYALURONATE)</h3>",
                     "Japan.",
-                    "Hyaluronic Acid binds water in your skin like a sponge to support long-lasting hydration, and combined with Royal Collagen Peptides and Astaxanthin, it assures the highest level of bioavailability in collagen care."
-                ]
-            },
-            {
-                "title": "NATURAL ASTAXANTHIN EXTRACT (HAEMATOCOCCUS PLUVIALIS) (ALGAE)",
-                "details": [
+                    "<p>Hyaluronic Acid binds water in your skin like a sponge to support long-lasting hydration, and combined with Royal Collagen Peptides and Astaxanthin, it assures the highest level of bioavailability in collagen care.</p>",
+                    "<h3>NATURAL ASTAXANTHIN EXTRACT (HAEMATOCOCCUS PLUVIALIS) (ALGAE)</h3>",
                     "Sweden & Japan.",
-                    "Astaxanthin is the most potent anti-inflammatory known in nature. Natural astaxanthin, has a strong ability to both balance and strengthen the immune system, enhance antibody production, hence improving the defense against inflammation, and outside invaders (pathogens) Astaxanthin can also help reduce high blood pressure, improve heart health, prevent type II diabetes, and decrease the risk of brain damage from a stroke. Over 95% of commercial Astaxanthin is synthetic. Worse, it’s harvested using petrochemicals. Bruno MD Astaxanthin is naturally derived from Haematococcus Pluvialis algae, found in temperate environments around the world to produce the highest concentrations of Astaxanthin with the highest bioavailability."
+                    "<p>Astaxanthin is the most potent anti-inflammatory known in nature. Natural astaxanthin, has a strong ability to both balance and strengthen the immune system, enhance antibody production, hence improving the defense against inflammation, and outside invaders (pathogens) Astaxanthin can also help reduce high blood pressure, improve heart health, prevent type II diabetes, and decrease the risk of brain damage from a stroke. Over 95% of commercial Astaxanthin is synthetic. Worse, it’s harvested using petrochemicals. Bruno MD Astaxanthin is naturally derived from Haematococcus Pluvialis algae, found in temperate environments around the world to produce the highest concentrations of Astaxanthin with the highest bioavailability.</p>"
                 ]
             }
         ],
@@ -3277,6 +3127,7 @@
             "defaultQtyMultiplayer": 30,
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
             "moreInfoBtnText": "Learn more",
+            "stock":"In stock",
             "qtyLabelText": "QTY",
             "freqLabelText": "Delivery every",
             "oneTime": {
@@ -3363,6 +3214,10 @@
                 ]
             },
             {
+                "title":"Quality Assurance",
+                "details":["cGMP Facility"]
+            },
+            {
                 "title": "FAQs",
                 "details": [
                     {
@@ -3397,38 +3252,23 @@
                 "faq": true
             },
             {
-                "title": "NATURAL VITAMIN E (D-ALPHA TOCOPHERYL SUCCINATE)",
+                "title": "Ingredients",
                 "details": [
+                    "<h3>NATURAL VITAMIN E (D-ALPHA TOCOPHERYL SUCCINATE)</h3>",
                     "Scotland",
-                    "A select type of natural and pure Vitamin E, shown to help neutralize oxidative damage that leads to age-related vision problems. Has shown to help subjects with moderate age-related macular degeneration. The nutrients reduced the risk of developing advanced age-related macular degeneration by 25% for subjects who already demonstrated evidence of early signs of macular degeneration."
-                ]
-            },
-            {
-                "title": "BILBERRY (VACCINIUM MYRTILLUS FRUIT EXTRACT)",
-                "details": [
+                    "<p>A select type of natural and pure Vitamin E, shown to help neutralize oxidative damage that leads to age-related vision problems. Has shown to help subjects with moderate age-related macular degeneration. The nutrients reduced the risk of developing advanced age-related macular degeneration by 25% for subjects who already demonstrated evidence of early signs of macular degeneration.</p>",
+                    "<h3>BILBERRY (VACCINIUM MYRTILLUS FRUIT EXTRACT)</h3>",
                     "United Kingdom",
-                    "Our Bilberry Fruit extract packs a potent compound of plant pigments called anthocyanins shown to promote healthy tear secretion, improve vision, increase retinal sensitivity (night vision!), and may help prevent common eye issues as we mature."
-                ]
-            },
-            {
-                "title": "DOCOSAHEXAENOIC ACID (DHA)",
-                "details": [
+                    "<p>Our Bilberry Fruit extract packs a potent compound of plant pigments called anthocyanins shown to promote healthy tear secretion, improve vision, increase retinal sensitivity (night vision!), and may help prevent common eye issues as we mature.</p>",
+                    "<h3>DOCOSAHEXAENOIC ACID (DHA)</h3>",
                     "United States of America",
-                    "Docosahexaenoic acid, or DHA, is a polyunsaturated omega-3 fatty acid (PUFA) found throughout the body. It is a major structural fat found in the brain and eye accounting for up to 97% of the total omega-3 fats in the brain and up to 93% of the omega-3 fats in a specific part of the eye, called the retina. It is also a key component of the heart. Numerous research studies confirm that everyone, from infants to adults to the elderly, can benefit from a regular intake of dietary DHA. DHA accounts for up to 97% of the total omega-3 fats in the brain. Our DHA is a nutritional oil derived from the marine alga, Schizochytrium sp., a rich source of Omega-3 docosahexaenoic acid (DHA) with rosemary extract (flavoring). It is vegetarian and provides important brain, eye, and heart health benefits. It contributes to the maintenance of normal vision."
-                ]
-            },
-            {
-                "title": "LUTEIN AND ZEAXANTHIN (TAGETES ERECTA FLOWER EXTRACT)",
-                "details": [
+                    "<p>Docosahexaenoic acid, or DHA, is a polyunsaturated omega-3 fatty acid (PUFA) found throughout the body. It is a major structural fat found in the brain and eye accounting for up to 97% of the total omega-3 fats in the brain and up to 93% of the omega-3 fats in a specific part of the eye, called the retina. It is also a key component of the heart. Numerous research studies confirm that everyone, from infants to adults to the elderly, can benefit from a regular intake of dietary DHA. DHA accounts for up to 97% of the total omega-3 fats in the brain. Our DHA is a nutritional oil derived from the marine alga, Schizochytrium sp., a rich source of Omega-3 docosahexaenoic acid (DHA) with rosemary extract (flavoring). It is vegetarian and provides important brain, eye, and heart health benefits. It contributes to the maintenance of normal vision.</p>",
+                    "<h3>LUTEIN AND ZEAXANTHIN (TAGETES ERECTA FLOWER EXTRACT)</h3>",
                     "United States of America",
-                    "Our Lutein & Zeaxanthin combo is clinically proven to protect the back of your eyes. These all-natural compounds are harvested from marigold flowers and dramatically increase the macular pigments critical to filtering harmful blue light before it can damage your retina. Lutein & Zeaxanthin are clinically proven partners to help reduce the progression of certain eye issues throughout our lives."
-                ]
-            },
-            {
-                "title": "NATURAL ASTAXANTHIN EXTRACT (HAEMATOCOCCUS PLUVIALIS) (ALGAE)",
-                "details": [
+                    "<p>Our Lutein & Zeaxanthin combo is clinically proven to protect the back of your eyes. These all-natural compounds are harvested from marigold flowers and dramatically increase the macular pigments critical to filtering harmful blue light before it can damage your retina. Lutein & Zeaxanthin are clinically proven partners to help reduce the progression of certain eye issues throughout our lives.</p>",
+                    "<h3>NATURAL ASTAXANTHIN EXTRACT (HAEMATOCOCCUS PLUVIALIS) (ALGAE)</h3>",
                     "Sweden & Japan",
-                    "Our Astaxanthin is clinically proven to help shield the front of your eyes: it’s nature’s most potent antioxidant-sourced from special algae found in temperate regions around the world. Astaxanthin protects your eyes against free radicals generated by UV radiation and actually strengthens eye muscles to reduce eye fatigue that contributes to Computer Vision Syndrome."
+                    "<p>Our Astaxanthin is clinically proven to help shield the front of your eyes: it’s nature’s most potent antioxidant-sourced from special algae found in temperate regions around the world. Astaxanthin protects your eyes against free radicals generated by UV radiation and actually strengthens eye muscles to reduce eye fatigue that contributes to Computer Vision Syndrome.</p>"
                 ]
             }
         ],
