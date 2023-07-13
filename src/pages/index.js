@@ -3,7 +3,7 @@ import React from 'react'
 import MarkqueCarousel from '@/utilities/MarkqueCarousel'
 import { WistiaHero } from '@/utilities/WistiaHero'
 import Cards from '@/utilities/CategoriesCards'
-import TrustBadge from '@/utilities/TrustBadges'``
+import TrustBadge from '@/utilities/TrustBadges'
 import Purpose from '@/utilities/Purpose'
 import { HomeGallery } from '@/utilities/HomeGallery'
 import { NewsLetter } from '@/utilities/NewsLetter'
