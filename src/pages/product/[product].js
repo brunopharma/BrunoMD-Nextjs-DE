@@ -15,6 +15,7 @@ import Loader2 from "@/utilities/Loader/index2";
 import ProductReviews from "@/utilities/ProductReviews";
 import FourStepProcess from "@/utilities/FourStepProcess";
 import ProductTrustBadges from "@/utilities/ProductTrustBadges";
+import Testimonial from "@/utilities/Testimonial";
 
 const Product = ({version}) => {
     const [load, setLoad] = useState(true)
@@ -34,7 +35,8 @@ const Product = ({version}) => {
         });
     }
     // const products = getAllProducts();
-    const {title, details, newsletter,fourStepProcess, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price, seo } = product || {}
+    const {title, details, newsletter,fourStepProcess, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price, seo, testimonial } = product || {}
+    console.log({testimonial});
     useEffect( () => {
         let url = window.location.href;
         let splitUrl = url.split('/product/');
@@ -68,6 +70,7 @@ const Product = ({version}) => {
             {fourStepProcess?.content &&<FourStepProcess processCards={fourStepProcess.content} theme={theme} header={fourStepProcess.title} buttonTittle={fourStepProcess.buttonTittle} stepAlignment={fourStepProcess.stepAlignment}/>}
             <TrustBadge contents={TrustBadgeData[version]} productColorTheme={theme}/>
             <MarkqueCarousel image={PatnerData} />
+            {testimonial && <Testimonial content={{ slides: testimonial, theme: theme }}/>}
             <NewsLetter content={newsletter} />
             <ProductReviews variantId={EXTERNALID} />
         </section>

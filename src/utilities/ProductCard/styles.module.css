@@ -34,7 +34,7 @@
   grid-gap: 1.5rem;
 }
 .purchaseBoxHolder{
-  max-width: 380px;
+  max-width: 410px;
 }
 @media (max-width: 1024px) {
   .productCard{

@@ -23,7 +23,7 @@
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
             "freqLabelText": "Consegna ogni",
-            "stock":"Disponibilita' immediata.",
+            "stock": "Disponibilita' immediata.",
             "oneTime": {
                 "title": "Acquisto singolo",
                 "btnText": "Aggiungi al carrello"
@@ -32,8 +32,8 @@
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
                 "interval": "giorni",
-                "saveLabel":"Risparmia subito",
-                "extraLabel":"acquisto periodico"
+                "saveLabel": "Risparmia subito",
+                "extraLabel": "acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -198,7 +198,7 @@
             "defaultQtyMultiplayer": 30,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Bustine",
-            "stock":"Disponibilita' immediata.",
+            "stock": "Disponibilita' immediata.",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
@@ -211,8 +211,8 @@
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
                 "interval": "giorni",
-                "saveLabel":"Risparmia subito",
-                "extraLabel":"acquisto periodico"
+                "saveLabel": "Risparmia subito",
+                "extraLabel": "acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -401,7 +401,7 @@
             "defaultQtyMultiplayer": 1,
             "qtyMultiplierShowOnExtraDesc": false,
             "qtyExtraDesc": "Flacone 10ml",
-            "stock":"Disponibilita' immediata.",
+            "stock": "Disponibilita' immediata.",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
@@ -414,8 +414,8 @@
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
                 "interval": "giorni",
-                "saveLabel":"Risparmia subito",
-                "extraLabel":"acquisto periodico"
+                "saveLabel": "Risparmia subito",
+                "extraLabel": "acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -600,7 +600,7 @@
             "defaultQtyMultiplayer": 30,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Bustine",
-            "stock":"Disponibilita' immediata.",
+            "stock": "Disponibilita' immediata.",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
@@ -613,8 +613,8 @@
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
                 "interval": "giorni",
-                "saveLabel":"Risparmia subito",
-                "extraLabel":"acquisto periodico"
+                "saveLabel": "Risparmia subito",
+                "extraLabel": "acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -784,7 +784,7 @@
             "defaultQtyMultiplayer": 20,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Bustine",
-            "stock":"Disponibilita' immediata.",
+            "stock": "Disponibilita' immediata.",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
@@ -797,8 +797,8 @@
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
                 "interval": "giorni",
-                "saveLabel":"Risparmia subito",
-                "extraLabel":"acquisto periodico"
+                "saveLabel": "Risparmia subito",
+                "extraLabel": "acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -968,7 +968,7 @@
             "defaultQtyMultiplayer": 25,
             "qtyMultiplierShowOnExtraDesc": false,
             "qtyExtraDesc": "compresse",
-            "stock":"Disponibilita' immediata.",
+            "stock": "Disponibilita' immediata.",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
@@ -981,8 +981,8 @@
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
                 "interval": "giorni",
-                "saveLabel":"Risparmia subito",
-                "extraLabel":"acquisto periodico"
+                "saveLabel": "Risparmia subito",
+                "extraLabel": "acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -1152,7 +1152,7 @@
             "defaultQtyMultiplayer": 15,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "compresse",
-            "stock":"Disponibilita' immediata.",
+            "stock": "Disponibilita' immediata.",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
@@ -1165,8 +1165,8 @@
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
                 "interval": "giorni",
-                "saveLabel":"Risparmia subito",
-                "extraLabel":"acquisto periodico"
+                "saveLabel": "Risparmia subito",
+                "extraLabel": "acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -1336,7 +1336,7 @@
             "defaultQtyMultiplayer": 1,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "tubo crema gel 50 ml",
-            "stock":"Disponibilita' immediata.",
+            "stock": "Disponibilita' immediata.",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
@@ -1349,8 +1349,8 @@
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
                 "interval": "giorni",
-                "saveLabel":"Risparmia subito",
-                "extraLabel":"acquisto periodico"
+                "saveLabel": "Risparmia subito",
+                "extraLabel": "acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -1520,7 +1520,7 @@
             "defaultQtyMultiplayer": 14,
             "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Garze Monouso",
-            "stock":"Disponibilita' immediata.",
+            "stock": "Disponibilita' immediata.",
             "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Quantita'",
@@ -1533,8 +1533,8 @@
                 "title": "Acquisto periodico",
                 "btnText": "Acquisto periodico",
                 "interval": "giorni",
-                "saveLabel":"Risparmia subito",
-                "extraLabel":"acquisto periodico"
+                "saveLabel": "Risparmia subito",
+                "extraLabel": "acquisto periodico"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
@@ -1682,24 +1682,27 @@
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
             "moreInfoBtnText": "Learn more",
             "qtyLabelText": "QTY",
-            "stock":"In stock",
+            "stock": "In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
-                "title": "One time",
+                "title": "One time Purchase",
                 "btnText": "Add to cart"
             },
             "subscribe": {
-                "title": "Subscribe",
+                "title": "Subscribe & Save",
                 "btnText": "Subscribe",
                 "interval": "Days",
-                "saveLabel":"SUBSCRIBE & SAVE",
-                "extraLabel":null
+                "saveLabel": "Save",
+                "extraLabel": "With subscription"
             },
             "moneyBackInfo": {
-                "title": "HOW SUBSCRIBE & SAVE WORKS",
+                "title": "100% Satisfaction 30-Day money back guarantee",
                 "desc": "30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
             },
-            "termPurchase": null
+            "termPurchase": {
+                "title": null,
+                "desc": "There is no commitment and no minimum to buy. Please note exact shipment times may vary. To customize future shipments and changes, access your account in the Bruno MD portal, or email customer care department at customercare@brunopharma.com."
+            }
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -1774,7 +1777,9 @@
             },
             {
                 "title": "Quality Assurance",
-                "details": [ "cGMP Facility" ]
+                "details": [
+                    "cGMP Facility"
+                ]
             },
             {
                 "title": "FAQs",
@@ -1849,6 +1854,71 @@
                 "src": "\\utility\\trust\\BioAvailable-icon-v1-Black-300x300.png"
             }
         ],
+        "testimonial": [
+            {
+                "title": "“I exercise a lot and so I tend to get a lot of muscle and joint pain. My goal in taking Riboflam is to not have to take so many over the counter pain medicines.”",
+                "author": "Brittany A.",
+                "video": {
+                    "src": "\\testimonial\\riboflam\\Brittany Ardito_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“I find it an essential part of my self-care routine to keep myself nice and well, so that if something does happen, if can handle it much better.”",
+                "author": "Jennifer W.",
+                "video": {
+                    "src": "\\testimonial\\riboflam\\Jennifer Wakamulo_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“Working out is great, but having sore muscles afterwards isn’t that fun. And this little guy here helps you reduce inflammation which means a faster recovery from your workouts.”",
+                "author": "Camila F.",
+                "video": {
+                    "src": "\\testimonial\\riboflam\\Camila Flaeschen_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“You really need to do the research of what you are putting into your body. Look for things coming from cuttable sources. And that is why I am obsessed with Bruno MD.”",
+                "author": "Megan Q.",
+                "video": {
+                    "src": "\\testimonial\\riboflam\\Megan Quist_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“It’s jampacked with lots of amazing ingredients.”",
+                "author": "Michael M",
+                "video": {
+                    "src": "\\testimonial\\riboflam\\Michael Munzer_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“After gardening I used to feel miserable because of aching joints and soreness, not anymore, since I’ve been taking Riboflam.”",
+                "author": "Taty H.",
+                "video": {
+                    "src": "\\testimonial\\riboflam\\Taty Harris_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“It really helps with muscle pain, it relieves it!”",
+                "author": "Alexandra U.",
+                "video": {
+                    "src": "\\testimonial\\riboflam\\Alejandra Urrego_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“This product does so many good things for your body and has helped me with soreness after workouts.”",
+                "author": "Karissa H",
+                "video": {
+                    "src": "\\testimonial\\riboflam\\Karissa Hegenmeister_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“My family is genetically very predisposed to inflammation. I’m always really conscience of treating inflammation. I really love this supplement.”",
+                "author": "Ashley K.",
+                "video": {
+                    "src": "\\testimonial\\riboflam\\Ashley Kuzinski_SQUARE.mp4"
+                }
+            }
+        ],
         "seo": {
             "title": "Riboflam | Inflammation & Immunity Supplement | Bruno MD",
             "description": "Bruno MD Riboflam is shown to improve immune system health &amp; decrease pain caused by exercise, containing nucleotides complex, astaxanthin and curcumin."
@@ -1892,24 +1962,27 @@
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
             "moreInfoBtnText": "Learn more",
             "qtyLabelText": "QTY",
-            "stock":"In stock",
+            "stock": "In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
-                "title": "One time",
+                "title": "One time Purchase",
                 "btnText": "Add to cart"
             },
             "subscribe": {
-                "title": "Subscribe",
+                "title": "Subscribe & Save",
                 "btnText": "Subscribe",
                 "interval": "Days",
-                "saveLabel":"SUBSCRIBE & SAVE",
-                "extraLabel":null
+                "saveLabel": "Save",
+                "extraLabel": "With subscription"
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
                 "desc": "30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
             },
-            "termPurchase": null
+            "termPurchase": {
+                "title": null,
+                "desc": "There is no commitment and no minimum to buy. Please note exact shipment times may vary. To customize future shipments and changes, access your account in the Bruno MD portal, or email customer care department at customercare@brunopharma.com."
+            }
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -1979,7 +2052,9 @@
             },
             {
                 "title": "Quality Assurance",
-                "details": [ "cGMP Facility" ]
+                "details": [
+                    "cGMP Facility"
+                ]
             },
             {
                 "title": "FAQs",
@@ -2105,24 +2180,27 @@
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
             "moreInfoBtnText": "Learn more",
             "qtyLabelText": "QTY",
-            "stock":"In stock",
+            "stock": "In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
-                "title": "One time",
+                "title": "One time Purchase",
                 "btnText": "Add to cart"
             },
             "subscribe": {
-                "title": "Subscribe",
+                "title": "Subscribe & Save",
                 "btnText": "Subscribe",
                 "interval": "Days",
-                "saveLabel":"SUBSCRIBE & SAVE",
-                "extraLabel":null
+                "saveLabel": "Save",
+                "extraLabel": "With subscription"
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
                 "desc": "30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
             },
-            "termPurchase": null
+            "termPurchase": {
+                "title": null,
+                "desc": "There is no commitment and no minimum to buy. Please note exact shipment times may vary. To customize future shipments and changes, access your account in the Bruno MD portal, or email customer care department at customercare@brunopharma.com. "
+            }
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -2272,6 +2350,43 @@
                 "src": "\\utility\\trust\\BioAvailable-icon-v1-Black-300x300.png"
             }
         ],
+        "testimonial": [
+            {
+                "title": "“I can tell my skin looks younger.”",
+                "author": "Kimberly P.",
+                "video": {
+                    "src": "\\testimonial\\rcp\\Kimberly P_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“It has helped my hair growth and my hairdresser even commented on how quickly my hair was growing.”",
+                "author": "Summer F.",
+                "video": {
+                    "src": "\\testimonial\\rcp\\Summer F_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“Everything by this company is backed by so much clinical research which makes me feel good & confident about taking it. It’s a great all-round brand.”",
+                "author": "Devon K.",
+                "video": {
+                    "src": "\\testimonial\\rcp\\Devon K_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“I have seen great results, drinking it on a daily basis.”",
+                "author": "Rowela A.",
+                "video": {
+                    "src": "\\testimonial\\rcp\\Rowela A_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“I will keep using it, for sure, to continue see the benefits”",
+                "author": "Christine L.",
+                "video": {
+                    "src": "\\testimonial\\rcp\\Christine L_SQUARE.mp4"
+                }
+            }
+        ],
         "seo": {
             "title": "BrunoMD | Royal Collagen Peptides",
             "description": "Royal Collagen Peptides: a 5-in-1 dietary supplement clinically proven to help improve Skin, Hair, Nails, Joint, and Bone Health."
@@ -2302,20 +2417,20 @@
                 "alt": ""
             },
             {
-                "src":"\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01452NR.png",
-                "alt":""
+                "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01452NR.png",
+                "alt": ""
             },
             {
-                "src":"\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01481NR.png",
-                "alt":""
+                "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01481NR.png",
+                "alt": ""
             },
             {
-                "src":"\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01101NR.png",
-                "alt":""
+                "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01101NR.png",
+                "alt": ""
             },
             {
-                "src":"\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01102NR.png",
-                "alt":""
+                "src": "\\utility\\products\\rcp-strawberry\\RCP-SP-Strawberry Acai-01102NR.png",
+                "alt": ""
             }
         ],
         "declaimer": {
@@ -2331,24 +2446,27 @@
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
             "moreInfoBtnText": "Learn more",
             "qtyLabelText": "QTY",
-            "stock":"In stock",
+            "stock": "In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
-                "title": "One time",
+                "title": "One time Purchase",
                 "btnText": "Add to cart"
             },
             "subscribe": {
-                "title": "Subscribe",
+                "title": "Subscribe & Save",
                 "btnText": "Subscribe",
                 "interval": "Days",
-                "saveLabel":"SUBSCRIBE & SAVE",
-                "extraLabel":null
+                "saveLabel": "Save",
+                "extraLabel": "With subscription"
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
                 "desc": "30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
             },
-            "termPurchase": null
+            "termPurchase": {
+                "title": null,
+                "desc": "There is no commitment and no minimum to buy. Please note exact shipment times may vary. To customize future shipments and changes, access your account in the Bruno MD portal, or email customer care department at customercare@brunopharma.com. "
+            }
         },
         "fourStepProcess": {
             "title": "Our Four-Step Process",
@@ -2463,7 +2581,9 @@
             },
             {
                 "title": "Quality Assurance",
-                "details": [ "cGMP Facility" ]
+                "details": [
+                    "cGMP Facility"
+                ]
             },
             {
                 "title": "FAQs",
@@ -2545,6 +2665,64 @@
                 "src": "\\utility\\trust\\BioAvailable-icon-v1-Black-300x300.png"
             }
         ],
+        "testimonial": [
+            {
+                "title": "“One of my best kept beauty secrets is adding Royal Collagen Peptides to my beverages every single day.”",
+                "author": "Ashely C.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Ashley Cummings_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“Bruno MDs Royal Collagen Peptides ‘go packets’ are a gamechanger.”",
+                "author": "Stephanie M.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Stephanie Mills_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“I take it every day because it’s great for my skin, hair and nails.”",
+                "author": "Camila F.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Camila Flaeschen_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“If you are not taking collagen, you need it in your life.”",
+                "author": "Liz L.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\LIz L Square.mp4"
+                }
+            },
+            {
+                "title": "“I have already seen great benefits.”",
+                "author": "Nikki Fika",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Nikki Fika Square.mp4"
+                }
+            },
+            {
+                "title": "“It’s ready for me on the go when I need it.”",
+                "author": "Mariah M.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Mariah M Square.mp4"
+                }
+            },
+            {
+                "title": "“I pour one packet of collagen peptides into water every night.”",
+                "author": "Carla O.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Carla O Square.mp4"
+                }
+            },
+            {
+                "title": "“Working in a Co-vid positive facility ruined my skin and nails due to the constant sanitizing. After using Royal Collagen Peptides my skin looks clean and fully hydrated and my nails are no longer brittle.”",
+                "author": "India F.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\India F Square.mp4"
+                }
+            }
+        ],
         "seo": {
             "title": "Royal Collagen Peptides Stick Packs | Strawberry Acai",
             "description": "Beauty from Within® Strawberry Acai Stick Packs with clinically proven Royal Collagen Peptides® is a 6-in-1 daily beauty boost."
@@ -2600,24 +2778,27 @@
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
             "moreInfoBtnText": "Learn more",
             "qtyLabelText": "QTY",
-            "stock":"In stock",
+            "stock": "In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
-                "title": "One time",
+                "title": "One time Purchase",
                 "btnText": "Add to cart"
             },
             "subscribe": {
-                "title": "Subscribe",
+                "title": "Subscribe & Save",
                 "btnText": "Subscribe",
                 "interval": "Days",
-                "saveLabel":"SUBSCRIBE & SAVE",
-                "extraLabel":null
+                "saveLabel": "Save",
+                "extraLabel": "With subscription"
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
                 "desc": "30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
             },
-            "termPurchase": null
+            "termPurchase": {
+                "title": null,
+                "desc": "There is no commitment and no minimum to buy. Please note exact shipment times may vary. To customize future shipments and changes, access your account in the Bruno MD portal, or email customer care department at customercare@brunopharma.com."
+            }
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -2685,7 +2866,9 @@
             },
             {
                 "title": "Quality Assurance",
-                "details": ["cGMP Facility"]
+                "details": [
+                    "cGMP Facility"
+                ]
             },
             {
                 "title": "FAQs",
@@ -2811,6 +2994,64 @@
                 }
             ]
         },
+        "testimonial": [
+            {
+                "title": "“One of my best kept beauty secrets is adding Royal Collagen Peptides to my beverages every single day.”",
+                "author": "Ashely C.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Ashley Cummings_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“Bruno MDs Royal Collagen Peptides ‘go packets’ are a gamechanger.”",
+                "author": "Stephanie M.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Stephanie Mills_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“I take it every day because it’s great for my skin, hair and nails.”",
+                "author": "Camila F.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Camila Flaeschen_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“If you are not taking collagen, you need it in your life.”",
+                "author": "Liz L.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\LIz L Square.mp4"
+                }
+            },
+            {
+                "title": "“I have already seen great benefits.”",
+                "author": "Nikki Fika",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Nikki Fika Square.mp4"
+                }
+            },
+            {
+                "title": "“It’s ready for me on the go when I need it.”",
+                "author": "Mariah M.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Mariah M Square.mp4"
+                }
+            },
+            {
+                "title": "“I pour one packet of collagen peptides into water every night.”",
+                "author": "Carla O.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Carla O Square.mp4"
+                }
+            },
+            {
+                "title": "“Working in a Co-vid positive facility ruined my skin and nails due to the constant sanitizing. After using Royal Collagen Peptides my skin looks clean and fully hydrated and my nails are no longer brittle.”",
+                "author": "India F.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\India F Square.mp4"
+                }
+            }
+        ],
         "seo": {
             "title": "Royal Collagen Peptides Stick Packs | Blood Orange",
             "description": "Beauty from Within® Blood Orange Stick Packs with clinically proven Royal Collagen Peptides® is a 6-in-1 daily beauty boost."
@@ -2841,20 +3082,20 @@
                 "alt": ""
             },
             {
-                "src":"\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01482NR.png",
-                "alt":""
+                "src": "\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01482NR.png",
+                "alt": ""
             },
             {
-                "src":"\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01223NR.png",
-                "alt":""
+                "src": "\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01223NR.png",
+                "alt": ""
             },
             {
-                "src":"\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01115NR.png",
-                "alt":""
+                "src": "\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01115NR.png",
+                "alt": ""
             },
             {
-                "src":"\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01114NR.png",
-                "alt":""
+                "src": "\\utility\\products\\rcp-dragon\\RCP-SP-Dragonfruit-01114NR.png",
+                "alt": ""
             }
         ],
         "declaimer": {
@@ -2870,24 +3111,27 @@
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
             "moreInfoBtnText": "Learn more",
             "qtyLabelText": "QTY",
-            "stock":"In stock",
+            "stock": "In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
-                "title": "One time",
+                "title": "One time Purchase",
                 "btnText": "Add to cart"
             },
             "subscribe": {
-                "title": "Subscribe",
+                "title": "Subscribe & Save",
                 "btnText": "Subscribe",
                 "interval": "Days",
-                "saveLabel":"SUBSCRIBE & SAVE",
-                "extraLabel":null
+                "saveLabel": "Save",
+                "extraLabel": "With subscription"
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
                 "desc": "30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
             },
-            "termPurchase": null
+            "termPurchase": {
+                "title": null,
+                "desc": "There is no commitment and no minimum to buy. Please note exact shipment times may vary. To customize future shipments and changes, access your account in the Bruno MD portal, or email customer care department at customercare@brunopharma.com."
+            }
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -2988,8 +3232,10 @@
                 "faq": true
             },
             {
-                "title":"Quality Assurance",
-                "details":["cGMP Facility"]
+                "title": "Quality Assurance",
+                "details": [
+                    "cGMP Facility"
+                ]
             },
             {
                 "title": "Ingredients",
@@ -3085,6 +3331,64 @@
                 "src": "\\utility\\trust\\Made-In-USA-Icon-V1-Black.png"
             }
         ],
+        "testimonial": [
+            {
+                "title": "“One of my best kept beauty secrets is adding Royal Collagen Peptides to my beverages every single day.”",
+                "author": "Ashely C.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Ashley Cummings_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“Bruno MDs Royal Collagen Peptides ‘go packets’ are a gamechanger.”",
+                "author": "Stephanie M.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Stephanie Mills_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“I take it every day because it’s great for my skin, hair and nails.”",
+                "author": "Camila F.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Camila Flaeschen_SQUARE.mp4"
+                }
+            },
+            {
+                "title": "“If you are not taking collagen, you need it in your life.”",
+                "author": "Liz L.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\LIz L Square.mp4"
+                }
+            },
+            {
+                "title": "“I have already seen great benefits.”",
+                "author": "Nikki Fika",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Nikki Fika Square.mp4"
+                }
+            },
+            {
+                "title": "“It’s ready for me on the go when I need it.”",
+                "author": "Mariah M.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Mariah M Square.mp4"
+                }
+            },
+            {
+                "title": "“I pour one packet of collagen peptides into water every night.”",
+                "author": "Carla O.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\Carla O Square.mp4"
+                }
+            },
+            {
+                "title": "“Working in a Co-vid positive facility ruined my skin and nails due to the constant sanitizing. After using Royal Collagen Peptides my skin looks clean and fully hydrated and my nails are no longer brittle.”",
+                "author": "India F.",
+                "video": {
+                    "src": "\\testimonial\\rcpsa\\India F Square.mp4"
+                }
+            }
+        ],
         "seo": {
             "title": "Royal Collagen Peptides Stick Packs | Dragon Fruit",
             "description": "Beauty from Within® Dragon Fruit Stick Packs with clinically proven Royal Collagen Peptides® is a 6-in-1 daily beauty boost."
@@ -3127,25 +3431,28 @@
             "defaultQtyMultiplayer": 30,
             "subscriptionDetails": "Don't miss this opportunity to save <b>20%</b> on this order and all future subscribe and save orders.",
             "moreInfoBtnText": "Learn more",
-            "stock":"In stock",
+            "stock": "In stock",
             "qtyLabelText": "QTY",
             "freqLabelText": "Delivery every",
             "oneTime": {
-                "title": "One time",
+                "title": "One time Purchase",
                 "btnText": "Add to cart"
             },
             "subscribe": {
-                "title": "Subscribe",
+                "title": "Subscribe & Save",
                 "btnText": "Subscribe",
                 "interval": "Days",
-                "saveLabel":"SUBSCRIBE & SAVE",
-                "extraLabel":null
+                "saveLabel": "Save",
+                "extraLabel": "With subscription"
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
                 "desc": "30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
             },
-            "termPurchase": null
+            "termPurchase": {
+                "title": null,
+                "desc": "There is no commitment and no minimum to buy. Please note exact shipment times may vary. To customize future shipments and changes, access your account in the Bruno MD portal, or email customer care department at customercare@brunopharma.com."
+            }
         },
         "newsletter": {
             "title": "Join our newsletter",
@@ -3214,8 +3521,10 @@
                 ]
             },
             {
-                "title":"Quality Assurance",
-                "details":["cGMP Facility"]
+                "title": "Quality Assurance",
+                "details": [
+                    "cGMP Facility"
+                ]
             },
             {
                 "title": "FAQs",
@@ -3302,6 +3611,162 @@
             },
             {
                 "src": "\\utility\\trust\\BioAvailable-icon-v1-Black-300x300.png"
+            }
+        ],
+        "testimonial": [
+            {
+                "title": "“I always have dry and itchy eyes”",
+                "author": "Cassandra E (Day 0)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Cassandra Edge Day 0.mp4"
+                }
+            },
+            {
+                "title": "“My eyes are feeling less dry and itchy in the morning”",
+                "author": "Cassandra E (Day 30)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Cassandra Edge Day 30.mp4"
+                }
+            },
+            {
+                "title": "“I’m really surprised with the improvement in my vision especially at night”",
+                "author": "Cassandra E (Day 60)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Cassandra Edge Day 60.mp4"
+                }
+            },
+            {
+                "title": "“I spend loads of time in front of screens and have suffered from drys eyes for years”",
+                "author": "Scott P (Day 0)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Scott Peterson Day 0.mp4"
+                }
+            },
+            {
+                "title": "“Things seem to be getting a little better after spending time in front of screens”",
+                "author": "Scott P (Day 30)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Scott Peterson Day 30.mp4"
+                }
+            },
+            {
+                "title": "“I’ve seen loads of improvement with my eyes which are not dry and itchy anymore”",
+                "author": "Scott P (Day 60)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Scott Peterson Day 60.mp4"
+                }
+            },
+            {
+                "title": "“Really happy with the results and I’m relying far less on my glasses”",
+                "author": "Scott P (Day 90)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Scott Peterson Day 90.mp4"
+                }
+            },
+            {
+                "title": "“I’m on the computer all day and constantly struggle with dry and itchy eyes. By the end of the day my eyes are really tired and itchy”",
+                "author": "Rose O (Day 0)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Rose Marie Oshana Day 0.mp4"
+                }
+            },
+            {
+                "title": "“I’m staring to notice that my eyes are less itchy at the end of the day”",
+                "author": "Rose O (Day 30)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Rose Marie Oshana Day 30.mp4"
+                }
+            },
+            {
+                "title": "“Bluerex is a cheerleader of my eyes!”",
+                "author": "ose O (Day 60)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Rose Marie Oshana Day 60.mp4"
+                }
+            },
+            {
+                "title": "“Since using this product I no longer get headaches and do not suffer from dry and itchy eyes”",
+                "author": "Rose O (Day 90)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Rose Marie Oshana Day 90.mp4"
+                }
+            },
+            {
+                "title": "“After taking the product for a few weeks, I can definitely tell the difference”",
+                "author": "Christal B (Day 30)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Christain Day 30.mp4"
+                }
+            },
+            {
+                "title": "“I have tired and dry eyes after looking at computers all day”",
+                "author": "Samantha (Day 0)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Samantha Day 0.mp4"
+                }
+            },
+            {
+                "title": "“My symptoms have improved”",
+                "author": "Samantha (Day 30)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Samantha Day 30.mp4"
+                }
+            },
+            {
+                "title": "“I don’t experience dry and gritty anymore”",
+                "author": "Samantha (Day 60)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Samantha Day 60.mp4"
+                }
+            },
+            {
+                "title": "“I recommend this to people who work on computers”",
+                "author": "Samantha (Day 90)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Samantha Day 90.mp4"
+                }
+            },
+            {
+                "title": "“I always get dry eyes and headaches”",
+                "author": "Mike H (Day 0)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Mike Harvey Day 0.mp4"
+                }
+            },
+            {
+                "title": "“My focus time has reduced”",
+                "author": "Mike H (Day 30)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Mike Harvey Day 30.mp4"
+                }
+            },
+            {
+                "title": "“No more dry eyes and night vision has become significantly better”",
+                "author": "Mike H (Day 60)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Mike Harvey Day 60.mp4"
+                }
+            },
+            {
+                "title": "“I suffer from dry and itchy eyes with poor night vision”",
+                "author": "Sherry H (Day 0)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Sherry Harvey Day 0.mp4"
+                }
+            },
+            {
+                "title": "“My eyes feel less dry in the morning”",
+                "author": "Sherry H (Day 30)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Sherry Harvey Day 30.mp4"
+                }
+            },
+            {
+                "title": "“Taking this supplement has made a huge improvement to my night vision”",
+                "author": "Sherry H (Day 60)",
+                "video": {
+                    "src": "\\testimonial\\bluerex\\Sherry Harvey Day 60.mp4"
+                }
             }
         ],
         "seo": {
