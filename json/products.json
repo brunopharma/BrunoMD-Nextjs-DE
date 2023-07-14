@@ -1685,15 +1685,15 @@
             "stock": "In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
-                "title": "One time Purchase",
+                "title": "One-time Purchase",
                 "btnText": "Add to cart"
             },
             "subscribe": {
-                "title": "Subscribe & Save",
+                "title": "Subscribe & Save 20%",
                 "btnText": "Subscribe",
                 "interval": "Days",
                 "saveLabel": "Save",
-                "extraLabel": "With subscription"
+                "extraLabel": "with Subscription"
             },
             "moneyBackInfo": {
                 "title": "100% Satisfaction 30-Day money back guarantee",
@@ -1965,15 +1965,15 @@
             "stock": "In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
-                "title": "One time Purchase",
+                "title": "One-time Purchase",
                 "btnText": "Add to cart"
             },
             "subscribe": {
-                "title": "Subscribe & Save",
+                "title": "Subscribe & Save 20%",
                 "btnText": "Subscribe",
                 "interval": "Days",
                 "saveLabel": "Save",
-                "extraLabel": "With subscription"
+                "extraLabel": "with Subscription"
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
@@ -2183,15 +2183,15 @@
             "stock": "In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
-                "title": "One time Purchase",
+                "title": "One-time Purchase",
                 "btnText": "Add to cart"
             },
             "subscribe": {
-                "title": "Subscribe & Save",
+                "title": "Subscribe & Save 20%",
                 "btnText": "Subscribe",
                 "interval": "Days",
                 "saveLabel": "Save",
-                "extraLabel": "With subscription"
+                "extraLabel": "with Subscription"
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
@@ -2449,15 +2449,15 @@
             "stock": "In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
-                "title": "One time Purchase",
+                "title": "One-time Purchase",
                 "btnText": "Add to cart"
             },
             "subscribe": {
-                "title": "Subscribe & Save",
+                "title": "Subscribe & Save 20%",
                 "btnText": "Subscribe",
                 "interval": "Days",
                 "saveLabel": "Save",
-                "extraLabel": "With subscription"
+                "extraLabel": "with Subscription"
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
@@ -2781,15 +2781,15 @@
             "stock": "In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
-                "title": "One time Purchase",
+                "title": "One-time Purchase",
                 "btnText": "Add to cart"
             },
             "subscribe": {
-                "title": "Subscribe & Save",
+                "title": "Subscribe & Save 20%",
                 "btnText": "Subscribe",
                 "interval": "Days",
                 "saveLabel": "Save",
-                "extraLabel": "With subscription"
+                "extraLabel": "with Subscription"
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
@@ -3114,15 +3114,15 @@
             "stock": "In stock",
             "freqLabelText": "Delivery every",
             "oneTime": {
-                "title": "One time Purchase",
+                "title": "One-time Purchase",
                 "btnText": "Add to cart"
             },
             "subscribe": {
-                "title": "Subscribe & Save",
+                "title": "Subscribe & Save 20%",
                 "btnText": "Subscribe",
                 "interval": "Days",
                 "saveLabel": "Save",
-                "extraLabel": "With subscription"
+                "extraLabel": "with Subscription"
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
@@ -3435,15 +3435,15 @@
             "qtyLabelText": "QTY",
             "freqLabelText": "Delivery every",
             "oneTime": {
-                "title": "One time Purchase",
+                "title": "One-time Purchase",
                 "btnText": "Add to cart"
             },
             "subscribe": {
-                "title": "Subscribe & Save",
+                "title": "Subscribe & Save 20%",
                 "btnText": "Subscribe",
                 "interval": "Days",
                 "saveLabel": "Save",
-                "extraLabel": "With subscription"
+                "extraLabel": "with Subscription"
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
