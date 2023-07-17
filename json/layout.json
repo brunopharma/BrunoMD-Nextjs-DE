@@ -484,6 +484,10 @@
                         {
                             "name": "Silverphage Einweg-Gaze",
                             "url": "#"
+                        },
+                        {
+                            "name":"",
+                            "url":"#"
                         }
                     ]
                 },
@@ -527,6 +531,10 @@
                         {
                             "name": "Allgemeine Geschäftsbedingungen für den Datenschutz",
                             "url": "#"
+                        },
+                        {
+                            "name":"",
+                            "url":"#"
                         }
                     ]
                 }
