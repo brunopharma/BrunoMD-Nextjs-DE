@@ -23,7 +23,7 @@ const Cards = ({ contents }) => {
                                         height={326}
                                     />
                                 </Link>
-                                <div className={styles.categoryName}> <Link href={e.link}>{e.name}</Link></div>
+                                <div className={styles.categoryName} style={e.fontSize ? {fontSize:`${e.fontSize}px`}:{}}> <Link href={e.link}>{e.name}</Link></div>
                                 <div className={styles.solutionCardInnerContainer}>
                                     <div className={styles.RightCornerContainer}>
                                         <Link href={e.link}>

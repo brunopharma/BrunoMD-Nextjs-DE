@@ -240,6 +240,7 @@
           "name": "Mineralstoffe",
           "link": "#",
           "btnText":"Laden",
+          "fontSize":50,
           "logo": {
             "src": "/logo/Dolore.avif",
             "alt": "Mineralstoffe"
@@ -249,6 +250,7 @@
           "name": "Schmerz",
           "link": "#",
           "btnText":"Laden",
+          "fontSize":50,
           "logo": {
             "src": "/logo/Occhi.avif",
             "alt": "Schmerz"
@@ -257,6 +259,7 @@
         {
           "name": "Umgekehrte Alterung",
           "btnText":"Laden",
+          "fontSize":50,
           "link": "#",
           "logo": {
             "src": "/logo/Pre-diabete.avif",
@@ -267,6 +270,7 @@
           "name": "Prädiabete",
           "link": "#",
           "btnText":"Laden",
+          "fontSize":50,
           "logo": {
             "src": "/logo/Pelle.avif",
             "alt": "Prädiabete"
@@ -276,6 +280,7 @@
           "name": "Augen",
           "link": "#",
           "btnText":"Laden",
+          "fontSize":50,
           "logo": {
             "src": "/logo/Reverse-aging.avif",
             "alt": "Augen"
@@ -285,6 +290,7 @@
           "name": "Haut",
           "link": "#",
           "btnText":"Laden",
+          "fontSize":50,
           "logo": {
             "src": "/logo/sali-minerali.avif",
             "alt": "Haut"
