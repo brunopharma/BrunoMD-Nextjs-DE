@@ -383,7 +383,7 @@
     },
     "DE": {
         "announcementBar": {
-            "title": "KOSTENLOSER Versand für alle Bestellungen über 75 $. Wird automatisch an der Kasse angewendet.",
+            "title": "KOSTENLOSER Versand für alle Bestellungen über 60€. Wird automatisch an der Kasse angewendet.",
             "textColor": "#fff",
             "backgroundColor": "#3a3a3a"
         },
