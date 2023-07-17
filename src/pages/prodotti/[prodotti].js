@@ -13,6 +13,7 @@ import Client from 'shopify-buy';
 import PageHead from "@/utilities/Head";
 import Loader2 from "@/utilities/Loader/index2";
 import ProductReviews from "@/utilities/ProductReviews";
+import Testimonial from "@/utilities/Testimonial";
 
 const Product = ({version}) => {
     const [load, setLoad] = useState(true)
@@ -23,7 +24,7 @@ const Product = ({version}) => {
         storefrontAccessToken: 'a51b71098dff9f7cfd68456c464991bb'
     });
     // const products = getAllProducts();
-    const {title, details, newsletter, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price, seo } = product || {}
+    const {title, details, newsletter,fourStepProcess, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price, seo,testimonial } = product || {}
     useEffect( () => {
         let url = window.location.href;
         let splitUrl = url.split('/prodotti/');
@@ -55,6 +56,7 @@ const Product = ({version}) => {
             <Tabs data={details} productColorTheme={theme}/>
             <TrustBadge contents={TrustBadgeData[version]} productColorTheme={theme}/>
             <MarkqueCarousel image={PatnerData} />
+            {testimonial && <Testimonial content={{ slides: testimonial, theme: theme }}/>}
             <NewsLetter content={newsletter} />
             <ProductReviews product={shopifyP}/>
         </section>

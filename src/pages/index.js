@@ -17,14 +17,14 @@ export default function Home({version}) {
   return (
     <>
       <section>
-        <PageHead content={SEO[version]?.home?.SEO}/>
-        <WistiaHero id={HomePageData[version].wistia.id} content={HomePageData[version].wistia.content} />
-        <MarkqueCarousel image={PatnerData} />
-        <Cards contents={HomePageData[version].categories} />
-        <TrustBadge contents={TrustBadgeData[version]} />
-        <Purpose contents={HomePageData[version].purpose} />
-        <HomeGallery id={HomePageData[version].homeGallery.id} galleryId={HomePageData[version].homeGallery.galleryId}/>
-        <NewsLetter content={HomePageData[version].newsletter}/>
+        {SEO[version] && <PageHead content={SEO[version]?.home?.SEO}/>}
+        {HomePageData[version] &&<WistiaHero id={HomePageData[version].wistia.id} content={HomePageData[version].wistia.content} />}
+        {HomePageData[version]?.PatnerData &&<MarkqueCarousel image={PatnerData} />}
+        {HomePageData[version] &&<Cards contents={HomePageData[version].categories} />}
+        {TrustBadgeData[version] &&<TrustBadge contents={TrustBadgeData[version]} />}
+        {HomePageData[version] && <Purpose contents={HomePageData[version].purpose} />}
+        {HomePageData[version]?.homeGallery &&<HomeGallery id={HomePageData[version].homeGallery.id} galleryId={HomePageData[version].homeGallery.galleryId} content={{title:HomePageData[version].homeGallery.title, desc:HomePageData[version].homeGallery.subTitle, invert:HomePageData[version].homeGallery.invert}}/>}
+        {HomePageData[version] &&<NewsLetter content={HomePageData[version].newsletter}/>}
       </section>
     </>
   )

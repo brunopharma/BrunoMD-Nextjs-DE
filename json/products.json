@@ -2133,6 +2133,10 @@
                 "src": "\\utility\\trust\\BioAvailable-icon-v1-Black-300x300.png"
             }
         ],
+        "homeGallery": {
+            "id": "ahHyITcI0fkzYo7KejQeWGiBK2CXMKvLvTZ8KUBJ",
+            "galleryId": "5f60d998ea003407735ccde8"
+        },
         "seo": {
             "title": "BrunoMD | Heart | CholestQ10 60 V-Caps 30 Servings",
             "description": "CholestQ10® is the only vegan dietary supplement with bergamot &amp; CoQ10 Phytosomes® designed to support healthy LDL, HDL cholesterol &amp; triglycerides levels."
@@ -2387,6 +2391,10 @@
                 }
             }
         ],
+        "homeGallery":{
+            "galleryId":"5f60d998ea003407735ccde8",
+            "id":"ahHyITcI0fkzYo7KejQeWGiBK2CXMKvLvTZ8KUBJ"
+        },
         "seo": {
             "title": "BrunoMD | Royal Collagen Peptides",
             "description": "Royal Collagen Peptides: a 5-in-1 dietary supplement clinically proven to help improve Skin, Hair, Nails, Joint, and Bone Health."
@@ -3447,7 +3455,7 @@
             },
             "moneyBackInfo": {
                 "title": "HOW SUBSCRIBE & SAVE WORKS",
-                "desc": "30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $47.18 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
+                "desc": "30 days after your first order is shipped, and then approximately every 30 days thereafter, you will be sent a new order of Royal Collagen Peptides. Each shipment will be charged to the payment method you provide today in one payment at the low price of $43.98 plus shipping and handling, unless you cancel via the Bruno MD portal, or by contacting customer care department. "
             },
             "termPurchase": {
                 "title": null,

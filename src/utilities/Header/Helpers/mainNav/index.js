@@ -7,15 +7,15 @@ import { useRouter } from 'next/router'
 import MobileNav from '../MobileNav'
 import Image from 'next/image';
 import { useMatchMedia } from '@/utilities/Sections/Hooks/useMatchMedia'
-const MainNav = ({ navMenuLinks,version }) => {
+const MainNav = ({ navMenuLinks,version,iconLink }) => {
   const [isMobile] = useMatchMedia('(max-width: 380px)', true)
   const [isSearchOpened, setIsSearchOpened] = useState(false)
   let [isMobileNavOpen, setIsMobileNavOpen] = useState(false)
-  let cartUrl = version == 'EU' ? '/carrello' : '/cart'
+  let cartUrl = iconLink?.cart || null
   const router = useRouter()
 
-  const [logInText, setLogIntext] = useState(version == 'EU' ? 'Accedi' : 'Log in')
-  const [logInLink, setLogInLink] = useState('/login')
+  const [logInText, setLogIntext] = useState(iconLink.login?.title)
+  const [logInLink, setLogInLink] = useState(iconLink.login?.url)
   const items = [];
 
   const handleSearchSubmit = React.useCallback(query => router.push(`/search?q=${query}`), [router])

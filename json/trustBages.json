@@ -34,5 +34,23 @@
         "alt": "shopify-secure"
       }
     ]
+  },
+  "DE": {
+    "title": "14 Tage - Geld-zurück-Garantie",
+    "theme": null,
+    "badges": [
+      {
+        "src": "\\utility\\de\\trustBadge\\14_Day_Money_Back_Guarantee_Italian-White.png",
+        "alt": "14-giormi"
+      },
+      {
+        "src": "\\utility\\de\\trustBadge\\Free_Shipping-Icon-Italian-White-v2.png",
+        "alt": "con-ordini"
+      },
+      {
+        "src": "\\utility\\de\\trustBadge\\Shopify_Secure-Icon-White.png",
+        "alt": "shopify-secure"
+      }
+    ]
   }
 }

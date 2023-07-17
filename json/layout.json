@@ -1,267 +1,547 @@
-{"ENG":{
-    "announcementBar": { "title": "FREE Shipping on All Orders Over $75. Automatically Applied at Checkout.", "textColor": "#fff", "backgroundColor": "#3a3a3a" },
-    "links": [
-        {
-            "subMenuLinks": [
-                { "url": "/collections/skin", "displayText": "Skin" },
-                { "url": "/collections/joints", "displayText": "Joints" },
-                { "url": "/collections/immunity", "displayText": "immunity" },
-                { "url": "/collections/heart", "displayText": "heart" },
-                { "url": "/collections/bone-health", "displayText": "bone" },
-                { "url": "/collections/vision", "displayText": "vision" }
-            ],
-            "name": "Shop", "url": "/collections/all-products", "displayText": "Shop"
+{
+    "ENG": {
+        "announcementBar": {
+            "title": "FREE Shipping on All Orders Over $75. Automatically Applied at Checkout.",
+            "textColor": "#fff",
+            "backgroundColor": "#3a3a3a"
         },
-        { "subMenuLinks": [], "name": "our story", "url": "/our-story", "displayText": "our story" },
-        { "subMenuLinks": [], "name": "Our science", "url": "/science", "displayText": "our science" },
-        { "subMenuLinks": [], "name": "FAQS", "url": "/faqs", "displayText": "FAQs" },
-        { "subMenuLinks": [], "name": "Blog", "url": "https://blog.brunomd.eu", "displayText": "Blog" },
-        { "subMenuLinks": [], "name": "Contact", "url": "/contact-us", "displayText": "contact" }
-    ],
-    "footer": {
         "links": [
             {
-                "url": "", "title": "Join Us", "name": "Company", "navMenuLinks": [
-                    { "name": "Become an Affiliate", "url": "/become-an-affiliate" },
-                    { "name": "Loyalty Rewards and Referral Program", "url": "/rewards-page" }
-                ]   
+                "subMenuLinks": [
+                    {
+                        "url": "/collections/skin",
+                        "displayText": "Skin"
+                    },
+                    {
+                        "url": "/collections/joints",
+                        "displayText": "Joints"
+                    },
+                    {
+                        "url": "/collections/immunity",
+                        "displayText": "immunity"
+                    },
+                    {
+                        "url": "/collections/heart",
+                        "displayText": "heart"
+                    },
+                    {
+                        "url": "/collections/bone-health",
+                        "displayText": "bone"
+                    },
+                    {
+                        "url": "/collections/vision",
+                        "displayText": "vision"
+                    }
+                ],
+                "name": "Shop",
+                "url": "/collections/all-products",
+                "displayText": "Shop"
             },
             {
-                "url": "#", "title": "Products", "name": "Products", "navMenuLinks": [
-                    { "name": "Royal Collagen Peptides Collection", "url": "/collections/skin" },
-                    { "name": "Bluerex Vision", "url": "/collections/vision" },
-                    { "name": "CholestQ10", "url": "/collections/heart" },
-                    { "name": "Riboflam", "url": "/collections/immunity" }
-                ]
+                "subMenuLinks": [],
+                "name": "our story",
+                "url": "/our-story",
+                "displayText": "our story"
             },
             {
-                "url": "", "title": "Company", "name": "Company", "navMenuLinks": [
-                    { "name": "Our Story", "url": "/our-story" },
-                    { "name": "Social Responsibility", "url": "/social-responsibility" },
-                    { "name": "FAQs", "url": "/faqs" },
-                    { "name": "Contact Us", "url": "/contact-us" },
-                    { "name": "Shipping Policy", "url": "/shipping-policy" },
-                    { "name": "Returns Portal", "url": "https://brunomd.returnscenter.com/" },
-                    { "name": "Return Policy", "url": "/return-and-cancellation-policy" },
-                    { "name": "Reviews", "url": "/reviews" },
-                    { "name": "Terms of Service", "url": "/terms-of-service" },
-                    { "name": "Privacy Policy", "url": "/privacy-policy"}
-                ]
+                "subMenuLinks": [],
+                "name": "Our science",
+                "url": "/science",
+                "displayText": "our science"
+            },
+            {
+                "subMenuLinks": [],
+                "name": "FAQS",
+                "url": "/faqs",
+                "displayText": "FAQs"
+            },
+            {
+                "subMenuLinks": [],
+                "name": "Blog",
+                "url": "https://blog.brunomd.eu",
+                "displayText": "Blog"
+            },
+            {
+                "subMenuLinks": [],
+                "name": "Contact",
+                "url": "/contact-us",
+                "displayText": "contact"
             }
         ],
-        "text":"<p>Statements made on this website have not been evaluated by the U.S. Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease. Information provided by this website or this company is not a substitute for individual medical advice.</p><p>© 2022 brunomd.com. All Rights Reserved</p>"
-    },
-    "featureInfo": [
-        "Free shipping for all orders over $75.00",
-        "20% loyalty discount for subscribe & save customers",
-        "Purchase with confidence. 30-day money back guarantee."
-    ]
-}
-,"EU":{
-    "announcementBar": {
-        "title": "Spedizione gratuita per ordini superiori a € 60. Lo sconto viene automaticamente applicato alla cassa",
-        "textColor": "#fff",
-        "backgroundColor": "#3a3a3a"
-    },
-    "links": [
-        {
-            "subMenuLinks": [
+        "footer": {
+            "links": [
                 {
-                    "url": "/collezioni/salute-della-pelle",
-                    "displayText": "PELLE"
+                    "url": "",
+                    "title": "Join Us",
+                    "name": "Company",
+                    "navMenuLinks": [
+                        {
+                            "name": "Become an Affiliate",
+                            "url": "/become-an-affiliate"
+                        },
+                        {
+                            "name": "Loyalty Rewards and Referral Program",
+                            "url": "/rewards-page"
+                        }
+                    ]
                 },
                 {
-                    "url": "/collezioni/occhi",
-                    "displayText": "OCCHI"
+                    "url": "#",
+                    "title": "Products",
+                    "name": "Products",
+                    "navMenuLinks": [
+                        {
+                            "name": "Royal Collagen Peptides Collection",
+                            "url": "/collections/skin"
+                        },
+                        {
+                            "name": "Bluerex Vision",
+                            "url": "/collections/vision"
+                        },
+                        {
+                            "name": "CholestQ10",
+                            "url": "/collections/heart"
+                        },
+                        {
+                            "name": "Riboflam",
+                            "url": "/collections/immunity"
+                        }
+                    ]
                 },
                 {
-                    "url": "/collezioni/reverse-aging",
-                    "displayText": "REVERSE-AGING"
-                },
-                {
-                    "url": "/collezioni/dolore",
-                    "displayText": "DOLORE"
-                },
-                {
-                    "url": "/collezioni/pre-diabete",
-                    "displayText": "PRE-DIABETICO"
-                },
-                {
-                    "url": "/collezioni/sali-minerali",
-                    "displayText": "SALI MINERALI / ELETTROLITI"
+                    "url": "",
+                    "title": "Company",
+                    "name": "Company",
+                    "navMenuLinks": [
+                        {
+                            "name": "Our Story",
+                            "url": "/our-story"
+                        },
+                        {
+                            "name": "Social Responsibility",
+                            "url": "/social-responsibility"
+                        },
+                        {
+                            "name": "FAQs",
+                            "url": "/faqs"
+                        },
+                        {
+                            "name": "Contact Us",
+                            "url": "/contact-us"
+                        },
+                        {
+                            "name": "Shipping Policy",
+                            "url": "/shipping-policy"
+                        },
+                        {
+                            "name": "Returns Portal",
+                            "url": "https://brunomd.returnscenter.com/"
+                        },
+                        {
+                            "name": "Return Policy",
+                            "url": "/return-and-cancellation-policy"
+                        },
+                        {
+                            "name": "Reviews",
+                            "url": "/reviews"
+                        },
+                        {
+                            "name": "Terms of Service",
+                            "url": "/terms-of-service"
+                        },
+                        {
+                            "name": "Privacy Policy",
+                            "url": "/privacy-policy"
+                        }
+                    ]
                 }
             ],
-            "name": "Shop",
-            "url": "/collezioni/tutti",
-            "displayText": "Shop"
+            "text": "<p>Statements made on this website have not been evaluated by the U.S. Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease. Information provided by this website or this company is not a substitute for individual medical advice.</p><p>© 2022 brunomd.com. All Rights Reserved</p>"
         },
-        {
-            "subMenuLinks": [],
-            "name": "La Nostra Storia",
-            "url": "/la-nostra-storia",
-            "displayText": "La storia"
-        },
-        {
-            "subMenuLinks": [],
-            "name": "Our science",
-            "url": "/scienza",
-            "displayText": "La scienza"
-        },
-        {
-            "subMenuLinks": [],
-            "name": "FAQS",
-            "url": "/domande-frequenti",
-            "displayText": "FAQ"
-        },
-        {
-            "subMenuLinks": [],
-            "name": "Blog",
-            "url": "https://blog.brunomd.eu",
-            "displayText": "Blog"
-        },
-        {
-            "subMenuLinks": [],
-            "name": "Contact",
-            "url": "/contattaci",
-            "displayText": "Contattaci"
+        "featureInfo": [
+            "Free shipping for all orders over $75.00",
+            "20% loyalty discount for subscribe & save customers",
+            "Purchase with confidence. 30-day money back guarantee."
+        ],
+        "cartLink":"/cart",
+        "login":{
+            "title":"Log in",
+            "url":"/login"
         }
-    ],
-    "footer": {
+    },
+    "EU": {
+        "announcementBar": {
+            "title": "Spedizione gratuita per ordini superiori a € 60. Lo sconto viene automaticamente applicato alla cassa",
+            "textColor": "#fff",
+            "backgroundColor": "#3a3a3a"
+        },
         "links": [
             {
-                "url": "/collections/all-products",
-                "title": "Prodotti",
-                "name": "Products",
-                "navMenuLinks": [
+                "subMenuLinks": [
                     {
-                        "name": "Collezione Citrak",
-                        "url": "/collezioni/sali-minerali"
+                        "url": "/collezioni/salute-della-pelle",
+                        "displayText": "PELLE"
                     },
                     {
-                        "name": "Neulenic",
-                        "url": "/prodotti/neulenic-600-confezione-da-15-compresse-rivestite-da-1-g-peso-netto-15-0-g"
+                        "url": "/collezioni/occhi",
+                        "displayText": "OCCHI"
                     },
                     {
-                        "name": "Nubit",
-                        "url": "/prodotti/nubit-30-compresse-da-850mg"
+                        "url": "/collezioni/reverse-aging",
+                        "displayText": "REVERSE-AGING"
                     },
                     {
-                        "name": "Cronos",
-                        "url": "/prodotti/cronos-30-compresse-da-850mg"
+                        "url": "/collezioni/dolore",
+                        "displayText": "DOLORE"
                     },
                     {
-                        "name": "Drop Therapeutic",
-                        "url": "/prodotti/drop-therapeutic-gocce-oculari-lubrificanti-10ml"
+                        "url": "/collezioni/pre-diabete",
+                        "displayText": "PRE-DIABETICO"
                     },
                     {
-                        "name": "Silverphage Crema Gel",
-                        "url": "/prodotti/silverphage-crema-gel-50-ml"
-                    },
-                    {
-                        "name": "Silverphage Garze Monouso",
-                        "url": "/prodotti/silverphage-14-individual-wipes"
+                        "url": "/collezioni/sali-minerali",
+                        "displayText": "SALI MINERALI / ELETTROLITI"
                     }
-                ]
+                ],
+                "name": "Shop",
+                "url": "/collezioni/tutti",
+                "displayText": "Shop"
             },
             {
-                "url": "",
-                "title": "Chi siamo",
-                "name": "Company",
-                "navMenuLinks": [
-                    {
-                        "name": "La nostra storia",
-                        "url": "/la-nostra-storia"
-                    },
-                    {
-                        "name": "Responsabilità sociale",
-                        "url": "/responsabilita-sociale"
-                    },
-                    {
-                        "name": "Domande Frequenti",
-                        "url": "/domande-frequenti"
-                    },
-                    {
-                        "name": "Contattaci",
-                        "url": "/contattaci"
-                    },
-                    {
-                        "name": "Spedizioni",
-                        "url": "/politica-di-spedizione"
-                    },
-                    {
-                        "name": "Portale per il reso",
-                        "url": "https://pharmalab.return-order.com"
-                    },
-                    {
-                        "name": "Reso",
-                        "url": "/politica-di-restituzione-e-cancellazione"
-                    },
-                    {
-                        "name": "Termini e condizioni di vendita",
-                        "url": "/termini-e-condizioni"
-                    },
-                    {
-                        "name": "Termini e condizioni di privacy",
-                        "url": "/politica-sullariservatezza"
-                    }
-                ]
+                "subMenuLinks": [],
+                "name": "La Nostra Storia",
+                "url": "/la-nostra-storia",
+                "displayText": "La storia"
             },
             {
-                "url": "",
-                "title": "Contattaci",
-                "name": "Company",
-                "navMenuLinks": [
-                    {
-                        "name": "Pharma Lab S.r.l.",
-                        "url": "#"
-                    },
-                    {
-                        "name": "Via dell’Artianato, 83",
-                        "url": "#"
-                    },
-                    {
-                        "name": "30023",
-                        "url": "#"
-                    },
-                    {
-                        "name": "Concordia",
-                        "url": "#"
-                    },
-                    {
-                        "name": "Sagittaria",
-                        "url": "#"
-                    },
-                    {
-                        "name": "VE",
-                        "url": "#"
-                    },
-                    {
-                        "name": "",
-                        "url": "#"
-                    },
-                    {
-                        "name": "Codice Fiscale e P.Iva : 11462711000",
-                        "url": "#"
-                    }
-                ]
+                "subMenuLinks": [],
+                "name": "Our science",
+                "url": "/scienza",
+                "displayText": "La scienza"
+            },
+            {
+                "subMenuLinks": [],
+                "name": "FAQS",
+                "url": "/domande-frequenti",
+                "displayText": "FAQ"
+            },
+            {
+                "subMenuLinks": [],
+                "name": "Blog",
+                "url": "https://blog.brunomd.eu",
+                "displayText": "Blog"
+            },
+            {
+                "subMenuLinks": [],
+                "name": "Contact",
+                "url": "/contattaci",
+                "displayText": "Contattaci"
             }
         ],
-        "text":"<p>Esclusione di responsabilità.</p><p>Per quanto gli autori si sforzino di fornire informazioni corrette e attendibili, le stesse non hanno lo scopo di fornire consigli medici individuali e in nessun caso possono costituire la prescrizione di un trattamento, la visita specialistica o il rapporto diretto con il proprio medico curante.</p><p>Si invitano e consigliano gli utenti a chiedere il parere di un medico o di altro specialista prima di prendere qualsiasi iniziativa. Si invitano e consigliano gli utenti a chiedere il parere di un medico o di altro specialista prima di prendere qualsiasi iniziativa. </p><p>Tutte le informazioni fornite: </p><ul><li>non devono essere interpretate come alternative alla consultazione, valutazione o trattamento di un medico ovvero di altro specialista.                                                         </li></ul><ul><li>non sono pensate per fornire specifica consulenza in materia di salute fisica, o qualsiasi altra sorta di consulenza. Pertanto tutto il materiale, le informazioni e i piani alimentari sono elaborati soltanto a scopo informativo.</li></ul><p>© 2023 brunomd.com. Diritti riservati</p>"
+        "footer": {
+            "links": [
+                {
+                    "url": "/collections/all-products",
+                    "title": "Prodotti",
+                    "name": "Products",
+                    "navMenuLinks": [
+                        {
+                            "name": "Collezione Citrak",
+                            "url": "/collezioni/sali-minerali"
+                        },
+                        {
+                            "name": "Neulenic",
+                            "url": "/prodotti/neulenic-600-confezione-da-15-compresse-rivestite-da-1-g-peso-netto-15-0-g"
+                        },
+                        {
+                            "name": "Nubit",
+                            "url": "/prodotti/nubit-30-compresse-da-850mg"
+                        },
+                        {
+                            "name": "Cronos",
+                            "url": "/prodotti/cronos-30-compresse-da-850mg"
+                        },
+                        {
+                            "name": "Drop Therapeutic",
+                            "url": "/prodotti/drop-therapeutic-gocce-oculari-lubrificanti-10ml"
+                        },
+                        {
+                            "name": "Silverphage Crema Gel",
+                            "url": "/prodotti/silverphage-crema-gel-50-ml"
+                        },
+                        {
+                            "name": "Silverphage Garze Monouso",
+                            "url": "/prodotti/silverphage-14-individual-wipes"
+                        }
+                    ]
+                },
+                {
+                    "url": "",
+                    "title": "Chi siamo",
+                    "name": "Company",
+                    "navMenuLinks": [
+                        {
+                            "name": "La nostra storia",
+                            "url": "/la-nostra-storia"
+                        },
+                        {
+                            "name": "Responsabilità sociale",
+                            "url": "/responsabilita-sociale"
+                        },
+                        {
+                            "name": "Domande Frequenti",
+                            "url": "/domande-frequenti"
+                        },
+                        {
+                            "name": "Contattaci",
+                            "url": "/contattaci"
+                        },
+                        {
+                            "name": "Spedizioni",
+                            "url": "/politica-di-spedizione"
+                        },
+                        {
+                            "name": "Portale per il reso",
+                            "url": "https://pharmalab.return-order.com"
+                        },
+                        {
+                            "name": "Reso",
+                            "url": "/politica-di-restituzione-e-cancellazione"
+                        },
+                        {
+                            "name": "Termini e condizioni di vendita",
+                            "url": "/termini-e-condizioni"
+                        },
+                        {
+                            "name": "Termini e condizioni di privacy",
+                            "url": "/politica-sullariservatezza"
+                        }
+                    ]
+                },
+                {
+                    "url": "",
+                    "title": "Contattaci",
+                    "name": "Company",
+                    "navMenuLinks": [
+                        {
+                            "name": "Pharma Lab S.r.l.",
+                            "url": "#"
+                        },
+                        {
+                            "name": "Via dell’Artianato, 83",
+                            "url": "#"
+                        },
+                        {
+                            "name": "30023",
+                            "url": "#"
+                        },
+                        {
+                            "name": "Concordia",
+                            "url": "#"
+                        },
+                        {
+                            "name": "Sagittaria",
+                            "url": "#"
+                        },
+                        {
+                            "name": "VE",
+                            "url": "#"
+                        },
+                        {
+                            "name": "",
+                            "url": "#"
+                        },
+                        {
+                            "name": "Codice Fiscale e P.Iva : 11462711000",
+                            "url": "#"
+                        }
+                    ]
+                }
+            ],
+            "text": "<p>Esclusione di responsabilità.</p><p>Per quanto gli autori si sforzino di fornire informazioni corrette e attendibili, le stesse non hanno lo scopo di fornire consigli medici individuali e in nessun caso possono costituire la prescrizione di un trattamento, la visita specialistica o il rapporto diretto con il proprio medico curante.</p><p>Si invitano e consigliano gli utenti a chiedere il parere di un medico o di altro specialista prima di prendere qualsiasi iniziativa. Si invitano e consigliano gli utenti a chiedere il parere di un medico o di altro specialista prima di prendere qualsiasi iniziativa. </p><p>Tutte le informazioni fornite: </p><ul><li>non devono essere interpretate come alternative alla consultazione, valutazione o trattamento di un medico ovvero di altro specialista.                                                         </li></ul><ul><li>non sono pensate per fornire specifica consulenza in materia di salute fisica, o qualsiasi altra sorta di consulenza. Pertanto tutto il materiale, le informazioni e i piani alimentari sono elaborati soltanto a scopo informativo.</li></ul><p>© 2023 brunomd.com. Diritti riservati</p>"
+        },
+        "featureInfo": [
+            "Spedizione gratuita con ordini superiori a € 60",
+            "Sconto del 20% su tutti ordini con acquisto periodico",
+            "14 Giorni - Soddisfatti o Rimborsati"
+        ],
+        "bottomBar": {
+            "textColor": "#fff",
+            "backgroundColor": "#3a3a3a",
+            "content": [
+                "<a href='/politica-sullariservatezza'>Politica Sulla Riservatezza</a>",
+                "<a href='/gestione-dei-cookie'>Dichiarazione dei Cookie</a>",
+                "<a href='/disclaimer'>Disclaimer</a>",
+                "<a href='/site-map'>Site Map</a>"
+            ]
+        },
+        "cartLink":"/carrello",
+        "login":{
+            "title":"Accedi",
+            "url":"/login"
+        }
     },
-    "featureInfo": [
-        "Spedizione gratuita con ordini superiori a € 60",
-        "Sconto del 20% su tutti ordini con acquisto periodico",
-        "14 Giorni - Soddisfatti o Rimborsati"
-    ],
-    "bottomBar": {
-        "textColor": "#fff",
-        "backgroundColor": "#3a3a3a",
-        "content": [
-            "<a href='/politica-sullariservatezza'>Politica Sulla Riservatezza</a>",
-            "<a href='/gestione-dei-cookie'>Dichiarazione dei Cookie</a>",
-            "<a href='/disclaimer'>Disclaimer</a>",
-            "<a href='/site-map'>Site Map</a>"
+    "DE": {
+        "announcementBar": {
+            "title": "KOSTENLOSER Versand für alle Bestellungen über 75 $. Wird automatisch an der Kasse angewendet.",
+            "textColor": "#fff",
+            "backgroundColor": "#3a3a3a"
+        },
+        "links": [
+            {
+                "subMenuLinks": [
+                    {
+                        "url": "#",
+                        "displayText": "Haut"
+                    },
+                    {
+                        "url": "#",
+                        "displayText": "Augen"
+                    },
+                    {
+                        "url": "#",
+                        "displayText": "Umgekehrte Alterung"
+                    },
+                    {
+                        "url": "#",
+                        "displayText": "Schmerz"
+                    },
+                    {
+                        "url": "#",
+                        "displayText": "Prädiabete"
+                    },
+                    {
+                        "url": "#",
+                        "displayText": "Mineralstoffe"
+                    }
+                ],
+                "name": "Shop",
+                "url": "#",
+                "displayText": "LADEN"
+            },
+            {
+                "subMenuLinks": [],
+                "name": "La Nostra Storia",
+                "url": "#",
+                "displayText": "UNSERE GESCHICHTE"
+            },
+            {
+                "subMenuLinks": [],
+                "name": "Our science",
+                "url": "#",
+                "displayText": "UNSERE WISSENSCHAFT"
+            },
+            {
+                "subMenuLinks": [],
+                "name": "FAQS",
+                "url": "#",
+                "displayText": "FAQ"
+            },
+            {
+                "subMenuLinks": [],
+                "name": "Blog",
+                "url": "#",
+                "displayText": "Blog"
+            },
+            {
+                "subMenuLinks": [],
+                "name": "Contact",
+                "url": "#",
+                "displayText": "KONTAKTIEREN SIE UNS"
+            }
+        ],
+        "footer": {
+            "links": [
+                {
+                    "url": "#",
+                    "title": "Produkte",
+                    "name": "Produkte",
+                    "navMenuLinks": [
+                        {
+                            "name": " Sammlung Citrak",
+                            "url": "#"
+                        },
+                        {
+                            "name": "Neulenic",
+                            "url": "#"
+                        },
+                        {
+                            "name": "Nubit",
+                            "url": "#"
+                        },
+                        {
+                            "name": "Cronos",
+                            "url": "#"
+                        },
+                        {
+                            "name": "Drop Therapeutic",
+                            "url": "#"
+                        },
+                        {
+                            "name": "Silverphage Crema Gel",
+                            "url": "#"
+                        },
+                        {
+                            "name": "Silverphage Einweg-Gaze",
+                            "url": "#"
+                        }
+                    ]
+                },
+                {
+                    "url": "",
+                    "title": "Über uns",
+                    "name": "Company",
+                    "navMenuLinks": [
+                        {
+                            "name": "Geschichte",
+                            "url": "#"
+                        },
+                        {
+                            "name": "SOZIALE VERANTWORTUNG",
+                            "url": "#"
+                        },
+                        {
+                            "name": "FAQ",
+                            "url": "#"
+                        },
+                        {
+                            "name": "KONTAKTIEREN SIE UNS",
+                            "url": "#"
+                        },
+                        {
+                            "name": "Verschiffungen",
+                            "url": "#"
+                        },
+                        {
+                            "name": "Rückgabe-Portal",
+                            "url": "#"
+                        },
+                        {
+                            "name": "Rhesus",
+                            "url": "#"
+                        },
+                        {
+                            "name": "Allgemeine Geschäftsbedingungen",
+                            "url": "#"
+                        },
+                        {
+                            "name": "Allgemeine Geschäftsbedingungen für den Datenschutz",
+                            "url": "#"
+                        }
+                    ]
+                }
+            ],
+            "text": "<p>Verzichtserklärung. Die hier enthaltenen Informationen sind rein informativ und indikativ; Sie sind kein Ersatz für ärztlichen Rat. Alle Entscheidungen, die von den Lesern auf der Grundlage der hier bereitgestellten Daten und Informationen getroffen werden, werden in voller Entscheidungsautonomie und auf eigenes Risiko getroffen. Die Vervielfältigung im Ganzen ohne schriftliche Genehmigung ist untersagt.</p><p>© 2022 <a hre='brunomd.de'>brunomd.de</a> Alle Rechte vorbehalten</p>"
+        },
+        "cartLink":"#",
+        "login":{
+            "title":"ANMELDEN",
+            "url":"#"
+        },
+        "featureInfo": [
+            "Kostenloser Versand ab einem Bestellwert von 60 €",
+            "20% Rabatt auf alle Kunden mit regelmäßigem Kauf",
+            "14 Tage - Geld-zurück-Garantie"
         ]
     }
-}
 }

@@ -1,64 +1,68 @@
 {
   "ENG": {
+    "PatnerData": true,
     "wistia": {
       "id": "ile0o2zvsm",
       "content": {
         "title": "Benvenuti <br/><h2> to the MDiterranean Life®</h2>",
         "btnText": "SHOP NOW",
-        "btnLink":"/collections/all-products",
+        "btnLink": "/collections/all-products",
         "subTitle": "Health and wellness products rooted in the heart of Italy, made from all-natural ingredients."
       }
     },
-    "categories": [
-      {
-        "name": "Skin",
-        "link": "/collections/skin",
-        "logo": {
-          "src": "/collections/skin.avif",
-          "alt": "Skin"
+    "categories": {
+      "title": "Our Solutions",
+      "items": [
+        {
+          "name": "Skin",
+          "link": "/collections/skin",
+          "logo": {
+            "src": "/collections/skin.avif",
+            "alt": "Skin"
+          }
+        },
+        {
+          "name": "Joints",
+          "link": "/collections/joints",
+          "logo": {
+            "src": "/collections/joints.avif",
+            "alt": "Joints"
+          }
+        },
+        {
+          "name": "Immunity",
+          "link": "/collections/immunity",
+          "logo": {
+            "src": "/collections/immunity.avif",
+            "alt": "Immunity"
+          }
+        },
+        {
+          "name": "Heart",
+          "link": "/collections/heart",
+          "logo": {
+            "src": "/collections/heart.avif",
+            "alt": "Heart"
+          }
+        },
+        {
+          "name": "Bone",
+          "link": "/collections/bone-health",
+          "logo": {
+            "src": "/collections/bones.avif",
+            "alt": "Bone"
+          }
+        },
+        {
+          "name": "Vision",
+          "link": "/collections/vision",
+          "logo": {
+            "src": "/collections/vision.avif",
+            "alt": "Vision"
+          }
         }
-      },
-      {
-        "name": "Joints",
-        "link": "/collections/joints",
-        "logo": {
-          "src": "/collections/joints.avif",
-          "alt": "Joints"
-        }
-      },
-      {
-        "name": "Immunity",
-        "link": "/collections/immunity",
-        "logo": {
-          "src": "/collections/immunity.avif",
-          "alt": "Immunity"
-        }
-      },
-      {
-        "name": "Heart",
-        "link": "/collections/heart",
-        "logo": {
-          "src": "/collections/heart.avif",
-          "alt": "Heart"
-        }
-      },
-      {
-        "name": "Bone",
-        "link": "/collections/bone-health",
-        "logo": {
-          "src": "/collections/bones.avif",
-          "alt": "Bone"
-        }
-      },
-      {
-        "name": "Vision",
-        "link": "/collections/vision",
-        "logo": {
-          "src": "/collections/vision.avif",
-          "alt": "Vision"
-        }
-      }
-    ],
+      ]
+    },
     "trustBages": {
       "title": "Purchase with complete confidence, with our 30-day money back guarantee.",
       "theme": null,
@@ -94,6 +98,8 @@
       ]
     },
     "homeGallery": {
+      "title":"Believers",
+      "subTitle":"Living<br />Their Best Life",
       "id": "ahHyITcI0fkzYo7KejQeWGiBK2CXMKvLvTZ8KUBJ",
       "galleryId": "5e7cf7950a4044179b4ab843"
     },
@@ -106,64 +112,69 @@
     }
   },
   "EU": {
+    "PatnerData": true,
     "wistia": {
       "id": "ile0o2zvsm",
       "content": {
         "title": "Benvenuti",
         "btnText": "shop",
+        "btnLink": "/collezioni/tutti",
         "subTitle": "Prodotti per la salute e il benessere radicati nel cuore dell'Italia, realizzati con ingredienti completamente naturali."
       }
     },
-    "categories": [
-      {
-        "name": "Dolore",
-        "link": "/collezioni/dolore",
-        "logo": {
-          "src": "/logo/Dolore.avif",
-          "alt": "Dolore"
+    "categories": {
+      "title": "Le nostre soluzioni",
+      "items": [
+        {
+          "name": "Dolore",
+          "link": "/collezioni/dolore",
+          "logo": {
+            "src": "/logo/Dolore.avif",
+            "alt": "Dolore"
+          }
+        },
+        {
+          "name": "Occhi",
+          "link": "/collezioni/occhi",
+          "logo": {
+            "src": "/logo/Occhi.avif",
+            "alt": "Occhi"
+          }
+        },
+        {
+          "name": "Pre-Diabetic",
+          "link": "/collezioni/pre-diabete",
+          "logo": {
+            "src": "/logo/Pre-diabete.avif",
+            "alt": "Pre-Diabetic"
+          }
+        },
+        {
+          "name": "Pelle",
+          "link": "/collezioni/salute-della-pelle",
+          "logo": {
+            "src": "/logo/Pelle.avif",
+            "alt": "Pelle"
+          }
+        },
+        {
+          "name": "Reverse-aging",
+          "link": "/collezioni/reverse-aging",
+          "logo": {
+            "src": "/logo/Reverse-aging.avif",
+            "alt": "Reverse-aging"
+          }
+        },
+        {
+          "name": "Sali Minerali",
+          "link": "/collezioni/sali-minerali",
+          "logo": {
+            "src": "/logo/sali-minerali.avif",
+            "alt": "Sali Minerali"
+          }
         }
-      },
-      {
-        "name": "Occhi",
-        "link": "/collezioni/occhi",
-        "logo": {
-          "src": "/logo/Occhi.avif",
-          "alt": "Occhi"
-        }
-      },
-      {
-        "name": "Pre-Diabetic",
-        "link": "/collezioni/pre-diabete",
-        "logo": {
-          "src": "/logo/Pre-diabete.avif",
-          "alt": "Pre-Diabetic"
-        }
-      },
-      {
-        "name": "Pelle",
-        "link": "/collezioni/salute-della-pelle",
-        "logo": {
-          "src": "/logo/Pelle.avif",
-          "alt": "Pelle"
-        }
-      },
-      {
-        "name": "Reverse-aging",
-        "link": "/collezioni/reverse-aging",
-        "logo": {
-          "src": "/logo/Reverse-aging.avif",
-          "alt": "Reverse-aging"
-        }
-      },
-      {
-        "name": "Sali Minerali",
-        "link": "/collezioni/sali-minerali",
-        "logo": {
-          "src": "/logo/sali-minerali.avif",
-          "alt": "Sali Minerali"
-        }
-      }
-    ],
+      ]
+    },
     "trustBages": {
       "title": "14 Giorni - Soddisfatti o Rimborsati",
       "theme": null,
@@ -198,11 +209,112 @@
       ]
     },
     "homeGallery": {
-    "id": "jEbEI2jY9vvLxI8yyKzuyJz2I0PQz9Mn0SaZJTMJ",
-    "galleryId": "6411911c72b20e001784b649"
-  },
+      "title":"“Dolce Vita”!",
+      "subTitle":"Vivi anche tu la",
+      "id": "jEbEI2jY9vvLxI8yyKzuyJz2I0PQz9Mn0SaZJTMJ",
+      "galleryId": "6411911c72b20e001784b649"
+    },
     "newsletter": {
       "title": "Iscriviti alla newsletter",
+      "portalId": "19647191",
+      "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
+      "desktopImage": "/utility/home-news-desk.avif",
+      "mobileImage": "/utility/home-news-mob.avif"
+    }
+  },
+  "DE": {
+    "PatnerData": false,
+    "wistia": {
+      "id": "ile0o2zvsm",
+      "content": {
+        "title": "Willkommen<br/> <h2>Bei Mditerranean Life®</h2>",
+        "btnText": "Laden",
+        "btnLink": "#",
+        "subTitle": "Gesundheits- und Wellnessprodukte, die im Herzen Italiens verwurzelt sind und aus völlig natürlichen Inhaltsstoffen hergestellt werden."
+      }
+    },
+    "categories": {
+      "title": "Unsere Lösungen",
+      "items": [
+        {
+          "name": "Mineralstoffe",
+          "link": "#",
+          "btnText":"Laden",
+          "logo": {
+            "src": "/logo/Dolore.avif",
+            "alt": "Mineralstoffe"
+          }
+        },
+        {
+          "name": "Schmerz",
+          "link": "#",
+          "btnText":"Laden",
+          "logo": {
+            "src": "/logo/Occhi.avif",
+            "alt": "Schmerz"
+          }
+        },
+        {
+          "name": "Umgekehrte Alterung",
+          "btnText":"Laden",
+          "link": "#",
+          "logo": {
+            "src": "/logo/Pre-diabete.avif",
+            "alt": "Umgekehrte Alterung"
+          }
+        },
+        {
+          "name": "Prädiabete",
+          "link": "#",
+          "btnText":"Laden",
+          "logo": {
+            "src": "/logo/Pelle.avif",
+            "alt": "Prädiabete"
+          }
+        },
+        {
+          "name": "Augen",
+          "link": "#",
+          "btnText":"Laden",
+          "logo": {
+            "src": "/logo/Reverse-aging.avif",
+            "alt": "Augen"
+          }
+        },
+        {
+          "name": "Haut",
+          "link": "#",
+          "btnText":"Laden",
+          "logo": {
+            "src": "/logo/sali-minerali.avif",
+            "alt": "Haut"
+          }
+        }
+      ]
+    },
+    "purpose": {
+      "title": "Unser Ziel",
+      "buttonText": "Lesen Sie mehr",
+      "buttonUrl": "#",
+      "image": {
+        "src": "/utility/purpose.avif",
+        "alt": "La Nostra Missione"
+      },
+      "paragraphs": [
+        "Bruno MD ermöglicht es Ihnen, dank kompromissloser natürlicher Inhaltsstoffe und wissenschaftlicher Vorstellungskraft ein gesünderes Leben zu führen. Wir sind Italiener und familiär geführt, so dass es uns Freude bereitet, Menschen mit den innovativsten und wirksamsten pharmakologischen Behandlungen und mit den besten natürlichen Inhaltsstoffen zu verbinden, unterstützt durch gesunde Ernährung und soziale Gewohnheiten, die typisch für das Mittelmeer sind.Es ist kein Zufall, dass zwei der fünf Blauen Zonen der Welt im Mittelmeerraum liegen, wo Menschen regelmäßig über 100 Jahre alt werden.",
+        " Unsere Reise begann als pharmazeutisches Unternehmen, aber wir verwenden die gleichen wissenschaftlichen Prinzipien, um unsere natürlichen Gesundheitsprodukte herzustellen. Es ist klinisch erwiesen, dass jeder Inhaltsstoff, den wir verwenden, maximale gesundheitliche Vorteile bietet. Wir haben auch schwer absorbierbare Inhaltsstoffe dank der Phytosomen-Technologie bioverfügbarer gemacht. Dr. Bruno befindet sich an der Kreuzung von Traditionen und Geschichte, die die moderne Welt hervorgebracht haben. ",
+        "Wir begrüßen die Einfachheit der Familie, des gemeinsamen Tisches und der frischen Zutaten zu jeder Mahlzeit. Wir setzen auf innovative Wissenschaft, um diese Inhaltsstoffe anzubieten und ein gesünderes Leben zu schaffen."
+      ]
+    },
+    "homeGallery": {
+      "title":"“des Lebens!”",
+      "subTitle":"Lebe den Schmerz",
+      "invert":true,
+      "id": "jEbEI2jY9vvLxI8yyKzuyJz2I0PQz9Mn0SaZJTMJ",
+      "galleryId": "6411911c72b20e001784b649"
+    },
+    "newsletter": {
+      "title": "Abonnieren Sie unseren Newsletter",
       "portalId": "19647191",
       "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
       "desktopImage": "/utility/home-news-desk.avif",

@@ -2,7 +2,7 @@ import React, { useEffect } from "react"
 import MainNav from "./Helpers/mainNav"
 import styles from './styles.module.css'
 
-export default function Home({link, version}) {
+export default function Home({link, version,iconLink}) {
     useEffect(()=>{
         window.onscroll = function() {scrollFunction()};
         function scrollFunction() {
@@ -16,7 +16,7 @@ export default function Home({link, version}) {
     },[])
     return(
         <header className={styles.header} id="header">
-            <MainNav navMenuLinks={link} version={version}/>
+            <MainNav navMenuLinks={link} version={version} iconLink={iconLink}/>
         </header>
     )
 }

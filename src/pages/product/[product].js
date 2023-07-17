@@ -16,6 +16,7 @@ import ProductReviews from "@/utilities/ProductReviews";
 import FourStepProcess from "@/utilities/FourStepProcess";
 import ProductTrustBadges from "@/utilities/ProductTrustBadges";
 import Testimonial from "@/utilities/Testimonial";
+import { HomeGallery } from "@/utilities/HomeGallery";
 
 const Product = ({version}) => {
     const [load, setLoad] = useState(true)
@@ -35,8 +36,8 @@ const Product = ({version}) => {
         });
     }
     // const products = getAllProducts();
-    const {title, details, newsletter,fourStepProcess, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price, seo, testimonial } = product || {}
-    console.log({testimonial});
+    const {title, details, newsletter,fourStepProcess, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price, seo, testimonial,homeGallery } = product || {}
+    console.log({homeGallery});
     useEffect( () => {
         let url = window.location.href;
         let splitUrl = url.split('/product/');
@@ -72,6 +73,7 @@ const Product = ({version}) => {
             <MarkqueCarousel image={PatnerData} />
             {testimonial && <Testimonial content={{ slides: testimonial, theme: theme }}/>}
             <NewsLetter content={newsletter} />
+            {homeGallery &&<HomeGallery id={homeGallery.id} galleryId={homeGallery.galleryId} productid={EXTERNALID}/>}
             <ProductReviews variantId={EXTERNALID} />
         </section>
     )
