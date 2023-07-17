@@ -452,6 +452,7 @@ https://flickity.metafizzy.co
 }
 .xyz{
 margin:100%;
+width: auto;
 }
 @keyframes loader-circle-2-animation {
   0% {
