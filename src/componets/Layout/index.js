@@ -5,6 +5,7 @@ import Chat from '@/utilities/ChatBubble'
 import FeatureInfo from '@/utilities/FeatureInfo'
 import BottomBar from '@/utilities/BottomBar';
 import data from '../../../json/layout.json'
+
 export default function Layout({ children,version }) {
     return (
         <>

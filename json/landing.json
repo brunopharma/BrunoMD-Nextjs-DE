@@ -238,6 +238,76 @@
             "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
             "desktopImage": "https://f.shgcdn.com/36a62ffd-6a81-42b5-a958-3bced96f32e0/",
             "mobileImage": "https://f.shgcdn.com/b9865024-9eb3-4ecc-a335-fd99718d5f5b/", "landing": true
-          }
+          },
+          "footer": {
+            "hideFooterHead":true,
+            "links": [
+                {
+                    "url": "",
+                    "title": "Company",
+                    "name": "Company",
+                    "navMenuLinks": [
+                        {
+                            "name": "Our Story",
+                            "url": "/our-story"
+                        },
+                        {
+                            "name": "Our Science",
+                            "url": "/science"
+                        },
+                        {
+                            "name": "Social Responsibility",
+                            "url": "/social-responsibility"
+                        }
+                    ]
+                },
+                {
+                    "url":"",
+                    "title":"Customer Support",
+                    "navMenuLinks":[
+                        {
+                            "name": "Contact Us",
+                            "url": "/contact-us"
+                        },
+                        {
+                            "name": "FAQs",
+                            "url": "/faqs"
+                        },
+                        {
+                            "name": "Reviews",
+                            "url": "/reviews"
+                        }
+                    ]
+                },
+                {
+                    "url": "",
+                    "title": "Others",
+                    "name": "Company",
+                    "navMenuLinks": [
+                        {
+                            "name": "Shipping Policy",
+                            "url": "/shipping-policy"
+                        },
+                        {
+                            "name": "Returns Portal",
+                            "url": "https://brunomd.returnscenter.com/"
+                        },
+                        {
+                            "name": "Return Policy",
+                            "url": "/return-and-cancellation-policy"
+                        },
+                        {
+                            "name": "Terms of Service",
+                            "url": "/terms-of-service"
+                        },
+                        {
+                            "name": "Privacy Policy",
+                            "url": "/privacy-policy"
+                        }
+                    ]
+                }
+            ],
+            "text": "<p>Statements made on this website have not been evaluated by the U.S. Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease. Information provided by this website or this company is not a substitute for individual medical advice.</p><p>© 2022 brunomd.com. All Rights Reserved</p>"
+        }
     }
 }
