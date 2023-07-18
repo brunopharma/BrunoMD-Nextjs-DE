@@ -116,7 +116,7 @@
     "wistia": {
       "id": "ile0o2zvsm",
       "content": {
-        "title": "Benvenuti",
+        "title": "Benvenuti <br/><h2> Alla MDiterranean Life®</h2>",
         "btnText": "shop",
         "btnLink": "/collezioni/tutti",
         "subTitle": "Prodotti per la salute e il benessere radicati nel cuore dell'Italia, realizzati con ingredienti completamente naturali."
@@ -237,52 +237,12 @@
       "title": "Unsere Lösungen",
       "items": [
         {
-          "name": "Mineralstoffe",
-          "link": "#",
-          "btnText":"Laden",
-          "fontSize":50,
-          "logo": {
-            "src": "/logo/Dolore.avif",
-            "alt": "Mineralstoffe"
-          }
-        },
-        {
-          "name": "Schmerz",
-          "link": "#",
+          "name": "Augen",
+          "link": "/collections/augen",
           "btnText":"Laden",
           "fontSize":50,
           "logo": {
             "src": "/logo/Occhi.avif",
-            "alt": "Schmerz"
-          }
-        },
-        {
-          "name": "Umgekehrte Alterung",
-          "btnText":"Laden",
-          "fontSize":50,
-          "link": "#",
-          "logo": {
-            "src": "/logo/Pre-diabete.avif",
-            "alt": "Umgekehrte Alterung"
-          }
-        },
-        {
-          "name": "Prädiabete",
-          "link": "#",
-          "btnText":"Laden",
-          "fontSize":50,
-          "logo": {
-            "src": "/logo/Pelle.avif",
-            "alt": "Prädiabete"
-          }
-        },
-        {
-          "name": "Augen",
-          "link": "#",
-          "btnText":"Laden",
-          "fontSize":50,
-          "logo": {
-            "src": "/logo/Reverse-aging.avif",
             "alt": "Augen"
           }
         },
@@ -292,8 +252,48 @@
           "btnText":"Laden",
           "fontSize":50,
           "logo": {
-            "src": "/logo/sali-minerali.avif",
+            "src": "/logo/Pelle.avif",
             "alt": "Haut"
+          }
+        },
+        {
+          "name": "Mineralstoffe",
+          "link": "#",
+          "btnText":"Laden",
+          "fontSize":50,
+          "logo": {
+            "src": "/logo/sali-minerali.avif",
+            "alt": "Mineralstoffe"
+          }
+        },
+        {
+          "name": "Prädiabete",
+          "link": "#",
+          "btnText":"Laden",
+          "fontSize":50,
+          "logo": {
+            "src": "/logo/Pre-diabete.avif",
+            "alt": "Prädiabete"
+          }
+        },
+        {
+          "name": "Schmerz",
+          "link": "#",
+          "btnText":"Laden",
+          "fontSize":50,
+          "logo": {
+            "src": "/logo/Dolore.avif",
+            "alt": "Schmerz"
+          }
+        },
+        {
+          "name": "Umgekehrte Alterung",
+          "btnText":"Laden",
+          "fontSize":50,
+          "link": "#",
+          "logo": {
+            "src": "/logo/Reverse-aging.avif",
+            "alt": "Umgekehrte Alterung"
           }
         }
       ]
@@ -320,7 +320,7 @@
     "newsletter": {
       "title": "Abonnieren Sie unseren Newsletter",
       "portalId": "19647191",
-      "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
+      "formId": "fb21ed96-6d35-4449-a812-34569d3f7b25",
       "desktopImage": "/utility/home-news-desk.avif",
       "mobileImage": "/utility/home-news-mob.avif"
     }

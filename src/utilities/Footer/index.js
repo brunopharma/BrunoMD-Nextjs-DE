@@ -2,9 +2,11 @@ import styles from './styles.module.css'
 import NavLink from './Helper/navLink'
 import Link from 'next/link'
 export default function Home({ data }) {
+    console.warn({data});
     return (
         <footer className={styles.footer}>
             <div className={styles.container}>
+                {!data?.hideFooterHead &&
                 <div className={styles.wrapper}>
                     <div>
                         <Link href={'/'}>
@@ -18,7 +20,7 @@ export default function Home({ data }) {
                             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22"><path d="M11.75 22H1.215A1.215 1.215 0 010 20.786V1.214C0 .544.544 0 1.214 0h19.572C21.456 0 22 .544 22 1.214v19.572c0 .67-.544 1.214-1.214 1.214H15.18v-8.52h2.86l.428-3.32H15.18V8.04c0-.96.267-1.616 1.645-1.616h1.758v-2.97a23.601 23.601 0 00-2.562-.131c-2.535 0-4.27 1.547-4.27 4.389v2.448H8.884v3.32h2.867V22z" fill="#FFF" fill-rule="evenodd"></path></svg></a>
                     </div>
 
-                </div>
+                </div>}
                 <div className={styles.grid}>
                     <NavLink menuGroup={data.links} />
                     <div className={styles.legalCol}>

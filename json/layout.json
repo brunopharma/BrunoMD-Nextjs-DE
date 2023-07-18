@@ -171,7 +171,7 @@
     },
     "EU": {
         "announcementBar": {
-            "title": "Spedizione gratuita per ordini superiori a € 60. Lo sconto viene automaticamente applicato alla cassa",
+            "title": "Spedizione gratuita per ordini superiori a €60. Lo sconto viene automaticamente applicato alla cassa",
             "textColor": "#fff",
             "backgroundColor": "#3a3a3a"
         },
@@ -358,7 +358,7 @@
                     ]
                 }
             ],
-            "text": "<p>Esclusione di responsabilità.</p><p>Per quanto gli autori si sforzino di fornire informazioni corrette e attendibili, le stesse non hanno lo scopo di fornire consigli medici individuali e in nessun caso possono costituire la prescrizione di un trattamento, la visita specialistica o il rapporto diretto con il proprio medico curante.</p><p>Si invitano e consigliano gli utenti a chiedere il parere di un medico o di altro specialista prima di prendere qualsiasi iniziativa. Si invitano e consigliano gli utenti a chiedere il parere di un medico o di altro specialista prima di prendere qualsiasi iniziativa. </p><p>Tutte le informazioni fornite: </p><ul><li>non devono essere interpretate come alternative alla consultazione, valutazione o trattamento di un medico ovvero di altro specialista.                                                         </li></ul><ul><li>non sono pensate per fornire specifica consulenza in materia di salute fisica, o qualsiasi altra sorta di consulenza. Pertanto tutto il materiale, le informazioni e i piani alimentari sono elaborati soltanto a scopo informativo.</li></ul><p>© 2023 brunomd.com. Diritti riservati</p>"
+            "text": "<p>Esclusione di responsabilità.</p><p>Per quanto gli autori si sforzino di fornire informazioni corrette e attendibili, le stesse non hanno lo scopo di fornire consigli medici individuali e in nessun caso possono costituire la prescrizione di un trattamento, la visita specialistica o il rapporto diretto con il proprio medico curante.</p><p>Si invitano e consigliano gli utenti a chiedere il parere di un medico o di altro specialista prima di prendere qualsiasi iniziativa. Si invitano e consigliano gli utenti a chiedere il parere di un medico o di altro specialista prima di prendere qualsiasi iniziativa. </p><p>Tutte le informazioni fornite: </p><ul><li>non devono essere interpretate come alternative alla consultazione, valutazione o trattamento di un medico ovvero di altro specialista.                                                         </li></ul><ul><li>non sono pensate per fornire specifica consulenza in materia di salute fisica, o qualsiasi altra sorta di consulenza. Pertanto tutto il materiale, le informazioni e i piani alimentari sono elaborati soltanto a scopo informativo.</li></ul><p>© 2023 brunomd.eu. Diritti riservati</p>"
         },
         "featureInfo": [
             "Spedizione gratuita con ordini superiori a € 60",
@@ -383,7 +383,7 @@
     },
     "DE": {
         "announcementBar": {
-            "title": "KOSTENLOSER Versand für alle Bestellungen über 75 $. Wird automatisch an der Kasse angewendet.",
+            "title": "KOSTENLOSER Versand für alle Bestellungen über €60. Wird automatisch an der Kasse angewendet.",
             "textColor": "#fff",
             "backgroundColor": "#3a3a3a"
         },
@@ -391,20 +391,16 @@
             {
                 "subMenuLinks": [
                     {
+                        "url": "/collections/augen",
+                        "displayText": "Augen"
+                    },
+                    {
                         "url": "#",
                         "displayText": "Haut"
                     },
                     {
                         "url": "#",
-                        "displayText": "Augen"
-                    },
-                    {
-                        "url": "#",
-                        "displayText": "Umgekehrte Alterung"
-                    },
-                    {
-                        "url": "#",
-                        "displayText": "Schmerz"
+                        "displayText": "Mineralstoffe"
                     },
                     {
                         "url": "#",
@@ -412,7 +408,11 @@
                     },
                     {
                         "url": "#",
-                        "displayText": "Mineralstoffe"
+                        "displayText": "Schmerz"
+                    },
+                    {
+                        "url": "#",
+                        "displayText": "Umgekehrte Alterung"
                     }
                 ],
                 "name": "Shop",
@@ -539,7 +539,7 @@
                     ]
                 }
             ],
-            "text": "<p>Verzichtserklärung. Die hier enthaltenen Informationen sind rein informativ und indikativ; Sie sind kein Ersatz für ärztlichen Rat. Alle Entscheidungen, die von den Lesern auf der Grundlage der hier bereitgestellten Daten und Informationen getroffen werden, werden in voller Entscheidungsautonomie und auf eigenes Risiko getroffen. Die Vervielfältigung im Ganzen ohne schriftliche Genehmigung ist untersagt.</p><p>© 2022 <a hre='brunomd.de'>brunomd.de</a> Alle Rechte vorbehalten</p>"
+            "text": "<p>Verzichtserklärung. Die hier enthaltenen Informationen sind rein informativ und indikativ; Sie sind kein Ersatz für ärztlichen Rat. Alle Entscheidungen, die von den Lesern auf der Grundlage der hier bereitgestellten Daten und Informationen getroffen werden, werden in voller Entscheidungsautonomie und auf eigenes Risiko getroffen. Die Vervielfältigung im Ganzen ohne schriftliche Genehmigung ist untersagt.</p><p>© 2023 <a hre='brunomd.de'>brunomd.de</a> Alle Rechte vorbehalten</p>"
         },
         "cartLink":"#",
         "login":{
@@ -547,7 +547,7 @@
             "url":"#"
         },
         "featureInfo": [
-            "Kostenloser Versand ab einem Bestellwert von 60 €",
+            "Kostenloser Versand ab einem Bestellwert von €60",
             "20% Rabatt auf alle Kunden mit regelmäßigem Kauf",
             "14 Tage - Geld-zurück-Garantie"
         ]
