@@ -5,7 +5,7 @@ import { RouteGuard } from '@/componets/RouteGuard'
 import Script from 'next/script'
 
 export default function App({ Component, pageProps }) {
-  const version = 'EU'
+  const version = 'DE'
   // useEffect(() => {
     
   //   if (typeof window !== 'undefined') {
