@@ -238,7 +238,7 @@
       "items": [
         {
           "name": "Augen",
-          "link": "/collections/augen",
+          "link": "/sammlungen/augen",
           "btnText":"Laden",
           "fontSize":50,
           "logo": {
@@ -320,7 +320,7 @@
     "newsletter": {
       "title": "Abonnieren Sie unseren Newsletter",
       "portalId": "19647191",
-      "formId": "fb21ed96-6d35-4449-a812-34569d3f7b25",
+      "formId": "a6e87520-c370-4d81-9dbb-8b3766066776",
       "desktopImage": "/utility/home-news-desk.avif",
       "mobileImage": "/utility/home-news-mob.avif"
     }
