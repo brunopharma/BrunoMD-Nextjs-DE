@@ -41,9 +41,7 @@ function RouteGuard({ children, version }) {
         }
         if (publicPaths.includes(url)) {
             setAuthorized(true);
-            // setAuthorized(true);
         } else {
-            // alert(url)
             window.location.href = '/404-page'
             setAuthorized(false);
         }
