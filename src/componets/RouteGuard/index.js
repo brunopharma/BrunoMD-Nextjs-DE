@@ -36,6 +36,7 @@ function RouteGuard({ children, version }) {
         // if (version == 'DE') publicPaths = ['/', '/sammlungen/augen', '/produkte/drop-therapeutic-schmierende-okulare-10ml', '/404-page', '/sammlungen/[collezioni]', '/produkte/[prodotti]']
         console.log(publicPaths.includes(url), { publicPaths, url });
         if (!publicPaths.length) {
+
             publicPaths = ['/404-page']
         }
         if (publicPaths.includes(url)) {
