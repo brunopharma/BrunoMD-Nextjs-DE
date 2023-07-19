@@ -1761,7 +1761,6 @@
                     "<p>Our Riboflam inflammation supplement response by delivering the maximum dosage of immune-boosting nutrients into your bloodstream using Phytosome technology.</p>",
                     "<p>With Riboflam, you can also stay in the game and discover the secrets of world-class Italian athletes. Bruno MD created Riboflam for everyone who likes to move, at any fitness level at any stage in life.</p>",
                     "<p>It works naturally to soothe aches and pains after an intense workout or a casual stroll in the piazza with friends.</p>",
-                    "<p>It works naturally to soothe aches and pains after an intense workout or a casual stroll in the piazza with friends.</p>",
                     "<p>Riboflam is the only 100% vegan dietary supplement containing 'Nucleoflam', made with nucleotides and nucleosides from Yeast Extract & blended with a potent proprietary Phytosome complex containing Curcumin, Boswellia Serrata, Quercetin & Echinacea Angustifolia.</p>",
                     "<b>Direction to use</b>",
                     "<p>Take 3 capsules daily with water with food</p>",
@@ -1813,9 +1812,9 @@
                     "Lombardia, Italy.",
                     "<p>Indian Frankincense is a botanical extract harvested from the gum resin of the Boswellia Serrata tree. Boswellia Serrata Phytosome helps govern inflammatory response in the joints, bones, respiratory airways, the bowel, and even in the brain. In addition, clinical studies have shown that a cocktail of AKBA (Acetyl-11-Keto-𝛃-Boswellic Acid) and Curcumin significantly inhibit certain viral infections (viral entry) compared to the untreated control. BRUNO MD uses Boswellia Phytosome extract that is 400% more bioavailable than regular Boswellia.</p>",
                     "<h3>ECHINACEA ANGUSTIFOLIA PHYTOSOME (NARROW-LEAVED CONEFLOWER EXTRACT-ECHINACEA ANGUSTIFOLIA ROOT)</h3>",
-                    "<p>Lombardia, Italy. The use of Echinacea is traced back to Native Americans who used it as a natural anti-inflammatory. Major disorder targets of these treatments were related to: sore mouth, toothache, colds, tonsillitis, septic diseases, cough and general inflammatory conditions. Bruno MD cultivates our coneflower from a variety located in Italy. Our plants guarantee high polysaccharide and low cross contamination between Echinacea species. Echinacea Angustifolia Phytosome is optimized for maximum absorption. Results in clinical trials conducted using our triple-standardized Echinacea Phytosome, have shown a statistically significant tendency to be more efficacious than flu vaccination alone, suggesting that E. Phytosome has the potential to act synergistically with influenza vaccination.</p>",
+                    "Lombardia,","<p>Italy. The use of Echinacea is traced back to Native Americans who used it as a natural anti-inflammatory. Major disorder targets of these treatments were related to: sore mouth, toothache, colds, tonsillitis, septic diseases, cough and general inflammatory conditions. Bruno MD cultivates our coneflower from a variety located in Italy. Our plants guarantee high polysaccharide and low cross contamination between Echinacea species. Echinacea Angustifolia Phytosome is optimized for maximum absorption. Results in clinical trials conducted using our triple-standardized Echinacea Phytosome, have shown a statistically significant tendency to be more efficacious than flu vaccination alone, suggesting that E. Phytosome has the potential to act synergistically with influenza vaccination.</p>",
                     "<h3>NUCLEOFLAM PROPRIETARY NUCLEOTIDES AND NUCLEOSIDES YEAST EXTRACT COMPLEX</h3>",
-                    "<p>Lombardia, Italy. Our formulation begins at the cellular base level with a unique Nucleoflam Proprietary Nucleotide & Nucleotides Yeast Extract Complex. These nucleotides are vital to maintaining essential cell functions and supporting a healthy immune system, digestive system, and brain function. Nucleotides also enhance the anti-inflammatory activity of Vitamin C, Vitamin D3, and Zinc. They are gluten-free and suitable for vegans and both kosher & halal. BRUNO MD combines Nucleoflam with Astaxanthin, the most potent anti-inflammatory known in nature. Together they create a powerful shield against chronic inflammation.</p>",
+                    "Lombardia, Italy.","<p>Our formulation begins at the cellular base level with a unique Nucleoflam Proprietary Nucleotide & Nucleotides Yeast Extract Complex. These nucleotides are vital to maintaining essential cell functions and supporting a healthy immune system, digestive system, and brain function. Nucleotides also enhance the anti-inflammatory activity of Vitamin C, Vitamin D3, and Zinc. They are gluten-free and suitable for vegans and both kosher & halal. BRUNO MD combines Nucleoflam with Astaxanthin, the most potent anti-inflammatory known in nature. Together they create a powerful shield against chronic inflammation.</p>",
                     "<h3>CURCUMIN PHYTOSOME (TURMERIC EXTRACT - CURCUMA LONGA)</h3>",
                     "Sweden & Japan.",
                     "<p>Our Astaxanthin is clinically proven to help shield the front of your eyes: it’s nature’s most potent antioxidant-sourced from special algae found in temperate regions around the world. Astaxanthin protects your eyes against free radicals generated by UV radiation and actually strengthens eye muscles to reduce eye fatigue that contributes to Computer Vision Syndrome.</p>",
@@ -3786,6 +3785,149 @@
         "seo": {
             "title": "Bluerex Vision Supplements for Blue Light | Bruno MD",
             "description": "Bluerex Vision Supplements are clinically proven to protect the front &amp; back of the eye against harmful blue light and to relieve computer vision syndrome."
+        }
+    },
+    "drop-therapeutic-schmierende-okulare-10ml":{
+        "EXTERNALID": "8097677934907",
+        "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2Nzc5MzQ5MDc=",
+        "SLUG": "drop-therapeutic-gocce-oculari-lubrificanti-10ml",
+        "link": "/prodotti/",
+        "theme": "#00A7E1",
+        "title": "DROP THERAPEUTIC",
+        "btnText": "Shop",
+        "price": 18.00,
+        "logo": {
+            "src": "\\utility\\products\\drop\\BMD-Drop-Therapeutic-9O3A5578_3000.avif"
+        },
+        "images": [
+            {
+                "src": "\\utility\\products\\drop\\BMD-Drop-Therapeutic-9O3A5578_3000.avif",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\drop\\BMD-Drop-Therapeutic-9O3A5578_A3000.avif",
+                "alt": ""
+            },
+            {
+                "src": "\\utility\\products\\drop\\BMD-Drop-Therapeutic-9O3A5587_90.avif",
+                "alt": ""
+            }
+        ],
+        "declaimer": {
+            "title": "<h1>DROP THERAPEUTIC</h1>",
+            "subTitle": "<strong>Drop Therapeutic Schmierende Okulare 10ml</strong>",
+            "content": "<p>BEFEUCHTENDE AUGENTROPFEN<br>Stellt die Stoffwechselaktivität des Auges und den Tränenfilmumsatz wieder her. Schmierende Augenlösung mit patentierter Formulierung auf Basis von Vitamin B2, Vitamin E TPGS, Natriumhyaluronat und Aminosäuren.<br>Es trägt zur Stabilität der Augenoberfläche bei und reguliert den pH-Wert und die Osmolarität. Es schützt Epithelien, die verschiedenen Belastungen ausgesetzt sind.</p>"
+        },
+        "priceBox": {
+            "qtyUnitMultiplierLabel": "Einheit",
+            "discount": 15,
+            "maxQty": 10,
+            "defaultQtyMultiplayer": 1,
+            "qtyMultiplierShowOnExtraDesc": false,
+            "qtyExtraDesc": "Flasche 10ml",
+            "stock": "Sofortige Verfügbarkeit",
+            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
+            "moreInfoBtnText": "Maggiori informazioni",
+            "qtyLabelText": "Menge",
+            "freqLabelText": "Consegna ogni",
+            "oneTime": {
+                "title": "Einzelkauf",
+                "btnText": "Aggiungi al carrello"
+            },
+            "subscribe": {
+                "title": "Periodischer Kauf",
+                "btnText": "Periodischer Kauf",
+                "interval": "giorni",
+                "saveLabel": "Jetzt sparen",
+                "extraLabel": "Periodischer Kauf"
+            },
+            "moneyBackInfo": {
+                "title": "14 Giorni - Soddisfatti o Rimborsati ",
+                "desc": "Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
+            },
+            "termPurchase": {
+                "title": "Modalita' per l'acquisto periodico",
+                "desc": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+            }
+        },
+        "benefits": {
+            "title": "Scheda Prodotto",
+            "productColorTheme": "rgb(0, 175, 240)",
+            "items": [
+                {
+                    "title": "Idrata e rigenera",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\drop\\BMD-Hair_0884b.avif",
+                        "alt": ""
+                    },
+                    "description": "Migliora l'idratazione e la rigenerazione dei tessuti e il rispristino del naturale equilibrio del film lacrimale"
+                },
+                {
+                    "title": "Stabilizza",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\drop\\BMD-GG-i3-P1016891.avif",
+                        "alt": ""
+                    },
+                    "description": "Contribuisce alla stabilita' della superficie oculare e regola il pH e l'osmolarità e protegge l'epitelio corneale"
+                },
+                {
+                    "title": "Protegge",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\drop\\BMD-i3-FilippoFior-FIO_0192+.avif",
+                        "alt": ""
+                    },
+                    "description": "Migliora l'azione protettiva sull'epitelio corneale accellerando il naturale processo di riparazione nel Dry Eye."
+                },
+                {
+                    "title": "Promuove",
+                    "icon": "",
+                    "img": {
+                        "src": "\\utility\\products\\drop\\BMD-i2-FIO_5394+.avif",
+                        "alt": ""
+                    },
+                    "description": "Promuove la bagnabilità della superficie oculare e fornisce nutrienti essenziali per il post-operatorio della superficie oculare"
+                }
+            ]
+        },
+        "details": [
+            {
+                "title": "Dettagli",
+                "details": [
+                    "<p>DROP therapeutic è una soluzione oftalmica a base di VIT B2, VIT E, sodio ialuronato ed amminoacidi. La VIT B2 e la VIT E TPGS contenute nella soluzione oftalmica interagiscono con lo strato lipidico esterno del film lacrimale e formano un film protettivo che ostacola la ipervaporazione della componente acquosa. Il sodio ialuronato interagisce meccanicamente con lo strato mucinico del film lacrimale trattenendo acqua e contribuendo a mantenere la superficie oculare stabile per un lungo periodo. L'azione sinergica degli amminoacidi ha una funzione nutritiva della superficie oculare, oltre che funzione di regolazione del ph e dell’osmolarità lacrimale e contribuisce al miglioramento della protezione degli epiteli sottoposti a stress di varia natura. La Vit E TPGS favorisce inoltre la bagnabilità della superfice oculare. La soluzione oftalmica apporta in maniera bilanciata tutti i vari nutrienti necessari a garantire la conservazione delle condizioni ottimali della superficie oculare dopo insulti di tipo chirurgico. Inoltre DROP therapeutic può essere utilizzato dopo l'irraggiamento con UV-A nel cross-linking corneale e durante l'esposizione al sole per mantenere la cornea idratata. Antiossidante naturale contro i danni da raggi UV e luce visibile ad alta energia (HEV light), promuove i naturali processi riparativi. É indicato per il Cheratocono e altre ectasie corneali, trattamenti di cross linking corneale ed i portatori di LAC. DROP therapeutic può essere utilizzato con lenti a contatto indossate. DROP therapeutic è indicato:</p><ul style='list-style: inside disc;'><li>nei pazienti sottoposti ad interventi di cross-linking cornealenei pazienti affetti da cheratocono</li><li>nella secchezza oculare</li><li>nell’alterazione della continuità della superficie oculare</li><li>nelle iperemie dopo chirurgia refrattiva</li><li>nei traumi da corpo estraneo</li><li>in seguito ad interventi chirurgici</li><li>nelle alterazioni della superficie oculare legate a patologie metaboliche</li><li>nello stress ambientale (smog, microclimi alterati, fumo, aria condizionata</li></ul><br><p>Modalita' d'uso</p><ol style='list-style: inside decimal;'><li>Aprire il flacone e rimuovere il tappo di protezione.</li><li>Premere delicatamente il flacone e instillare 1/2 gocce in ciascun occhio; ripetere l’operazione in base alle esigenze.</li></ol><p>Dopo l’uso chiudere il flacone: il contenuto rimasto può esser riutilizzato fino a 2 mesi dopo la prima apertura.</p><p><strong>Condroindicazioni </strong></p><p>Nessuna nota</p><p><strong>Avvertenze</strong></p><p>il prodotto è solo per uso oftalmico esterno.</p><ul style='list-style: inside disc;'><li>conservare a temperatura non superiore a 25°C</li><li>non utilizzare nei casi di riconosciuta intolleranza o ipersensibilità ai suoi componenti.</li><li>non utilizzare il prodotto se il confezionamento risultasse, al momento della prima apertura,danneggiato o non perfettamente chiuso.</li><li>non usare il prodotto dopo la data di scadenza indicata sulla confezione.</li><li>la data di scadenza si riferisce al prodotto integro e correttamente conservato.</li><li>prima dell’uso leggere attentamente le istruzioni riportate nel foglio illustrativo.</li><li>tenere fuori dalla portata dei bambini.</li><li>non disperdere il contenitore nell’ambiente dopo l’uso   </li></ul><p></p><p><strong>Effetti indesiderati</strong></p><p>Nessuno noto</p><p><strong>Confezione e conservazione</strong></p><p>Chiudere il flacono dopo l'uso.</p><p>Il contenuto può essere</p><p>utilizzato fino a 2 mesi dopo</p><p>la prima apertura. Conservare a temperatura non superiore a 25°C. </p><p>A confezionamento integro non superare la data di scadenza indicata sull’astuccio e sul flacone.</p><p>Non separare il contenuto dalla confezione esterna e dal foglio illustrativo, allo scopo di avere tutte</p><p>le informazioni necessarie al corretto utilizzo del prodotto</p>"
+                ]
+            },
+            {
+                "title": "Informazioni Aggiuntive",
+                "details": [
+                    "<p>Dispenser multidose senza conservanti. Utilizzabile con lenti a contatto</p>"
+                ]
+            },
+            {
+                "title": "Garanzia Di Qualita'",
+                "details": [
+                    "<p>L’attenzione e il monitoraggio costanti su tutto il ciclo di produzione hanno permesso l’ottenimento della certificazione ISO9001 (certificazione che attesta la qualità di un sistema aziendale).</p>"
+                ]
+            },
+            {
+                "title": "Ingredienti",
+                "details": [
+                    "<p>Riboflavina, Vitamina E TPGS, Acido Ialuronico, Amminoacidi. Sodio fosfato, Sodio Cloruro, L-glicina, L-prolina, L-lisina, L-leucina, acqua depurata. Senza conservanti.</p>"
+                ]
+            }
+        ],
+        "newsletter": {
+            "title": "Abonnieren Sie unseren Newsletter",
+            "portalId": "19647191",
+            "formId": "fb21ed96-6d35-4449-a812-34569d3f7b25",
+            "desktopImage": "\\newsletter\\Desktop\\04.avif",
+            "mobileImage": "\\newsletter\\Mobile\\04.avif"
+        },
+        "seo": {
+            "title": "DROP therapeutic | Bruno MD",
+            "description": ""
         }
     }
 }
