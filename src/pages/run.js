@@ -62,7 +62,7 @@ const Run = ({ version }) => {
       <ProductReviews variantId={pageData.variantId} />
       <NewsLetter content={pageData.NewsLetter} />
       <Chat />
-      <Footer data={pageData.footer} />
+      <Footer data={data[version].footer} />
       {!isOpen &&<SubscriptionBar ModalHandler={ModalHandler} />}
     </>
   )

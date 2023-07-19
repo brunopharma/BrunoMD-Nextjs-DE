@@ -2,7 +2,6 @@ import React, { useEffect } from 'react'
 import '@/styles/globals.css'
 import Layout from "@/componets/Layout"
 import { RouteGuard } from '@/componets/RouteGuard'
-import Script from 'next/script'
 
 export default function App({ Component, pageProps }) {
   const version = 'ENG'
