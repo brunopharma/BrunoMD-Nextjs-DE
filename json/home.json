@@ -238,7 +238,7 @@
       "items": [
         {
           "name": "Augen",
-          "link": "/collections/augen",
+          "link": "/sammlungen/augen",
           "btnText":"Laden",
           "fontSize":50,
           "logo": {
