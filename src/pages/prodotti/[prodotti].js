@@ -58,7 +58,7 @@ const Product = ({version}) => {
             <MarkqueCarousel image={PatnerData} />
             {testimonial && <Testimonial content={{ slides: testimonial, theme: theme }}/>}
             <NewsLetter content={newsletter} />
-            <ProductReviews product={shopifyP}/>
+            {!review &&<ProductReviews product={shopifyP}/>}
         </section>
     )
 }
