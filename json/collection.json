@@ -741,13 +741,13 @@
         "title": "Augen",
         "align":"left",
         "masterHead": {
-            "img": {
+   "img": {
                 "desktopImage": {
-                    "src": "/collections/MDvision.avif",
+                    "src": "/utility/ochhi-desk.avif",
                     "alt": ""
                 },
                 "mobileImage": {
-                    "src": "/collections/MDvision.avif",
+                    "src": "/utility/ochhi-mob.avif",
                     "alt": ""
                 },
                 "title": "Augen"
