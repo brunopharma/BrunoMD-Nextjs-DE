@@ -36,7 +36,7 @@ const Product = ({version}) => {
         });
     }
     // const products = getAllProducts();
-    const {title, details, newsletter,fourStepProcess, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price, seo, testimonial,homeGallery } = product || {}
+    const {title, details, newsletter,fourStepProcess, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price, seo, testimonial,homeGallery,review } = product || {}
     console.log({homeGallery});
     useEffect( () => {
         let url = window.location.href;
@@ -74,7 +74,7 @@ const Product = ({version}) => {
             {testimonial && <Testimonial content={{ slides: testimonial, theme: theme }}/>}
             <NewsLetter content={newsletter} />
             {homeGallery &&<HomeGallery id={homeGallery.id} galleryId={homeGallery.galleryId} productid={EXTERNALID}/>}
-            <ProductReviews variantId={EXTERNALID} />
+            {!review &&<ProductReviews variantId={EXTERNALID} />}
         </section>
     )
 }

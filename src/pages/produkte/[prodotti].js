@@ -24,7 +24,7 @@ const Product = ({version}) => {
         storefrontAccessToken: 'a51b71098dff9f7cfd68456c464991bb'
     });
     // const products = getAllProducts();
-    const {title, details, newsletter,fourStepProcess, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price, seo,testimonial } = product || {}
+    const {title, details, newsletter,fourStepProcess, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price, seo,testimonial,review } = product || {}
     useEffect( () => {
         let url = window.location.href;
         let splitUrl = url.split('/produkte/');
@@ -58,7 +58,7 @@ const Product = ({version}) => {
             <MarkqueCarousel image={PatnerData} />
             {testimonial && <Testimonial content={{ slides: testimonial, theme: theme }}/>}
             <NewsLetter content={newsletter} />
-            <ProductReviews product={shopifyP}/>
+            {!review &&<ProductReviews product={shopifyP}/>}
         </section>
     )
 }

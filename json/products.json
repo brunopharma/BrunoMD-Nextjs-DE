@@ -3826,18 +3826,18 @@
             "qtyMultiplierShowOnExtraDesc": false,
             "qtyExtraDesc": "Flasche 10ml",
             "stock": "Sofortige Verfügbarkeit",
-            "subscriptionDetails": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato",
+            "subscriptionDetails": "Verpassen Sie nicht die Gelegenheit, 20% auf diese Bestellung und nachfolgende automatische Lieferungen zu sparen",
             "moreInfoBtnText": "Maggiori informazioni",
             "qtyLabelText": "Menge",
             "freqLabelText": "Consegna ogni",
             "oneTime": {
                 "title": "Einzelkauf",
-                "btnText": "Aggiungi al carrello"
+                "btnText": "In den Warenkorb"
             },
             "subscribe": {
                 "title": "Periodischer Kauf",
                 "btnText": "Periodischer Kauf",
-                "interval": "giorni",
+                "interval": "Tage",
                 "saveLabel": "Jetzt sparen",
                 "extraLabel": "Periodischer Kauf"
             },
@@ -3847,74 +3847,74 @@
             },
             "termPurchase": {
                 "title": "Modalita' per l'acquisto periodico",
-                "desc": "Il tuo abbonamento a questo prodotto si rinnoverà ogni 25 giorni e riceverai il prodotto a pagamento effettuato"
+                "desc": "Ihr Abonnement für dieses Produkt verlängert sich alle 25 Tage und Sie erhalten das Produkt nach Zahlungseingang"
             }
         },
         "benefits": {
-            "title": "Scheda Prodotto",
+            "title": "Produktdatenblatt",
             "productColorTheme": "rgb(0, 175, 240)",
             "items": [
                 {
-                    "title": "Idrata e rigenera",
+                    "title": "Spendet Feuchtigkeit und regeneriert",
                     "icon": "",
                     "img": {
                         "src": "\\utility\\products\\drop\\BMD-Hair_0884b.avif",
                         "alt": ""
                     },
-                    "description": "Migliora l'idratazione e la rigenerazione dei tessuti e il rispristino del naturale equilibrio del film lacrimale"
+                    "description": "Verbessert die Hydratation und Regeneration des Gewebes und die Wiederherstellung des natürlichen Gleichgewichts des Tränenfilms"
                 },
                 {
-                    "title": "Stabilizza",
+                    "title": "Stabilisiert",
                     "icon": "",
                     "img": {
                         "src": "\\utility\\products\\drop\\BMD-GG-i3-P1016891.avif",
                         "alt": ""
                     },
-                    "description": "Contribuisce alla stabilita' della superficie oculare e regola il pH e l'osmolarità e protegge l'epitelio corneale"
+                    "description": "Trägt zur Stabilität der Augenoberfläche bei und reguliert den pH-Wert und die Osmolarität und schützt das Hornhautepithel"
                 },
                 {
-                    "title": "Protegge",
+                    "title": "Schirmt",
                     "icon": "",
                     "img": {
                         "src": "\\utility\\products\\drop\\BMD-i3-FilippoFior-FIO_0192+.avif",
                         "alt": ""
                     },
-                    "description": "Migliora l'azione protettiva sull'epitelio corneale accellerando il naturale processo di riparazione nel Dry Eye."
+                    "description": "Es verbessert die Schutzwirkung auf das Hornhautepithel, indem es den natürlichen Reparaturprozess im trockenen Auge beschleunigt. "
                 },
                 {
-                    "title": "Promuove",
+                    "title": "Fördert",
                     "icon": "",
                     "img": {
                         "src": "\\utility\\products\\drop\\BMD-i2-FIO_5394+.avif",
                         "alt": ""
                     },
-                    "description": "Promuove la bagnabilità della superficie oculare e fornisce nutrienti essenziali per il post-operatorio della superficie oculare"
+                    "description": "Fördert die Benetzbarkeit der Augenoberfläche und liefert essentielle Nährstoffe für die postoperative Augenoberfläche"
                 }
             ]
         },
         "details": [
             {
-                "title": "Dettagli",
+                "title": "Vor- und Nachteile",
                 "details": [
-                    "<p>DROP therapeutic è una soluzione oftalmica a base di VIT B2, VIT E, sodio ialuronato ed amminoacidi. La VIT B2 e la VIT E TPGS contenute nella soluzione oftalmica interagiscono con lo strato lipidico esterno del film lacrimale e formano un film protettivo che ostacola la ipervaporazione della componente acquosa. Il sodio ialuronato interagisce meccanicamente con lo strato mucinico del film lacrimale trattenendo acqua e contribuendo a mantenere la superficie oculare stabile per un lungo periodo. L'azione sinergica degli amminoacidi ha una funzione nutritiva della superficie oculare, oltre che funzione di regolazione del ph e dell’osmolarità lacrimale e contribuisce al miglioramento della protezione degli epiteli sottoposti a stress di varia natura. La Vit E TPGS favorisce inoltre la bagnabilità della superfice oculare. La soluzione oftalmica apporta in maniera bilanciata tutti i vari nutrienti necessari a garantire la conservazione delle condizioni ottimali della superficie oculare dopo insulti di tipo chirurgico. Inoltre DROP therapeutic può essere utilizzato dopo l'irraggiamento con UV-A nel cross-linking corneale e durante l'esposizione al sole per mantenere la cornea idratata. Antiossidante naturale contro i danni da raggi UV e luce visibile ad alta energia (HEV light), promuove i naturali processi riparativi. É indicato per il Cheratocono e altre ectasie corneali, trattamenti di cross linking corneale ed i portatori di LAC. DROP therapeutic può essere utilizzato con lenti a contatto indossate. DROP therapeutic è indicato:</p><ul style='list-style: inside disc;'><li>nei pazienti sottoposti ad interventi di cross-linking cornealenei pazienti affetti da cheratocono</li><li>nella secchezza oculare</li><li>nell’alterazione della continuità della superficie oculare</li><li>nelle iperemie dopo chirurgia refrattiva</li><li>nei traumi da corpo estraneo</li><li>in seguito ad interventi chirurgici</li><li>nelle alterazioni della superficie oculare legate a patologie metaboliche</li><li>nello stress ambientale (smog, microclimi alterati, fumo, aria condizionata</li></ul><br><p>Modalita' d'uso</p><ol style='list-style: inside decimal;'><li>Aprire il flacone e rimuovere il tappo di protezione.</li><li>Premere delicatamente il flacone e instillare 1/2 gocce in ciascun occhio; ripetere l’operazione in base alle esigenze.</li></ol><p>Dopo l’uso chiudere il flacone: il contenuto rimasto può esser riutilizzato fino a 2 mesi dopo la prima apertura.</p><p><strong>Condroindicazioni </strong></p><p>Nessuna nota</p><p><strong>Avvertenze</strong></p><p>il prodotto è solo per uso oftalmico esterno.</p><ul style='list-style: inside disc;'><li>conservare a temperatura non superiore a 25°C</li><li>non utilizzare nei casi di riconosciuta intolleranza o ipersensibilità ai suoi componenti.</li><li>non utilizzare il prodotto se il confezionamento risultasse, al momento della prima apertura,danneggiato o non perfettamente chiuso.</li><li>non usare il prodotto dopo la data di scadenza indicata sulla confezione.</li><li>la data di scadenza si riferisce al prodotto integro e correttamente conservato.</li><li>prima dell’uso leggere attentamente le istruzioni riportate nel foglio illustrativo.</li><li>tenere fuori dalla portata dei bambini.</li><li>non disperdere il contenitore nell’ambiente dopo l’uso   </li></ul><p></p><p><strong>Effetti indesiderati</strong></p><p>Nessuno noto</p><p><strong>Confezione e conservazione</strong></p><p>Chiudere il flacono dopo l'uso.</p><p>Il contenuto può essere</p><p>utilizzato fino a 2 mesi dopo</p><p>la prima apertura. Conservare a temperatura non superiore a 25°C. </p><p>A confezionamento integro non superare la data di scadenza indicata sull’astuccio e sul flacone.</p><p>Non separare il contenuto dalla confezione esterna e dal foglio illustrativo, allo scopo di avere tutte</p><p>le informazioni necessarie al corretto utilizzo del prodotto</p>"
+                    "<p>DROP therapeutisch ist eine ophthalmologische Lösung auf der Basis von VIT B2, VIT E, Natriumhyaluronat und Aminosäuren. Das VIT B2 und das in der ophthalmologischen Lösung enthaltene VIT UND TPGS interagieren mit dem äußere Lipidschicht des Tränenfilms und bilden einen Schutzfilm, der die Hypervaporation der wässrigen Komponente. Natriumhyaluronat interagiert mechanisch mit Muzinschicht des Tränenfilms, die Wasser zurückhält und hilft, die Oberfläche zu pflegen Stabiles Okular für lange Zeit. Die synergistische Wirkung von Aminosäuren hat eine Funktion Pflege der Augenoberfläche, sowie Regulierung des pH-Wertes und der Osmolarität Riss und trägt zur Verbesserung des Schutzes von Epithelien bei, die verschiedenen Belastungen ausgesetzt sind Natur. Vit E TPGS fördert auch die Benetzbarkeit der Augenoberfläche. Die ophthalmologische Lösung liefert auf ausgewogene Weise alle verschiedenen Nährstoffe, die notwendig sind, um die Erhaltung der optimaler Zustand der Augenoberfläche nach chirurgischen Verletzungen. Es ist wirksam gegen Fremdkörpergefühle, Reizungen, Rötungen, Verbrennungen, die durch Umwelteinflüsse wie heiße Luft, klimatisierte Räume, Smog und Staub verursacht werden. Darüber hinaus kann das DROP-Therapeutikum nach UV-A-Bestrahlung in der Vernetzung eingesetzt werden Hornhaut und während der Sonneneinstrahlung, um die Hornhaut mit Feuchtigkeit zu versorgen. Natürliches Antioxidans gegen Schäden durch UV-Strahlen und hochenergetisches sichtbares Licht (HEV-Licht), fördert natürliche Reparaturprozesse. Es ist indiziert für Keratokonus und andere Hornhautektasen, Hornhautvernetzungsbehandlungen und LAC-Träger.<br>DROP therapeutisch kann mit getragenen Kontaktlinsen verwendet werden. DROP-Therapie ist indiziert:</p><ul style='list-style: inside disc;'><li>bei Patienten, die sich einer Hornhautvernetzung unterziehen</li><li>bei Patienten mit Keratokonus</li><li>bei trockenen Augen</li><li>bei der Veränderung der Kontinuität der Augenoberfläche</li><li>bei Hyperämie nach refraktiver Chirurgie</li><li>bei Fremdkörpertrauma</li><li>nach der Operation</li><li>bei Veränderungen der Augenoberfläche im Zusammenhang mit Stoffwechselerkrankungen</li><li>bei Umweltbelastungen (Smog, verändertes Mikroklima, Rauch, Klimaanlagen)</li><p>Gebrauchsanweisung</p><ol style='list-style: auto;'><li>Öffnen Sie die Flasche und entfernen Sie die Schutzkappe.</li><li>Drücken Sie vorsichtig auf die Flasche und träufeln Sie 1/2 Tropfen in jedes Auge; Wiederholen Sie den Vorgang in je nach Bedarf.</li></ol></ul><br><p>Verschließen Sie die Flasche nach dem Gebrauch: Der verbleibende Inhalt kann bis zu 2 Monate nach dem ersten Gebrauch wiederverwendet werden Öffnung.</p><p>Chondroindikationen Keine Notizen Warnhinweise Das Produkt ist nur für die äußerliche ophthalmologische Anwendung bestimmt.</p><ul style='list-style: inside disc;'><li>bei einer Temperatur von nicht mehr als 25°C lagern</li><li>Nicht anwenden bei anerkannter Unverträglichkeit oder Überempfindlichkeit gegen seine Bestandteile.</li><li>Verwenden Sie das Produkt nicht, wenn die Verpackung zum Zeitpunkt des ersten Öffnens beschädigt oder nicht perfekt verschlossen.</li><li>Verwenden Sie das Produkt nach dem auf der Verpackung angegebenen Verfalldatum nicht mehr.</li><li>Das Verfallsdatum bezieht sich darauf, dass das Produkt unversehrt und ordnungsgemäß gelagert wurde.</li><li>Lesen Sie vor Gebrauch die Anweisungen in der Packungsbeilage sorgfältig durch.</li><li>Darf nicht in die Hände von Kindern gelangen.</li><li>Verteilen Sie den Behälter nach Gebrauch nicht in der Umgebung Effekte: niemand</li></ul><br><p>Verpackung und Lagerung Verschließen Sie die Flasche nach Gebrauch. Der Inhalt kann sein: Verwendung bis zu 2 Monate später Die erste Eröffnung. Bei einer Temperatur von nicht mehr als 25 °C lagern.Wenn die Verpackung intakt ist, darf das auf dem Karton und der Flasche angegebene Verfallsdatum nicht überschritten werden. Trennen Sie den Inhalt nicht von der Umverpackung und der Packungsbeilage, damit alle die Informationen, die für die korrekte Verwendung des Produkts erforderlich sind</p>"
                 ]
             },
             {
-                "title": "Informazioni Aggiuntive",
+                "title": "Weitere Informationen",
                 "details": [
-                    "<p>Dispenser multidose senza conservanti. Utilizzabile con lenti a contatto</p>"
+                    "<p>Mehrdosis-Spender ohne Konservierungsstoffe. Kann mit Kontaktlinsen verwendet werden</p>"
                 ]
             },
             {
-                "title": "Garanzia Di Qualita'",
+                "title": "Qualitätssicherung",
                 "details": [
-                    "<p>L’attenzione e il monitoraggio costanti su tutto il ciclo di produzione hanno permesso l’ottenimento della certificazione ISO9001 (certificazione che attesta la qualità di un sistema aziendale).</p>"
+                    "<p>Die ständige Aufmerksamkeit und Überwachung während des gesamten Produktionszyklus haben es ermöglicht, die ISO9001-Zertifizierung zu erhalten (Zertifizierung, die die Qualität eines Unternehmenssystems bescheinigt).</p>"
                 ]
             },
             {
-                "title": "Ingredienti",
+                "title": "Zutaten",
                 "details": [
-                    "<p>Riboflavina, Vitamina E TPGS, Acido Ialuronico, Amminoacidi. Sodio fosfato, Sodio Cloruro, L-glicina, L-prolina, L-lisina, L-leucina, acqua depurata. Senza conservanti.</p>"
+                    "<p>Riboflavin, Vitamin E TPGS, Hyaluronsäure, Aminosäuren. Natriumphosphat, Natriumchlorid, L-Glycin, L-Prolin, L-Lysin, L-Leucin, gereinigtes Wasser. Ohne Konservierungsstoffe.</p>"
                 ]
             }
         ],
@@ -3928,6 +3928,7 @@
         "seo": {
             "title": "DROP therapeutic | Bruno MD",
             "description": ""
-        }
+        },
+        "review":true
     }
 }
