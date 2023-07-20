@@ -12,7 +12,7 @@ function PageHead({ content }) {
             <meta property="og:type" content="website" />
             <meta property="og:locale" content="en-EU" />
             <meta property="og:url" content="/" />
-            <meta property="og:image" content={'/utility/purpose.jpg'} key="ogimage" />
+            <meta property="og:image" content={'https://brunomd-nextjs-de.vercel.app/utility/purpose.avif'} key="ogimage" />
             <meta property="og:site_name" content={'© 2023 brunomd.com. Diritti riservati'} key="ogsitename" />
             <meta property="og:title" content={content?.title} key="ogtitle" />
             <meta property="og:description" content={content?.description} key="ogdesc" />

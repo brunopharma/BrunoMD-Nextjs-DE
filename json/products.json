@@ -3823,7 +3823,7 @@
             "discount": 15,
             "maxQty": 10,
             "defaultQtyMultiplayer": 1,
-            "qtyMultiplierShowOnExtraDesc": false,
+            "qtyMultiplierShowOnExtraDesc": true,
             "qtyExtraDesc": "Flasche 10ml",
             "stock": "Sofortige Verfügbarkeit",
             "subscriptionDetails": "Verpassen Sie nicht die Gelegenheit, 20% auf diese Bestellung und nachfolgende automatische Lieferungen zu sparen",
@@ -3835,11 +3835,11 @@
                 "btnText": "In den Warenkorb"
             },
             "subscribe": {
-                "title": "Periodischer Kauf",
+                "title": "Regelmäßiger Kauf mit 20% Rabatt",
                 "btnText": "Periodischer Kauf",
                 "interval": "Tage",
                 "saveLabel": "Jetzt sparen",
-                "extraLabel": "Periodischer Kauf"
+                "extraLabel": "Mit dem periodischen Kauf"
             },
             "moneyBackInfo": {
                 "title": "14 Giorni - Soddisfatti o Rimborsati ",
