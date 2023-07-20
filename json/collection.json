@@ -743,11 +743,11 @@
         "masterHead": {
             "img": {
                 "desktopImage": {
-                    "src": "/collections/MDvision.avif",
+                    "src": "/utility/ochhi-desk.avif",
                     "alt": ""
                 },
                 "mobileImage": {
-                    "src": "/collections/MDvision.avif",
+                    "src": "/utility/ochhi-mob.avif",
                     "alt": ""
                 },
                 "title": "Augen"
@@ -771,8 +771,8 @@
         ],
         "details":"<h2>Welche Nahrungsergänzungsmittel können helfen, die Augengesundheit zu verbessern?</h2><p>Bei Personen, die für Augenerkrankungen prädisponiert oder damit vertraut sind, kann die Verwendung von Nahrungsergänzungsmitteln oder ophthalmologischen Lösungen nützlich sein, natürlich immer im Rahmen eines gesunden und aktiven Lebensstils. Bei trockenen Augen zum Beispiel ist eine Nahrungsergänzung ein wertvolles Hilfsmittel sowohl zur Vorbeugung des trockenen Auges als auch als Hilfsmittel für die gezielteste Therapie. Es gibt auch ophthalmologische Lösungen, die helfen, das Hornhautepithel und die darunter liegenden Strukturen zu schützen.</p><h3>Was können die nützlichsten Moleküle für das Auge sein, das leicht trocknet?</h3><p>Vitamin A ist essentiell für das Sehvermögen und die Erzeugung visueller Empfindungen.</p><p>Vitamin C und Vitamin E bilden ein starkes antioxidatives System.</p><p>Vitamin B2 (Riboflavin) hat eine natürliche Vernetzungswirkung. Dank der Wechselwirkung mit der ultravioletten (UV) Komponente des Sonnenlichts stärkt es die Kollagenfasern, aus denen die Hornhaut besteht, durch kovalente Bindungen zwischen den Fibrillen des Stromas. Die Kombination mit Vitamin E erleichtert die Aufnahme und Bioverfügbarkeit durch die verschiedenen Schichten der Hornhaut bis zur Netzhaut. Darüber hinaus hat Vitamin E eine bekannte antioxidative Wirkung, die hilft, Schäden zu reparieren, die durch UV-Strahlung und blaues Licht verursacht wurden.</p><p>Aminosäuren (oder Aminosäuren) sind die Bausteine von Proteinen. Sie fördern eine effektive Reparaturwirkung und stellen eine korrekte Stoffwechselaktivität des Tränenumsatzes wieder her; Somit wirken sie auf der Ebene der Prävention des Syndroms des trockenen Auges.</p><p>Hyaluronsäure (Natriumhyaluronsäure) ist ein natürliches Polysaccharid, dessen Moleküle die Fähigkeit haben, eine Wassermenge zu speichern, die sogar tausendmal höher ist als ihr Eigengewicht. Es hat auch eine hohe Schmier- und Schutzeigenschaft.</p><p>Lutein und Zeaxanthin schützen die Photorezeptoren vor oxidativem Stress;</p><p>Lutein und Zeaxanthin wirken als Lichtfilter und Antioxidantien in den Augen. Beide unterstützen den Augenhintergrund und helfen, schädliches blaues Licht (ultraviolette Strahlung, die tief in das Auge eindringt) herauszufiltern und die Nachtsicht und Kontrastempfindlichkeit zu verbessern. Denken Sie daran, dass, wenn Sie viel Zeit vor digitalen Bildschirmen verbringen, der Tränenfilm stärker verdunstet und die Häufigkeit des spontanen Blinzelns verringert wird.</p><p>Lutein reichert sich vor allem dort an, wo die Stäbchen die dominierenden Photorezeptoren sind. Stäbe ermöglichen das Sehen bei schlechten Lichtverhältnissen, die empfindliche Bewegungserkennung und das periphere Sehen. Zeaxanthin reichert sich vor allem dort an, wo die Zapfen die dominierenden Photorezeptoren sind. Kegel ermöglichen das Farbsehen und die Fähigkeit, den Kontrast zwischen zwei Objekten zu sehen.</p><p>Zeaxanthin und Lutein absorbieren zusammen eine größere Bandbreite an blauem Licht von digitalen Geräten.</p>",
         "seo": {
-            "title": "BrunoMD | Shop Vision Products",
-            "description": "Prescription-grade supplements for vision, rooted in the heart of Italy, made from all-natural ingredients. Shop Bluerex Vision."
+            "title": "BrunoMD | Laden Augen Produkte",
+            "description": ""
         }
     }
 }
