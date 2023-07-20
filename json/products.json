@@ -3842,11 +3842,11 @@
                 "extraLabel": "Mit dem periodischen Kauf"
             },
             "moneyBackInfo": {
-                "title": "14 Giorni - Soddisfatti o Rimborsati ",
+                "title": "14 Tage - Soddisfatti o Rimborsati ",
                 "desc": "Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio."
             },
             "termPurchase": {
-                "title": "Modalita' per l'acquisto periodico",
+                "title": "Methoden für regelmäßige Käufe",
                 "desc": "Ihr Abonnement für dieses Produkt verlängert sich alle 25 Tage und Sie erhalten das Produkt nach Zahlungseingang"
             }
         },
@@ -3904,6 +3904,10 @@
                 "details": [
                     "<p>Mehrdosis-Spender ohne Konservierungsstoffe. Kann mit Kontaktlinsen verwendet werden</p>"
                 ]
+            },
+            {
+                "title":"FAQs",
+                "details":[]
             },
             {
                 "title": "Qualitätssicherung",
