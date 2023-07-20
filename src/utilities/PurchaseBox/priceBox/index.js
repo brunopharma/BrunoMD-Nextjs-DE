@@ -114,7 +114,7 @@ const PriceBox = ({ isActive, data, base }) => {
               </select>
             </div>}
           {/*  onClick={CreateCart} */}
-          <div className={styles.flex}><div className={styles.buyNowBtn} onClick={CreateCart}><p>{isAddingToCart ? <Spinner className={styles.spinner} size={20} /> : buttonText}</p></div></div>
+          <div className={styles.flex}><div className={styles.buyNowBtn}><p>{isAddingToCart ? <Spinner className={styles.spinner} size={20} /> : buttonText}</p></div></div>
         </div>
       </div>
     </div>
