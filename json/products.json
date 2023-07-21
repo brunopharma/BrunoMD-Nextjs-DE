@@ -3827,7 +3827,7 @@
             "qtyExtraDesc": "Flasche 10ml",
             "stock": "Sofortige Verfügbarkeit",
             "subscriptionDetails": "Verpassen Sie nicht die Gelegenheit, 20% auf diese Bestellung und nachfolgende automatische Lieferungen zu sparen",
-            "moreInfoBtnText": "Maggiori informazioni",
+            "moreInfoBtnText": "Mehr erfahren",
             "qtyLabelText": "Menge",
             "freqLabelText": "Consegna ogni",
             "oneTime": {
@@ -3842,7 +3842,7 @@
                 "extraLabel": "Mit dem periodischen Kauf"
             },
             "moneyBackInfo": {
-                "title": "14 Tage - Soddisfatti o Rimborsati ",
+                "title": "14 Tage - Soddisfatti o Rimborsati",
                 "desc": "Wie funktioniert das? Wir sind sicher, dass unser Kunde mit den Produkten von Bruno MD zufrieden sein wird, aber wenn er es aus irgendeinem Grund nicht ist, erstatten wir die erste Bestellung vollständig abzüglich der Versandkosten. Wir honorieren eine vollständige Rückerstattung, wenn unser Kundendienst innerhalb von 14 Werktagen ab dem Datum des Eingangs der Bestellung kontaktiert wird. Es ist nicht notwendig, das Produkt zurückzusenden (wenn es sich um die erste erhaltene Bestellung handelt); Wir freuen uns jedoch über Feedback, das uns hilft, die Qualität unserer Dienstleistungen zu verbessern."
             },
             "termPurchase": {
