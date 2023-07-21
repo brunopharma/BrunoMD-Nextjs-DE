@@ -3847,7 +3847,7 @@
             },
             "termPurchase": {
                 "title": "Methoden für regelmäßige Käufe",
-                "desc": "Ihr Abonnement für dieses Produkt verlängert sich alle 25 Tage und Sie erhalten das Produkt nach Zahlungseingang"
+                "desc": "<p>Ihr Abonnement für dieses Produkt verlängert sich alle 25 Tage und Sie erhalten das Produkt nach Zahlungseingang<br>Der Gesamtbetrag hängt von Versand, Steuern und anderen Variablen ab, falls vorhanden.</p>"
             }
         },
         "benefits": {

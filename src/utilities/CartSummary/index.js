@@ -22,30 +22,32 @@ const CartSummary = ({ data }) => {
     }
     return (
         <div className={styles.cartSummaryContainer}>
-            <h3 className={styles.blockTitle}>Riepilogo ordine</h3>
+            <h3 className={styles.blockTitle}>{data.title}</h3>
 
             <div className={styles.priceContainer}>
-                <p>Subtotale:</p>
-                <strong>€{data?.price || '0.00'}</strong>
+                <p>{data.subtotalLabel}:</p>
+                <strong>{data.verdion =='EU' ?'€':'$'}{data?.price || '0.00'}</strong>
             </div>
 
             <div className={styles.checkoutButtonContainer}>
                 <Link href={data?.url || '/collezioni/tutti'} >
                     <div className={styles.button}>
-                        Checkout
+                        {data.checkoutLabel}
                     </div>
                 </Link>
             </div>
-            <div className={styles.dis}><p>
+            <div className={styles.dis}>
+            {data.version == 'EU' && <>
+                <p>
                 <input type="checkbox" className={styles.checkBox} id="Condizioni" name="d-1" checked={state1} onChange={handleCheck1} required />&nbsp;
                 <label for="Condizioni">Dichiaro di accettare | Termini e Condizioni di acquisto e di accettare espressamente gli articoli 3, 10, 11, 12, 13, 14, 15 e 18 dei &nbsp;
                     <a href="/termini-e-condizioni" target="_blank" className={styles.hyperLink}>termini e condizioni</a>
                 </label>.</p>
                 <p><input type="checkbox" name="d-red" checked={state2} onChange={handleCheck2} required /><label for="d-red">&nbsp;consento al trattamento dei miei dati come specificatamente indicato nella&nbsp;</label>
-                    <a href="/politica-sullariservatezza" target="_blank" className={styles.hyperLink}>Privacy Policy</a>.</p></div>
+                    <a href="/politica-sullariservatezza" target="_blank" className={styles.hyperLink}>Privacy Policy</a>.</p></>}</div>
             <div className={styles.satisfactionGuarantee}>
                 <div className={styles.guaranteeTextWrapper}>
-                    14 Giorni - Soddisfatti o Rimborsati
+                    {data.moneyBack?.title}
                 </div>
                 <div className={styles.guaranteeInfoIcon} onClick={onClickInfoBlock}>
                     <InfoIcon />
@@ -54,7 +56,7 @@ const CartSummary = ({ data }) => {
                     className={styles.guaranteeOverlay + ' ' + (isGuaranteeInfoOpen ? styles['--open'] : '')}
                     ref={guaranteeOverlay}
                 >
-                    Come funziona? Siamo sicuri che il nostro Cliente sarà soddisfatto dei prodotti Bruno MD, tuttavia, se per qualsiasi motivo non lo sarà, rimborseremo il primo ordine per intero meno i costi della spedizione. Onoriamo un rimborso completo se il nostro servizio clienti viene contattato entro 14 giorni lavorativi dalla data del ricevimento dell’ordine. Non è necessario restituire il prodotto (se è il primo ordine ricevuto); tuttavia, accogliamo con favore il feedback per aiutarci a migliorare la qualità del nostro servizio.
+                    {data.moneyBack?.description}
                 </div>
             </div>
         </div>
