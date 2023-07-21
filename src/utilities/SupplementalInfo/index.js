@@ -10,15 +10,15 @@ const SupplementalInfo = ({ moneyBackInfo, termPurchase ,interval}) => {
 
     let engV = /\d\d days/gi
     let engVmoneyBackInfo = moneyBackInfo.desc.replaceAll(engV, interval ? interval + ' days' : '30 days',);
-    
+
+    // let deV = /\d\d tage/gi
+    // let deVmoneyBackInfo = moneyBackInfo.desc.replaceAll(deV, interval ? interval + ' tage' : '30 days',);
     return (
         <div className={styles.supplementalInfoWrapper}>
             {text && (
                 <>
                     <p className={styles.subscribeAndSave}>{termPurchase.title}</p>
-                    <div className={styles.frequencyDisclaimer}>
-                        {text}
-                    </div>
+                    <div className={styles.frequencyDisclaimer} dangerouslySetInnerHTML={{ __html: text }} />
                 </>
             )}
 

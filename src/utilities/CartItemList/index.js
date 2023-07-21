@@ -1,7 +1,7 @@
 import styles from './styles.module.css'
 
-const CartItemList = ({items}) => {
-
+const CartItemList = ({items,content,removeItem}) => {
+    const {removeBtnText,QTYLabel} = content || null;
     return (
         <div>
             {items.length && items.map((e,i)=>{
@@ -13,15 +13,15 @@ const CartItemList = ({items}) => {
                             <p className={styles.productPrice}>{e.variant.price.amount}</p>
                             <div className={styles.productActions}>
                                 <div className={styles.productActionsQuantity}>
-                                    <span className={styles.productActionsQuantityLabel}>QTY</span>
+                                    <span className={styles.productActionsQuantityLabel}>{QTYLabel}</span>
                                     <input
                                         defaultValue={e.quantity}
                                         type="number"
                                         min="1"
                                     />
                                 </div>
-                                <button className={styles.productActionsRemove}>
-                                    rimuovere
+                                <button className={styles.productActionsRemove} onClick={removeItem}>
+                                    {removeBtnText}
                                 </button>
                             </div>
                         </div>

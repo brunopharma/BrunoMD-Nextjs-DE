@@ -12,6 +12,12 @@
     text-transform: uppercase;
     transition: all .25s linear;
 }
+.headLine{
+    font-family: var(--bmd-font-Primary);
+    font-size: 36px;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
 .cartContainerHolder{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
