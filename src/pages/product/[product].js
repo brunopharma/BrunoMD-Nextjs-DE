@@ -22,22 +22,13 @@ const Product = ({version}) => {
     const [load, setLoad] = useState(true)
     const [product, setProduct] = useState();
     const [shopifyP, setSProduct] = useState();
-    let client = undefined
-    if(version == 'EU' || version == 'DE'){
-        client = Client.buildClient({
-            domain: 'bruno-md-europe.myshopify.com',
-            storefrontAccessToken: 'a51b71098dff9f7cfd68456c464991bb'
-        });
-    }
-    if(version == 'ENG'){
-        client = Client.buildClient({
+    let client = Client.buildClient({
             domain: 'brunomd.myshopify.com',
             storefrontAccessToken: '4233f2f4417f089c3d28dbd476de595c'
         });
-    }
+
     // const products = getAllProducts();
     const {title, details, newsletter,fourStepProcess, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price, seo, testimonial,homeGallery,review } = product || {}
-    console.log({homeGallery});
     useEffect( () => {
         let url = window.location.href;
         let splitUrl = url.split('/product/');
@@ -64,7 +55,17 @@ const Product = ({version}) => {
     return (
         <section style={{ margin: '2rem auto' }}>
             <PageHead content={seo}/>
+            <PageHead content={seo}/>
             {true && <ProductCard data={{ images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, price,theme ,priceBox } }} base={{client,shopifyP}}/>}
+            {benefits && <BenefitCards data={benefits} productColorTheme={theme}/>}
+            <Tabs data={details} productColorTheme={theme}/>
+            <TrustBadge contents={TrustBadgeData[version]} productColorTheme={theme}/>
+            <MarkqueCarousel image={PatnerData} />
+            {testimonial && <Testimonial content={{ slides: testimonial, theme: theme }}/>}
+            <NewsLetter content={newsletter} />
+            {!review &&<ProductReviews product={shopifyP}/>}
+            {false &&<>
+            {false && <ProductCard data={{ images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, price,theme ,priceBox } }} base={{client,shopifyP}}/>}
             {benefits && <BenefitCards data={benefits} productColorTheme={theme}/>}
             {product?.ProductTrustBadges &&<ProductTrustBadges images={product.ProductTrustBadges} />}
             <Tabs data={details} productColorTheme={theme}/>
@@ -75,6 +76,7 @@ const Product = ({version}) => {
             <NewsLetter content={newsletter} />
             {homeGallery &&<HomeGallery id={homeGallery.id} galleryId={homeGallery.galleryId} productid={EXTERNALID}/>}
             {!review &&<ProductReviews variantId={EXTERNALID} />}
+            </>}
         </section>
     )
 }
