@@ -13,10 +13,10 @@ import Client from 'shopify-buy';
 import PageHead from "@/utilities/Head";
 import Loader2 from "@/utilities/Loader/index2";
 import ProductReviews from "@/utilities/ProductReviews";
-import FourStepProcess from "@/utilities/FourStepProcess";
-import ProductTrustBadges from "@/utilities/ProductTrustBadges";
+// import FourStepProcess from "@/utilities/FourStepProcess";
+// import ProductTrustBadges from "@/utilities/ProductTrustBadges";
 import Testimonial from "@/utilities/Testimonial";
-import { HomeGallery } from "@/utilities/HomeGallery";
+// import { HomeGallery } from "@/utilities/HomeGallery";
 
 const Product = ({version}) => {
     const [load, setLoad] = useState(true)
@@ -29,6 +29,7 @@ const Product = ({version}) => {
 
     // const products = getAllProducts();
     const {title, details, newsletter,fourStepProcess, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price, seo, testimonial,homeGallery,review } = product || {}
+
     useEffect( () => {
         let url = window.location.href;
         let splitUrl = url.split('/product/');
@@ -55,20 +56,18 @@ const Product = ({version}) => {
     return (
         <section style={{ margin: '2rem auto' }}>
             <PageHead content={seo}/>
-            {false && <ProductCard data={{ images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, price,theme ,priceBox } }} base={{client,shopifyP}}/>}
+            {true && <ProductCard data={{ images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, price,theme ,priceBox } }} base={{client,shopifyP}}/>}
             {benefits && <BenefitCards data={benefits} productColorTheme={theme}/>}
-            {product?.ProductTrustBadges &&<ProductTrustBadges images={product.ProductTrustBadges} />}
+            {/* {product?.ProductTrustBadges &&<ProductTrustBadges images={product.ProductTrustBadges} />} */}
             <Tabs data={details} productColorTheme={theme}/>
-           
+            {/* {fourStepProcess?.content &&<FourStepProcess processCards={fourStepProcess.content} theme={theme} header={fourStepProcess.title} buttonTittle={fourStepProcess.buttonTittle} stepAlignment={fourStepProcess.stepAlignment}/>} */}
             <TrustBadge contents={TrustBadgeData[version]} productColorTheme={theme}/>
             <MarkqueCarousel image={PatnerData} />
             {testimonial && <Testimonial content={{ slides: testimonial, theme: theme }}/>}
             <NewsLetter content={newsletter} />
-            
-            {!review &&<ProductReviews variantId={EXTERNALID} />}
+            {/* {homeGallery &&<HomeGallery id={homeGallery.id} galleryId={homeGallery.galleryId} productid={EXTERNALID}/>} */}
+            {!review &&<ProductReviews variantId={shopifyP} />}
         </section>
     )
-    // {fourStepProcess?.content &&<FourStepProcess processCards={fourStepProcess.content} theme={theme} header={fourStepProcess.title} buttonTittle={fourStepProcess.buttonTittle} stepAlignment={fourStepProcess.stepAlignment}/>}
-    //{homeGallery &&<HomeGallery id={homeGallery.id} galleryId={homeGallery.galleryId} productid={EXTERNALID}/>}
 }
 export default Product
