@@ -55,16 +55,7 @@ const Product = ({version}) => {
     return (
         <section style={{ margin: '2rem auto' }}>
             <PageHead content={seo}/>
-            <PageHead content={seo}/>
-            {true && <ProductCard data={{ images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, price,theme ,priceBox } }} base={{client,shopifyP}}/>}
-            {benefits && <BenefitCards data={benefits} productColorTheme={theme}/>}
-            <Tabs data={details} productColorTheme={theme}/>
-            <TrustBadge contents={TrustBadgeData[version]} productColorTheme={theme}/>
-            <MarkqueCarousel image={PatnerData} />
-            {testimonial && <Testimonial content={{ slides: testimonial, theme: theme }}/>}
-            <NewsLetter content={newsletter} />
-            {!review &&<ProductReviews product={shopifyP}/>}
-            {false &&<>
+            <>
             {false && <ProductCard data={{ images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, price,theme ,priceBox } }} base={{client,shopifyP}}/>}
             {benefits && <BenefitCards data={benefits} productColorTheme={theme}/>}
             {product?.ProductTrustBadges &&<ProductTrustBadges images={product.ProductTrustBadges} />}
@@ -76,7 +67,7 @@ const Product = ({version}) => {
             <NewsLetter content={newsletter} />
             {homeGallery &&<HomeGallery id={homeGallery.id} galleryId={homeGallery.galleryId} productid={EXTERNALID}/>}
             {!review &&<ProductReviews variantId={EXTERNALID} />}
-            </>}
+            </>
         </section>
     )
 }
