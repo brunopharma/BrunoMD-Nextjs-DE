@@ -1,4 +1,4 @@
-import React, { useState,useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import styles from './styles.module.css'
 import MarkqueCarousel from "@/utilities/MarkqueCarousel";
 import TrustBadge from "@/utilities/TrustBadges";
@@ -13,20 +13,23 @@ import Client from 'shopify-buy';
 import PageHead from "@/utilities/Head";
 import Loader2 from "@/utilities/Loader/index2";
 import ProductReviews from "@/utilities/ProductReviews";
+import FourStepProcess from "@/utilities/FourStepProcess";
+import ProductTrustBadges from "@/utilities/ProductTrustBadges";
 import Testimonial from "@/utilities/Testimonial";
+import { HomeGallery } from "@/utilities/HomeGallery";
 
-const Product = ({version}) => {
+const Product = ({ version }) => {
     const [load, setLoad] = useState(true)
     const [product, setProduct] = useState();
     const [shopifyP, setSProduct] = useState();
     let client = Client.buildClient({
-            domain: 'brunomd.myshopify.com',
-            storefrontAccessToken: '4233f2f4417f089c3d28dbd476de595c'
-        });
-        
+        domain: 'brunomd.myshopify.com',
+        storefrontAccessToken: '4233f2f4417f089c3d28dbd476de595c'
+    });
     // const products = getAllProducts();
-    const {title, details, newsletter,fourStepProcess, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price, seo, testimonial,homeGallery,review } = product || {}
-    useEffect( () => {
+    const { title, details, newsletter, fourStepProcess, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits, priceBox, price, seo, testimonial, homeGallery, review } = product || {}
+    console.log({ homeGallery });
+    useEffect(() => {
         let url = window.location.href;
         let splitUrl = url.split('/product/');
         if (splitUrl.length == 2) {
@@ -46,20 +49,20 @@ const Product = ({version}) => {
         } else {
             window.location.href = '/';
         }
-    }, [load,shopifyP, product])
+    }, [load, shopifyP, product])
 
-    if(load) return( <Loader2 />)
+    if (load) return (<Loader2 />)
     return (
         <section style={{ margin: '2rem auto' }}>
-            <PageHead content={seo}/>
-            {true && <ProductCard data={{ images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, price,theme ,priceBox } }} base={{client,shopifyP}}/>}
-            {benefits && <BenefitCards data={benefits} productColorTheme={theme}/>}
-            <Tabs data={details} productColorTheme={theme}/>
-            <TrustBadge contents={TrustBadgeData[version]} productColorTheme={theme}/>
+            <PageHead content={seo} />
+            {true && <ProductCard data={{ images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, price, theme, priceBox } }} base={{ client, shopifyP }} />}
+            {benefits && <BenefitCards data={benefits} productColorTheme={theme} />}
+            <Tabs data={details} productColorTheme={theme} />
+            <TrustBadge contents={TrustBadgeData[version]} productColorTheme={theme} />
             <MarkqueCarousel image={PatnerData} />
-            {testimonial && <Testimonial content={{ slides: testimonial, theme: theme }}/>}
+            {testimonial && <Testimonial content={{ slides: testimonial, theme: theme }} />}
             <NewsLetter content={newsletter} />
-            {!review &&<ProductReviews product={shopifyP}/>}
+            {!review && <ProductReviews product={shopifyP} />}
         </section>
     )
 }

@@ -17,7 +17,7 @@ export const HomeGallery = ({ galleryId, id, isreviews, title, content, producti
         <div className={styles.homeGalleryContainer}>
             <div className={styles.container}>
                 {content?.title ? <p className={styles.text}>
-                    {content?.invert ? <><span dangerouslySetInnerHTML={{ __html: content.desc }} /><br /><strong className={styles.strong}>{content.title} </strong></>:<><strong className={styles.strong}>{content.title} </strong><span dangerouslySetInnerHTML={{ __html: content.desc }} /></>}</p> :
+                    {content?.invert ? <><span dangerouslySetInnerHTML={{ __html: content.desc }} /><br /><strong className={styles.strong}>{content.title} </strong></> : <><strong className={styles.strong}>{content.title} </strong><span dangerouslySetInnerHTML={{ __html: content.desc }} /></>}</p> :
                     <>
                         {title ? <p className={styles.textCenter}>{title}</p> : <p className={styles.text}><strong className={styles.strong}>Believers </strong>Living<br />Their Best Life</p>}
                     </>
