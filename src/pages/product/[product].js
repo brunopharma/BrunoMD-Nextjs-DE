@@ -55,20 +55,20 @@ const Product = ({version}) => {
     return (
         <section style={{ margin: '2rem auto' }}>
             <PageHead content={seo}/>
-            <>
             {false && <ProductCard data={{ images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, price,theme ,priceBox } }} base={{client,shopifyP}}/>}
             {benefits && <BenefitCards data={benefits} productColorTheme={theme}/>}
             {product?.ProductTrustBadges &&<ProductTrustBadges images={product.ProductTrustBadges} />}
             <Tabs data={details} productColorTheme={theme}/>
-            {fourStepProcess?.content &&<FourStepProcess processCards={fourStepProcess.content} theme={theme} header={fourStepProcess.title} buttonTittle={fourStepProcess.buttonTittle} stepAlignment={fourStepProcess.stepAlignment}/>}
+           
             <TrustBadge contents={TrustBadgeData[version]} productColorTheme={theme}/>
             <MarkqueCarousel image={PatnerData} />
             {testimonial && <Testimonial content={{ slides: testimonial, theme: theme }}/>}
             <NewsLetter content={newsletter} />
-            {homeGallery &&<HomeGallery id={homeGallery.id} galleryId={homeGallery.galleryId} productid={EXTERNALID}/>}
+            
             {!review &&<ProductReviews variantId={EXTERNALID} />}
-            </>
         </section>
     )
+    // {fourStepProcess?.content &&<FourStepProcess processCards={fourStepProcess.content} theme={theme} header={fourStepProcess.title} buttonTittle={fourStepProcess.buttonTittle} stepAlignment={fourStepProcess.stepAlignment}/>}
+    //{homeGallery &&<HomeGallery id={homeGallery.id} galleryId={homeGallery.galleryId} productid={EXTERNALID}/>}
 }
 export default Product
