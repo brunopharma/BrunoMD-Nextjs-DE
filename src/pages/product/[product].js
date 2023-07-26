@@ -16,7 +16,7 @@ import ProductReviews from "@/utilities/ProductReviews";
 import FourStepProcess from "@/utilities/FourStepProcess";
 import ProductTrustBadges from "@/utilities/ProductTrustBadges";
 import Testimonial from "@/utilities/Testimonial";
-import HomeGallery  from "@/utilities/HomeGallery";
+import { HomeGallery } from "@/utilities/HomeGallery";
 
 const Product = ({version}) => {
     const [load, setLoad] = useState(true)
@@ -26,10 +26,9 @@ const Product = ({version}) => {
             domain: 'brunomd.myshopify.com',
             storefrontAccessToken: '4233f2f4417f089c3d28dbd476de595c'
         });
-
+        
     // const products = getAllProducts();
     const {title, details, newsletter,fourStepProcess, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price, seo, testimonial,homeGallery,review } = product || {}
-
     useEffect( () => {
         let url = window.location.href;
         let splitUrl = url.split('/product/');
@@ -55,7 +54,7 @@ const Product = ({version}) => {
     if(load) return( <Loader2 />)
     return (
         <section style={{ margin: '2rem auto' }}>
-            <PageHead content={seo}/>
+            {/* <PageHead content={seo}/>
             {true && <ProductCard data={{ images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, price,theme ,priceBox } }} base={{client,shopifyP}}/>}
             {benefits && <BenefitCards data={benefits} productColorTheme={theme}/>}
             {product?.ProductTrustBadges &&<ProductTrustBadges images={product.ProductTrustBadges} />}
@@ -66,7 +65,16 @@ const Product = ({version}) => {
             {testimonial && <Testimonial content={{ slides: testimonial, theme: theme }}/>}
             <NewsLetter content={newsletter} />
             {homeGallery &&<HomeGallery id={homeGallery.id} galleryId={homeGallery.galleryId} productid={EXTERNALID}/>}
-            {!review &&<ProductReviews variantId={EXTERNALID} />}
+            {!review &&<ProductReviews variantId={EXTERNALID} />} */}
+             <PageHead content={seo}/>
+            {true && <ProductCard data={{ images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, price,theme ,priceBox } }} base={{client,shopifyP}}/>}
+            {benefits && <BenefitCards data={benefits} productColorTheme={theme}/>}
+            <Tabs data={details} productColorTheme={theme}/>
+            <TrustBadge contents={TrustBadgeData[version]} productColorTheme={theme}/>
+            <MarkqueCarousel image={PatnerData} />
+            {testimonial && <Testimonial content={{ slides: testimonial, theme: theme }}/>}
+            <NewsLetter content={newsletter} />
+            {!review &&<ProductReviews product={shopifyP}/>}
         </section>
     )
 }
