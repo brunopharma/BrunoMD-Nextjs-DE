@@ -43,6 +43,16 @@
     font-family: var(--bmd-font-Secondary);
     font-size: 18px;
 }
+.headingContainer{
+    font-family: var(--bmd-font-Secondary);
+    font-size: 16px;
+    margin-bottom: 32px;
+}
+.headingContainer h1{
+    font-family: var(--bmd-font-Primary);
+    font-size: 60px;
+    line-height: 1.2;
+}
 .playButton{
     background-color: #000;
     border-radius: 6px;
@@ -117,4 +127,9 @@
 
 .dFlex p:nth-child(2) {
     transform: rotate(180deg);
+}
+@media screen and (min-width: 600px){
+    .headingContainer {
+        margin-top: 60px;
+    }
 }

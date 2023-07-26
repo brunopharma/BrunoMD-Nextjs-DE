@@ -62,7 +62,7 @@ const Product = ({version}) => {
             {fourStepProcess?.content &&<FourStepProcess processCards={fourStepProcess.content} theme={theme} header={fourStepProcess.title} buttonTittle={fourStepProcess.buttonTittle} stepAlignment={fourStepProcess.stepAlignment}/>}
             <TrustBadge contents={TrustBadgeData[version]} productColorTheme={theme}/>
             <MarkqueCarousel image={PatnerData} />
-            {testimonial && <Testimonial content={{ slides: testimonial, theme: theme }}/>}
+            {testimonial && <Testimonial content={{ slides: testimonial,title:"Our Believers", subTitle:"See what BrunoMD customers have to say.",theme: theme }}/>}
             <NewsLetter content={newsletter} />
             {homeGallery &&<HomeGallery id={homeGallery.id} galleryId={homeGallery.galleryId} productid={EXTERNALID}/>}
             {!review &&<ProductReviews variantId={EXTERNALID} />}
