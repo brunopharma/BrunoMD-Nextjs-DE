@@ -13,10 +13,7 @@ import Client from 'shopify-buy';
 import PageHead from "@/utilities/Head";
 import Loader2 from "@/utilities/Loader/index2";
 import ProductReviews from "@/utilities/ProductReviews";
-import FourStepProcess from "@/utilities/FourStepProcess";
-import ProductTrustBadges from "@/utilities/ProductTrustBadges";
 import Testimonial from "@/utilities/Testimonial";
-import { HomeGallery } from "@/utilities/HomeGallery";
 
 const Product = ({version}) => {
     const [load, setLoad] = useState(true)
