@@ -4,7 +4,7 @@ import Layout from "@/componets/Layout"
 import { RouteGuard } from '@/componets/RouteGuard'
 
 export default function App({ Component, pageProps }) {
-  const version = 'DE'
+  const version = 'EU'
   // useEffect(() => {
     
   //   if (typeof window !== 'undefined') {
