@@ -24,7 +24,7 @@ const Product = ({version}) => {
         storefrontAccessToken: 'a51b71098dff9f7cfd68456c464991bb'
     });
     // const products = getAllProducts();
-    const {title, details, newsletter,fourStepProcess, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price, seo,testimonial } = product || {}
+    const {title, details, newsletter,fourStepProcess, theme, images, declaimer, EXTERNALID, STOREFRONTID, SLUG, benefits,priceBox,price, seo,testimonial,review } = product || {}
     useEffect( () => {
         let url = window.location.href;
         let splitUrl = url.split('/prodotti/');
@@ -51,7 +51,7 @@ const Product = ({version}) => {
     return (
         <section style={{ margin: '2rem auto' }}>
             <PageHead content={seo}/>
-            {true && <ProductCard data={{ images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, price,theme ,priceBox } }} base={{client,shopifyP}}/>}
+            {true && <ProductCard data={{ images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, price,theme ,priceBox },review }} base={{client,shopifyP}}/>}
             {benefits && <BenefitCards data={benefits} productColorTheme={theme}/>}
             <Tabs data={details} productColorTheme={theme}/>
             <TrustBadge contents={TrustBadgeData[version]} productColorTheme={theme}/>

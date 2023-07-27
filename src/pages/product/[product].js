@@ -55,7 +55,7 @@ const Product = ({version}) => {
     return (
         <section style={{ margin: '2rem auto' }}>
             <PageHead content={seo}/>
-            {true && <ProductCard data={{ images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, price,theme ,priceBox } }} base={{client,shopifyP}}/>}
+            {true && <ProductCard data={{ images, declaimer, priceDescription: { EXTERNALID, STOREFRONTID, SLUG, price,theme ,priceBox },review }} base={{client,shopifyP}}/>}
             {benefits && <BenefitCards data={benefits} productColorTheme={theme}/>}
             {product?.ProductTrustBadges &&<ProductTrustBadges images={product.ProductTrustBadges} />}
             <Tabs data={details} productColorTheme={theme}/>
