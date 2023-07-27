@@ -12,7 +12,8 @@ import TrustBadgeData from '../../json/trustBages.json'
 import HomePageData from '../../json/home.json'
 import SEO from '../../json/SEO.json'
 import PageHead from '@/utilities/Head'
-
+import Testimonial from '@/utilities/Testimonial'
+// 
 export default function Home({version}) {
   return (
     <>
@@ -23,6 +24,7 @@ export default function Home({version}) {
         {HomePageData[version] &&<Cards contents={HomePageData[version].categories} />}
         {TrustBadgeData[version] &&<TrustBadge contents={TrustBadgeData[version]} />}
         {HomePageData[version] && <Purpose contents={HomePageData[version].purpose} />}
+        {HomePageData[version].testimonial && <Testimonial content={{slides:HomePageData[version].testimonial, title:"Our Believers",subTitle:"See what BrunoMD customers have to say."}}/>}
         {HomePageData[version]?.homeGallery &&<HomeGallery id={HomePageData[version].homeGallery.id} galleryId={HomePageData[version].homeGallery.galleryId} content={{title:HomePageData[version].homeGallery.title, desc:HomePageData[version].homeGallery.subTitle, invert:HomePageData[version].homeGallery.invert}}/>}
         {HomePageData[version] &&<NewsLetter content={HomePageData[version].newsletter}/>}
       </section>

@@ -1,69 +1,80 @@
 {
-   "EU":{
-    "home":{
-     "title":"Pagina iniziale",
-     "SEO":{
-        "title":"BrunoMD | Prodotti per la Salute e il Benessere",
-        "description":"Prodotti per la salute e il benessere radicati nel cuore dell'Italia, realizzati con ingredienti completamente naturali. Integratori di grado farmaceutico per alimentare il tuo futuro.",
-        "siteName":"© 2023 brunomd.com. Diritti riservati",
-        "image":"https://f.shgcdn.com/02637cbd-350e-4b4a-bae7-dad2bce66981/"
-     }
-    },
-    "storia":{
-        "title":"La Nostra Storia",
-        "SEO":{
-           "title":"BrunoMD | La Nostra Storia | Integratore di Grado di Prescrizione",
-           "description":"Per 25 anni, BrunoMD ha offerto alcuni degli integratori di grado di prescrizione più innovativi ed efficaci disponibili. Leggi la nostra storia.",
-           "siteName":"© 2023 brunomd.com. Diritti riservati",
-           "image":"https://f.shgcdn.com/02637cbd-350e-4b4a-bae7-dad2bce66981/"
-        }
-       },
-       "scienza":{
-        "title":"Scienza",
-        "SEO":{
-           "title":"Scienza | Bruno MD",
-           "description":"Come italiani, siamo estremamente orgogliosi di perfezionare le cose. La vita mediterranea inizia usando la scienza per perfezionare il meglio della natura. Scopri la nostra scienza.",
-           "siteName":"© 2023 brunomd.com. Diritti riservati",
-           "image":"https://f.shgcdn.com/02637cbd-350e-4b4a-bae7-dad2bce66981/"
-        }
-       },
-       "frequenti":{
-        "title":"Scienza",
-        "SEO":{
-           "title":"Scienza | Bruno MD",
-           "description":"Come italiani, siamo estremamente orgogliosi di perfezionare le cose. La vita mediterranea inizia usando la scienza per perfezionare il meglio della natura. Scopri la nostra scienza.",
-           "siteName":"© 2023 brunomd.com. Diritti riservati",
-           "image":"https://f.shgcdn.com/02637cbd-350e-4b4a-bae7-dad2bce66981/"
-        }
-       }
+   "EU": {
+      "home": {
+         "title": "Pagina iniziale",
+         "SEO": {
+            "title": "BrunoMD | Prodotti per la Salute e il Benessere",
+            "description": "Prodotti per la salute e il benessere radicati nel cuore dell'Italia, realizzati con ingredienti completamente naturali. Integratori di grado farmaceutico per alimentare il tuo futuro.",
+            "siteName": "© 2023 brunomd.com. Diritti riservati",
+            "image": "https://f.shgcdn.com/02637cbd-350e-4b4a-bae7-dad2bce66981/"
+         }
       },
-      "ENG":{
-         "home":{
-            "title":"Home",
-            "SEO":{
-               "title":"BrunoMD | Health and Wellness Products | Beauty Supplements",
-               "description":"Health and wellness products rooted in the heart of Italy, made from all-natural ingredients. Pharmaceutical grade supplements to fuel your future.",
-               "image":"https://f.shgcdn.com/6286ec90-a238-44d5-9de3-84512c082591/",
-               "siteName":"© 2022 brunomd.com. All Rights Reserved"
-            }
-         },
-         "storia":{
-            "title":"our story",
-            "SEO":{
-               "title":"BrunoMD | Collagen Powders | Prescription Grade Supplements",
-               "description":"For 25 years, BrunoMD has been offering some of the most innovative and effective prescription grade supplements available. Read our story.",
-               "image":"https://f.shgcdn.com/6286ec90-a238-44d5-9de3-84512c082591/",
-               "siteName":"© 2022 brunomd.com. All Rights Reserved"
-            }
-         },
-         "science":{
-            "title":"science",
-            "SEO":{
-               "title":"BrunoMD | Royal Collagen Peptides | Phytosome Technology",
-               "description":"As Italians, we take enormous pride in perfecting things. The MDiterranean Life® begins by using science to perfect the best in Nature. Learn about our science.",
-               "image":"https://f.shgcdn.com/6286ec90-a238-44d5-9de3-84512c082591/",
-               "siteName":"© 2022 brunomd.com. All Rights Reserved"
-            }
+      "storia": {
+         "title": "La Nostra Storia",
+         "SEO": {
+            "title": "BrunoMD | La Nostra Storia | Integratore di Grado di Prescrizione",
+            "description": "Per 25 anni, BrunoMD ha offerto alcuni degli integratori di grado di prescrizione più innovativi ed efficaci disponibili. Leggi la nostra storia.",
+            "siteName": "© 2023 brunomd.com. Diritti riservati",
+            "image": "https://f.shgcdn.com/02637cbd-350e-4b4a-bae7-dad2bce66981/"
+         }
+      },
+      "scienza": {
+         "title": "Scienza",
+         "SEO": {
+            "title": "Scienza | Bruno MD",
+            "description": "Come italiani, siamo estremamente orgogliosi di perfezionare le cose. La vita mediterranea inizia usando la scienza per perfezionare il meglio della natura. Scopri la nostra scienza.",
+            "siteName": "© 2023 brunomd.com. Diritti riservati",
+            "image": "https://f.shgcdn.com/02637cbd-350e-4b4a-bae7-dad2bce66981/"
+         }
+      },
+      "frequenti": {
+         "title": "Scienza",
+         "SEO": {
+            "title": "Scienza | Bruno MD",
+            "description": "Come italiani, siamo estremamente orgogliosi di perfezionare le cose. La vita mediterranea inizia usando la scienza per perfezionare il meglio della natura. Scopri la nostra scienza.",
+            "siteName": "© 2023 brunomd.com. Diritti riservati",
+            "image": "https://f.shgcdn.com/02637cbd-350e-4b4a-bae7-dad2bce66981/"
          }
       }
+   },
+   "ENG": {
+      "home": {
+         "title": "Home",
+         "SEO": {
+            "title": "BrunoMD | Health and Wellness Products | Beauty Supplements",
+            "description": "Health and wellness products rooted in the heart of Italy, made from all-natural ingredients. Pharmaceutical grade supplements to fuel your future.",
+            "image": "https://f.shgcdn.com/6286ec90-a238-44d5-9de3-84512c082591/",
+            "siteName": "© 2022 brunomd.com. All Rights Reserved"
+         }
+      },
+      "storia": {
+         "title": "our story",
+         "SEO": {
+            "title": "BrunoMD | Collagen Powders | Prescription Grade Supplements",
+            "description": "For 25 years, BrunoMD has been offering some of the most innovative and effective prescription grade supplements available. Read our story.",
+            "image": "https://f.shgcdn.com/6286ec90-a238-44d5-9de3-84512c082591/",
+            "siteName": "© 2022 brunomd.com. All Rights Reserved"
+         }
+      },
+      "science": {
+         "title": "science",
+         "SEO": {
+            "title": "BrunoMD | Royal Collagen Peptides | Phytosome Technology",
+            "description": "As Italians, we take enormous pride in perfecting things. The MDiterranean Life® begins by using science to perfect the best in Nature. Learn about our science.",
+            "image": "https://f.shgcdn.com/6286ec90-a238-44d5-9de3-84512c082591/",
+            "siteName": "© 2022 brunomd.com. All Rights Reserved"
+         }
+      }
+   },
+   "DE":{
+      "home": {
+         "title": "Home",
+         "SEO": {
+            "title": "BrunoMD | Gesundheits- und Wellnessprodukte | Schönheitsergänzungsmittel",
+            "description": "Gesundheits- und Wellnessprodukte mit Wurzeln im Herzen Italiens, hergestellt aus rein natürlichen Inhaltsstoffen. Nahrungsergänzungsmittel in pharmazeutischer Qualität für Ihre Zukunft.",
+            "image": "https://f.shgcdn.com/6286ec90-a238-44d5-9de3-84512c082591/",
+            "siteName": "© 2022 brunomd.com. All Rights Reserved"
+         }
+      }
+   }
 }

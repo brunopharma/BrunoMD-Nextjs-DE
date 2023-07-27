@@ -98,8 +98,8 @@
       ]
     },
     "homeGallery": {
-      "title":"Believers",
-      "subTitle":"Living<br />Their Best Life",
+      "title": "Believers",
+      "subTitle": "Living<br />Their Best Life",
       "id": "ahHyITcI0fkzYo7KejQeWGiBK2CXMKvLvTZ8KUBJ",
       "galleryId": "5e7cf7950a4044179b4ab843"
     },
@@ -109,7 +109,44 @@
       "formId": "7b270a73-336b-4895-8b55-286a3f49b1f2",
       "desktopImage": "/utility/home-news-desk.avif",
       "mobileImage": "/utility/home-news-mob.avif"
-    }
+    },
+    "testimonial": [
+      {
+        "title": "“One of my best kept beauty secrets is adding Royal Collagen Peptides to my beverages every single day.”",
+        "author": "Ashely C.",
+        "video": {
+          "src": "\\testimonial\\rcpsa\\Ashley Cummings_SQUARE.mp4"
+        }
+      },
+      {
+        "title": "“I take it every day because it’s great for my skin, hair and nails.”",
+        "author": "Camila F.",
+        "video": {
+          "src": "\\testimonial\\rcpsa\\Camila Flaeschen_SQUARE.mp4"
+        }
+      },
+      {
+        "title": "“Bruno MDs Royal Collagen Peptides ‘go packets’ are a gamechanger.”",
+        "author": "Stephanie M.",
+        "video": {
+          "src": "\\testimonial\\rcpsa\\Stephanie Mills_SQUARE.mp4"
+        }
+      },
+      {
+        "title": "“Working out is great, but having sore muscles afterwards isn’t that fun. And this little guy here helps you reduce inflammation which means a faster recovery from your workouts.”",
+        "author": "Camila F.",
+        "video": {
+          "src": "\\testimonial\\riboflam\\Camila Flaeschen_SQUARE.mp4"
+        }
+      },
+      {
+        "title": "“You really need to do the research of what you are putting into your body. Look for things coming from cuttable sources. And that is why I am obsessed with Bruno MD.”",
+        "author": "Megan Q.",
+        "video": {
+          "src": "\\testimonial\\riboflam\\Megan Quist_SQUARE.mp4"
+        }
+      }
+    ]
   },
   "EU": {
     "PatnerData": true,
@@ -209,8 +246,8 @@
       ]
     },
     "homeGallery": {
-      "title":"“Dolce Vita”!",
-      "subTitle":"Vivi anche tu la",
+      "title": "“Dolce Vita”!",
+      "subTitle": "Vivi anche tu la",
       "id": "jEbEI2jY9vvLxI8yyKzuyJz2I0PQz9Mn0SaZJTMJ",
       "galleryId": "6411911c72b20e001784b649"
     },
@@ -239,8 +276,8 @@
         {
           "name": "Augen",
           "link": "/sammlungen/augen",
-          "btnText":"Laden",
-          "fontSize":50,
+          "btnText": "Laden",
+          "fontSize": 50,
           "logo": {
             "src": "/logo/Occhi.avif",
             "alt": "Augen"
@@ -249,8 +286,8 @@
         {
           "name": "Haut",
           "link": "#",
-          "btnText":"Laden",
-          "fontSize":50,
+          "btnText": "Laden",
+          "fontSize": 50,
           "logo": {
             "src": "/logo/Pelle.avif",
             "alt": "Haut"
@@ -259,8 +296,8 @@
         {
           "name": "Mineralstoffe",
           "link": "#",
-          "btnText":"Laden",
-          "fontSize":50,
+          "btnText": "Laden",
+          "fontSize": 50,
           "logo": {
             "src": "/logo/sali-minerali.avif",
             "alt": "Mineralstoffe"
@@ -269,8 +306,8 @@
         {
           "name": "Prädiabete",
           "link": "#",
-          "btnText":"Laden",
-          "fontSize":50,
+          "btnText": "Laden",
+          "fontSize": 50,
           "logo": {
             "src": "/logo/Pre-diabete.avif",
             "alt": "Prädiabete"
@@ -279,8 +316,8 @@
         {
           "name": "Schmerz",
           "link": "#",
-          "btnText":"Laden",
-          "fontSize":50,
+          "btnText": "Laden",
+          "fontSize": 50,
           "logo": {
             "src": "/logo/Dolore.avif",
             "alt": "Schmerz"
@@ -288,8 +325,8 @@
         },
         {
           "name": "Umgekehrte Alterung",
-          "btnText":"Laden",
-          "fontSize":50,
+          "btnText": "Laden",
+          "fontSize": 50,
           "link": "#",
           "logo": {
             "src": "/logo/Reverse-aging.avif",
@@ -311,9 +348,9 @@
       ]
     },
     "homeGallery": {
-      "title":"“des Lebens!”",
-      "subTitle":"Lebe den Schmerz",
-      "invert":true,
+      "title": "“des Lebens!”",
+      "subTitle": "Lebe den Schmerz",
+      "invert": true,
       "id": "jEbEI2jY9vvLxI8yyKzuyJz2I0PQz9Mn0SaZJTMJ",
       "galleryId": "6411911c72b20e001784b649"
     },

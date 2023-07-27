@@ -3,7 +3,7 @@ import styles from './styles.module.css'
 import VideoPlayer from '../Video';
 
 const Testimonial = ({ content }) => {
-  const { slides, theme, colorCodeOnPlayButton, videoHeight, videoWidth, invertDesign } = content || null
+  const { slides, theme, colorCodeOnPlayButton,title,subTitle, videoHeight, videoWidth, invertDesign } = content || null
   const [currentSlide, setCurrentSlide] = useState(0)
   useEffect(() => { }, [currentSlide])
 
@@ -30,6 +30,10 @@ const Testimonial = ({ content }) => {
 
   return (
     <section className={styles.container}>
+      {title &&<div className={styles.headingContainer}>
+        {title && <h1>{title}</h1>}
+        {subTitle && <p>{subTitle}</p>}
+      </div>}
       <div class={styles.testimonialSliderTrack} style={{ transform: 'translateX(200px)' }} id='transformContainer'>
         {slides.map((e, i) => {
           return (<div class={styles.testimonialSlide} key={i}>

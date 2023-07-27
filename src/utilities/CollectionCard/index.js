@@ -34,7 +34,7 @@ export const CollectionList = ({ content }) => {
                             src={e.logo.src}
                             alt={e.logo.alt}
                             className={styles.productImage}
-                            width="220"
+                            width="200"
                         />
                     </div>
                     <p className={styles.productText}>{e.title}</p>
