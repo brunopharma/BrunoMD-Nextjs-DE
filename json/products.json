@@ -4130,7 +4130,7 @@
     },
     "tendoactive-plus-20-stick": {
         "EXTERNALID": "8097694581051",
-        "review":true,
+        "review": true,
         "STOREFRONTID": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzgwOTc2OTQ1ODEwNTE=",
         "SLUG": "tendoactive-plus-20-stick",
         "link": "/prodotti/",
@@ -4231,7 +4231,17 @@
             {
                 "title": "Dettagli",
                 "details": [
-                    "<p>Tendoactive Plus è un integratore alimentare che esercita un'azione completa su tendini e legamenti. Fornisce i nutrienti necessari per il corretto funzionamento di articolazioni, muscoli e ossa. Esercita un'azione analgesica grazie al suo contenuto in boswellia e curcuma. Inoltre, fornisce struttura ai tessuti grazie al collagene di tipo I, alla condroitina solfato, alla vitamina C, al rame, al manganese e agli amminoacidi.</p>","<b>Modalita' d'uso</b>","<p>Si consiglia di assumere 1 stick al giorno sciolto in un bicchiere d'acqua (200 ml) per un minimo di 3 mesi. Per una migliore dissoluzione, versare prima il contenuto del bastoncino in un bicchiere e aggiungere il liquido lentamente, mescolando con un cucchiaino.</p>","<b>Condroindicazioni</b>","<p>Non sono noti fenomeni di sovradosaggio.<br>Non sono note interazioni con farmaci e sostanze medicinali.</p>","<b>Avvertenze</b>","<p>È indicato per adulti e adolescenti di età superiore ai 12 anni. Non superare la dose giornaliera raccomandata. Questo prodotto non deve sostituire una dieta variata ed equilibrata e uno stile di vita sano.Non superare la dose giornaliera raccomandata. Tenere fuori dalla portata dei bambini. Non somministrare a donne in gravidanza o in allattamento o bambini di età inferiore a 12 anni senza previo parere del medico.L'uso non è raccomandato in persone con anticoagulanti. Non utilizzare in caso di allergia o ipersensibilità ad uno qualsiasi dei componenti della sua formula. Se assumi farmaci o soffri di malattie croniche, inizia a prendere questo prodotto solo su consiglio del tuo medico o farmacista.</p>","<b>Effetti indesiderati</b>","<p>Nessuno noto</p>","<b>Confezione e conservazione</b>","<p>Conservare al riparo dall’umidità e da fonti di calore in luogo fresco e asciutto.<br>Il prodotto esposto ai raggi solari potrebbe assumere una leggera colorazione giallastra,<br>ciò non inficia sulle sue caratteristiche di funzionalità e durata. </p>"
+                    "<p>Tendoactive Plus è un integratore alimentare che esercita un'azione completa su tendini e legamenti. Fornisce i nutrienti necessari per il corretto funzionamento di articolazioni, muscoli e ossa. Esercita un'azione analgesica grazie al suo contenuto in boswellia e curcuma. Inoltre, fornisce struttura ai tessuti grazie al collagene di tipo I, alla condroitina solfato, alla vitamina C, al rame, al manganese e agli amminoacidi.</p>",
+                    "<b>Modalita' d'uso</b>",
+                    "<p>Si consiglia di assumere 1 stick al giorno sciolto in un bicchiere d'acqua (200 ml) per un minimo di 3 mesi. Per una migliore dissoluzione, versare prima il contenuto del bastoncino in un bicchiere e aggiungere il liquido lentamente, mescolando con un cucchiaino.</p>",
+                    "<b>Condroindicazioni</b>",
+                    "<p>Non sono noti fenomeni di sovradosaggio.<br>Non sono note interazioni con farmaci e sostanze medicinali.</p>",
+                    "<b>Avvertenze</b>",
+                    "<p>È indicato per adulti e adolescenti di età superiore ai 12 anni. Non superare la dose giornaliera raccomandata. Questo prodotto non deve sostituire una dieta variata ed equilibrata e uno stile di vita sano.Non superare la dose giornaliera raccomandata. Tenere fuori dalla portata dei bambini. Non somministrare a donne in gravidanza o in allattamento o bambini di età inferiore a 12 anni senza previo parere del medico.L'uso non è raccomandato in persone con anticoagulanti. Non utilizzare in caso di allergia o ipersensibilità ad uno qualsiasi dei componenti della sua formula. Se assumi farmaci o soffri di malattie croniche, inizia a prendere questo prodotto solo su consiglio del tuo medico o farmacista.</p>",
+                    "<b>Effetti indesiderati</b>",
+                    "<p>Nessuno noto</p>",
+                    "<b>Confezione e conservazione</b>",
+                    "<p>Conservare al riparo dall’umidità e da fonti di calore in luogo fresco e asciutto.<br>Il prodotto esposto ai raggi solari potrebbe assumere una leggera colorazione giallastra,<br>ciò non inficia sulle sue caratteristiche di funzionalità e durata. </p>"
                 ]
             },
             {
@@ -4253,12 +4263,19 @@
                 ]
             }
         ],
-        "newsletter": {
+        "newsletter-1": {
             "title": "Iscriviti alla newsletter",
             "portalId": "19647191",
             "formId": "7fdbaec1-ef58-4ebd-9879-b5f34b091893",
             "desktopImage": "\\newsletter\\Desktop\\05.avif",
             "mobileImage": "\\newsletter\\Mobile\\05.avif"
+        },
+        "newsletter": {
+            "title": "Iscriviti alla newsletter",
+            "portalId": "19647191",
+            "formId": "a6e87520-c370-4d81-9dbb-8b3766066776",
+            "desktopImage": "/utility/home-news-desk.avif",
+            "mobileImage": "/utility/home-news-mob.avif"
         },
         "seo": {
             "title": "Tendoactive | Bruno MD",
