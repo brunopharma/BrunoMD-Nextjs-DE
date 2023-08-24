@@ -6,7 +6,7 @@ const GeoRedirect = () => {
     getUserIpAddr();
   }, [])
   function getUserIpAddr() {
-    var defaultCountry = ['IT','IN'];
+    var defaultCountry = ['IT','IN','GB'];
     var defaultSite = 'https://brunomd.com/';
     var otherSite = 'https://brunomd.eu/';
     // let currentUrl = window.location.href;
