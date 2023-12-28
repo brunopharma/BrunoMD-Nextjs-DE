@@ -5,7 +5,35 @@ const GeoRedirect = () => {
    useEffect(() => {
     getUserIpAddr();
   }, [])
-  function getUserIpAddr() {
+    function getUserIpAddr() {
+    var defaultSite = "https://brunomd.com/";
+    var euSite = "https://brunomd.eu/";
+    var deSite = "https://brunomd.de/";
+
+    fetch("https://ipapi.co/country/")
+      .then((response) => {
+        if (response.ok) {
+          return response.text();
+        } else {
+          throw new Error("HTTP Error " + response.status);
+        }
+      })
+      .then((country) => {
+        if (country != "IN" && country != "DE" && country != "GB") {
+          if (country == "IT") {
+            window.location = euSite;
+          } else {
+            window.location = defaultSite;
+          }
+        }
+        setLoad(true);
+      })
+      .catch(function (error) {
+        console.error({ error });
+      });
+    // }
+  }
+  function getUserIpAddr1() {
     var defaultCountry = ['IT','IN','GB'];
     var defaultSite = 'https://brunomd.com/';
     var otherSite = 'https://brunomd.eu/';
