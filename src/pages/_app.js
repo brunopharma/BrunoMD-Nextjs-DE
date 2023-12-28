@@ -2,6 +2,7 @@ import React, { useEffect } from 'react'
 import '@/styles/globals.css'
 import Layout from "@/componets/Layout"
 import { RouteGuard } from '@/componets/RouteGuard'
+import GeoRedirect from '@/utilities/GeoRedirect';
 
 export default function App({ Component, pageProps }) {
   const version = 'DE'
@@ -24,6 +25,7 @@ export default function App({ Component, pageProps }) {
   if (Component?.hideLayout) {
     return (
       <RouteGuard version={version}>
+              <GeoRedirect redirect />
         <Component {...pageProps} version={version} />
       </RouteGuard>
     )
@@ -31,6 +33,7 @@ export default function App({ Component, pageProps }) {
     return (
       <RouteGuard version={version}>
         <Layout version={version}>
+              <GeoRedirect redirect />
           <Component {...pageProps} version={version} />
         </Layout>
       </RouteGuard>
